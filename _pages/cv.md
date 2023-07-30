@@ -10,7 +10,6 @@ redirect_from:
 <br>
 <br>
 
-{% include base_path %}
 
 Education
 ======
@@ -129,3 +128,6 @@ Languages
 * English (fluent)
 * German (conversational)
 * French (beginner)
+<br>
+
+<a href="http://rhregalado.github.io/files/CV RRHRegalado.pdf">Download</a>
