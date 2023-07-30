@@ -17,7 +17,7 @@ tags:
 
 Abstract: In the Philippines, the Bicol Region is one of the most disaster-prone areas due to its physiographic and topographic characteristics. Although the effects of climate change are expected to vary geographically, the natural hazards experienced in the region, mainly storms and largescale flooding, poses a significant risk to marginalized households and predominantly on the spatial and temporal aspects of agricultural productivity. Considering the vast area covered by the Bicol River Basin area, one of the country's productive regions, a significant sum of pesos (PHP) in agri-fishery damages is experienced perennially by the communities living within the area. Thus, developing early warning systems accessible to the farmers and fisherfolks may help mitigate the debilitating impacts of the erratic climate variability and extremes. This report presents a shared stakeholders' experience in climate and disaster-resilient development and aims to contribute to the importance of local agricultural resiliency. With this, selected case studies were used throughout the report to illustrate promising approaches, lessons learned, and remaining challenges.<br>
 
-[Download paper here](https://ssrn.com/abstract=4370224)<br>
+[Download the full-text](https://ssrn.com/abstract=4370224)<br>
 <br>
 
 ><h6><b><i>FUN FACT:</i></b><br>
