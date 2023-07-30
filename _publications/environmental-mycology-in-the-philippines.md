@@ -6,7 +6,7 @@ excerpt: "I'm super thrilled to share my very first book chapter co-authorship i
 venue: "Mycology in the Tropics: Updates on Philippine Fungi, Academic Press"
 date: 2023-01-01
 citation: 'Guerrero JJGG, Malonzo CA, Regalado RRH, and Doloiras-Laraño AD. (2023). Environmental mycology in the Philippines. In Guerrero JJGG, Dalisay TU, De Leon MP, Balendres MAO, Notarte KIR, Dela Cruz TEE (Eds.). <i>Mycology in the Tropics: Updates on Philippine Fungi</i> (pp. 235-268). Academic Press. <a href= "https://doi.org/10.1016/B978-0-323-99489-7.00010-X">doi:10.1016/B978-0-323-99489-7.00010-X</a>'
-Keywords:
+tags:
   - Environmental mycology
   - Heavy metals
   - Hydrocarbons
