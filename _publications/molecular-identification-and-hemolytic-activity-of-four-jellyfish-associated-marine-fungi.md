@@ -6,7 +6,12 @@ excerpt: "In the study, we preliminarily explored the potential of jellyfish-ass
 venue: "International Journal of Biosciences"
 date: 2019-10-31
 citation: 'Regalado RRH, Ramirez VL, and Membreve DMS. (2019). Molecular identification and hemolytic activity of four jellyfish-associated marine fungi from Cagbatano Bay, Pio Duran, Philippines. International Journal of Biosciences 15(4), 531-538. <a href="http://dx.doi.org/10.12692/ijb/15.4.531-538">doi:10.12692/ijb/15.4.531-538</a>'
-
+Keywords:
+  - Catostylus sp.
+  - Cytotoxicity
+  - Hemolysis
+  - Jellyfish associated fungi
+  - Philippines
 
 ---
 
