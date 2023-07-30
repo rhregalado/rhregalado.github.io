@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
- To make it easy for people to find me, all my contact information is listed below; including my current mailing address, institutional email, and various web services. Listed are some places on the Internet where I reside:
+ To make it easy for people to find me, all my contact information is listed below; including my current mailing address, institutional email, and various web services. Here are some places on the Internet where I reside:
 
 Preferred: [rhregalado@up.edu.ph](mailto:rhregalado@up.edu.ph)
 
