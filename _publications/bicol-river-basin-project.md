@@ -6,7 +6,12 @@ excerpt: "During my short stint as a Science Research Assistant back in 2019, I 
 venue: "Partido State University Press"
 date: 2021-05-01
 citation: 'Laureta RP, Regalado RRH, and Baldo DEB. (2021). The Bicol River Basin Project: <i>Development of comprehensive early warning system for agri-fishery communities in the Bicol River Basin</i>. Partido State University Press, Philippines. ISBN 978-971-9911-69-2'
-
+tags:
+  - Climate change
+  - Agriculture
+  - Climate information system
+  - Climate-resilience
+  - Early warning system
 
 ---
 
