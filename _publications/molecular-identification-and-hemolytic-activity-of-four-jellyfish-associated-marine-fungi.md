@@ -28,4 +28,4 @@ hemolytic activity (EC50 of 3.62μg/ml) observed in Aspergillus tamarii crude ex
 baseline information that cnidarian-associated fungi species are promising sources of marine bioactive
 compounds which could be later developed for novel drug candidates.<br>
 
-[Download paper here](http://dx.doi.org/10.12692/ijb/15.4.531-538)<br>
+<a href="http://rhregalado.github.io/files/Regalado2019.pdf">Download paper here</a><br>
