@@ -6,7 +6,7 @@ excerpt: "This short communication delved into the intriguing differences in the
 venue: "BU R&D Journal"
 date: 2020-06-01
 citation: 'Regalado RRH, Buiza MD, Ibay MCB, Ramirez VL, and Belasa AJN. (2020). Descriptions of the antennal structures of the millipede <i>Trigoniulus macropygus</i> Silvestri, 1897 (Spirobolida: Pachybolidae) and centipede <i>Scolopendra subspinipes</i> Leach, 1816 (Scolopendromorpha: Scolopendridae) using scanning electron microscopy. BU R&D Journal 23(1), 75-80. <a href="https://journal.bicol-u.edu.ph/document.php?id=69">journal.bicol-u.edu.ph/document.php?id=69</a>'
-Keywords:
+keywords:
   - Antenna
   - Morphology
   - Scanning electron microscopy
