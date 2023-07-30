@@ -1,15 +1,26 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Molecular identification and hemolytic activity of four jellyfish-associated marine fungi from Cagbatano Bay, Pio Duran, Philippines"
+category: Research Article
+permalink: /publication/molecular-identification-and-hemolytic-activity-of-four-jellyfish-associated-marine-fungi 
+excerpt: "In the study, we preliminarily explored the potential of jellyfish-associated marine fungi for cytotoxicity indicators. Specifically, we investigated the presence of jellyfish-associated fungi and its presumptive cytotox potential for mouse erythrocyte hemolysis. Our findings showed promising results that these fungi could be a source of marine bioactive compounds for drug development. I'm happy to add that this paper is a product of my undergraduate thesis and is my very first scientific publication!"
+venue: "International Journal of Biosciences"
+date: 2019-10-31
+citation: 'Regalado RRH, Ramirez VL, and Membreve DMS. (2019). Molecular identification and hemolytic activity of four jellyfish-associated marine fungi from Cagbatano Bay, Pio Duran, Philippines. International Journal of Biosciences 15(4), 531-538.'
+
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Abstract: This study aims to preliminarily investigate and explore the potential of jellyfish-associated marine fungi in the
+Philippines for cytotoxicity indicators. The fungi were isolated from the sub-umbrellar tissues of the jellyfish
+Catostylus sp. collected from the coasts of Pio Duran in the Philippines. Fungal strains were molecular identified
+using their internal transcribed spacer (ITS) regions. Crude extracts were obtained by ethyl acetate (EtOAc)
+extraction of rice-fermented culture supernatants. Qualitative preliminary metabolite screening on the crude
+extracts and in vitro hemolysis screening of crude EtOAc extracts were conducted. Four fungal strains were
+isolated which revealed 93% to 100% similarity to <i>Aspergillus nomius, Aspergillus fumigatus, Aspergillus
+tamarii</i> and <i>Penicillium citrinum</i>. Alkaloids, phenols, and terpenoids were present in all the crude extracts.
+Likewise, all crude fungal extracts demonstrated hemolytic activity in mouse erythrocytes with the highest
+hemolytic activity (EC50 of 3.62μg/ml) observed in Aspergillus tamarii crude extract. This result provided robust
+baseline information that cnidarian-associated fungi species are promising sources of marine bioactive
+compounds which could be later developed for novel drug candidates.<br>
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://dx.doi.org/10.12692/ijb/15.4.531-538)<br>
