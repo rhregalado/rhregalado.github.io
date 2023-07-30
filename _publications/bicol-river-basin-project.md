@@ -23,4 +23,4 @@ Abstract: In the Philippines, the Bicol Region is one of the most disaster-prone
 ><h6><b><i>FUN FACT:</i></b><br>
 >The <b><i>Bicol River Basin Project</i></b> has been a recipient of several accolades and critical acclaim from various esteemed award-giving bodies in the country. Shortly after its release in 2021, it was awarded the <i>Outstanding Book/Monograph Award</i> by the National Academy of Science and Technology (NAST PHL) in 2022. And the following year, it was recognized as a Finalist for the Best Book in Science at the 40th National Book Awards by the National Book Development Board (NBDB) and the Manila Critics Circle (MCC), earning a <i>Special Citation Award “…to recognize the scope of its contribution to Science”</i>. These prestigious awards greatly amplify the voice of marginalized Filipino climate survivors, particularly during a time when people around the world are demanding for aggressive climate action.<br>
 >
-><a href="/features/">See more...</a></h6>
+><a style="text-decoration:none" href="/features/">See more...</a></h6>
