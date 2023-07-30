@@ -129,5 +129,6 @@ Languages
 * German (conversational)
 * French (beginner)
 <br>
+<br>
 
-<a href="http://rhregalado.github.io/files/CV RRHRegalado.pdf">Download</a>
+<a style="text-decoration:none" href="http://rhregalado.github.io/files/CV RRHRegalado.pdf">Download</a>
