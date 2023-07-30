@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Climate vulnerability scenario of the agricultural sector in the Bicol River Basin, Philippines"
+category: Research Article
+permalink: /publication/climate-vulnerability-scenario-of-the-agricultural-sector-in-the-bicol-river-basin-philippines
+excerpt: "In this study, we investigated the climate vulnerability scenario of the agricultural sector and rural livelihoods in the Bicol River Basin (BRB) to projected changes in climate. By employing a vulnerability assessment framework, which included indicators such as exposure, sensitivity, and adaptive capacity, our study identified hotspots of vulnerability within the area. In our projections, it suggest that there are significant regional differences in vulnerability across the BRB, with the central and northwestern towns expected to experience greater susceptibility to extreme weather events. These regional disparities in vulnerability underscore the need for tailored interventions to build resilience and mitigate the adverse effects of climate change. We note that addressing this climate crisis is more political than it is scientific or economic."
+venue: "Climatic Change"
+date: 2021-09-21
+citation: 'Laureta RP, Regalado RRH, and De La Cruz EB. (2021). Climate vulnerability scenario of the agricultural sector in the Bicol River Basin, Philippines. Climatic Change 168(1-2), 4.'
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Abstract: This paper investigated the vulnerability of the agriculture sector and rural agriculture livelihoods in the Bicol River Basin (BRB) of the Philippines to projected changes in climate. The geographical characteristics of the BRB feature eight major sub-basins or watersheds consisting of Libmanan-Pulantuna, Ragay Hills, Thiris, Naga-Yabo, Pawili River, Waras-Lalo, Naporog, and Quinali. The study applied the combination of the participatory tools and the Climate Risk Vulnerability Assessment (CRVA) framework to gather information on local climate vulnerabilities and contexts. Briefly, the CRVA employed geospatial modeling and utilized several indicators which are presumed to affect vulnerability including exposure, sensitivity, and adaptive capacity which were aggregated to provide an index of vulnerability. This enabled us to identify areas of exposure and vulnerability and pointed areas of greatest need for strengthened adaptive capacity and risk management. Our findings revealed that vulnerability in the BRB was perceived to be relatively prevalent and that typhoons, flooding, and drought were identified to contribute significant impacts to rural livelihood. Furthermore, our findings in the CRVA suggested significant regional differences in vulnerability in the BRB. The majority of the towns in the central and northwestern portions of the BRB will largely experience increased vulnerability, particularly, in the Thiris sub-basin including some parts of Ragay Hills, Waras-Lalo, and the northwestern Libmanan-Pulantuna sub-basins. On the contrary, the entire Quinali region on the south is revealed to have the lowest vulnerability index. The clear policy implication of these accounts will be on how to mobilize developmental thrusts in both areas of disaster risk reduction and climate change adaptation at the sub-national level to reinforce local-based climate priority setting in adaptation interventions and policies.<br>
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://drive.google.com/file/d/1QXDlwpkTxIsQ2473r9SgmfnRIeuAHbZd/view?usp=sharing)<br>
+[Download supplementary material here](https://static-content.springer.com/esm/art%3A10.1007%2Fs10584-021-03208-8/MediaObjects/10584_2021_3208_MOESM1_ESM.docx)
