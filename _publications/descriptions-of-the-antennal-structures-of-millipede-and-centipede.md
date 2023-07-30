@@ -18,4 +18,5 @@ tags:
 
 Abstract: The antenna is one of the major channels for sensory reception vital for gathering environmental information. An antenna mainly consists of a scape, pedicel, and repeating segments of flagellomeres which collectively constitute the antennomere. These are covered with tiny hair-like projections called sensilla or sensory bristles which greatly increase the surface area of sensory reception. Structural imaging of the antennal features of <i>Trigoniulus macropygus</i> and <i>Scolopendra subspinipes</i> using scanning electron microscopy (SEM) revealed the presence of two types of sensilla: sensilla trichodea and sensilla microtrichodea. Electron micrographs also revealed that the antennal structures vary significantly between organisms in terms of segmentation, sensillum density, length, and number of flagellomeres. It was also observed that sensillum density increases from the proximal end to the distal end of the antenna with reference to the head. The study also incorporated possible functions of these sensilla in both organisms.<br>
 
-[Download paper here](https://journal.bicol-u.edu.ph/document.php?id=69)<br>
+[Download updated version here](https://ssrn.com/abstract=3742639)<br>
+
