@@ -13,7 +13,7 @@ The project was formally launched in October 2018 and implemented until March 20
 
 The video premiered during World Environment Day 2021 on the BRB Team's YouTube channel. Available for streaming below:
 
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="60" src="https://www.youtube.com/embed/4aV38KLr0zo" title="YouTube video player" width="100%"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="50" src="https://www.youtube.com/embed/4aV38KLr0zo" title="YouTube video player" width="100%"></iframe></p>
 <h6>Concept and Screenplay by RRH Regalado;<br>
 Cinematography and Voice-Over by L Bañez;<br>
 Directed by RP Laureta and DEB Baldo</h6>
