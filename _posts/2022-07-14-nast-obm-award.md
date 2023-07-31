@@ -12,9 +12,8 @@ Research report “The Bicol River Basin Project: Development of Comprehensive E
 
 The book was published by Partido State University with ISBN 978-971-9911-69-2. It comprehensively traces primarily on developing comprehensive early warning mechanisms to support marginalized agri-fishery communities coping against decreasing agricultural productivity brought about by the changes in the climate.
 
-Watch the broadcast here:
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fnastphl%2Fvideos%2F575743560889713%2F&show_text=false&width=560&t=5563" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 <img alt="The NAST plaque of recognition is an artwork of the multi-awarded visual artist, Mr. Sajid Imao. The sculptural feature of the plaque shows fluid lines and curves subtly forming the word N-A-S-T. The movement of the lines and contours symbolize great strides in Science, excellence, and discovery in different perspectives." src="/images/NAST_plaque.png">
 
-[Click here for the full story](https://www.parsu.edu.ph/index.php/news-list/177-parsu-researchers-reap-prestigious-nast-award-at-the-academy-s-44th-annual-scientific-meeting)
+[Click here for the full story](https://www.parsu.edu.ph/index.php/news-list/177-parsu-researchers-reap-prestigious-nast-award-at-the-academy-s-44th-annual-scientific-meeting)<br>
+[Click here for the live broadcast](https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fnastphl%2Fvideos%2F575743560889713%2F&show_text=false&width=560&t=5563)
