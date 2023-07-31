@@ -19,7 +19,7 @@ Abstract: In the Philippines, the Bicol Region is one of the most disaster-prone
 
 <i>Keywords: Climate change, agriculture, climate information system, climate-resilience, early warning system</i><br>
 
-[Read the full report](https://ssrn.com/abstract=4370224)<br>
+[Read full report](https://ssrn.com/abstract=4370224)<br>
 <br>
 
 ><h6><b><i>FUN FACT:</i></b><br>
