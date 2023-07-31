@@ -18,8 +18,8 @@ Profiles
 Mailing Address
 ------
 <address>
-3/F Molecular Toxicology Research Laboratory (TOX)<br />
-National Institute of Molecular Biology and Biotechnology<br />National Science Complex, University of the Philippines Diliman<br />Diliman, Quezon City 1101, PHL 
+3/F Molecular Toxicology Research Laboratory (TOX)<br >
+National Institute of Molecular Biology and Biotechnology<br >National Science Complex, University of the Philippines Diliman<br >Diliman, Quezon City 1101, PHL 
 </address>
 <br>
 
