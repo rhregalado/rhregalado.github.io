@@ -21,4 +21,4 @@ Abstract: The Philippines shares common pressing environmental concerns with the
 <i>Keywords: Environmental mycology, heavy metals, hydrocarbons, mycoremediation, pesticides, plastics</i><br>
 
 <a href="http://rhregalado.github.io/files/Guerrero2023.pdf">Read full article</a><br>
-<i>Chapter full-text available upon request</i>
+<i>Book full-text available upon request</i>
