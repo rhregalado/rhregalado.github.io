@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Active/Ongoing Research"
+title: "Working Papers"
 permalink: /active/
 author_profile: true
 ---
