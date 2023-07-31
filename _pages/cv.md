@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h6><i>Last updated June 2023</i></h6>h6>
+<h6><i>Last updated June 2023</i></h6>
 <br>
 <br>
 
