@@ -19,7 +19,7 @@ In addition to working on microbial systems, I also take interest in climate sci
 I’ve curated this page to put together all the things that I wrote over the years as a <a style="color: steelblue" style="text-decoration:none">#ProudPinoy<a/> scholar-researcher. I hope that by sharing this platform, it will encourage interest among readers from diverse backgrounds and serve as a valuable open-access resource to stimulate thought and discussion.<br>
 
 ![](http://rhregalado.github.io/images/IMG_2904.jpeg) 
-<h6>The NIMBB building's facade captivates on a typical summer day. From above, its architectural contours resembles the elegant structure of an mRNA hairpin loop, presenting a seamless fusion of form and function.</h6>
+<h6>The NIMBB building's facade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an mRNA hairpin loop, presenting a seamless fusion of form and function.</h6>
 
 More info
 ----
