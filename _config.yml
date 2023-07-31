@@ -42,8 +42,6 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# Navigation Bar
-search                   : true
 
 # SEO Related
 google_site_verification :
@@ -67,6 +65,8 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# Search
+search                   : true
 
 # Analytics
 analytics:
