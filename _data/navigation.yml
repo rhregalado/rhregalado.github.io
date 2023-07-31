@@ -10,7 +10,7 @@ main:
     url: /active/    
 
   - title: "Features"
-    url: /year-archive/
+    url: /features/
 
   - title: "Contact"
     url: /contact/
