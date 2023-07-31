@@ -7,7 +7,7 @@ tags:
   - Bicol River basin
   - Research Project
 ---
-This video recapitulates the major accomplishments of the research project titled "Development of Comprehensive Early Warning System for Agri-Fishery Communities in the Bicol River Basin" implemented by Partido State University in partnership with the Department of Agriculture Regional Field Office 5 and in collaboration with DOST-PAGASA and the Local Government Units of Baao, Canaman, and Minalabac.
+As a product of the over two years’ worth of work by the team of Dr. Ricky Laureta, the video recapitulates the major accomplishments of the research project titled "Development of Comprehensive Early Warning System for Agri-Fishery Communities in the Bicol River Basin" implemented by Partido State University in partnership with the Department of Agriculture Regional Field Office 5 and in collaboration with DOST-PAGASA and the Local Government Units of Baao, Canaman, and Minalabac.
 
 The project was formally launched in October 2018 and implemented until March 2021. It covered three municipalities in Camarines Sur (Baao, Canaman, and Minalabac), covering two pilot barangays in each municipality. This report presents a shared stakeholders' experience in climate and disaster-resilient development and contends that such development is essential to eliminating extreme poverty and achieving shared climate consciousness. As you look into our own experiences, we hope that we will inspire you to take measures on becoming a climate advocate and a voice to our marginalized communities. To know more about the project, readers can read the team’s full report <a style="text-decoration:none" href="https://rhregalado.github.io/publication/bicol-river-basin-project">here</a>.
 
