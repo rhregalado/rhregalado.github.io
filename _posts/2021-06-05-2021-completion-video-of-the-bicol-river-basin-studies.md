@@ -11,7 +11,7 @@ This video recapitulates the major accomplishments of the research project title
 
 The project was formally launched in October 2018 and implemented until March 2021. It covered three municipalities in Camarines Sur (Baao, Canaman, and Minalabac), covering two pilot barangays in each municipality. This report presents a shared stakeholders' experience in climate and disaster-resilient development and contends that such development is essential to eliminating extreme poverty and achieving shared climate consciousness. As you look into our own experiences, we hope that we will inspire you to take measures on becoming a climate advocate and a voice to our marginalized communities. To know more about the project, readers can read the team’s full report <a style="text-decoration:none" href="https://rhregalado.github.io/publication/bicol-river-basin-project">here</a>.
 
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/4aV38KLr0zo" title="YouTube video player" width="100%"></iframe></p>
-<h6>Concept and Screenplay by RRH Regalado;
-Cinematography and Voice-Over by L Bañez;
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="100" src="https://www.youtube.com/embed/4aV38KLr0zo" title="YouTube video player" width="100%"></iframe></p>
+<h6>Concept and Screenplay by RRH Regalado;<br>
+Cinematography and Voice-Over by L Bañez;<br>
 Directed by RP Laureta and DEB Baldo</h6>
