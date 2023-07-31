@@ -18,5 +18,7 @@ tags:
 
 Abstract: The Philippines shares common pressing environmental concerns with the rest of Southeast Asia. Much of these come from the piling burden of plastics, heavy metals, hydrocarbons, and chemical pesticides and fertilizers that pollute soil and water systems. Fungal species isolated across the country have been tested in the laboratory for their potential to remediate specific pollutants. Isolates come from various substrates like soil, water, degrading organic materials, and plants. However, much of the work is not carried over to the field for testing. This review looks into these isolates to provide a comprehensive list that can be utilized for future research.<br>
 
+<i>Keywords: Environmental mycology, heavy metals, hydrocarbons, mycoremediation, pesticides, plastics</i><br>
+
 <a href="http://rhregalado.github.io/files/Guerrero2023.pdf">Read full article</a><br>
 <i>Chapter full-text available upon request</i>
