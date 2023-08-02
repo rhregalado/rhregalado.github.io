@@ -21,6 +21,9 @@ I’ve curated this page to put together all the things that I wrote over the ye
 ![](http://rhregalado.github.io/images/IMG_2904.jpeg) 
 <h6>The NIMBB building's façade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an mRNA hairpin loop, presenting a seamless fusion of form and function.</h6>
 
+News and updates
+----
+*
 
 More info
 ----
