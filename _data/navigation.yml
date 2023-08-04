@@ -12,7 +12,7 @@ main:
   - title: "Features"
     url: /features/
     
-    - title: "Updates"
+  - title: "Updates"
     url: /updates/
 
   - title: "Contact"
