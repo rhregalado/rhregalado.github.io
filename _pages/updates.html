@@ -5,27 +5,54 @@ permalink: /updates/
 author_profile: true
 ---
 
-
-<div class="slideshow">
-
-	<div>
-		<img src="/images/NationalBookAwards.jpeg" alt="Image One" />
-		<p class="controls"><a href="/images/IMG_2904.jpeg" class="next">Next</a></p>
-	</div>
-
-	<div>
-		<img src="/images/IMG_2904.jpeg" alt="Image Two" />
-		<p class="controls"><a href="NationalBookAwards.jpeg" class="prev">Prev</a> /
-			<a href="/images/NAST_plaque.png" class="next">Next</a></p>
-	</div>
-
-	<div>
-		<img src="/images/NAST_plaque.png" alt="Image Three" />
-		<p class="controls"><a href="/images/IMG_2904.jpeg" class="prev">Prev</a></p>
-	</div>
-
+<div id="img1" class="imgbox" style="background-image: url(/images/NationalBookAwards.jpeg);">
 </div>
+
+<div id="img2" class="imgbox" style="background-image: url(/images/IMG_2904.jpeg);">
+</div>
+  
+<div id="img3" class="imgbox" style="background-image: url(/images/NAST_plaque.png);">
+</div>
+
+.imgbox{
+  display: flex; 
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-position: center center;
+  background-size: cover; 
+}
+
+#img1{
+  position: absolute;
+  z-index: 3;
+  animation: xfade 15s -0s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+#img2{
+  position: absolute;
+  z-index: 2;
+  animation: xfade 15s -5s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+#img3{
+  position: absolute;
+  z-index: 1;
+  animation: xfade 15s -10s infinite;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes xfade{
+
+     0% {opacity: 0;}
+    20% {opacity: 1;}
+    33% {opacity: 1;}
+    53% {opacity: 0;}
+    100% {opacity: 0;}
+}
 
 ---		
 <br>
-Hello!!! World
+Hello!!!
