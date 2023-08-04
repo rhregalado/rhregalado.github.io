@@ -23,4 +23,4 @@ $(".slide_data").YoFadingSlideshow(
 
 ----
 <br>
-Hello!!!
+Haller!!!
