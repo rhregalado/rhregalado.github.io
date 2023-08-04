@@ -7,7 +7,7 @@ author_profile: true
 
 Under Review
 ------
-<h3>(Book Chapter) Mycotoxin as a Biosafety Concern in the Philippines</h3>
+<h3>(Book Chapter) Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines</h3>
 <i>Co-Authored with Jonathan Jaime G. Guerrero, Gerard Lorenz M. Penecilla, Charmaine A. Malonzo, Mheljor A. General & Alleni T. Junsay</i><br><br>
 Abstract: The biosafety and biosecurity challenges of mycotoxins especially in low-resource countries such as the Philippines remain a major concern in agriculture, medicine and allied fields. In agriculture, mycotoxin post-harvest contamination causes significant losses in yield and reduction in quality of products. In health, it poses risks to consumers, especially children. Further, the use of mushrooms for food and medicine in many parts of the country require thorough understanding so that they remain viable and sustainable, without compromising safety and security of consumers. Policies, standards, and practices currently in place prevent any mycotoxin-related injuries among the population. <br>
 
