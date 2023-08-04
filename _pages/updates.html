@@ -1,0 +1,75 @@
+---
+layout: archive
+title: "News and Updates"
+permalink: /updates/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CSS SlideShow</title>
+	<style type="text/css">
+		.slider {
+  			max-width: 900px;
+  			height: 400px;
+  			margin: auto;
+  			position: relative;
+		}
+		.slide1,.slide2,.slide3,.slide4,.slide5 {
+		    background-size: cover;
+		 	position: absolute;
+		  	width: 100%;
+		  	height: 100%;
+		}
+		.slide1 {background: url(/images/NationalBookAwards.jpeg)no-repeat center;animation:fade1 10s infinite;} 
+		.slide2 {background: url(/images/IMG_2904.jpeg)no-repeat center;animation:fade2 10s infinite;}
+		.slide3 {background: url(/images/NAST_plaque.png)no-repeat center;animation:fade3 10s infinite;}
+		@keyframes fade1{0%{opacity:1}25% {opacity: 0}50% {opacity: 0}75% {opacity: 0}100% {opacity: 1}}
+		@keyframes fade2{0%{opacity:0}25% {opacity: 1}50% {opacity: 0}75% {opacity: 0}100% {opacity: 0}}
+		@keyframes fade3{0%{opacity:0}25% {opacity: 0}50% {opacity: 1}75% {opacity: 0}100% {opacity: 0}}
+		@keyframes fade4{0%{opacity:0}25% {opacity: 0}50% {opacity: 0}75% {opacity: 1}100% {opacity: 0}}
+	</style>
+</head>
+<body>
+	<div class='slider'>
+	  	<div class='slide1'></div>
+	  	<div class='slide2'></div>
+	  	<div class='slide3'></div>
+		<div class="slide4"></div>
+	</div>
+
+<!-- Quick Navigation -->
+  <div class="fs-quick-nav">
+    <label class="fs-quick-btn" for="fs-slide-1"></label>
+    <label class="fs-quick-btn" for="fs-slide-2"></label>
+    <label class="fs-quick-btn" for="fs-slide-3"></label>
+  </div>
+
+  <!-- Prev Navigation -->
+  <div class="fs-prev-nav">
+    <label class="fs-prev-btn" for="fs-slide-1"></label>
+    <label class="fs-prev-btn" for="fs-slide-2"></label>
+    <label class="fs-prev-btn" for="fs-slide-3"></label>
+  </div>
+
+  <!-- Next Navigation -->
+  <div class="fs-next-nav">
+    <label class="fs-next-btn" for="fs-slide-1"></label>
+    <label class="fs-next-btn" for="fs-slide-2"></label>
+    <label class="fs-next-btn" for="fs-slide-3"></label>
+  </div>
+
+  <!-- Slide Counter (only one required) -->
+  <div class="fs-slide-counter">
+    <span class="fs-slide-counter-current"></span>/<span class="fs-slide-counter-total"></span>
+  </div>
+
+</div>
+</body>
+</html>
+
+
+----
+<br>
+Hallo!!!
