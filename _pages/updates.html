@@ -4,43 +4,20 @@ title: "News and Updates"
 permalink: /updates/
 author_profile: true
 ---
+<div id="slideshow"></div>
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>CSS SlideShow</title>
-	<style type="text/css">
-		.slider {
-  			max-width: 900px;
-  			height: 500px;
-  			margin: auto;
-  			position: relative;
-		}
-		.slide1,.slide2,.slide3,.slide4,.slide5 {
-		    background-size: contain;
-		 	position: absolute;
-		  	width: 100%;
-		  	height: 100%;
-		}
-		.slide1 {background: url(/images/NationalBookAwards.jpeg)no-repeat center;animation:fade1 20s infinite;} 
-		.slide2 {background: url(/images/IMG_2904.jpeg)no-repeat center;animation:fade2 20s infinite;}
-		.slide3 {background: url(/images/NAST_plaque.png)no-repeat center;animation:fade3 20s infinite;}
-		@keyframes fade1{0%{opacity:1}25% {opacity: 0}50% {opacity: 0}75% {opacity: 0}100% {opacity: 1}}
-		@keyframes fade2{0%{opacity:0}25% {opacity: 1}50% {opacity: 0}75% {opacity: 0}100% {opacity: 0}}
-		@keyframes fade3{0%{opacity:0}25% {opacity: 0}50% {opacity: 1}75% {opacity: 0}100% {opacity: 0}}
-		@keyframes fade4{0%{opacity:0}25% {opacity: 0}50% {opacity: 0}75% {opacity: 1}100% {opacity: 0}}
-	</style>
-</head>
-<body>
-	<div class='slider'>
-	  	<div class='slide1'></div>
-	  	<div class='slide2'></div>
-	  	<div class='slide3'></div>
-		<div class="slide4"></div>
-	</div>
-</body>
-</html>
+<div class="slide_data" style="display: none;">
+  <div data-src="/images/NationalBookAwards.jpeg"></div>
+  <div data-src="/images/IMG_2904.jpeg"></div>
+  <div data-src="/images/NAST_plaque.png"></div>
+</div>
 
----
+<!-- Include JQuery Core above this line -->
+<script src="jquery.yofadingslideshow.js"></script>
+<script>
+$(".slide_data").YoFadingSlideshow();
+</script>
+
+----
 <br>
-Hello!!!
+Hello world!!!
