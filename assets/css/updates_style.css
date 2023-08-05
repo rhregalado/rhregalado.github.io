@@ -99,7 +99,6 @@
    justify-content: center;
    width: 100%;
    height: 100%;
-   padding: 3rem 4rem;
    text-align: center;
    color: #fff;
    z-index: 1;
@@ -128,7 +127,6 @@
 
 .carousel_dot{
    display: block;
-   padding: .25rem;
    background-color: #708090;
    border: none;
    border-radius: 50%;
@@ -155,7 +153,6 @@
 
 .carousel_button{
    display: block;
-   padding-inline: 1rem;
    font-family: "Raleway", sans-serif;
    font-size: 1.375rem;
    background-color: transparent;
