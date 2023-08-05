@@ -4,12 +4,6 @@
    Github Profile    : https://github.com/codingstime
  */
 
-/* reset */
-*{
-   margin: 0;
-   box-sizing: border-box;
-}
-
 /* carousel */
 .carousel{
    position: relative;
