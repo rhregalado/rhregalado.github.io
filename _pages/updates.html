@@ -5,50 +5,31 @@ permalink: /updates/
 author_profile: true
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>CSS SlideShow</title>
-	<style type="text/css">
-		.slider {
-  			max-width: 900px;
-  			height: 500px;
-  			margin: auto;
-  			position: relative;
-		}
-		.slide1,.slide2,.slide3,.slide4,.slide5 {
-		 	position: absolute;
-		  	width: 100%;
-		  	height: 100%;
-		}
-		@media only screen and (min-width : 320px) and (max-width: 640px) {
+<input type=checkbox name=pause1 id=pause1 checked>
+<div id=slideset1>
 
-        .article-body div img:not(.logoOP){
-           width: 320px !important;
-           height: auto !important;
-        }
-}
+<div id="img1" class="imgbox" style="background-image: url('/images/NationalBookAwards.jpeg');">
+</div>
 
-		.slide1 {background: url(/images/NationalBookAwards.jpeg)no-repeat center;animation:fade1 10s infinite;} 
-		.slide2 {background: url(/images/IMG_2904.jpeg)no-repeat center;animation:fade2 10s infinite;}
-		.slide3 {background: url(/images/NAST_plaque.png)no-repeat center;animation:fade3 10s infinite;}
-		.slide4 {background: url(/images/NationalBookAwards.jpeg)no-repeat center;animation:fade4 10s infinite;}
-		@keyframes fade1{0%{opacity:1}25% {opacity: 0}50% {opacity: 0}75% {opacity: 0}100% {opacity: 1}}
-		@keyframes fade2{0%{opacity:0}25% {opacity: 1}50% {opacity: 0}75% {opacity: 0}100% {opacity: 0}}
-		@keyframes fade3{0%{opacity:0}25% {opacity: 0}50% {opacity: 1}75% {opacity: 0}100% {opacity: 0}}
-		@keyframes fade4{0%{opacity:0}25% {opacity: 0}50% {opacity: 0}75% {opacity: 1}100% {opacity: 0}}
-	</style>
-</head>
-<body>
-	<div class='slider'>
-	  	<div class='slide1'></div>
-	  	<div class='slide2'></div>
-	  	<div class='slide3'></div>
-		<div class="slide4"></div>
-	</div>
-</body>
-</html>
+<div id="img2" class="imgbox" style="background-image: url('/images/IMG_2904.jpeg');">
+</div>
+  
+<div id="img3" class="imgbox" style="background-image: url('/images/NAST_plaque.png');">
+</div>
+
+#pause1:checked ~ #slideset1 > * {
+  animation-play-state: paused}
+#pause1 {display: none}
+
+<p><label for=pause1><span class=running>⏸
+   Pause</span><span class=paused>▶ Play</span></label>
+
+	#pause1 ~ * [for=pause1] .paused {display: none}
+#pause1 ~ * [for=pause1] .running {display: inline}
+#pause1:checked ~ * [for=pause1] .running {display: none}
+#pause1:checked ~ #slideset1 > * {animation-play-state: paused}
+
 
 ---		
 <br>
-Hello brod!!!
+Hello sissy!!!
