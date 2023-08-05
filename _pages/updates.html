@@ -5,31 +5,61 @@ permalink: /updates/
 author_profile: true
 ---
 
-<input type=checkbox name=pause1 id=pause1 checked>
-<div id=slideset1>
+<!DOCTYPE html>
+<html lang="en">
 
-<div id="img1" class="imgbox" style="background-image: url('/images/NationalBookAwards.jpeg');">
-</div>
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Image Slider (Carousel) Part 2 | Coding's Time</title>
 
-<div id="img2" class="imgbox" style="background-image: url('/images/IMG_2904.jpeg');">
-</div>
-  
-<div id="img3" class="imgbox" style="background-image: url('/images/NAST_plaque.png');">
-</div>
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+   <link rel="stylesheet" href="./style.css">
+</head>
 
-#pause1:checked ~ #slideset1 > * {
-  animation-play-state: paused}
-#pause1 {display: none}
+<body>
 
-<p><label for=pause1><span class=running>⏸
-   Pause</span><span class=paused>▶ Play</span></label>
+   <div class="carousel">
+      <div class="carousel_inner">
+         <div class="carousel_item carousel_item__active">
+            <img src="./images/NationalBookAwards.jpeg" alt="" class="carousel_img">
+            <div class="carousel_caption">
+               <h1 class="carousel_title">Change It As You See Fit</h1>
+               <p class="carousel_description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id cupiditate
+                  corporis laudantium quae velit quam.</p>
+            </div>
+         </div>
+         <div class="carousel_item">
+            <img src="./images/IMG_2904.jpeg" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="./images/NAST_plaque.png" alt="" class="carousel_img">
+         </div>
+      </div>
 
-	#pause1 ~ * [for=pause1] .paused {display: none}
-#pause1 ~ * [for=pause1] .running {display: inline}
-#pause1:checked ~ * [for=pause1] .running {display: none}
-#pause1:checked ~ #slideset1 > * {animation-play-state: paused}
+      <div class="carousel_indicator">
+         <button class="carousel_dot carousel_dot__active"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+      </div>
+
+      <div class="carousel_control">
+         <button class="carousel_button carousel_button__prev">
+            <i class="fas fa-chevron-left"></i>
+         </button>
+         <button class="carousel_button carousel_button__next">
+            <i class="fas fa-chevron-right"></i>
+         </button>
+      </div>
+   </div>
+
+   <script src="./script.js"></script>
+</body>
+
+</html>
 
 
 ---		
 <br>
-Hello sissy!!!
+Hello sissly!!!
