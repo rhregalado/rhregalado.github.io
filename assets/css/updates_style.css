@@ -22,6 +22,7 @@
 }
 
 .carousel_inner{
+   width: 100%;
    overflow: hidden;
 }
 
@@ -35,6 +36,7 @@
    position: relative;
    float: left;
    display: none;
+   width: 100%;
    margin-right: -100%;
 }
 
@@ -85,6 +87,7 @@
 /* carousel */
 .carousel_img{
    display: block;
+   width: 100%;
 }
 
 .carousel_caption{
