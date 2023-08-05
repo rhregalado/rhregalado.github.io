@@ -12,6 +12,7 @@
 }
 
 *{
+   margin: 0;
    box-sizing: border-box;
 }
 
@@ -36,6 +37,7 @@
    float: left;
    display: none;
    width: 100%;
+   margin-right: -100%;
 }
 
 /* slide effect */
@@ -109,6 +111,7 @@
 }
 
 .carousel_description{
+   margin-top: .75rem;
    line-height: 150%;
 }
 
