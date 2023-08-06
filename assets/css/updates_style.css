@@ -4,18 +4,6 @@
    Github Profile    : https://github.com/codingstime
  */
 
-/* reset */
-:root{
-   font-family: "Raleway", sans-serif;
-   font-size: 16px;
-   font-weight: 400;
-}
-
-*{
-   margin: 0;
-   box-sizing: border-box;
-}
-
 /* carousel */
 .carousel{
    position: relative;
