@@ -157,3 +157,8 @@
 .carousel_button:hover{
    color: rgba(135, 206, 250, .75);
 }
+
+.homeCarousel {
+  width:450px;
+  height:300px;
+}
