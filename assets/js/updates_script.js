@@ -93,3 +93,16 @@ function slideIndicator(toIndex) {
    dotActive.classList.remove("carousel_dot__active");
    newDotActive.classList.add("carousel_dot__active");
 }
+
+function () {
+    $('#homeCarousel').carousel({
+        interval:1000,
+        pause: "false"
+    });
+    $('#playButton').click(function () {
+        $('#homeCarousel').carousel('cycle');
+    });
+    $('#pauseButton').click(function () {
+        $('#homeCarousel').carousel('pause');
+    });
+});
