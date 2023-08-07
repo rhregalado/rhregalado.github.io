@@ -14,5 +14,5 @@ The book was published by Partido State University with ISBN 978-971-9911-69-2. 
 
 <img alt="The NAST plaque of recognition is an artwork of the multi-awarded visual artist, Mr. Sajid Imao. The sculptural feature of the plaque shows fluid lines and curves subtly forming the word N-A-S-T. The movement of the lines and contours symbolize great strides in Science, excellence, and discovery in different perspectives." src="/images/NAST_plaque.png">
 
-[Click here for the full story](https://www.parsu.edu.ph/index.php/news-list/177-parsu-researchers-reap-prestigious-nast-award-at-the-academy-s-44th-annual-scientific-meeting)<br>
-[Click here to stream the recorded broadcast](https://www.facebook.com/nastphl/videos/575743560889713 "Begin at timestamp 1:32:44")
+<a href="https://www.parsu.edu.ph/index.php/news-list/177-parsu-researchers-reap-prestigious-nast-award-at-the-academy-s-44th-annual-scientific-meeting">Click here for the full story</a><br>
+<a href="https://www.facebook.com/nastphl/videos/575743560889713" data-toggle="tooltip" data-placement="top" title="Begin at timestamp 1:32:44">Click here to stream the recorded broadcast</a>
