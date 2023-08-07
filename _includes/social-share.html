@@ -11,5 +11,6 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="{{ page.url }}" onclick="copyToClipboard('{{ page.url }}', 'Link copied!')" class="btn btn--link" id="copytoclipboard" data-toggle="tooltip" data-placement="top" title="Copy link" class="hover-effect-big"> <i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
+  <a class="btn btn--link" id="copytoclipboard" data-toggle="tooltip" data-placement="top" title="Copy link" class="hover-effect-big"> <i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span> <script src="/assets/js/link.js"></script></a>
+
 </section>
