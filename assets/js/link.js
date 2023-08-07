@@ -1,10 +1,15 @@
-var $temp = $("<input>");
-var $url = $(location).attr('href');
+let popup = document.getElementById("popup");
 
-$('.clipboard').on('click', function() {
-  $("body").append($temp);
-  $temp.val($url).select();
+function showPopup(){
+    popup.classList.add("open_popup");
+};
+function closePopup(){
+    popup.classList.remove("open_popup");
+};
+
+
+let copy = (text_id) => {
+  document.getElementById(text_id).select();
   document.execCommand("copy");
-  $temp.remove();
-  $("p").text("Copied!");
-})
+  showPopup();
+};
