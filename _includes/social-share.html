@@ -11,11 +11,11 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="mailto:?" class="btn btn--envelope" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span></span></a>
+  <a href="mailto:?" class="btn btn--envelope" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> Email</span></a>
 
 <html>
 <body>
-    <a href="https://rhregalado.github.io/={{ base_path }}{{ page.url }}" onclick="copyURI(event)" class="copy-link" class="btn btn--link" data-toggle="tooltip" data-placement="top" title="Copy Link" class="hover-effect-big"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
+    <a href="{{ base_path }}{{ page.url }}" class="btn btn--link" onclick="copyURI(event)" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link" class="hover-effect-big"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
