@@ -22,7 +22,7 @@ Research interests
 
 Publications
 ======
-<h3><i>Academic Articles</i></h3>
+<h3><i>Journal Articles</i></h3>
 
 * Laureta RP, <b><ins>Regalado RRH</ins></b>, De La Cruz EB. (2021). Climate vulnerability scenario of the agricultural sector
 in the Bicol River Basin, Philippines. Climatic Change 168(1-2), 4. [doi:10.1007/s10584-021-03208-8](https://doi.org/10.1007/s10584-021-03208-8)<br>
