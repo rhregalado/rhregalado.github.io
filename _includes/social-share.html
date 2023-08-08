@@ -11,14 +11,14 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="mailto:?" class="btn btn--envelope" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big" style="color: red"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> Email</span></a>
+  <a href="mailto:?" class="btn btn--envelope" style="color: red" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> Email</span></a>
 
 <html>
 <head>
   <link rel="stylesheet" href="/assets/css/share_link.css">
 </head>
 <body>
-    <a href="javascript:void(0);" id="tooltip-link" class="btn btn--link" class="hover-effect-big" onclick="copyToClipboard(location.href); return false;" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> </span></a>
+    <a href="javascript:void(0);" class="btn btn--link" class="hover-effect-big" onclick="copyToClipboard(location.href); return false;" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> </span></a>
 
     <script>
     function copyToClipboard(text) {
