@@ -1,15 +1,25 @@
-var xhr = new XMLHttpRequest();
-xhr.open('HEAD', 'your_script.js', true);
+function lastModified() {
+    var modiDate = new Date(document.lastModified);
+    var showAs = modiDate.getDate() + "-" + (modiDate.getMonth() + 1) + "-" + modiDate.getFullYear();
+    return showAs
+}
 
-xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4) {
-        if (xhr.status === 200) {
-            var lastModified = xhr.getResponseHeader('Last-Modified');
-            console.log('Last modified date:', lastModified);
-        } else {
-            console.log('Request failed with status:', xhr.status);
-        }
+function GetTime() {
+    var modiDate = new Date();
+    var Seconds
+
+    if (modiDate.getSeconds() < 10) {
+        Seconds = "0" + modiDate.getSeconds();
+    } else {
+        Seconds = modiDate.getSeconds();
     }
-};
 
-xhr.send();
+    var modiDate = new Date();
+    var CurTime = modiDate.getHours() + ":" + modiDate.getMinutes() + ":" + Seconds
+    return CurTime
+}
+
+document.write("Last updated on ")
+document.write(lastModified() + " @ " + GetTime());
+document.write(" [D M Y 24 Hour Clock]")
+document.write("");
