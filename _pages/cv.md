@@ -114,7 +114,7 @@ Research Skills
 * Genetic manipulation (DNA extraction, PCR, gel electrophoresis, cloning, Western blot);
 * Microscopy (light, phase-contrast, scanning electron, and confocal imaging);
 * Spectroscopy (LC-MS, MS/MS, NMR, molecular networking);
-* Bioinformatics (BLAST, contig alignment, inferring phylogenetic trees);
+* Bioinformatics (BLAST, antiSMASH, contig alignment, inferring phylogenetic trees);
 * Animal (mouse) care and handling;
 * Cell culture and histology
 <br>
