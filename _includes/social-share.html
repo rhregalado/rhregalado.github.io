@@ -11,35 +11,49 @@
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="mailto:?" class="btn btn--envelope" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> </span></a>
+  <a href="mailto:?" class="btn btn--envelope" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> Email</span></a>
 
 <html>
 <body>
     <a class="btn btn--link" onclick="copyURI(event)" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link" class="hover-effect-big"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            const copyLinks = document.querySelectorAll(".copy-link");
+  const copyUrlToClipboard = (inputHTMLElement) => {
+  // the actual, to be copied url
+  const copyUrl = window.location.href
 
-            copyLinks.forEach(link => {
-                link.addEventListener("click", function (event) {
-                    event.preventDefault();
+  // the pretty url to display (without schema)
+  // this should be the default value of the input on instantiation
+  const displayUrl = window.location.host + window.location.pathname
 
-                    // Get the href attribute of the clicked link
-                    const href = this.getAttribute("href");
+  // just prior to copying, temporarily change the input value to the
+  // to be copied url
+  inputHTMLElement.value = copyUrl
 
-                    // Create a temporary input element to copy the text to the clipboard
-                    const tempInput = document.createElement("input");
-                    tempInput.value = href;
-                    document.body.appendChild(tempInput);
-                    tempInput.select();
-                    document.execCommand("copy");
-                    document.body.removeChild(tempInput);
+  // select the input value
+  inputHTMLElement.select()
 
-                    alert("Link copied: " + href);
-                });
-            });
-        });
+  // Required for iOS
+  // See also https://stackoverflow.com/a/54966926/45974
+  inputHTMLElement.setSelectionRange(0, inputHTMLElement.value.length)
+
+  // Copy input value
+  try {
+    if (!document.execCommand('copy')) {
+      throw new Error(`failed to execute copy command`)
+    }
+  }
+  catch (e) {
+    console.log('Warning! Could not copy to clipboard.', e)
+  }
+
+  // Restore the pretty display url
+  inputHTMLElement.value = displayUrl
+
+  // Deselect the input
+  inputHTMLElement.focus()
+  inputHTMLElement.setSelectionRange(0, 0)
+}           
     </script>
 </body>
 </html>
