@@ -122,7 +122,7 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
-  (email, $google-plus-color);
+  (envelope, $google-plus-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
