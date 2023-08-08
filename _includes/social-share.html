@@ -5,20 +5,20 @@
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].tweet_on_label | default: 'Tweet on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> </span></a>
+  <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].tweet_on_label | default: 'Tweet on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> </span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> </span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="mailto:?" class="btn btn--envelope" style="background-color: #DB4437" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email" class="hover-effect-big"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> </span></a>
+  <a href="mailto:?" class="btn btn--envelope" style="background-color: #DB4437" style="hover-color: #000" target="_blank" rel="noopener noreferrer" data-toggle="tooltip" data-placement="top" title="Share by Email"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i><span> Email</span></a>
 
 <html>
 <head>
   <link rel="stylesheet" href="/assets/css/share_link.css">
 </head>
 <body>
-    <a href="javascript:void(0);" class="btn btn--link" class="hover-effect-big" onclick="copyToClipboard(location.href); return false;" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> </span></a>
+    <a href="javascript:void(0);" class="btn btn--link" class="hover-effect-big" onclick="copyToClipboard(location.href); return false;" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
 
     <script>
     function copyToClipboard(text) {
