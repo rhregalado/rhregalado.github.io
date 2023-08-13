@@ -1,5 +1,5 @@
 ---
-title: 'PARSU Project Completion Video of the Bicol River Basin Studies'
+title: 'PARSU Releases Project Completion Video of the Bicol River Basin Studies'
 date: 2021-06-05
 permalink: /features/2021/06/completion-video-of-the-bicol-river-basin-studies
 tags:
