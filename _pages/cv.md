@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 <h6><i>Last updated June 2023</i></h6>
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
 Education
 ======
