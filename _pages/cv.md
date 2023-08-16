@@ -6,12 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h6><i>Last updated June 2023</i></h6><br>
+<h6><i>Last updated June 2023</i></h6>
 
 Education
 ======
 * B.S. in Biology (<i>cum laude</i>), Bicol University, 2018
-* M.S. in Molecular Biology and Biotechnology, University of the Philippines Diliman, ongoing
+* M.S. in Molecular Biology and Biotechnology, University of the Philippines, ongoing
 <br>
 
 Research interests 
