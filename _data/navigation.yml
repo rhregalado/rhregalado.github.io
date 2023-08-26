@@ -13,7 +13,7 @@ main:
     url: /features/
     
   - title: "Activity"
-    url: /updates/
+    url: /activity/
 
   - title: "Contact"
     url: /contact/
