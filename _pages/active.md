@@ -13,7 +13,7 @@ Abstract: The biosafety and biosecurity challenges of mycotoxins especially in l
 
 <i>Keywords: fungi, mycotoxins, mushroom, biosafety, biosecurity</i><br>
 
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, Junsay AT. Mycotoxin as a biosafety concern in the Philippines. In Destura RV, et al. (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches</i>. CRC Press, USA.</h6>
+<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, Junsay AT. Mycotoxin as a biosafety concern in the Philippines. In Guerrero JJ, Navarro R, Destura R, De Leon M, Notarte KI & Balendres MA (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches</i>. CRC Press, USA.</h6>
 
 
 Works in Progress
