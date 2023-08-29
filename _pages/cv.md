@@ -48,9 +48,7 @@ University Press, Philippines. ISBN 978-971-9911-69-2
 Works Under Review
 ======
 
-* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, Junsay AT. (2023). Mycotoxin as a biosafety
-concern in the Philippines. In Destura RV, et al. (Eds.). <i>Biosafety and Biosecurity in the Philippines:
-Principles and Development</i>. CRC Press, USA.
+* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, Junsay AT. Mycotoxin as a biosafety concern in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches.</i> CRC Press, USA.
 <br>
 
 Works In Progress
