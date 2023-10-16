@@ -11,7 +11,7 @@ Preferred: [rhregalado@up.edu.ph](mailto:rhregalado@up.edu.ph)
 
 Profiles
 -----
-[Twitter](https://twitter.com/ricryanxd) | [Google Scholar](https://scholar.google.com/citations?user=YVVfCd0AAAAJ&hl=en&authuser=2) | [ORCID](https://orcid.org/0000-0003-1577-1687) | 
+[Twitter/X](https://twitter.com/ricryanxd) | [Google Scholar](https://scholar.google.com/citations?user=YVVfCd0AAAAJ&hl=en&authuser=2) | [ORCID](https://orcid.org/0000-0003-1577-1687) | 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57262195200) | [Web of Science](https://www.webofscience.com/wos/author/record/V-6614-2018) | [ResearchGate](https://www.researchgate.net/profile/Ric-Ryan-Regalado)
 
 
