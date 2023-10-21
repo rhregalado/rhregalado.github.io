@@ -13,7 +13,7 @@ Under Review
 
 <i>Keywords: fungi, mycotoxins, mushroom, biosafety, biosecurity</i><br>
 
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. Mycotoxin as a biosafety concern in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches</i>. CRC Press, USA.</h6>
+<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. Mycotoxin as a biosafety concern in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches</i>. CRC Press, USA.</h6><br>
 
 
 Works in Progress
@@ -24,7 +24,9 @@ Works in Progress
 
 <i>Keywords: metagenomics, mine tailings, microbial diversity, bioremediation, citrate</i><br>
 
-<h6>Note: The experiment is currently in progress. Information presented will be constantly updated to reflect new changes or developments.</h6><br>
+<h6>Note: The experiment is currently in progress. Information presented will be constantly updated to reflect new changes or developments.</h6>
+
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
 <h3>(Book Chapter) Macrofungal Diversity in Selected Soil Ecosystems</h3>
 <i>Co-Authored with Jonathan Jaime G. Guerrero, Maria Czet A. Fulleros & Cherray Gabrielle A. Macabecha</i> <br><br>
