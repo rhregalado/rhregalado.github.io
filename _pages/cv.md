@@ -60,6 +60,7 @@ soil ecosystems. In Sridhar KR & Deshmukh SK (Eds.). <i>Advances in Ecology of M
 Awards & Grants
 ======
 <h3><i>Awards</i></h3>
+* UP International Publication Award, 2023<br>
 * Special Citation Award and Finalist (40th National Book Awards – Science Category), 2023<br>
 * NAST Outstanding Book/Monograph (OBM) Award, 2022 <br> 
 * Most Outstanding College Graduate Award, 2018<br>
