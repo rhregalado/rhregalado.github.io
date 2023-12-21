@@ -62,7 +62,7 @@ Awards & Grants
 <h3><i>Awards</i></h3>
 * UP International Publication Award, 2023<br>
 * Special Citation Award and Finalist (40th National Book Awards – Science Category), 2023<br>
-* NAST Outstanding Book/Monograph (OBM) Award, 2022 <br> 
+* NAST Outstanding Book/Monograph Award, 2022 <br> 
 * Most Outstanding College Graduate Award, 2018<br>
 * College Best Undergraduate Thesis Award, 2018<br>
 * Order of the Blue Feather Royal Blue Degree Award, 2017<br>
