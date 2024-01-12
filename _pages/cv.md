@@ -48,13 +48,7 @@ University Press, Philippines. ISBN 978-971-9911-69-2
 Works Under Review
 ======
 
-* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Principles and Practical Approaches.</i> CRC Press, USA.
-<br>
-
-Works In Progress
-======
-* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Fulleros MCA, Macabecha CGA. (xxxx). Macrofungal diversity in selected
-soil ecosystems. In Sridhar KR & Deshmukh SK (Eds.). <i>Advances in Ecology of Macrofungi</i>. CRC Press, USA.
+* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines. (2024). In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications in Low and Middle-Income Countries.</i> CRC Press, USA.
 <br>
 
 Awards & Grants
