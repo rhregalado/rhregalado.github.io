@@ -23,7 +23,7 @@ Research interests
 
 Publications
 ======
-<h3><i>Journal Articles</i></h3>
+<h3><i>Research Articles</i></h3>
 
 * Laureta RP, <b><ins>Regalado RRH</ins></b>, De La Cruz EB. (2021). Climate vulnerability scenario of the agricultural sector
 in the Bicol River Basin, Philippines. Climatic Change 168(1-2), 4. [doi:10.1007/s10584-021-03208-8](https://doi.org/10.1007/s10584-021-03208-8)<br>
@@ -32,23 +32,16 @@ in the Bicol River Basin, Philippines. Climatic Change 168(1-2), 4. [doi:10.1007
 four jellyfish-associated marine fungi from Cagbatano Bay, Pio Duran, Philippines. International Journal of
 Biosciences 15(4), 531-538. [doi:10.12692/ijb/15.4.531-538](http://dx.doi.org/10.12692/ijb/15.4.531-538)<br>
 
-<h3><i>Book Chapter</i></h3>
-* Guerrero JJGG, Malonzo CA, <b><ins>Regalado RRH</ins></b>, Doloiras-Laraño AD. (2023). Environmental mycology in the
-Philippines. <i>In</i> Guerrero JJGG, Dalisay TU, De Leon MP, Balendres MAO, Notarte KIR, Dela Cruz TEE
-(Eds.). <i>Mycology in the Tropics: Updates on Philippine Fungi</i> (pp. 235-268). Academic Press.
-[doi:10.1016/B978-0-323-99489-7.00010-X](https://doi.org/10.1016/B978-0-323-99489-7.00010-X)
+<h3><i>Book Chapters</i></h3>
+* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications in Low and Middle-Income Countries.</i> CRC Press, USA.
+<br>
+* Guerrero JJGG, Malonzo CA, <b><ins>Regalado RRH</ins></b>, Doloiras-Laraño AD. (2023). Environmental mycology in the Philippines. <i>In</i> Guerrero JJGG, Dalisay TU, De Leon MP, Balendres MAO, Notarte KIR, Dela Cruz TEE (Eds.). <i>Mycology in the Tropics: Updates on Philippine Fungi</i> (pp. 235-268). Academic Press. [doi:10.1016/B978-0-323-99489-7.00010-X](https://doi.org/10.1016/B978-0-323-99489-7.00010-X)
 <br>
 
 <h3><i>Monograph</i></h3>
 * Laureta RP, <b><ins>Regalado RRH</ins></b>, Baldo DEB. (2021). The Bicol River Basin Project: Development of
 comprehensive early warning system for agri-fishery communities in the Bicol River Basin. Partido State
 University Press, Philippines. ISBN 978-971-9911-69-2
-<br>
-
-Works Under Review
-======
-
-* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications in Low and Middle-Income Countries.</i> CRC Press, USA.
 <br>
 
 Awards & Grants
