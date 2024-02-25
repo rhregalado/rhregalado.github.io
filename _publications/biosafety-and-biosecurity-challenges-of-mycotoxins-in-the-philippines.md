@@ -19,5 +19,5 @@ Abstract: The biosafety and biosecurity challenges of mycotoxins especially in l
 
 <i>Keywords: Fungi, mycotoxins, mushroom, biosafety, biosecurity</i><br>
 
-<i>Book is currently in production. Get an early access</i>
+<i>Book is currently in production. Get an early access</i><br>
 <a href="https://www.routledge.com/Biosafety-and-Biosecurity-Practical-Insights-and-Applications-for-Low-and/Guerrero-Cena-Navarro-Destura-De-Leon-Notarte-Balendres/p/book/9781032544052">Pre-order here</a><br>
