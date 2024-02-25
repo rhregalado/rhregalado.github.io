@@ -28,10 +28,10 @@ Works in Progress
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h3>(Book Chapter) Macrofungal Diversity in Selected Soil Ecosystems</h3>
-<i>Co-Authored with Jonathan Jaime G. Guerrero, Maria Czet A. Fulleros & Cherray Gabrielle A. Macabecha</i> <br><br>
-<b>Abstract:</b> Various soil ecosystems have unique edaphic and pedological characteristics that shape the diversity of organisms benefiting from their functionalities. In turn, organisms likewise provide a feedback mechanism that alter soil characteristics in a give and take process. For instance, forest soils are constantly being supplied with organic material from falling foliage and animal debris. This contributes to a high biotic activity. However, a reduction in biotic activity can lead to reduced litter decomposition which can result in changes in organic matter content and disruption of nutrient cycling. Fungi are among the organisms that exhibit this type of relationship with the soil ecosystem. They, too, are affected by any exogenous materials present in the soil, whether harmful or stimulatory. The soil, therefore, is an important abiotic factor that can affect macrofungal communities, either directly or indirectly. For example, soil tillage and the degree of contact with the soil are important factors and can be good predictors of taxon richness. The chapter looks at the diversity of macrofungi in different soil ecosystems, but very specific to the soil in forest fragments, coastal soils, soil in hot spring areas, and the soil in garbage dump sites. This focus was deliberately chosen to highlight the reciprocal impact of ecosystem changes on both the soil and macrofungal community. <br>
+<h3>(Review Paper) Medicines in medicines: Developments and prospects of fungal endophytes in Southeast Asia</h3>
+<i>Co-Authored with Jonathan Jaime G. Guerrero, Krizler C. Tanalgo, Angelo R. Agduma, Mario A. Tan, Marielle D. Buiza, Daniel Ellis D. Co, Mel Valerie C. Ordinario, Jobert D.L.T. Alpe & Kin Israel R. Notarte</i><br>
 
-<i>Keywords: soil, pedology, macrofungi, ecosystem, nutrient cycling </i><br>
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Fulleros MCA, Macabecha CGA. Macrofungal diversity in selected soil ecosystems. In Sridhar KR & Deshmukh SK (Eds.). <i>Advances in Ecology of Macrofungi</i>. CRC Press, USA.</h6>
+<h3>(Review Paper) The dark energy of cancer: Metabolic insights into tumor evolution and therapy</h3>
+<i>Co-Authored with Ching-Feng Chiu, Jonathan Jaime G. Guerrero, Cidne Danielle D. Carles, Edrian M. Octavo, Dan Christopher I. Limbaroc, Paolo C. Encarnacion, Jiayan Zhou & Kin Israel R. Notarte</i>
