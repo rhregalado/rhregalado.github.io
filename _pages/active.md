@@ -13,7 +13,7 @@ Under Review
 
 <i>Keywords: fungi, mycotoxins, mushroom, biosafety, biosecurity</i><br>
 
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024). Mycological biosafety and biosecurity in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i>. CRC Press, USA.</h6>
+<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024). Mycological biosafety and biosecurity in the Philippines. In Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i>. CRC Press, USA.</h6>
 
 
 Works in Progress
