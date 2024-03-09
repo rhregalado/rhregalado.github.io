@@ -33,7 +33,7 @@ four jellyfish-associated marine fungi from Cagbatano Bay, Pio Duran, Philippine
 Biosciences 15(4), 531-538. [doi:10.12692/ijb/15.4.531-538](http://dx.doi.org/10.12692/ijb/15.4.531-538)<br>
 
 <h3><i>Book Chapters</i></h3>
-* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Mycological biosafety and biosecurity in the Philippines. In Guerrero JJG, Navarro RC, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries.</i> CRC Press, USA.
+* Guerrero JJGG, <b><ins>Regalado RRH</ins></b>, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Mycological biosafety and biosecurity in the Philippines. In Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries.</i> CRC Press, USA.
 <br>
 * Guerrero JJGG, Malonzo CA, <b><ins>Regalado RRH</ins></b>, Doloiras-Laraño AD. (2023). Environmental mycology in the Philippines. <i>In</i> Guerrero JJGG, Dalisay TU, De Leon MP, Balendres MAO, Notarte KIR, Dela Cruz TEE (Eds.). <i>Mycology in the Tropics: Updates on Philippine Fungi</i> (pp. 235-268). Academic Press. [doi:10.1016/B978-0-323-99489-7.00010-X](https://doi.org/10.1016/B978-0-323-99489-7.00010-X)
 <br>
