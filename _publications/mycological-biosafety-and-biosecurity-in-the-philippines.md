@@ -1,7 +1,7 @@
 ---
-title: "Biosafety and biosecurity challenges of mycotoxins in the Philippines"
+title: "Mycological biosafety and biosecurity in the Philippines"
 category: Book Chapter
-permalink: /publication/biosafety-and-biosecurity-challenges-of-mycotoxins-in-the-philippines
+permalink: /publication/mycological-biosafety-and-biosecurity-in-the-philippines
 excerpt: "In this upcoming book chapter, we discussed the biosafety and biosecurity challenges of mycotoxins in the broader Philippine landscape. Together with professionals in agriculture, medicine and allied fields, we revisit policies, standards, and practices currently in place to prevent any mycotoxin-related incidences among the population."
 venue: "Biosafety and Biosecurity: Practical Insights and Applications in Low and Middle-Income Countries, CRC Press"
 date: 2024-06-01
