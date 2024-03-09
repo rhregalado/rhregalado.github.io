@@ -7,11 +7,11 @@ venue: "Biosafety and Biosecurity: Practical Insights and Applications for Low a
 date: 2024-06-01
 citation: 'Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Biosafety and Biosecurity Challenges of Mycotoxins in the Philippines. In Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i>. CRC Press, USA.'
 tags:
+  - Ethnomycology
   - Fungi
+  - Mycotoxicoses
   - Mycotoxins
   - Mushroom
-  - Biosafety
-  - Biosecurity
 
 ---
 
