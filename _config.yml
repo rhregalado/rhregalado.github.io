@@ -83,7 +83,7 @@ author:
   avatar           : "profile.png"
   bio              : "MSc Candidate <br><br> National Institute of Molecular Biology and Biotechnology<br>University of the Philippines"
   location         : "Quezon City, PHL"
-  employer         : 
+  #employer         : 
   email            : "rhregalado@up.edu.ph"
   
   # Academic websites
