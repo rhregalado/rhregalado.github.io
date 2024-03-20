@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Abstract: This study aims to preliminarily investigate and explore the potential of jellyfish-associated marine fungi in the
+<b>Abstract:</b> This study aims to preliminarily investigate and explore the potential of jellyfish-associated marine fungi in the
 Philippines for cytotoxicity indicators. The fungi were isolated from the sub-umbrellar tissues of the jellyfish
 Catostylus sp. collected from the coasts of Pio Duran in the Philippines. Fungal strains were molecular identified
 using their internal transcribed spacer (ITS) regions. Crude extracts were obtained by ethyl acetate (EtOAc)
