@@ -3,9 +3,9 @@ title: "BCAARRD Online Technology Dissemination and Training Series Season 2"
 collection: talks
 type: "Talk"
 permalink: /talks/bcaarrd-otdts-s2
-venue: "Zoom Webinar"
+venue: "Virtual Webinar via Zoom"
 date: 2021-05-04
-location: "Virtual"
+location:
 ---
 
 Our work in the <b>Bicol River Basin Project</b> was featured at the Bicol Consortium for Agriculture, Aquatic, and Natural Resources Research and Development (BCAARRD)'s <i>Online Technology Dissemination and Training Series Season 2</i>, originally premiered last May 4, 2021 on Facebook Live. During this event, I discussed the climate vulnerability hotspots affecting agri-fishery communities in the Bicol Region, drawing insights from our downscaled region-specific climate model. The online format proved invaluable in allowing us to engage with a wider audience and extending the reach of our work beyond Bicol Region.<br>
