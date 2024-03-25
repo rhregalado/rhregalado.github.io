@@ -13,11 +13,11 @@ Under Review
 
 <i>Keywords: ethnomycology, fungi, mycotoxicoses, mycotoxins, mushroom </i><br>
 
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024). Mycological biosafety and biosecurity in the Philippines. In Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i>. CRC Press, USA.</h6>
+<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024). Mycological biosafety and biosecurity in the Philippines. In: Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i>. CRC Press, USA.</h6>
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h3>(Review Paper) The dark energy of cancer: Metabolic insights into tumor evolution and therapy</h3>
+<h3>(Review Article) The dark energy of cancer: Metabolic insights into tumor evolution and therapy</h3>
 <i>Co-Authored with Ching-Feng Chiu, Jonathan Jaime G. Guerrero, Cidne Danielle D. Carles, Paolo C. Encarnacion, Edrian M. Octavo, Dan Christopher I. Limbaroc, Jiayan Zhou, Kin Israel R. Notarte & Charupong Saengboonmee</i><br><br>
 
 <b>Abstract:</b> Cancer remains a formidable global health challenge, characterized not just by uncontrolled cell proliferation but also by the complex metabolic reprogramming that underlies its development and progression. The review delves into the intricate relationship between cancer and its metabolic alterations, drawing an innovative comparison to the cosmological concepts of dark matter and dark energy to highlight the pivotal yet often overlooked role of metabolic reprogramming in tumor evolution. It scrutinizes the Warburg effect and other metabolic adaptations, such as shifts in lipid synthesis, amino acid turnover, and mitochondrial function, driven by mutations in key regulatory genes. This metaphorical approach sheds light on the hidden dimensions of cancer cell metabolism, offering a fresh perspective on the elusive forces that fuel cancer progression, much like dark matter and dark energy's influence on the universe. The review emphasizes the significance of targeting these metabolic pathways for therapeutic intervention, outlining the potential to disrupt cancer's energy supply and signaling mechanisms. It calls for an interdisciplinary research approach to fully understand and exploit the intricacies of cancer metabolism, pointing towards metabolic reprogramming as a promising frontier for developing more effective cancer treatments. By equating cancer's metabolic complexity with the enigmatic nature of dark matter and energy, this review underscores the critical need for innovative strategies in oncology, highlighting the importance of unveiling and targeting the "dark energy" within cancer cells to revolutionize future therapy and research.<br>
@@ -37,6 +37,6 @@ Works in Progress
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h3>(Review Paper) Medicines in medicines: Developments and prospects of fungal endophytes in Southeast Asia</h3>
+<h3>(Review Article) Medicines in medicines: Developments and prospects of fungal endophytes in Southeast Asia</h3>
 <i>Co-Authored with Jonathan Jaime G. Guerrero, Krizler C. Tanalgo, Angelo R. Agduma, Mario A. Tan, Marielle D. Buiza, Daniel Ellis D. Co, Mel Valerie C. Ordinario, Jobert D.L.T. Alpe & Kin Israel R. Notarte</i><br>
 
