@@ -28,6 +28,6 @@ hemolytic activity (EC50 of 3.62μg/ml) observed in Aspergillus tamarii crude ex
 baseline information that cnidarian-associated fungi species are promising sources of marine bioactive
 compounds which could be later developed for novel drug candidates.<br>
 
-<i>Keywords: Catostylus sp., cytotoxicity, hemolysis, jellyfish associated fungi, Philippines</i><br>
+<i>Keywords: Catostylus sp., cytotoxicity, hemolysis, jellyfish-associated fungi, Philippines</i><br>
 
 <a href="http://rhregalado.github.io/files/Regalado2019.pdf">Read full article</a><br>
