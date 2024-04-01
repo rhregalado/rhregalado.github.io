@@ -1,4 +1,4 @@
-![image](https://github.com/rhregalado/rhregalado.github.io/assets/140937746/a33f8db0-0d90-4e81-aaf8-4dc2587e43b4)---
+---
 title: "Mycological biosafety and biosecurity in the Philippines"
 category: Book Chapter
 permalink: /publication/mycological-biosafety-and-biosecurity-in-the-philippines
