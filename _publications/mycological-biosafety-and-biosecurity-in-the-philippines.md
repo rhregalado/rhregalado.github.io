@@ -20,4 +20,4 @@ tags:
 <i>Keywords: Ethnomycology, fungi, mycotoxicoses, mycotoxins, mushroom </i><br>
 
 <i>Book is currently in production. Get early access:</i><br>
-<a href="https://www.routledge.com/Biosafety-and-Biosecurity-Practical-Insights-and-Applications-for-Low-and/Guerrero-Cena-Navarro-Destura-De-Leon-Notarte-Balendres/p/book/9781032544052">Pre-order here</a><br>
+<a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003426219/biosafety-biosecurity-jonathan-jaime-guerrero-rohani-cena-navarro-raul-destura-marian-de-leon-kin-israel-notarte-mark-angelo-balendres">Pre-order here</a><br>
