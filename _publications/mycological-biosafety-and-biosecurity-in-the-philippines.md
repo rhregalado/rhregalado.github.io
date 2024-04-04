@@ -5,7 +5,7 @@ permalink: /publication/mycological-biosafety-and-biosecurity-in-the-philippines
 excerpt: "(In Press) In this upcoming book chapter, we discussed (con)current strategies addressing biosafety and biosecurity challenges posed by mycotoxins, commenting on their ramifications across socio-cultural, medical, agricultural, and legal domains within the broader Philippine context. Together with professionals in agriculture, medicine and allied fields, we revisit policies, standards, and practices currently in place to prevent any mycotoxin-related incidences among the population."
 venue: "Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries, CRC Press"
 date: 2024-07-15
-citation: 'Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Mycological biosafety and biosecurity in the Philippines. In: Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i> (pp. 206–234). CRC Press. <a href="https://doi.org/10.1201/9781003426219-11">doi:10.1201/9781003426219-11'
+citation: 'Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024, In press). Mycological biosafety and biosecurity in the Philippines. In: Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i> (pp. 206–234). CRC Press. <a href="https://doi.org/10.1201/9781003426219-11">doi:10.1201/9781003426219-11</a>'
 tags:
   - Ethnomycology
   - Fungi
