@@ -17,8 +17,8 @@ Education
 
 Research interests 
 ======
-* <b><i>Primary:</i></b> Molecular microbiology, Metagenomics, Metabolomics, Bioinformatics, Computational biology, Natural products chemistry, Mycology, Molecular systematics, Microbial ecology, Microbial biotechnology, Biochemistry<br>
-* <b><i>Secondary:</i></b> Climatology, Environmental Science, Agrometeorology, Cartography, Climate modelling
+* <b><i>Primary:</i></b> Molecular microbiology, Mycology, Metagenomics, Bioinformatics, Computational biology, Natural products chemistry, Metabolomics, Molecular systematics, Microbial ecology, Microbial biotechnology, Biochemistry<br>
+* <b><i>Secondary:</i></b> Climatology, Environmental Science, Agrometeorology, Biogeochemistry, Climate modelling
 <br>
 
 Publications
