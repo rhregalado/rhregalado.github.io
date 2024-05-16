@@ -7,16 +7,6 @@ author_profile: true
 
 Under Review
 ------
-<h3>(Book Chapter) Mycological Biosafety and Biosecurity in the Philippines</h3>
-<i>Co-Authored with Jonathan Jaime G. Guerrero, Gerard Lorenz M. Penecilla, Charmaine A. Malonzo, Mheljor A. General & Alleni T. Junsay</i><br><br>
-<b>Abstract:</b> The biosafety and biosecurity challenges associated with mushrooms and fungi in general, especially in low-resource countries such as the Philippines, remain a major concern in agriculture, medicine, and allied fields. In agriculture, mycotoxin post-harvest contamination causes significant losses in yield and a reduction in quality of products. In health, it poses risks to consumers, especially children, the elderly, and the immunocompromised. Further, the use of mushrooms for food and medicine in many parts of the country require thorough understanding so that they remain viable and sustainable, without compromising safety and security of consumers. Policies, standards, and practices currently in place prevent fungi-related injuries among the population.<br>
-
-<i>Keywords: ethnomycology, fungi, mycotoxicoses, mycotoxins, mushroom </i><br>
-
-<h6>Recommended citation: Guerrero JJGG, Regalado RRH, Penicilla GLM, Malonzo CA, General MA, Junsay AT. (2024). Mycological biosafety and biosecurity in the Philippines. In: Guerrero JJG, Cena-Navarro R, Destura RV, De Leon MP, Notarte KIR & Balendres MAO (Eds.). <i>Biosafety and Biosecurity: Practical Insights and Applications for Low and Middle-Income Countries</i> (pp. 206–234). CRC Press.</h6>
-
-<hr class="solid" style="border-top: 1px solid gainsboro">
-
 <h3>(Review Article) The dark energy of cancer: Metabolic insights into tumor evolution and therapy</h3>
 <i>Co-Authored with Ching-Feng Chiu, Jonathan Jaime G. Guerrero, Cidne Danielle D. Carles, Paolo C. Encarnacion, Edrian M. Octavo, Dan Christopher I. Limbaroc, Jiayan Zhou, Kin Israel R. Notarte & Charupong Saengboonmee</i><br><br>
 
