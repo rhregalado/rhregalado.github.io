@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal academic space!
 
-Kumusta! My name is Ric. I am currently a Masters student at the [National Institute of Molecular Biology and Biotechnology](https://nimbb.upd.edu.ph/) at the University of the Philippines Diliman (UP Diliman), working with the molecular toxicology group led by [Assoc. Prof. Jose Enrico H. Lazaro, PhD](https://nimbb.upd.edu.ph/faculty/jhlazaro/).
+Kumusta! My name is Ric. I am currently a Masters student at the [National Institute of Molecular Biology and Biotechnology](https://nimbb.upd.edu.ph/) at the University of the Philippines Diliman (UP Diliman), working with the molecular toxicology group led by [Assoc. Prof. Jose Enrico H. Lazaro, PhD](https://nimbb.upd.edu.ph/index.php/faculty/jhlazaro/).
 
 My research interests lie at the intersection of molecular biology and microbiology, and presently engaged in studying metagenomes of heavy metal-polluted soils. I employ a combination of bioinformatics, computational and systems biology, as well as meta-omics tools to uncover the hidden biosynthetic potential of microbes within this harsh environment. This line of inquiry holds promise for unraveling novel metabolic pathways and natural products, offering valuable insights into their ecological roles and potential biotechnological applications. Before coming to UP Diliman, I worked with marine natural products extracted from jellyfish-associated fungi under the supervision of Assoc. Prof. Daile Meek Salvador-Membreve from Bicol University where I also received my B.S. in Biology degree <i>cum laude</i>.
 
