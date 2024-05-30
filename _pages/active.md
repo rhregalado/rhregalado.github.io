@@ -14,7 +14,15 @@ Under Review
 
 <i>Keywords: cancer, cosmos, dark energy, dark matter, metabolic reprogramming, Warburg effect</i><br>
 
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
+<h3>(Review Article) Medicines in medicines: A review on the developments and prospects of fungal endophytes in drug discovery in Southeast Asia</h3>
+<i>Co-Authored with Jonathan Jaime G. Guerrero, Krizler C. Tanalgo, Angelo R. Agduma, Mario A. Tan, Marielle D. Buiza, Daniel Ellis D. Co, Mel Valerie C. Ordinario, Jobert D.L.T. Alpe & Kin Israel R. Notarte</i><br>
+<br>
+<b>Abstract:</b> Fungal endophytes engage in a balanced symbiotic continuum with their host plants, spanning from mutualism to commensalism and parasitism. These host-endophyte interactions play a pivotal role in shaping the biosynthetic and chemical space of the host plants and their associated mycobiomes, resulting in a wealth of biologically active natural products that are attractive for drug discovery. Recently, endophytic fungi in medicinal plants have gained unequivocal attention, highlighting a holistic view of plant-based therapeutics that considers both the plant and its endophytic partners as sources of medicinal compounds — a concept we term "medicine within medicine." In this review, we curated recent literature on research in Southeast Asia related to fungal endophytes from plants with traditional medicinal uses and their potential biomedical applications. Here, we show for the first time, the breadth of these interactions in the region and identify prolific fungal classes that produce compounds of biomedical significance, using a consolidated dataset of more than 1,300 interactions. In addition, we noted a correlation between plant-endophyte synthesized compounds and their related chemistry. We conclude by highlighting gaps and several key limitations in the literature for future work in endophyte biology in the region.<br>
+
+<i>Keywords: fungi, endophyte, medicinal plants, host-endophyte interaction, Southeast Asia</i><br>
+<br>
 Works in Progress
 ----
 <h3>(Masters' Thesis) Metagenomic analysis of citrate treatment to microbial community and their xenometabolic functions in electrokinetic remediation of copper contaminated soil</h3>
@@ -24,9 +32,3 @@ Works in Progress
 <i>Keywords: metagenomics, mine tailings, microbial diversity, bioremediation, citrate</i><br>
 
 <h6>Note: The experiment is currently in progress. Information presented will be constantly updated to reflect new changes or developments.</h6>
-
-<hr class="solid" style="border-top: 1px solid gainsboro">
-
-<h3>(Review Article) Medicines in medicines: Developments and prospects of fungal endophytes in Southeast Asia</h3>
-<i>Co-Authored with Jonathan Jaime G. Guerrero, Krizler C. Tanalgo, Angelo R. Agduma, Mario A. Tan, Marielle D. Buiza, Daniel Ellis D. Co, Mel Valerie C. Ordinario, Jobert D.L.T. Alpe & Kin Israel R. Notarte</i><br>
-
