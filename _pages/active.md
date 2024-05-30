@@ -22,7 +22,7 @@ Under Review
 <b>Abstract:</b> Fungal endophytes engage in a balanced symbiotic continuum with their host plants, spanning from mutualism to commensalism and parasitism. These host-endophyte interactions play a pivotal role in shaping the biosynthetic and chemical space of the host plants and their associated mycobiomes, resulting in a wealth of biologically active natural products that are attractive for drug discovery. Recently, endophytic fungi in medicinal plants have gained unequivocal attention, highlighting a holistic view of plant-based therapeutics that considers both the plant and its endophytic partners as sources of medicinal compounds — a concept we term "medicine within medicine." In this review, we curated recent literature on research in Southeast Asia related to fungal endophytes from plants with traditional medicinal uses and their potential biomedical applications. Here, we show for the first time, the breadth of these interactions in the region and identify prolific fungal classes that produce compounds of biomedical significance, using a consolidated dataset of more than 1,300 interactions. In addition, we noted a correlation between plant-endophyte synthesized compounds and their related chemistry. We conclude by highlighting gaps and several key limitations in the literature for future work in endophyte biology in the region.<br>
 
 <i>Keywords: fungi, endophyte, medicinal plants, host-endophyte interaction, Southeast Asia</i><br>
-<br>
+
 Works in Progress
 ----
 <h3>(Masters' Thesis) Metagenomic analysis of citrate treatment to microbial community and their xenometabolic functions in electrokinetic remediation of copper contaminated soil</h3>
