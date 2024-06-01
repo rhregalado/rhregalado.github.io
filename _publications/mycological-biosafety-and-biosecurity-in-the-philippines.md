@@ -19,5 +19,5 @@ tags:
 
 <i>Keywords: Ethnomycology, fungi, mycotoxicoses, mycotoxins, mushroom</i><br>
 
-<i>Book is currently in production. Get early access:</i><br>
-<a href="https://www.taylorfrancis.com/books/edit/10.1201/9781003426219/biosafety-biosecurity-jonathan-jaime-guerrero-rohani-cena-navarro-raul-destura-marian-de-leon-kin-israel-notarte-mark-angelo-balendres">Pre-order here</a><br>
+<a href="">Read the full chapter</a><br>
+<i>Book full-text available upon request</i>
