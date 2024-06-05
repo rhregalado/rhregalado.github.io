@@ -55,7 +55,7 @@ Awards & Grants
 * Order of the Blue Feather Royal Blue Degree Award, 2017<br>
 
 <h3><i>Scholarship</i></h3>
-* DOST Accelerated Science and Technology Human Resource Development Program, 2021-2023 <br>
+* DOST Accelerated Science and Technology Human Resource Development Program, 2021-2024 <br>
 <br>
 
 Conferences
