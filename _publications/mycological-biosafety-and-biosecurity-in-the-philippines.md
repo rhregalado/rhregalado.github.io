@@ -19,5 +19,5 @@ tags:
 
 <i>Keywords: Ethnomycology, fungi, mycotoxicoses, mycotoxins, mushroom</i><br>
 
-<a href="/_publications/Guerrero2024.html" target="_blank">Read the full chapter</a><br>
+<a href="https://drive.google.com/file/d/18AKz4YZzqafrhnO8f23urrq7PeIPr32w/view?usp=sharing">Read the full chapter</a><br>
 <i>Book full-text available upon request</i>
