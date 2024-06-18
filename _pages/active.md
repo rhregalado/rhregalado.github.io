@@ -1,4 +1,4 @@
-![image](https://github.com/rhregalado/rhregalado.github.io/assets/140937746/56403f58-5c9b-4283-a631-bb7f959cc607)---
+---
 layout: archive
 title: "Working Papers"
 permalink: /active/
