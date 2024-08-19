@@ -14,6 +14,8 @@ As part of its commitment to celebrating the enterprising creative labor involve
 
 An annual prize that honors the most prestigious book titles written, designed, and published in the Philippines, the National Book Awards is crucial in a craft that is as significant as it is undersupported. Books and the people who make them are at the frontlines of our fight against disinformation and historical distortion — the National Book Awards reinvigorates Philippine publishing, spotlighting local voices and attracting a wider readership.
 
+<img src="/images/3.jpeg">
+
 [Click here for the full story](https://www.cnnphilippines.com/life/culture/literature/2023/3/27/40th-national-book-awards-finalists.html)
 
 <b>UPDATE:</b> The CNN PH website is no longer active. You can read a similar article by The Philippine Star [here](https://philstarlife.com/geeky/284698-list-nominees-for-the-40th-national-book-awards)
