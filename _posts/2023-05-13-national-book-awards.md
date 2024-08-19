@@ -14,4 +14,4 @@ The National Book Awards is an annual prize organized by the NBDB and MCC that r
 
 <img alt="Regalado (left) and Laureta (right) receiving the special citation for their work." src="/images/NationalBookAwards.jpeg">
 
-[Click here for the full story](https://www.parsu.edu.ph/index.php/news-list/187-parsu-researchers-scientific-work-on-bicol-river-basin-receives-literary-merit-at-the-historical-national-book-awards)
+[Click here for the full story](https://www.parsu.edu.ph/component/content/article/parsu-researchers-scientific-work-in-bicol-river-basin-receives-literary-merit-at-the-historical-national-book-awards?catid=12&Itemid=101)
