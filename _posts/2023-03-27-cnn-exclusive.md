@@ -22,4 +22,6 @@ An annual prize that honors the most prestigious book titles written, designed, 
 <b>UPDATE:</b> The CNN PH website is no longer active. You can read a similar article by The Philippine Star [here](https://philstarlife.com/geeky/284698-list-nominees-for-the-40th-national-book-awards)
 
 <br>
-<iframe class="img-container picture" src="https://www.facebook.com/plugins/like.php?href=http://www.cnnphilippines.com/life/culture/literature/2023/3/27/40th-national-book-awards-finalists.html?fbclid&amp;width=451&amp;layout=standard&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=true&amp;height=35&amp;appId=343451476306798" width="451" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+<iframe class="img-container picture" src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/photo/?fbid=598825418936839&set=a.598832158936165&amp;width=451&amp;layout=standard&amp;action=like&amp;size=small&amp;show_faces=false&amp;share=true&amp;height=35&amp;appId=343451476306798" width="451" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+
+
