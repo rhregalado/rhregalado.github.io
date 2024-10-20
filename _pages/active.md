@@ -7,21 +7,6 @@ author_profile: true
 
 Under Review
 ------
-<h3>(Review Article) The dark energy of cancer: Metabolic insights into tumor evolution and therapy</h3>
-<i>Co-Authored with Ching-Feng Chiu, Jonathan Jaime G. Guerrero, Cidne Danielle D. Carles, Paolo C. Encarnacion, Edrian M. Octavo, Dan Christopher I. Limbaroc, Jiayan Zhou, Kin Israel R. Notarte & Charupong Saengboonmee</i><br>
-
-<b>Abstract:</b> Cancer remains a formidable global health challenge, characterized not just by uncontrolled cell proliferation but also by the complex metabolic reprogramming that underlies its development and progression. The review delves into the intricate relationship between cancer and its metabolic alterations, drawing an innovative comparison to the cosmological concepts of dark matter and dark energy to highlight the pivotal yet often overlooked role of metabolic reprogramming in tumor evolution. It scrutinizes the Warburg effect and other metabolic adaptations, such as shifts in lipid synthesis, amino acid turnover, and mitochondrial function, driven by mutations in key regulatory genes. This metaphorical approach sheds light on the hidden dimensions of cancer cell metabolism, offering a fresh perspective on the elusive forces that fuel cancer progression, much like dark matter and dark energy's influence on the universe. The review emphasizes the significance of targeting these metabolic pathways for therapeutic intervention, outlining the potential to disrupt cancer's energy supply and signaling mechanisms. It calls for an interdisciplinary research approach to fully understand and exploit the intricacies of cancer metabolism, pointing towards metabolic reprogramming as a promising frontier for developing more effective cancer treatments. By equating cancer's metabolic complexity with the enigmatic nature of dark matter and energy, this review underscores the critical need for innovative strategies in oncology, highlighting the importance of unveiling and targeting the "dark energy" within cancer cells to revolutionize future therapy and research.<br>
-
-<i>Keywords: cancer, cosmos, dark energy, dark matter, metabolic reprogramming, Warburg effect</i><br>
-
-<hr class="solid" style="border-top: 1px solid gainsboro">
-
-<h3>(Review Article) Medicines in medicines: Developments and prospects of fungal endophytes in drug discovery in Southeast Asia</h3>
-<i>Co-Authored with Jonathan Jaime G. Guerrero, Krizler C. Tanalgo, Angelo R. Agduma, Mario A. Tan, Marielle D. Buiza, Daniel Ellis D. Co, Mel Valerie C. Ordinario, Jobert D.L.T. Alpe, Fahrul Huyop & Kin Israel R. Notarte</i><br>
-<br>
-<b>Abstract:</b> Fungal endophytes engage in a balanced symbiotic continuum with their host plants, spanning from mutualism to commensalism and parasitism. These host-endophyte interactions play a pivotal role in shaping the biosynthetic and chemical space of the host plants and their associated mycobiomes, resulting in a wealth of biologically active natural products that are attractive for drug discovery. Recently, endophytic fungi in medicinal plants have gained unequivocal attention, highlighting a holistic view of plant-based therapeutics that considers both the plant and its endophytic partners as sources of medicinal compounds — a concept we termed <i>"medicine within medicine."</i> In this review, we assembled recent studies from Southeast Asia related to fungal endophytes from plants with traditional medicinal uses and their potential biomedical applications. Here, we present a comprehensive analysis of the interactions within the region, identifying prolific fungal classes that produce compounds of biomedical significance. This analysis is based on a consolidated dataset of over 1,300 interactions. Additionally, we note a correlation between plant-endophyte synthesized compounds and their related chemistry. We conclude by highlighting gaps and key limitations in the current literature, suggesting areas for future research in endophyte biology in the region.<br>
-
-<i>Keywords: fungi, endophyte, medicinal plants, host-endophyte interaction, Southeast Asia</i><br>
 
 Works in Progress
 ----
