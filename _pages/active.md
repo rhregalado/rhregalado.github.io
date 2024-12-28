@@ -13,30 +13,7 @@ Works in Progress
 ----
 <h3>(Masters' Thesis) Metagenomic analysis of citrate treatment to microbial community and their xenometabolic functions in electrokinetic remediation of copper contaminated soil</h3>
 <br>
-<b>Abstract:</b> With the exponential rise in global copper demand driven by the transition to a low-carbon
-future, recovering copper from unconventional sources, such as mine tailings, has gained
-significant attention. However, low-grade copper ores in tailings are often locked within complex
-mineral matrices, making extraction challenging through conventional methods alone. Citrate
-(C6H8O7) has emerged as a potential agent for in situ leaching, capable of extracting economic
-quantities of remaining copper, but its potential impact on microbial health requires evaluation. The
-present work investigated the dual effects of citrate on copper recovery and bacterial microbiome
-within copper mine tailings subjected to electrokinetic application, using a MiSeq-based 16S rRNA
-gene analysis, to relate bacterial composition and function with citrate-driven chemical gradients
-to evaluate its feasibility in sustainable remediation strategies. Results demonstrated that citrate
-significantly enhanced copper mobilization and recovery during electrokinetics but caused
-significant restructuring of the microbiome. A reduction in bacterial diversity and homogenization
-of community structure was observed. Chloroflexi, slow-growing K-strategists associated with
-carbon assimilation were found to be characteristic of pre-treated (Cu-rich) tailings. In contrast,
-fast-growing r-strategists such as Proteobacteria and Firmicutes, mostly nitrogen-fixing bacteria,
-were characteristic of post-treated (Cu-depleted) tailings. Predicted metabolic functions of the
-citrate-modified microbiome revealed an enrichment in genes associated with metabolism and
-environmental information processing pathways, suggesting an adaptive shift favoring rapid
-growth and colonization. Although citrate induced a disturbance-driven ecological succession, it
-did not result in irreversible soil sterilization, allowing for a new ecological baseline to emerge over
-time. A timeline model for this recovery in the post-citrate scenario is proposed. Overall, the
-findings demonstrate that citrate effectively mobilizes copper from low-grade sources without
-permanently sterilizing soil biota, positioning citrate as a promising leaching agent for integrated
-mining strategies that balance efficient metal recovery with ecological rehabilitation.<br>
+<b>Abstract:</b> With the exponential rise in global copper demand driven by the transition to a low-carbon future, recovering copper from unconventional sources, such as mine tailings, has gained significant attention. However, low-grade copper ores in tailings are often locked within complex mineral matrices, making extraction challenging through conventional methods alone. Citrate has emerged as a potential agent for in situ leaching, capable of extracting economic quantities of remaining copper, but its potential impact on microbial health requires evaluation. The present work investigated the dual effects of citrate on copper recovery and bacterial microbiome within copper mine tailings subjected to electrokinetic application, using a MiSeq-based 16S rRNA gene analysis, to relate bacterial composition and function with citrate-driven chemical gradients to evaluate its feasibility in sustainable remediation strategies. Results demonstrated that citrate significantly enhanced copper mobilization and recovery during electrokinetics but caused significant restructuring of the microbiome. A reduction in bacterial diversity and homogenization of community structure was observed. Chloroflexi, slow-growing K-strategists associated with carbon assimilation were found to be characteristic of pre-treated (Cu-rich) tailings. In contrast, fast-growing r-strategists such as Proteobacteria and Firmicutes, mostly nitrogen-fixing bacteria, were characteristic of post-treated (Cu-depleted) tailings. Predicted metabolic functions of the citrate-modified microbiome revealed an enrichment in genes associated with metabolism and environmental information processing pathways, suggesting an adaptive shift favoring rapid growth and colonization. Although citrate induced a disturbance-driven ecological succession, it did not result in irreversible soil sterilization, allowing for a new ecological baseline to emerge over time. A timeline model for this recovery in the post-citrate scenario is proposed. Overall, the findings demonstrate that citrate effectively mobilizes copper from low-grade sources without permanently sterilizing soil biota, positioning citrate as a promising leaching agent for integrated mining strategies that balance efficient metal recovery with ecological rehabilitation.<br>
 
 <i>Keywords: citrate, microbiome, mine tailings, ecological succession, disturbance, metabarcoding</i><br>
 
