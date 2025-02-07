@@ -2,7 +2,7 @@ main links
 main:
   - title: "CV"
     url: /cv/
-    
+
   - title: "Publications"
     url: /publications/
 
@@ -11,9 +11,9 @@ main:
 
   - title: "Features"
     url: /features/
-    
+
   - title: "Activity"
     url: /activity/
-    
+
   - title: "Contact"
     url: /contact/
