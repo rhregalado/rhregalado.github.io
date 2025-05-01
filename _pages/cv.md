@@ -114,5 +114,3 @@ Languages
 * French (beginner)
 <br>
 <br>
-
-<a style="text-decoration:none" href="http://rhregalado.github.io/files/CV RRHRegalado.pdf">Download</a>
