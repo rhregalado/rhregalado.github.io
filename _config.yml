@@ -1,8 +1,8 @@
 # Site Settings
 locale                   : "en-US"
-title                    : "Ric Ryan Regalado"
+title                    : "Ric Ryan Regalado, M.Sc."
 title_separator          : "-"
-name                     : "Ric Ryan H. Regalado, M.Sc."
+name                     : &name "Ric Ryan H. Regalado, M.Sc."
 description              : &description "Academic Webpage for Ric Ryan Regalado"
 url                      : https://rhregalado.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
