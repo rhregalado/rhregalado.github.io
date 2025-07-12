@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biology (<i>cum laude</i>), Bicol University, 2018
-* M.S. in Molecular Biology and Biotechnology, University of the Philippines Diliman, 2025
+* B.Sc. in Biology (<i>cum laude</i>), Bicol University, 2018
+* M.Sc. in Molecular Biology and Biotechnology, University of the Philippines Diliman, 2025
 <br>
 
 Research interests 
