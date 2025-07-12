@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Biology (<i>cum laude</i>), Bicol University, 2018
-* M.S. in Molecular Biology and Biotechnology, University of the Philippines, 2025
+* M.S. in Molecular Biology and Biotechnology, University of the Philippines Diliman, 2025
 <br>
 
 Research interests 
@@ -47,7 +47,6 @@ University Press, Philippines. ISBN 978-971-9911-69-2
 Awards & Grants
 ======
 <h3><i>Awards</i></h3>
-* UP International Publication Award, 2023<br>
 * Special Citation Award and Finalist (40th National Book Awards – Science Category), 2023<br>
 * NAST Outstanding Book/Monograph Award, 2022 <br> 
 * Most Outstanding College Graduate Award, 2018<br>
