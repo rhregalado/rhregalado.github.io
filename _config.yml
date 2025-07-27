@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ric Ryan Regalado"
+title                    : "Ric Ryan H. Regalado"
 title_separator          : "-"
 name                     : &name "Ric Ryan Regalado"
 description              : &description "Academic Webpage for Ric Ryan Regalado"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ric Ryan H. Regalado, MSc"
+  name             : "Ric Ryan Regalado, MSc"
   pronouns         : # example: "she/her"  
   bio              : "Scientist-in-training interested in some very niche things related to microbes, microbiomes, and models. "
   location         : "Quezon City, PHL"
