@@ -14,11 +14,9 @@
   clear: both;
 
   /* sticky footer fix start */
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  z-index: 999;
+  position: absolute;
+  bottom: 0em;
+  height: auto;
   /* sticky footer fix end */
 
   margin-top: 3em;
