@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ric Ryan H. Regalado",
-    "email": "mailto:rhregalado@up.edu.ph",
+    "email": "rhregalado@up.edu.ph",
     "phone": "8981-8500 loc 8621",
     "website": "rhregalado.github.io",
     "summary": "3/F Molecular Toxicology Research Laboratory (TOX)<br>National Institute of Molecular Biology and Biotechnology<br>National Science Complex, University of the Philippines<br>Diliman, Quezon City 1101, PHL",
@@ -11,11 +11,19 @@
       "city": "Quezon City",
       "countryCode": "PHL",
     },
+
+    To make it easy for people to find me, all my contact information is listed below; including my current mailing address, institutional email, and various web services. Should you require to get in touch with me regarding general inquiries, collaborations, or any questions related to my research, here are some places on the Internet where I reside:
+
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
         "url": "https://scholar.google.com/citations?user=YVVfCd0AAAAJ&hl=en&authuser=2"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Ric-Ryan-Regalado"
       },
       {
         "network": "ORCID",
@@ -27,11 +35,6 @@
         "username": "rhregalado",
         "url": "https://github.com/rhregalado"
       },
-      {
-        "network": "ResearchGate",
-        "username": "",
-        "url": "https://www.researchgate.net/profile/Ric-Ryan-Regalado"
-      }
     ]
   }
 }
