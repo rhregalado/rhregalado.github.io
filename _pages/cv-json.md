@@ -14,6 +14,7 @@ To make it easy for people to find me, all my contact information is listed bel
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/cv-style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<link rel="stylesheet" href="{{ "/assets/css/academicons.css" | relative_url }}">
 
 <style>
   .archive {
