@@ -58,22 +58,25 @@
 }
 
 /* fade effect */
-.carousel__fade .carousel_item__pos_prev,
-.carousel__fade .carousel_item__pos_next{
+/* fade effect */
+.carousel__fade .carousel_inner {
+   position: relative;
+}
+
+.carousel__fade .carousel_item {
+   position: absolute;
+   top: 0;
    left: 0;
+   width: 100%;
    opacity: 0;
+   transition: opacity 0.5s ease-in-out;
+   z-index: 0;
+   display: block; /* Ensure it's block for fade, not display:none */
 }
 
-.carousel__fade .carousel_item__prev,
-.carousel__fade .carousel_item__next{
-   transform: none;
+.carousel__fade .carousel_item__active {
    opacity: 1;
-   transition: opacity .5s ease-in-out;
-}
-
-.carousel__fade .carousel_item__active.carousel_item__prev,
-.carousel__fade .carousel_item__active.carousel_item__next{
-   opacity: 0;
+   z-index: 1;
 }
 
 /* carousel */
