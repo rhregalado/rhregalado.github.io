@@ -37,6 +37,11 @@
         "network": "X (formerly Twitter)",
         "username": "ricryanxd",
         "url": "https://twitter.com/ricryanxd"
+      },
+      {
+        "network": "Bluesky",
+        "username": "ricryanxd.bsky.social",
+        "url": "https://bsky.app/profile/ricryanxd.bsky.social"
       }
     ]
   }
