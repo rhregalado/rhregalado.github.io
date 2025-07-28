@@ -80,26 +80,13 @@ Awards & Grants
 * Order of the Blue Feather Royal Blue Degree Award, 2017<br>
 
 <h3><i>Scholarship</i></h3>
-* DOST Accelerated Science and Technology Human Resource Development Program, 2021-2024 <br>
+* DOST Accelerated Science and Technology Human Resource Development Program, 2021 <br>
 <br>
 
 Conferences
 ======
 <h3><i>Conference Presentations (Last 3 years)</i></h3>
-* <b>Poster Presenter</b> (Basic and Applied Research Category). 23rd Anniversary Conference of the National
-Institutes of Health (UP-NIH): “Outliving CoViD-19 Pandemic: Beyond Resiliency”. March 2-3, 2021.
-Virtual Conference via Zoom.
-* <b>Paper Presenter</b> (Research Category). 2021 Regional Symposium on Research and Development
-Highlights. Bicol Consortium for Agriculture, Aquatic and Natural Resources Research and Development
-(BCAARD). February 8-9, 2021. Virtual Conference via Google Meet. <b>3rd Best Paper Award</b>
-* <b>Paper Presenter</b>. International Conference on Education, Environment and Agriculture 2020:
-“Agricultural Technologies, Environmental Solutions and Learning Modalities for a Resilient Future”.
-Central Bicol State University of Agriculture. November 19-20, 2020. Virtual Conference via Zoom.
-* <b>Paper Presenter</b> (Professional Category). 12th Regional Convention and Scientific Meeting:
-“Microbiology Today: Updates on Food, Health, Environment”. Philippine Society for Microbiology, Inc. - Bicol Chapter (PSM Bicol). February 20, 2020. Legazpi City, Albay.
-* <b>Paper Presenter</b> (Research Category). 2019 Regional Symposium on Research and Development
-Highlights. Bicol Consortium for Agriculture, Aquatic and Natural Resources Research and Development
-(BCAARD). February 21-22, 2019. Guinobatan, Albay.
+
 
 <h3><i>Conference Participations (Last 3 years)</i></h3>
 * <b>Participant</b>, The Molecular Origins of Life, Munich. CRC 235 - Emergence of Life Network. June 20-23, 2023. Virtual Conference via Zoom.
@@ -109,14 +96,3 @@ Technology, Philippines (NAST PHL). July 13-14, 2022. The Manila Hotel.
 * <b>Participant</b>, 14th Regional Convention and Scientific Meeting: “Challenges and Opportunities in
 Microbiology and Biotechnology: A Bicolano Experience”. Philippine Society for Microbiology, Inc. - Bicol
 Chapter (PSM Bicol). February 23-24, 2022. Virtual Conference via Zoom.
-* <b>Participant</b>, 13th Regional Convention and Scientific Meeting: “Striking Societal Balance through
-Microbiology: A Perspective in the New Normal”. Philippine Society for Microbiology, Inc. - Bicol Chapter
-(PSM Bicol). February 26-27, 2021. Virtual Conference via Zoom.
-* <b>Participant</b>, 2020 Cluster 1 Symposium: “Shifting Gears: Addressing Global Challenges of Pandemic
-Through Microbiology and Biotechnology”. Philippine Society for Microbiology, Inc. (PSM). November 21, 2020. Virtual Conference via Zoom.
-* <b>Participant</b>, SAGE Hour: Publishing Talk: How to Get Published and How to Do Peer-Review, October 8, 2020. Virtual Event via Zoom.
-* <b>Participant</b>, DOST Webinar Series: Basics of Intellectual Property. October 1, 2020. Virtual Event via
-Zoom.
-* <b>Participant</b>, Elsevier Medical Research Publishing Master Class. August 19, 2020. Virtual Event via Zoom.
-<br>
-
