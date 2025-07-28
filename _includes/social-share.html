@@ -12,4 +12,39 @@
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
   <a href="https://x.com/intent/post?text={{ base_path }}{{ page.url }}" class="btn btn--x" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} X"><i class="fab fa-x-twitter" aria-hidden="true"></i><span> X (formerly Twitter)</span></a>
+
+<html>
+<head>
+  <link rel="stylesheet" href="/assets/css/share_link.css">
+</head>
+<body>
+    <a href="javascript:void(0);" class="btn btn--link" class="hover-effect-big" onclick="copyToClipboard(location.href); return false;" class="copy-link" data-toggle="tooltip" data-placement="top" title="Copy Link"><i class="fa fa-link fa-fw" aria-hidden="true"></i><span> Copy Link</span></a>
+
+    <script>
+    function copyToClipboard(text) {
+    const tempInput = document.createElement('input');
+    document.body.appendChild(tempInput);
+    tempInput.value = text;
+    tempInput.select();
+    document.execCommand('copy');
+    document.body.removeChild(tempInput);
+    alert('Link copied to clipboard!');
+}
+    const tooltipLink = document.getElementById('tooltip-link');
+    tooltipLink.addEventListener('click', () => {
+    const tooltip = tooltipLink.querySelector('.tooltip');
+    const range = document.createRange();
+    range.selectNode(tooltipLink);
+    window.getSelection().removeAllRanges();
+    window.getSelection().addRange(range);
+    document.execCommand('copy');
+    window.getSelection().removeRange(range);
+
+    tooltip.setAttribute('data-tooltip', 'Link copied!');
+    setTimeout(() => tooltip.setAttribute('data-tooltip', 'Copy Link'), 2000);
+});
+</script>
+</body>
+</html>
+
 </section>
