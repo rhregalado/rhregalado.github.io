@@ -10,8 +10,6 @@
 }
 
 .carousel_inner{
-   display: flex;
-   transition: transform 0.5s ease-in-out;
    width: 100%;
    overflow: hidden;
 }
@@ -24,8 +22,6 @@
 
 .carousel_item{
    position: relative;
-   opacity: 0;
-   transition: opacity 0.5s ease-in-out;
    float: left;
    display: none;
    width: 100%;
@@ -58,24 +54,22 @@
 }
 
 /* fade effect */
-.carousel__fade .carousel_inner {
-   position: relative;
-}
-
-.carousel__fade .carousel_item {
-   position: absolute;
-   top: 0;
+.carousel__fade .carousel_item__pos_prev,
+.carousel__fade .carousel_item__pos_next{
    left: 0;
-   width: 100%;
    opacity: 0;
-   transition: opacity 0.5s ease-in-out;
-   z-index: 0;
-   display: block; /* Ensure it's block for fade, not display:none */
 }
 
-.carousel__fade .carousel_item__active {
+.carousel__fade .carousel_item__prev,
+.carousel__fade .carousel_item__next{
+   transform: none;
    opacity: 1;
-   z-index: 1;
+   transition: opacity .5s ease-in-out;
+}
+
+.carousel__fade .carousel_item__active.carousel_item__prev,
+.carousel__fade .carousel_item__active.carousel_item__next{
+   opacity: 0;
 }
 
 /* carousel */
