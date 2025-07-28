@@ -65,7 +65,7 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  color: #2a7ae2;
+  color: $gray;
 }
 
 .cv-section h2 i {
