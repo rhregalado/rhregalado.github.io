@@ -16,7 +16,7 @@
 
 .cv-header h1 {
   margin-bottom: 0.5rem;
-  color: #2a7ae2;
+  color: $gray;
 }
 
 .cv-contact-info {
