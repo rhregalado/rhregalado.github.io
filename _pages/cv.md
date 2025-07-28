@@ -96,7 +96,7 @@ Zoom.
 
 Research Skills
 ======
-<h3>TECHNICAL:</h3> R, Unix/Linux, QIIME 2, SPSS<br>
+<b>TECHNICAL:</b> R, Unix/Linux, Bash, SPSS<br>
 * Scripting and automation
 * High-throughput data processing (from 16S/ITS amplicon sequencing data)
 * Statistical software integration and cross-platform analysis
@@ -106,7 +106,7 @@ Research Skills
 * Data analysis and custom data visualization
 * Experimental data management and documentation
 
-<h3>LABORATORY:</h3>Microbiology, Genetic manipulation, Microscopy, Spectroscopy, Animal (mouse) care and Handling, Cell culture, and Histology<br>
+<b>LABORATORY:</b> Microbiology, Genetic manipulation, Microscopy, Spectroscopy, Animal (mouse) care and Handling, Cell culture, and Histology<br>
 * Proficiency in aseptic techniques, microbial culture maintenance, Gram staining, antagonism assays
 * Proficiency in nucleic acid extraction, PCR, qPCR, gel electrophoresis
 * Basic proficiency in spectral data interpretation (identifying peaks, functional groups, and chemical shifts)
@@ -117,4 +117,4 @@ Research Skills
 * Skilled in performing cell viability assays (e.g., MTT, Trypan blue exclusion) and efficacy of test compounds against Plasmodium falciparum using in vitro culture systems.
 * Trained in handling and restraint techniques for mice, drug administration, and mouse colony management.
 
-<h3>LANGUAGE:</h3>Filipino/Tagalog (native); English (fluent); German (beginner)
+<b>LANGUAGE:</b> Filipino/Tagalog (native); English (fluent); German (beginner)
