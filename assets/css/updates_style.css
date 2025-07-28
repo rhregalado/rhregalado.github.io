@@ -22,14 +22,15 @@
    clear: both;
 }
 
-.carousel_item{
-   position: relative;
-   opacity: 0;
-   transition: opacity 0.5s ease-in-out;
-   float: left;
-   display: none;
+.carousel_item {
+   position: absolute;
+   top: 0;
+   left: 0;
    width: 100%;
-   margin-right: -100%;
+   opacity: 0;
+   transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+   z-index: 0;
+   display: block;
 }
 
 /* slide effect */
@@ -57,7 +58,6 @@
    transition: transform .5s ease-in-out;
 }
 
-/* fade effect */
 /* fade effect */
 .carousel__fade .carousel_inner {
    position: relative;
