@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Ric Ryan H. Regalado",
+    "name": "",
     "email": "rhregalado@up.edu.ph",
     "phone": "8981-8500 loc 8621",
     "website": "rhregalado.github.io",
@@ -33,6 +33,11 @@
         "username": "rhregalado",
         "url": "https://github.com/rhregalado"
       },
+      {
+        "network": "X/Twitter",
+        "username": "ricryanxd",
+        "url": "https://x.com/ricryanxd"
+      }
     ]
   }
 }
