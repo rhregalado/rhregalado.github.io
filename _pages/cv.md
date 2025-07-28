@@ -96,7 +96,7 @@ Zoom.
 
 Research Skills
 ======
-<h3><b>TECHNICAL:</h3> R, Unix/Linux, QIIME 2, SPSS<br>
+<h3>TECHNICAL:</h3> R, Unix/Linux, QIIME 2, SPSS<br>
 * Scripting and automation
 * High-throughput data processing (from 16S/ITS amplicon sequencing data)
 * Statistical software integration and cross-platform analysis
