@@ -21,6 +21,32 @@ Research interests
 * <b><i>Secondary:</i></b> Biogeochemistry, Climatology, Environmental Science, Agrometeorology, Climate modelling
 <br>
 
+Research Skills
+======
+<b>TECHNICAL:</b> R, Unix/Linux, Bash, SPSS
+* Scripting and automation
+* High-throughput data processing (from 16S/ITS amplicon sequencing data)
+* Statistical software integration and cross-platform analysis
+* Rarefaction, normalization, and ordination (PCA, PCoA, NMDS)
+* Pathway inference and KEGG/MetaCyc mapping
+* Differential abundance analysis (DESeq2, MaAsLin2)
+* Data analysis and custom data visualization
+* Experimental data management and documentation
+
+<b>LABORATORY:</b> Microbiology, Genetic manipulation, Microscopy, Spectroscopy, Animal (mouse) care and Handling, Cell culture, and Histology
+* Proficiency in aseptic techniques, microbial culture maintenance, Gram staining, antagonism assays
+* Proficiency in nucleic acid extraction, PCR, qPCR, gel electrophoresis
+* Basic proficiency in spectral data interpretation (identifying peaks, functional groups, and chemical shifts)
+* Working knowledge of automated dereplication tools like MZmine, GNPS, or ChemSpider for automatic dereplication of mass spectrometry data.
+* Experience in visualizing dereplicated data within molecular networks to identify unique and novel compounds.
+* Working knowledge of spectral analysis software for data processing and reporting (e.g., ChemDraw, Excel, Origin).
+* Skilled in the routine maintenance, passaging, and cryopreservation of mammalian cell lines and malaria cell culture.
+* Skilled in performing cell viability assays (e.g., MTT, Trypan blue exclusion) and efficacy of test compounds against Plasmodium falciparum using in vitro culture systems.
+* Trained in handling and restraint techniques for mice, drug administration, and mouse colony management.
+
+<b>LANGUAGE:</b> Filipino/Tagalog (native); English (fluent); German (beginner)
+<br>
+
 Publications
 ======
 <h3><i>Research Articles</i></h3>
@@ -94,27 +120,3 @@ Zoom.
 * <b>Participant</b>, Elsevier Medical Research Publishing Master Class. August 19, 2020. Virtual Event via Zoom.
 <br>
 
-Research Skills
-======
-<b>TECHNICAL:</b> R, Unix/Linux, Bash, SPSS<br>
-* Scripting and automation
-* High-throughput data processing (from 16S/ITS amplicon sequencing data)
-* Statistical software integration and cross-platform analysis
-* Rarefaction, normalization, and ordination (PCA, PCoA, NMDS)
-* Pathway inference and KEGG/MetaCyc mapping
-* Differential abundance analysis (DESeq2, MaAsLin2)
-* Data analysis and custom data visualization
-* Experimental data management and documentation
-
-<b>LABORATORY:</b> Microbiology, Genetic manipulation, Microscopy, Spectroscopy, Animal (mouse) care and Handling, Cell culture, and Histology<br>
-* Proficiency in aseptic techniques, microbial culture maintenance, Gram staining, antagonism assays
-* Proficiency in nucleic acid extraction, PCR, qPCR, gel electrophoresis
-* Basic proficiency in spectral data interpretation (identifying peaks, functional groups, and chemical shifts)
-* Working knowledge of automated dereplication tools like MZmine, GNPS, or ChemSpider for automatic dereplication of mass spectrometry data.
-* Experience in visualizing dereplicated data within molecular networks to identify unique and novel compounds.
-* Working knowledge of spectral analysis software for data processing and reporting (e.g., ChemDraw, Excel, Origin).
-* Skilled in the routine maintenance, passaging, and cryopreservation of mammalian cell lines and malaria cell culture.
-* Skilled in performing cell viability assays (e.g., MTT, Trypan blue exclusion) and efficacy of test compounds against Plasmodium falciparum using in vitro culture systems.
-* Trained in handling and restraint techniques for mice, drug administration, and mouse colony management.
-
-<b>LANGUAGE:</b> Filipino/Tagalog (native); English (fluent); German (beginner)
