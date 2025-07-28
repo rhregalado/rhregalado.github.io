@@ -1,16 +1,15 @@
 {
   "basics": {
     "name": "Ric Ryan H. Regalado",
-    "email": "rhregalado@up.edu.ph",
+    "email": "mailto:rhregalado@up.edu.ph",
     "phone": "8981-8500 loc 8621",
-    "website": "https://rhregalado.github.io",
-    "summary": "3/F Molecular Toxicology Research Laboratory, National Institute of Molecular Biology and Biotechnology, National Science Complex, University of the Philippines Diliman, Quezon City 1101, PHL",
+    "website": "rhregalado.github.io",
+    "summary": "3/F Molecular Toxicology Research Laboratory (TOX)<br>National Institute of Molecular Biology and Biotechnology<br>National Science Complex, University of the Philippines<br>Diliman, Quezon City 1101, PHL",
     "location": {
       "address": "",
       "postalCode": "1101",
       "city": "Quezon City",
       "countryCode": "PHL",
-      "region": ""
     },
     "profiles": [
       {
@@ -27,6 +26,11 @@
         "network": "GitHub",
         "username": "rhregalado",
         "url": "https://github.com/rhregalado"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Ric-Ryan-Regalado"
       }
     ]
   }
