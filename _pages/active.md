@@ -4,8 +4,8 @@ title: "Working Papers"
 permalink: /active/
 author_profile: true
 ---
-
-<h1 style="color:#49A0BF;">Under Review</h1>
+<br>
+<h1 style="color:steelblue;">Under Review</h1>
 
 <h2>[Book Chapter] Unearthing medicines: Soil fungi and the potential pharmacopeia of Southeast Asia</h2>
 <h3>In: Guerrero JJG, et al. (eds.). <i>Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia.</i> Springer Nature Singapore Pte Ltd.</h3>
@@ -21,7 +21,7 @@ author_profile: true
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h1 style="color:#49A0BF;">Works in Progress</h1>
+<h1 style="color:steelblue;">Works in Progress</h1>
 
 <h2>[Research Article] Electrokinetic in situ leaching of mine tailings with citric acid extracts copper and restructures the microbiome in a microcosm</h2>
 
