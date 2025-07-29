@@ -4,8 +4,8 @@ title: "Working Papers"
 permalink: /active/
 author_profile: true
 ---
-
-<h1 style="color:#49A0BF; margin-bottom: 0.8em; font-size: 1.4em;">Under Review</h1>
+<br>
+<h1 style="color:#49A0BF; margin-bottom: 2em; font-size: 1.4em;">Under Review</h1>
 <h3>[Book Chapter] Unearthing medicines: Soil fungi and the potential pharmacopeia of Southeast Asia</h3>
 <h3>In: Guerrero JJG, et al. (eds.). <i>Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia.</i> Springer Nature Singapore Pte Ltd.</h3>
 <div style="text-align: justify;"><b>Abstract:</b> Soil fungi represent an immense, largely untapped source of bioactive secondary metabolites with significant pharmaceutical potential. In southeast Asia, where tropical climates, diverse ecosystems, and complex soil systems converge, fungal communities are particularly rich yet remain critically understudied. The chapter synthesizes current research on soil-derived fungi across the region, highlighting notable genera such as <i>Aspergillus, Penicillium, Trichoderma,</i> and <i>Ganoderma</i>, which have produced metabolites with antimicrobial, anticancer, antioxidant and immunomodulatory properties. Over 130 novel compounds have been identified in the past decade alone, predominantly in Thailand, Indonesia, and Malaysia. However, the pace of fungal discovery lags behind studies on bacteria, endophytes, and mycorrhizae, reflecting longstanding biases in microbial research. Methodological challenges include taxonomic complexity, culturing difficulty, and limited access to genomic and metabolomic tools. These limitations are further compounded by soil degradation, particularly in dominant soil types such as Acrisols and Ferralsols, which are low in fertility and prone to erosion, acidification, and nutrient depletion. Anthropogenic pressures – from deforestation and monoculture farming to peatland drainage – threaten fungal biodiversity across the region. Recognizing soil fungi as both vulnerable ecological assets and promising biomedical resources is key to transforming the region’s microbial wealth into sustainable health innovations.</div>
