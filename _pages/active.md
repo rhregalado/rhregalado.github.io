@@ -5,8 +5,8 @@ permalink: /active/
 author_profile: true
 ---
 
-Under Review
-------
+<h1 style="color:#49A0BF;">Under Review</h1>
+
 <h2>[Book Chapter] Unearthing medicines: Soil fungi and the potential pharmacopeia of Southeast Asia</h2>
 <h3>In: Guerrero JJG, et al. (eds.). <i>Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia.</i> Springer Nature Singapore Pte Ltd.</h3>
 <b>Abstract:</b> Soil fungi represent an immense, largely untapped source of bioactive secondary metabolites with significant pharmaceutical potential. In southeast Asia, where tropical climates, diverse ecosystems, and complex soil systems converge, fungal communities are particularly rich yet remain critically understudied. The chapter synthesizes current research on soil-derived fungi across the region, highlighting notable genera such as <i>Aspergillus, Penicillium, Trichoderma,</i> and <i>Ganoderma</i>, which have produced metabolites with antimicrobial, anticancer, antioxidant and immunomodulatory properties. Over 130 novel compounds have been identified in the past decade alone, predominantly in Thailand, Indonesia, and Malaysia. However, the pace of fungal discovery lags behind studies on bacteria, endophytes, and mycorrhizae, reflecting longstanding biases in microbial research. Methodological challenges include taxonomic complexity, culturing difficulty, and limited access to genomic and metabolomic tools. These limitations are further compounded by soil degradation, particularly in dominant soil types such as Acrisols and Ferralsols, which are low in fertility and prone to erosion, acidification, and nutrient depletion. Anthropogenic pressures – from deforestation and monoculture farming to peatland drainage – threaten fungal biodiversity across the region. Recognizing soil fungi as both vulnerable ecological assets and promising biomedical resources is key to transforming the region’s microbial wealth into sustainable health innovations.<br>
@@ -21,8 +21,8 @@ Under Review
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-Works in Progress
-----
+<h1 style="color:#49A0BF;">Works in Progress</h1>
+
 <h2>[Research Article] Electrokinetic in situ leaching of mine tailings with citric acid extracts copper and restructures the microbiome in a microcosm</h2>
 
 <b>Abstract:</b> Rising copper (Cu) demand and a growing inventory of Cu-bearing mine wastes highlight their potential as alternative resources, though extraction remains challenging. Electrokinetic in situ leaching (EK-ISL) offers a non-invasive alternative but its biofunctional consequence on post-treated material remains unknown. Here, we examine the potential impact of citric acid-aided (0.5 M) EK-ISL on community-wide microbiome response under laboratory conditions through 16S rRNA metabarcoding. Citrate-driven chemical gradients under electrokinetically-induced conditions resulted in efficient Cu leaching but altered soil bacterial ecology, favoring copiotrophic (Proteobacteria/Firmicutes) over oligotrophic (Chloroflexi) taxa. Functional predictions suggested an adaptive shift supporting copiotrophic traits linked to rapid growth and niche colonization. Despite microbiome restructuring, our findings argue in favor of citrate as a soil amendment, rather than a harmful contaminant by allowing key pedogenic functions like nitrogen fixation to persist. These findings highlight citrate’s potential to balance efficient metal extraction with ecological recovery.<br>
