@@ -16,7 +16,7 @@
 
 .cv-header h1 {
   margin-bottom: 0.5rem;
-  color: $gray;
+  color: var(--global-text-color);
 }
 
 .cv-contact-info {
@@ -65,7 +65,7 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  color: $gray;
+  color: var(--global-text-color);
 }
 
 .cv-section h2 i {
