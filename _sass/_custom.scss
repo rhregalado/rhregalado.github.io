@@ -2,28 +2,43 @@
    Custom Styles (Dark Mode Support)
    ========================================================================== */
 
+/* Define variables for text and icon colors only */
 :root {
-  --text-color: #e0e0e0;
-  --icon-color: #e0e0e0;
+  --custom-text-color: #474747;
+  --custom-icon-color: #474747;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: #474747;
-    --icon-color: #474747;
+    --custom-text-color: #e0e0e0;
+    --custom-icon-color: #e0e0e0;
   }
 }
 
-body {
-  color: var(--text-color);
+/* Apply to text elements */
+body,
+p,
+h1, h2, h3, h4, h5, h6,
+span,
+small,
+strong,
+em,
+blockquote {
+  color: var(--custom-text-color) !important;
 }
 
-a,
+/* Apply to icon elements only (not links) */
 .icon,
 .fa,
 .fab,
 .fas,
-.social-media-list a {
-  color: var(--icon-color) !important;
-  fill: var(--icon-color) !important;
+svg,
+svg path {
+  color: var(--custom-icon-color) !important;
+  fill: var(--custom-icon-color) !important;
+}
+
+/* Leave links alone */
+a {
+  color: inherit; /* Ensures link colors stay defined by theme */
 }
