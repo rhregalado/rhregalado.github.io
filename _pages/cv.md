@@ -13,9 +13,9 @@ redirect_from:
 * 2021-2025: MSc Molecular Biology and Biotechnology at [University of the Philippines Diliman](https://upd.edu.ph)
 * 2014-2018: BSc Biology (<i>cum laude</i>) at [Bicol University](https://bicol-u.edu.ph)
 <br><br>
+<h3>Discipline: Microbiology • Molecular Biology</h3>
 
 <h1 style="font-size: 1.3em;">Research Interests</h1>
-<h4>Discipline: Microbiology • Molecular Biology</h4>
 * <b><i>Primary:</i></b> Microbiome Research, Microbial Ecology, Metagenomics, Plant-Microbe Interactions, Environmental DNA (eDNA), Computational Biology, Metabolomics, Microbial Systematics, Extreme Environments<br>
 * <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Soil Chemistry, Microbial Paleogenomics, Ancient DNA (aDNA), Astrobiology<br>
 
