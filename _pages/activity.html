@@ -10,139 +10,125 @@ author_profile: true
 <html lang="en">
 
 <head>
-   <title>News & Updates</title>
-   <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News & Updates</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-   <link rel="stylesheet" href="{{ "/assets/css/academicons.css" | relative_url }}">
-   <link rel="stylesheet" href="/assets/css/updates_style.css">
+  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
+  <link rel="stylesheet" href="/assets/css/updates_style.css">
 
-   <style>
-      /* Ensures carousel images are clickable */
-      .carousel_img {
-         cursor: pointer;
-         z-index: 1;
-         position: relative;
-      }
+  <style>
+    .carousel_img {
+      cursor: pointer;
+      z-index: 1;
+      position: relative;
+      pointer-events: auto;
+    }
 
-      /* Lightbox overlay styles */
-      #lightbox {
-         display: none;
-         position: fixed;
-         top: 0;
-         left: 0;
-         width: 100%;
-         height: 100%;
-         background: rgba(0, 0, 0, 0.8);
-         z-index: 1000;
-         cursor: zoom-out;
-      }
+    .carousel_caption {
+      pointer-events: none;
+    }
 
-      #lightbox-img {
-         max-width: 90%;
-         max-height: 90%;
-         position: absolute;
-         top: 50%;
-         left: 50%;
-         transform: translate(-50%, -50%);
-      }
+    #lightbox {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.8);
+      z-index: 9999;
+      cursor: zoom-out;
+    }
 
-      #lightbox span {
-         position: absolute;
-         top: 10px;
-         right: 20px;
-         font-size: 30px;
-         color: white;
-         cursor: pointer;
-         z-index: 1001;
-      }
-   </style>
+    #lightbox-img {
+      max-width: 90%;
+      max-height: 90%;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    #lightbox span {
+      position: absolute;
+      top: 10px;
+      right: 20px;
+      font-size: 30px;
+      color: white;
+      cursor: pointer;
+      z-index: 10000;
+    }
+  </style>
 </head>
 
 <body>
 
-   <div class="carousel carousel__fade">
-      <div class="carousel_inner">
-         <div class="carousel_item carousel_item__active">
-            <img src="/images/5.png" alt="" class="carousel_img">
-            <div class="carousel_caption">
-               <h1 class="carousel_title">Catch My Latest Buzz</h1>
-               <p class="carousel_description">Stay informed with my latest updates in this section</p>
-            </div>
-         </div>
-         <div class="carousel_item">
-            <img src="/images/6.png" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/NationalBookAwards.jpeg" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/4.png" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/1.jpeg" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/3.jpeg" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/2.jpeg" alt="" class="carousel_img">
-         </div>
-         <div class="carousel_item">
-            <img src="/images/NAST_plaque.png" alt="" class="carousel_img">
-         </div>
+  <div class="carousel carousel__fade">
+    <div class="carousel_inner">
+      <div class="carousel_item carousel_item__active">
+        <img src="/images/5.png" alt="" class="carousel_img" />
+        <div class="carousel_caption">
+          <h1 class="carousel_title">Catch My Latest Buzz</h1>
+          <p class="carousel_description">Stay informed with my latest updates in this section</p>
+        </div>
       </div>
+      <div class="carousel_item"><img src="/images/6.png" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/NationalBookAwards.jpeg" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/4.png" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/1.jpeg" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/3.jpeg" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/2.jpeg" class="carousel_img" /></div>
+      <div class="carousel_item"><img src="/images/NAST_plaque.png" class="carousel_img" /></div>
+    </div>
 
-      <div class="carousel_indicator">
-         <button class="carousel_dot carousel_dot__active"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-         <button class="carousel_dot"></button>
-      </div>
+    <div class="carousel_indicator">
+      <button class="carousel_dot carousel_dot__active"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+      <button class="carousel_dot"></button>
+    </div>
 
-      <div class="carousel_control">
-         <button class="carousel_button carousel_button__prev">
-            <i class="fas fa-chevron-left"></i>
-         </button>
-         <button class="carousel_button carousel_button__next">
-            <i class="fas fa-chevron-right"></i>
-         </button>
-      </div>
-   </div>
+    <div class="carousel_control">
+      <button class="carousel_button carousel_button__prev">
+        <i class="fas fa-chevron-left"></i>
+      </button>
+      <button class="carousel_button carousel_button__next">
+        <i class="fas fa-chevron-right"></i>
+      </button>
+    </div>
+  </div>
 
-   <!-- Lightbox overlay -->
-   <div id="lightbox" onclick="closeLightbox()">
-      <span onclick="closeLightbox()">&times;</span>
-      <img id="lightbox-img" src="">
-   </div>
+  <!-- Lightbox overlay -->
+  <div id="lightbox" onclick="closeLightbox()">
+    <span onclick="closeLightbox()">&times;</span>
+    <img id="lightbox-img" src="" />
+  </div>
 
-   <script src="/assets/js/updates_script.js"></script>
+  <script src="/assets/js/updates_script.js"></script>
 
-   <script>
-      function openLightbox(src) {
-         const lightbox = document.getElementById("lightbox");
-         const lightboxImg = document.getElementById("lightbox-img");
-         lightboxImg.src = src;
-         lightbox.style.display = "block";
-      }
+  <script>
+    function openLightbox(src) {
+      document.getElementById("lightbox-img").src = src;
+      document.getElementById("lightbox").style.display = "block";
+    }
 
-      function closeLightbox() {
-         document.getElementById("lightbox").style.display = "none";
-         document.getElementById("lightbox-img").src = "";
-      }
+    function closeLightbox() {
+      document.getElementById("lightbox").style.display = "none";
+      document.getElementById("lightbox-img").src = "";
+    }
 
-      // Add click event to all images in the carousel
-      document.querySelectorAll('.carousel_img').forEach(img => {
-         img.addEventListener('click', function () {
-            openLightbox(this.src);
-         });
+    // Apply click listener after page loads
+    document.addEventListener("DOMContentLoaded", () => {
+      document.querySelectorAll(".carousel_img").forEach(img => {
+        img.addEventListener("click", () => openLightbox(img.src));
       });
-   </script>
+    });
+  </script>
 
 </body>
 
