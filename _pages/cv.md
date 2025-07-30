@@ -20,6 +20,6 @@ Microbiology • Molecular Biology
 
 <h1 style="font-size: 1.3em;">Research Interests</h1>
 * <b><i>Primary:</i></b> Microbiome Research, Microbial Ecology, Metagenomics, Plant-Microbe Interactions, Environmental DNA (eDNA), Computational Biology, Metabolomics, Microbial Systematics, Extreme Environments<br>
-* <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Soil Chemistry, Microbial Paleogenomics, Ancient DNA (aDNA), Astrobiology<br>
+* <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Soil Chemistry, Microbial Paleogenomics, Ancient DNA (aDNA), Astrobiology, Exobiology<br>
 
 <h4><i>Full-page CV available upon <a href="https://mail.google.com/mail/?view=cm&to=rhregalado@up.edu.ph&su=[Request%20for%20CV]" target="_blank">request</a></i></h4>
