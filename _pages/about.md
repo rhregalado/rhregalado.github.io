@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal academic space!
 
-Kumusta! My name is Ric. I recently earned my Masters degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group led by  <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Assoc. Prof. Jose Enrico H. Lazaro, PhD</a> and worked on mining, microbes, and models. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
+Kumusta! My name is Ric. I recently earned my Masters degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group led by  <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Assoc. Prof. Jose Enrico H. Lazaro, PhD</a> and worked on mining, metals, and microbes. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
 
 <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
   <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
@@ -36,7 +36,7 @@ To that end, I’ve curated this page to put together all the things that I wrot
 <a href="#" onclick="openLightbox('http://rhregalado.github.io/images/IMG_2904.jpeg'); return false;">
   <img src="http://rhregalado.github.io/images/IMG_2904.jpeg" style="max-width:100%; height:auto; cursor:pointer;">
 </a>
-<h6>The NIMBB building's façade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an RNA hairpin loop, presenting a seamless fusion of form and function.</h6>
+<h6 style="text-align: justify;">The NIMBB building's façade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an RNA hairpin loop, presenting a seamless fusion of form and function.</h6>
 
 More info
 ----
