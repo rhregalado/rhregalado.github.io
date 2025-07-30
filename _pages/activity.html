@@ -8,53 +8,74 @@ author_profile: true
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>News & Updates</title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}">
-  <link rel="stylesheet" href="/assets/css/updates_style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
-    .carousel_img {
-      cursor: pointer;
-      z-index: 1;
+    .carousel {
       position: relative;
-      pointer-events: auto;
+      width: 100%;
+      max-width: 800px;
+      margin: auto;
+      overflow: hidden;
+    }
+
+    .carousel_inner {
+      display: flex;
+    }
+
+    .carousel_item {
+      min-width: 100%;
+      transition: transform 0.5s ease;
+      position: relative;
+    }
+
+    .carousel_img {
+      width: 100%;
+      height: auto;
+      cursor: pointer;
+      position: relative;
+      z-index: 1;
     }
 
     .carousel_caption {
-      pointer-events: none;
+      position: absolute;
+      bottom: 10%;
+      left: 5%;
+      color: white;
+      z-index: 2;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 1em;
     }
 
+    /* Lightbox styles */
     #lightbox {
       display: none;
       position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(0, 0, 0, 0.8);
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0,0,0,0.8);
       z-index: 9999;
-      cursor: zoom-out;
+      justify-content: center;
+      align-items: center;
+    }
+
+    #lightbox.active {
+      display: flex;
     }
 
     #lightbox-img {
       max-width: 90%;
       max-height: 90%;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
     }
 
-    #lightbox span {
+    #lightbox-close {
       position: absolute;
-      top: 10px;
-      right: 20px;
-      font-size: 30px;
+      top: 20px;
+      right: 30px;
+      font-size: 40px;
       color: white;
       cursor: pointer;
       z-index: 10000;
@@ -64,74 +85,65 @@ author_profile: true
 
 <body>
 
-  <div class="carousel carousel__fade">
+  <div class="carousel">
     <div class="carousel_inner">
-      <div class="carousel_item carousel_item__active">
-        <img src="/images/5.png" alt="" class="carousel_img" />
+      <div class="carousel_item">
+        <img src="/images/5.png" class="carousel_img" alt="Slide 1">
         <div class="carousel_caption">
-          <h1 class="carousel_title">Catch My Latest Buzz</h1>
-          <p class="carousel_description">Stay informed with my latest updates in this section</p>
+          <h1>Catch My Latest Buzz</h1>
+          <p>Stay informed with my latest updates in this section</p>
         </div>
       </div>
-      <div class="carousel_item"><img src="/images/6.png" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/NationalBookAwards.jpeg" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/4.png" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/1.jpeg" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/3.jpeg" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/2.jpeg" class="carousel_img" /></div>
-      <div class="carousel_item"><img src="/images/NAST_plaque.png" class="carousel_img" /></div>
-    </div>
-
-    <div class="carousel_indicator">
-      <button class="carousel_dot carousel_dot__active"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-      <button class="carousel_dot"></button>
-    </div>
-
-    <div class="carousel_control">
-      <button class="carousel_button carousel_button__prev">
-        <i class="fas fa-chevron-left"></i>
-      </button>
-      <button class="carousel_button carousel_button__next">
-        <i class="fas fa-chevron-right"></i>
-      </button>
+      <div class="carousel_item">
+        <img src="/images/6.png" class="carousel_img" alt="Slide 2">
+      </div>
+      <div class="carousel_item">
+        <img src="/images/NationalBookAwards.jpeg" class="carousel_img" alt="Slide 3">
+      </div>
     </div>
   </div>
 
   <!-- Lightbox overlay -->
-  <div id="lightbox" onclick="closeLightbox()">
-    <span onclick="closeLightbox()">&times;</span>
-    <img id="lightbox-img" src="" />
+  <div id="lightbox">
+    <span id="lightbox-close">&times;</span>
+    <img id="lightbox-img" src="">
   </div>
 
-  <script src="/assets/js/updates_script.js"></script>
-
   <script>
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const lightboxClose = document.getElementById('lightbox-close');
+
     function openLightbox(src) {
-      document.getElementById("lightbox-img").src = src;
-      document.getElementById("lightbox").style.display = "block";
+      lightboxImg.src = src;
+      lightbox.classList.add('active');
     }
 
     function closeLightbox() {
-      document.getElementById("lightbox").style.display = "none";
-      document.getElementById("lightbox-img").src = "";
+      lightbox.classList.remove('active');
+      lightboxImg.src = '';
     }
 
-    // Apply click listener after page loads
-    document.addEventListener("DOMContentLoaded", () => {
-      document.querySelectorAll(".carousel_img").forEach(img => {
-        img.addEventListener("click", () => openLightbox(img.src));
+    document.querySelectorAll('.carousel_img').forEach(img => {
+      img.addEventListener('click', function () {
+        openLightbox(this.getAttribute('src'));
       });
+    });
+
+    lightboxClose.addEventListener('click', function (e) {
+      e.stopPropagation();
+      closeLightbox();
+    });
+
+    // Also close when clicking outside the image
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) {
+        closeLightbox();
+      }
     });
   </script>
 
 </body>
-
 </html>
 
 <h6><center>Sharing a few snapshots to highlight some of my recent activities and engagements</center></h6>
