@@ -8,141 +8,73 @@ author_profile: true
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <title>News & Updates</title>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>News & Updates</title>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    .carousel {
-      position: relative;
-      width: 100%;
-      max-width: 800px;
-      margin: auto;
-      overflow: hidden;
-    }
-
-    .carousel_inner {
-      display: flex;
-    }
-
-    .carousel_item {
-      min-width: 100%;
-      transition: transform 0.5s ease;
-      position: relative;
-    }
-
-    .carousel_img {
-      width: 100%;
-      height: auto;
-      cursor: pointer;
-      position: relative;
-      z-index: 1;
-    }
-
-    .carousel_caption {
-      position: absolute;
-      bottom: 10%;
-      left: 5%;
-      color: white;
-      z-index: 2;
-      background-color: rgba(0, 0, 0, 0.5);
-      padding: 1em;
-    }
-
-    /* Lightbox styles */
-    #lightbox {
-      display: none;
-      position: fixed;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      background: rgba(0,0,0,0.8);
-      z-index: 9999;
-      justify-content: center;
-      align-items: center;
-    }
-
-    #lightbox.active {
-      display: flex;
-    }
-
-    #lightbox-img {
-      max-width: 90%;
-      max-height: 90%;
-    }
-
-    #lightbox-close {
-      position: absolute;
-      top: 20px;
-      right: 30px;
-      font-size: 40px;
-      color: white;
-      cursor: pointer;
-      z-index: 10000;
-    }
-  </style>
+   <link rel="stylesheet" href="{{ "/assets/css/academicons.css" | relative_url }}">
+   <link rel="stylesheet" href="/assets/css/updates_style.css">
 </head>
 
 <body>
 
-  <div class="carousel">
-    <div class="carousel_inner">
-      <div class="carousel_item">
-        <img src="/images/5.png" class="carousel_img" alt="Slide 1">
-        <div class="carousel_caption">
-          <h1>Catch My Latest Buzz</h1>
-          <p>Stay informed with my latest updates in this section</p>
-        </div>
+   <div class="carousel carousel__fade">
+      <div class="carousel_inner">
+         <div class="carousel_item carousel_item__active">
+            <img src="/images/5.png" alt="" class="carousel_img">
+            <div class="carousel_caption">
+               <h1 class="carousel_title">Catch My Latest Buzz</h1>
+               <p class="carousel_description">Stay informed with my latest updates in this section</p>
+            </div>
+         </div>
+         <div class="carousel_item">
+            <img src="/images/6.png" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/NationalBookAwards.jpeg" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/4.png" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/1.jpeg" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/3.jpeg" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/2.jpeg" alt="" class="carousel_img">
+         </div>
+         <div class="carousel_item">
+            <img src="/images/NAST_plaque.png" alt="" class="carousel_img">
+         </div>
       </div>
-      <div class="carousel_item">
-        <img src="/images/6.png" class="carousel_img" alt="Slide 2">
+
+      <div class="carousel_indicator">
+         <button class="carousel_dot carousel_dot__active"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
+         <button class="carousel_dot"></button>
       </div>
-      <div class="carousel_item">
-        <img src="/images/NationalBookAwards.jpeg" class="carousel_img" alt="Slide 3">
+
+      <div class="carousel_control">
+         <button class="carousel_button carousel_button__prev">
+            <i class="fas fa-chevron-left"></i>
+         </button>
+         <button class="carousel_button carousel_button__next">
+            <i class="fas fa-chevron-right"></i>
+         </button>
       </div>
-    </div>
-  </div>
+   </div>
 
-  <!-- Lightbox overlay -->
-  <div id="lightbox">
-    <span id="lightbox-close">&times;</span>
-    <img id="lightbox-img" src="">
-  </div>
-
-  <script>
-    const lightbox = document.getElementById('lightbox');
-    const lightboxImg = document.getElementById('lightbox-img');
-    const lightboxClose = document.getElementById('lightbox-close');
-
-    function openLightbox(src) {
-      lightboxImg.src = src;
-      lightbox.classList.add('active');
-    }
-
-    function closeLightbox() {
-      lightbox.classList.remove('active');
-      lightboxImg.src = '';
-    }
-
-    document.querySelectorAll('.carousel_img').forEach(img => {
-      img.addEventListener('click', function () {
-        openLightbox(this.getAttribute('src'));
-      });
-    });
-
-    lightboxClose.addEventListener('click', function (e) {
-      e.stopPropagation();
-      closeLightbox();
-    });
-
-    // Also close when clicking outside the image
-    lightbox.addEventListener('click', function (e) {
-      if (e.target === lightbox) {
-        closeLightbox();
-      }
-    });
-  </script>
-
+   <script src="/assets/js/updates_script.js"></script>
 </body>
 </html>
 
