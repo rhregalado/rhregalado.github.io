@@ -10,7 +10,22 @@ redirect_from:
 
 Welcome to my personal academic space!
 
-Kumusta! My name is Ric. I recently earned my Masters degree in Molecular Biology and Biotechnology at the [National Institute of Molecular Biology and Biotechnology (NIMBB)](https://nimbb.upd.edu.ph/) at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group led by [Assoc. Prof. Jose Enrico H. Lazaro, PhD](https://nimbb.upd.edu.ph/?page_id=6327) and worked on mining, microbes, and models. You can learn more about our Lab [here](/files/TOX.png).
+Kumusta! My name is Ric. I recently earned my Masters degree in Molecular Biology and Biotechnology at the [National Institute of Molecular Biology and Biotechnology (NIMBB)](https://nimbb.upd.edu.ph/) at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group led by  <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Assoc. Prof. Jose Enrico H. Lazaro, PhD</a> and worked on mining, microbes, and models. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
+
+<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
+  <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
+  <img id="lightbox-img" src="" style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:0; left:0; right:0; bottom:0;">
+</div>
+
+<script>
+function openLightbox(src) {
+  document.getElementById("lightbox-img").src = src;
+  document.getElementById("lightbox").style.display = "block";
+}
+function closeLightbox() {
+  document.getElementById("lightbox").style.display = "none";
+}
+</script>
 
 My research interests lie at the intersection of molecular biology and microbiology, and presently engaged in studying microbe-metal interactions in heavy metal-polluted soils. I employ a combination of metagenomics, bioinformatics, computational and systems biology, as well as biogeochemistry to uncover the hidden functional potential of microbes within this harsh environment. This line of inquiry holds promise for unraveling novel metabolic pathways and natural products, offering valuable insights into their ecophysiological roles and potential applications in soil remediation. Before coming to UP Diliman, I worked with marine natural products extracted from jellyfish-associated fungi under the supervision of Assoc. Prof. Daile Meek Salvador-Membreve from Bicol University where I also received my B.S. in Biology degree <i>cum laude</i>.
 
