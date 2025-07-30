@@ -74,10 +74,36 @@ author_profile: true
       </div>
    </div>
 
+   <!-- Lightbox overlay -->
+   <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
+      <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
+      <img id="lightbox-img" src="" style="max-width:90%; max-height:90%; position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);">
+   </div>
+
    <script src="/assets/js/updates_script.js"></script>
+
+   <!-- Lightbox script -->
+   <script>
+      function openLightbox(src) {
+         document.getElementById("lightbox-img").src = src;
+         document.getElementById("lightbox").style.display = "block";
+      }
+
+      function closeLightbox() {
+         document.getElementById("lightbox").style.display = "none";
+      }
+
+      document.querySelectorAll('.carousel_img').forEach(img => {
+         img.style.cursor = 'pointer';
+         img.addEventListener('click', function () {
+            openLightbox(this.src);
+         });
+      });
+   </script>
 </body>
 
 </html>
+
 <h6><center>Sharing a few snapshots to highlight some of my recent activities and engagements</center></h6>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
