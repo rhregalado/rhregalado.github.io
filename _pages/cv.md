@@ -14,7 +14,7 @@ redirect_from:
 * 2014-2018: BSc Biology (<i>cum laude</i>) at [Bicol University](https://bicol-u.edu.ph)
 <br><br>
 
-<h1 style="font-size: 1.3em;">Discipline</h1>
+<h1 style="font-size: 1.3em;">Disciplines</h1>
 Microbiology • Molecular Biology
 <br><br>
 
