@@ -38,9 +38,9 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1577-1687"
   semantic         : # URL
-  #pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Regalado+RRH&cauthor_id=39456607"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Ric-Ryan-Regalado"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57262195200"
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
