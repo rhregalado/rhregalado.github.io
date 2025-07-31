@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "Contact"
-permalink: /cv-json/
+permalink: /contact/
 author_profile: false
 redirect_from:
   - /resume-json
 ---
 
-To make it easy for people to find me, all my contact information is listed below; including my current mailing address, institutional email, and various web services. Should you require to get in touch with me regarding general inquiries, collaborations, or any questions related to my research, here are some places on the Internet where I reside:
+To make it easy for people to find me, I’ve listed all my contact information below, including my current mailing address, institutional email, and various web services. If you’d like to reach out for general inquiries, collaborations, or questions related to my research, here are some places on the Internet where I reside:
 
 
 {% include base_path %}
