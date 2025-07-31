@@ -10,9 +10,10 @@
     
     <div class="cv-contact">
       {% if cv.basics.email %}
-      <a href="mailto:rhregalado@up.edu.ph" 
+      <a href="mailto:rhregalado@up.edu.ph"
+        target="_blank"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
-        onmouseover="this.style.color='steel blue'" onmouseout="this.style.color='inherit'">
+        onmouseover="this.style.color=steel blue" onmouseout="this.style.color='inherit'">
       <i class="fas fa-envelope"></i> rhregalado@up.edu.ph
       </a>
       </div>
@@ -26,7 +27,11 @@
       
       {% if cv.basics.website %}
       <div class="cv-contact-item">
-        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank">{{ cv.basics.website }}</a>
+      <a href="{{ cv.basics.website }}"
+        target="_blank"
+        style="color: inherit; text-decoration: none; transition: color 0.3s;" 
+        onmouseover="this.style.color=steel blue" onmouseout="this.style.color='inherit'">
+        <i class="fas fa-globe"></i> {{ cv.basics.website }}
       </div>
       {% endif %}
       
