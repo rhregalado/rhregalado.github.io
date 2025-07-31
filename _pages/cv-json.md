@@ -16,19 +16,18 @@ To make it easy for people to find me, I’ve listed all my contact information 
 <link rel="stylesheet" href="{{ "/assets/css/academicons.css" | relative_url }}">
 
 <style>
-.icon-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: start;
-  align-items: center;
-}
-
-.icon-container a {
-  font-size: 2rem;
-  text-decoration: none;
-}
+  .archive {
+    width: 80%;
+    margin: 0 auto;
+    float: none;
+    padding-right: 0;
+  }
+  
+  @media (min-width: 80em) {
+    .archive {
+      width: 70%;
+    }
+  }
 </style>
-
 
 {% include cv-template.html %}
