@@ -39,9 +39,17 @@
     {% for profile in cv.basics.profiles %}
     <a href="{{ profile.url }}" target="_blank" class="cv-profile-link cv-{{ profile.network | downcase | replace: ' ', '-' }}" aria-label="{{ profile.network }}">
         {% if profile.network == "Google Scholar" %}
-          <i class="fa-brands fa-google-scholar" style="color:#A6CE39;"></i>
+          <i class="fa-brands fa-google-scholar" style="color:#4285F4;"></i>
         {% elsif profile.network == "X (formerly Twitter)" %}
-          <i class="fa-brands fa-x-twitter"></i>
+          <i class="fa-brands fa-x-twitter" style="color:#000000;"></i>
+        {% elsif profile.network == "orcid" %}
+          <i class="fab fa-orcid" style="color:#A6CE39;"></i>
+        {% elsif profile.network == "github" %}
+          <i class="fab fa-github" style="color:#181717;"></i>
+        {% elsif profile.network == "researchgate" %}
+          <i class="fab fa-researchgate" style="color:#181717;"></i>
+        {% elsif profile.network == "bluesky" %}
+          <i class="fab fa-bluesky" style="color:$bluesky-color;"></i>
         {% else %}
           <i class="fab fa-{{ profile.network | downcase }}"></i>
         {% endif %}
