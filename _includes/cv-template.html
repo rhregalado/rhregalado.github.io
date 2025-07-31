@@ -39,7 +39,6 @@
         <i class="fas fa-map-marker-alt"></i> {{ cv.basics.location.city }}{% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}{% if cv.basics.location.countryCode %}, {{ cv.basics.location.countryCode }}{% endif %}
       </div>
       {% endif %}
-    </div>
     
     {% if cv.basics.profiles.size > 0 %}
   <div class="cv-profiles">
@@ -86,7 +85,8 @@
     {% endfor %}
   </div>
 {% endif %}
-
+</div>
+    
 <script>
   document.querySelectorAll('.cv-profile-link').forEach(link => {
     const icon = link.querySelector('i');
