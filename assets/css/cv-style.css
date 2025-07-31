@@ -252,7 +252,7 @@
   }
 
   .cv-orcid i {
-  color: #A6CE39;
+  color: #A6CE39 !important;
   }
 
   .cv-google-scholar i {
