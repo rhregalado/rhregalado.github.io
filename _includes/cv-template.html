@@ -37,7 +37,7 @@
     {% if cv.basics.profiles.size > 0 %}
     <div class="cv-profiles">
     {% for profile in cv.basics.profiles %}
-      <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
+      <a href="{{ profile.url }}" target="_blank" class="cv-profile-link" aria-label="{{ profile.network }}">
         {% if profile.network == "Google Scholar" %}
           <i class="fa-brands fa-google-scholar"></i>
         {% elsif profile.network == "X (formerly Twitter)" %}
@@ -45,7 +45,6 @@
         {% else %}
           <i class="fab fa-{{ profile.network | downcase }}"></i>
         {% endif %}
-        {{ profile.network }}
       </a>
     {% endfor %}
   </div>
