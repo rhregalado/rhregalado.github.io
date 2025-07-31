@@ -39,7 +39,7 @@
     {% for profile in cv.basics.profiles %}
     <a href="{{ profile.url }}" target="_blank" class="cv-profile-link cv-{{ profile.network | downcase | replace: ' ', '-' }}" aria-label="{{ profile.network }}">
         {% if profile.network == "Google Scholar" %}
-          <i class="fa-brands fa-google-scholar"></i>
+          <i class="fa-brands fa-google-scholar style="color:#A6CE39;"></i>
         {% elsif profile.network == "X (formerly Twitter)" %}
           <i class="fa-brands fa-x-twitter"></i>
         {% else %}
