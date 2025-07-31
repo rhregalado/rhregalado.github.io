@@ -363,3 +363,43 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
       display: none;
     }
   }
+
+/* ==========================================================================
+   Custom Social Icon Colors
+   ========================================================================== */
+
+.cv-profile-link {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  color: inherit;
+
+  i {
+    font-size: 1.2em;
+  }
+
+  &.bluesky i {
+    color: #1182fe; // your $bluesky-color
+  }
+
+  &.twitter i {
+    color: #1da1f2;
+  }
+
+  &.github i {
+    color: #333;
+  }
+
+  &.linkedin i {
+    color: #0077b5;
+  }
+
+  &.google-scholar i {
+    color: #4285f4;
+  }
+
+  &:hover i {
+    opacity: 0.8;
+  }
+}
