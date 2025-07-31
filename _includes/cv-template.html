@@ -42,7 +42,7 @@
          class="cv-profile-link cv-{{ profile.network | downcase | replace: ' ', '-' }}"
          aria-label="{{ profile.network }}"
          title="{{ profile.network }}"
-         style="display:inline-block; margin:0 5px; transition:opacity 0.3s;">
+         style="display:inline-block; transition:opacity 0.3s;">
          
         {% if profile.network == "Google Scholar" %}
           <i class="fa-brands fa-google-scholar"
@@ -83,7 +83,7 @@
 <script>
   document.querySelectorAll('.cv-profile-link').forEach(link => {
     link.addEventListener('mouseover', () => {
-      link.querySelector('i').style.opacity = '0.8';
+      link.querySelector('i').style.opacity = '0.6';
     });
     link.addEventListener('mouseout', () => {
       link.querySelector('i').style.opacity = '1';
