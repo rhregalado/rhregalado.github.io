@@ -52,7 +52,7 @@
              style="color:var(--global-text-color); transition:opacity 0.3s;"></i>
         {% elsif profile.network == "ORCID" %}
           <i class="fab fa-orcid"
-             style="color:#A6CE39; transition:opacity 0.3s;"></i>
+             style="color:#A6CE39; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Scopus" %}
           <i class="ai ai-scopus"
              style="color:#EF8A33; transition:opacity 0.3s;"></i>
@@ -82,11 +82,14 @@
 
 <script>
   document.querySelectorAll('.cv-profile-link').forEach(link => {
+    const icon = link.querySelector('i');
     link.addEventListener('mouseover', () => {
-      link.querySelector('i').style.opacity = '0.6';
+      icon.style.opacity = '0.8';
+      icon.style.transform = 'translateY(-3px)';
     });
     link.addEventListener('mouseout', () => {
-      link.querySelector('i').style.opacity = '1';
+      icon.style.opacity = '1';
+      icon.style.transform = 'translateY(0)';
     });
   });
 </script>
