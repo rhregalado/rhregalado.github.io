@@ -46,31 +46,31 @@
          
         {% if profile.network == "Google Scholar" %}
           <i class="fa-brands fa-google-scholar"
-             style="color:#4285F4; transition:opacity 0.3s;"></i>
+             style="color:#4285F4; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "X (formerly Twitter)" %}
           <i class="fa-brands fa-x-twitter"
-             style="color:var(--global-text-color); transition:opacity 0.3s;"></i>
+             style="color:var(--global-text-color); transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "ORCID" %}
           <i class="fab fa-orcid"
              style="color:#A6CE39; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Scopus" %}
           <i class="ai ai-scopus"
-             style="color:#EF8A33; transition:opacity 0.3s;"></i>
+             style="color:#EF8A33; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Web of Science" %}
           <i class="ai ai-clarivate"
-             style="color:#5835B8; transition:opacity 0.3s;"></i>
+             style="color:#5835B8; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "PubMed" %}
           <i class="ai ai-pubmed"
-             style="color:#2F538E; transition:opacity 0.3s;"></i>
+             style="color:#2F538E; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "GitHub" %}
           <i class="fab fa-github"
-             style="color:#171516; transition:opacity 0.3s;"></i>
+             style="color:#171516; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "ResearchGate" %}
           <i class="fab fa-researchgate"
-             style="color:#00CCBB; transition:opacity 0.3s;"></i>
+             style="color:#00CCBB; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Bluesky" %}
           <i class="fab fa-bluesky"
-             style="color:#1184fe; transition:opacity 0.3s;"></i>
+             style="color:#1184fe; transition: opacity 0.3s, transform 0.3s;"></i>
         {% else %}
           <i class="fab fa-{{ profile.network | downcase | replace: ' ', '-' }}"
              style="transition:opacity 0.3s;"></i>
