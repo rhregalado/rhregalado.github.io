@@ -22,6 +22,6 @@ tags:
 
 <b>Abstract:</b> <i>Leptobacillium</i>, a lignicolous hyphomycetous fungus composed of 11 known species, is recognized for its potential as a source of biocontrol agents and bioactive compounds. In this study, we report the draft genome of <i>Leptobacillium coffeanum</i>, a species previously isolated in Brazil and now recorded in the Philippines. This genomic resource provides a foundation for future investigations into its ecological roles, metabolic capabilities, and potential applications in agriculture and biotechnology.<br>
 
-<i>Keywords: Aquatic fungi, mycology, freshwater fungi, Philippine mycology, Philippine biodiversity, fungal biosystematics, tropical fungi, hyphomycetes, Sordariomycetes, Ascomycota</i><br><br>
+<i>Keywords: Aquatic fungi, mycology, freshwater fungi, Philippine mycology, Philippine biodiversity, fungal biosystematics, tropical fungi, hyphomycetes, Sordariomycetes, Ascomycota</i><br><br><br>
 
 <a href="https://doi.org/10.1128/mra.00138-25">Available as Open Access</a><br>
