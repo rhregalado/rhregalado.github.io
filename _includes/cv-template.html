@@ -39,9 +39,9 @@
     {% for profile in cv.basics.profiles %}
       <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
         {% if profile.network == "Google Scholar" %}
-          <i class="fa-brands fa-google-scholar icon-pad-right"></i>
+          <i class="fa-brands fa-google-scholar"></i>
         {% elsif profile.network == "Twitter" %}
-          <i class="fab fa-twitter icon-pad-right"></i>
+          <i class="fa-brands fa-x-twitter"></i>
         {% else %}
           <i class="fab fa-{{ profile.network | downcase }} icon-pad-right"></i>
         {% endif %}
