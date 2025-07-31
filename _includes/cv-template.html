@@ -36,14 +36,22 @@
     
     {% if cv.basics.profiles.size > 0 %}
     <div class="cv-profiles">
-      {% for profile in cv.basics.profiles %}
+    {% for profile in cv.basics.profiles %}
       <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
-        <i class="fab fa-{{ profile.network | downcase }}"></i> {{ profile.network }}
+        {% if profile.network == "Google Scholar" %}
+          <i class="fa-brands fa-google-scholar icon-pad-right"></i>
+        {% elsif profile.network == "Twitter" %}
+          <i class="fab fa-twitter icon-pad-right"></i>
+        {% else %}
+          <i class="fab fa-{{ profile.network | downcase }} icon-pad-right"></i>
+        {% endif %}
+        {{ profile.network }}
       </a>
-      {% endfor %}
-    </div>
-    {% endif %}
+    {% endfor %}
   </div>
+{% endif %}
+  </div>
+
   
   {% if cv.basics.summary %}
   <!-- Summary -->
