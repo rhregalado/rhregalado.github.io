@@ -1,6 +1,6 @@
 ---
 title: "How come we are both?: The paradox between obesity and poverty"
-permalink: /publication/the-paradox-between-obesity-and-poverty
+permalink: /essays/the-paradox-between-obesity-and-poverty
 date: 2021-05-01
 ---
 
