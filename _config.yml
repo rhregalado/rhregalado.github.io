@@ -298,7 +298,6 @@ defaults:
       comments: true
       share: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
