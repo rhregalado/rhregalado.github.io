@@ -1,6 +1,6 @@
 ---
 title: 'How come we are both?: The paradox between obesity and poverty'
-date: 2023-09-14
+date: 2022-05-17
 permalink: /essays/the-paradox-between-obesity-and-poverty
 excerpt: "<b>[SCHOLARLY ESSAY]</b> A seemingly contradictory phenomenon of the simultaneous prevalence of obesity and poverty in our population has taken hold across the world. Statistically, 2017 was reported to be the first year in a decade to record an alarming rise in the number of hungry people, according to the United Nations. Along with the rise in hunger, there has also been a continued aggressive rise in obesity. On the surface, this seems to be a highly unusual global phenomenon – an increase in global hunger with a simultaneous increase in global obesity. However, what is remarkable and counterintuitive is that the contradictory concepts between obesity and poverty can actually coexist within the same individual, family, or community – and practically a reality that is difficult to disentangle. Thus, it begs the question: <i>how come we are both?</i>"
 ---
@@ -19,7 +19,7 @@ Additionally, depression symptomatology has also been associated with the parado
 
 <img src="https://www.thelancet.com/cms/10.1016/j.lansea.2024.100453/asset/883d08e5-512d-4306-a11d-eee8e094a53b/main.assets/gr1_lrg.jpg" 
      style="max-width:100%; height:auto;">
-<h6>The double burden of malnutrition. In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024) in <i>The Lancet Regional Health - Southeast Asia</i><sup>19</sup>.</h6>
+<h6>In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024) in <i>The Lancet Regional Health - Southeast Asia</i><sup>19</sup>.</h6>
 
 <h2>The new nutrition reality and future perspectives</h2>
 The global health community has been slow to acknowledge the challenge of the large proportion of low- and middle-income countries facing the burden of simultaneous, exponential poverty and obesity incidences<sup>7</sup>. This new nutrition reality is particularly important to acknowledge, because poverty, food insecurity, and hunger cannot be entirely divorced from obesity. Obesity is not only a medical issue but a socio-anthropological one, too. We often think of it as the polar opposite of malnutrition, but this is actually a common misconception. Malnutrition in all of its forms– undernutrition, micronutrient deficiencies and overweight/obesity– is closely interrelated. And economics perhaps pull much of the strings in influencing not only what food a family can afford to buy, but also where they can afford to live, greatly affecting their access to food stores, social services, public health services, and nutrition assistance programs.<br><br>
@@ -30,7 +30,7 @@ Although it is true that there is an endogenous programming deep within our biol
 
 Finally, on a more personal note, I wish to touch more on the cultural influences of obesity such as the increasing preference to ready-to-eat foods like canned goods, instant noodles, instant 3-in-1 coffees, processed meats, microwave-ready meals, and carbonated drinks. Filipinos, in particular, are massively drawn to these so-called “ultra-processed food revolution” due to its inherent cheapness and convenience. Its increasing penetration to our family tables has completely changed on how we perceive the traditional, fresh, slow-cooked meals, especially among children and adolescents. Hence, this encourages a diet that normalizes consumption of preservative-laden, high caloric foods in place of fresh and organic ingredients, that are most often than not just within the reach of our own backyards. Thus, it goes without saying that a household that can recognize the factors that underlie obesity and make healthy eating choices is one step closer to avoiding the double burden of malnutrition and ending the vicious cycle of this paradox.<br><br>
 
-(Q.C., 09/2023)<br><br>
+(Q.C., 05/2022)<br><br>
 
 <div style="font-size: 0.8em;">
 <b>Literatures cited:</b>
@@ -57,3 +57,5 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
 </ol>
 </div>
 </div>
+
+><h6><b><i>NOTE:</i></b> This work was submitted in partial fulfillment of the requirements for MBB 225: Advanced Molecular Physiology coursework, second semester AY 2021-2022.</h6>
