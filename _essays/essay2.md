@@ -24,15 +24,15 @@ A lady in simple white dress, a vision so divine.<br>
 She smelled like delicate sampaguitas in summer,<br>
 Her smile as sweet as nectar.<br>
 She has a doe's soft eyes anda refined carriage,<br>
-With a polished air of delicacy and resilient nobility<br>
+With a polished air of delicacy and resilient nobility.<br>
 I asked her if she was lost and alone,<br>
-She smiled, nodding gently with her floral crown<br>
+She smiled, nodding gently with her floral crown.<br>
 She finally spoke and asked me the same,<br>
 And as I answered, I sought to learn her name.<br>
 
 <h2>Part 3: Of Blooms and Wistful Departures</h2>
 Hesitant, she put her hand instead along my chest,<br>
-Inhaling deeply, she bid my heart to rest<br> 
+Inhaling deeply, she bid my heart to rest.<br> 
 "Trust your feelings will unfurl, let them find their way,<br>
 I'll ensure they're heard, come what may."<br>
 With a parting gift, a yellow bloom to keep,<br>
