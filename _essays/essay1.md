@@ -30,7 +30,7 @@ Although it is true that there is an endogenous programming deep within our biol
 
 Finally, on a more personal note, I wish to touch more on the cultural influences of obesity such as the increasing preference to ready-to-eat foods like canned goods, instant noodles, instant 3-in-1 coffees, processed meats, microwave-ready meals, and carbonated drinks. Filipinos, in particular, are massively drawn to these so-called “ultra-processed food revolution” due to its inherent cheapness and convenience. Its increasing penetration to our family tables has completely changed on how we perceive the traditional, fresh, slow-cooked meals, especially among children and adolescents. Hence, this encourages a diet that normalizes consumption of preservative-laden, high caloric foods in place of fresh and organic ingredients, that are most often than not just within the reach of our own backyards. Thus, it goes without saying that a household that can recognize the factors that underlie obesity and make healthy eating choices is one step closer to avoiding the double burden of malnutrition and ending the vicious cycle of this paradox.<br><br>
 
-(Q.C., 05/2022)<br><br>
+(Q.C., 05/2022)<br><br><br>
 
 <div style="font-size: 0.8em;">
 <b>Literatures cited:</b>
