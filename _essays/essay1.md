@@ -1,6 +1,7 @@
 ---
 title: 'How come we are both?: The paradox between obesity and poverty'
 date: 2022-05-17
+show_date: false
 permalink: /essays/the-paradox-between-obesity-and-poverty
 excerpt: "<b>[SCHOLARLY ESSAY]</b> A seemingly contradictory phenomenon of the simultaneous prevalence of obesity and poverty in our population has taken hold across the world. Statistically, 2017 was reported to be the first year in a decade to record an alarming rise in the number of hungry people, according to the United Nations. Along with the rise in hunger, there has also been a continued aggressive rise in obesity. On the surface, this seems to be a highly unusual global phenomenon – an increase in global hunger with a simultaneous increase in global obesity. However, what is remarkable and counterintuitive is that the contradictory concepts between obesity and poverty can actually coexist within the same individual, family, or community – and practically a reality that is difficult to disentangle. Thus, it begs the question: <i>how come we are both?</i>"
 ---
