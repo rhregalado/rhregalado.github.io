@@ -99,7 +99,7 @@ layout: default
     <div class="page__related">
       <h4 class="page__related-title">You May Also Enjoy</h4>
       <div class="grid__wrapper">
-        {% for post in related_essays limit:3 %}
+        {% for post in related_essays limit:2 %}
           {% include archive-noexcerpt.html type="grid" %}
         {% endfor %}
       </div>
