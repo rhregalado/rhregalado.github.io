@@ -292,7 +292,7 @@ defaults:
       path: ""
       type: essays
     values:
-      layout: single
+      layout: essay-layout
       author_profile: true
       read_time: true
       comments: true
