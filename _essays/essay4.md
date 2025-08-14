@@ -30,6 +30,31 @@ Although it is true that there is an endogenous programming deep within our biol
 Finally, on a more personal note, I wish to touch more on the cultural influences of obesity such as the increasing preference to ready-to-eat foods like canned goods, instant noodles, instant 3-in-1 coffees, processed meats, microwave-ready meals, and carbonated drinks. Filipinos, in particular, are massively drawn to these so-called “ultra-processed food revolution” due to its inherent cheapness and convenience. Its increasing penetration to our family tables has completely changed on how we perceive the traditional, fresh, slow-cooked meals, especially among children and adolescents. Hence, this encourages a diet that normalizes consumption of preservative-laden, high caloric foods in place of fresh and organic ingredients, that are most often than not just within the reach of our own backyards. Thus, it goes without saying that a household that can recognize the factors that underlie obesity and make healthy eating choices is one step closer to avoiding the double burden of malnutrition and ending the vicious cycle of this paradox.<br><br>
 
 (Q.C., 05/2022)<br><br><br>
+
+<div style="font-size: 0.8em;">
+<b>Literatures cited:</b>
+<ol>
+<li>United Nations. (2018). Hunger reached ‘alarming’ ten-year high in 2017, according to latest UN report. Retrieved May 2022, from UN News: <a href="https://news.un.org/en/story/2018/09/1019002">https://news.un.org/en/story/2018/09/1019002</a></li>
+<li>Cadegiani, F. A., Diniz, G. C., & Alves, G. (2017). Aggressive clinical approach to obesity improves metabolic and clinical outcomes and can prevent bariatric surgery: a single center experience. <i>BMC Obesity</i>, 4(1), 1-18.</li>
+<li>Anderson, S. A. (Ed.). (1990). Core indicators of nutritional state for difficult-to-sample populations. <i>The Journal of Nutrition</i>, 120(suppl_11), 1555-1600.</li>
+<li>Caballero, B. (2005). A nutrition paradox—underweight and obesity in developing countries. <i>The New England Journal of Medicine</i>, 352(15), 1514-1516.</li>
+<li>Welch, R. M., Combs, G. F., & Duxbury, J. M. (1997). Toward a "greener" revolution. <i>Issues in Science and Technology</i>, 14(1), 50-58.</li>
+<li>Gibney, M. J. (2019). Ultra-processed foods: definitions and policy issues. <i>Current Developments in Nutrition</i>, 3(2), nzy077.</li>
+<li>Popkin, B. M., Corvalan, C., & Grummer-Strawn, L. M. (2020). Dynamics of the double burden of malnutrition and the changing nutrition reality. <i>The Lancet</i>, 395(10217), 65-74.</li>
+<li>Henriksen, T., & Clausen, T. (2002). The fetal origins hypothesis: placental insufficiency and inheritance versus maternal malnutrition in well-nourished populations. <i>Acta Obstetricia et Gynecologica Scandinavica</i>, 81(2), 112-114.</li>
+<li>Kimm, S. Y. (2004). Fetal origins of adult disease: the Barker hypothesis revisited—2004. <i>Current Opinion in Endocrinology, Diabetes and Obesity</i>, 11(4), 192-196.</li>
+<li>Whitaker, R. C., Phillips, S. M., & Orzol, S. M. (2006). Food insecurity and the risks of depression and anxiety in mothers and behavior problems in their preschool-aged children. <i>Pediatrics</i>, 118(3), e859-e868.</li>
+<li>Tarasuk, V., Mitchell, A., McLaren, L., & McIntyre, L. (2013). Chronic physical and mental health conditions among adults may increase vulnerability to household food insecurity. <i>The Journal of Nutrition</i>, 143(11), 1785-1793.</li>
+<li>Leung, C. W., Epel, E. S., Willett, W. C., Rimm, E. B., & Laraia, B. A. (2015). Household food insecurity is positively associated with depression among low-income supplemental nutrition assistance program participants and income-eligible nonparticipants. <i>The Journal of Nutrition</i>, 145(3), 622-627.</li>
+<li>Pereira-Miranda, E., Costa, P. R., Queiroz, V. A., Pereira-Santos, M., & Santana, M. L. (2017). Overweight and obesity associated with higher depression prevalence in adults: a systematic review and meta-analysis. <i>Journal of the American College of Nutrition</i>, 36(3), 223-233.</li>
+<li>Li, L., Gower, B. A., Shelton, R. C., & Wu, X. (2017). Gender-specific relationship between obesity and major depression. <i>Frontiers in Endocrinology</i>, 8, 292.</li>
+<li>Mannan, M., Mamun, A., Doi, S., & Clavarino, A. (2016). Is there a bi-directional relationship between depression and obesity among adult men and women? Systematic review and bias-adjusted meta analysis. <i>Asian Journal of Psychiatry</i>, 21, 51-66.</li>
+<li>de Castro, F., Place, J. M., Villalobos, A., Rojas, R., Barrientos, T., & Frongillo, E. A. (2017). Poor early childhood outcomes attributable to maternal depression in Mexican women. <i>Archives of Women's Mental Health</i>, 20(4), 561-568.</li>
+<li>Franklin, B., Jones, A., Love, D., Puckett, S., Macklin, J., & White-Means, S. (2012). Exploring mediators of food insecurity and obesity: a review of recent literature. <i>Journal of Community Health</i>, 37(1), 253-264.</li>
+<li>Martin, M. A., & Lippert, A. M. (2012). Feeding her children, but risking her health: the intersection of gender, household food insecurity and obesity. <i>Social Science & Medicine</i>, 74(11), 1754-1764.</li>
+<li>Yajnik, C. S. (2024). Early life origins of the epidemic of the double burden of malnutrition: life can only be understood backwards. <i>The Lancet Regional Health-Southeast Asia</i>, 28, 100453.</li>
+</ol>
+</div>
 </div>
 
 ><h6><i>NOTE:</i> This essay was submitted in partial fulfillment of the requirements for MBB 225 (Advanced Molecular Physiology), on the topic <i>Energy Regulation and Weight Control: The Paradox between Obesity and Poverty</i>, during the second semester of AY 2021–2022.</h6>
