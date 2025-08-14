@@ -94,7 +94,7 @@ layout: default
   </article>
 
  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
-  {% assign related_essays = site.essays | where_exp:"item", "item.url != page.url" | sort: 'date' | reverse %}
+{% assign related_essays = site.essays | where_exp:"item", "item.url != page.url" | sort: 'date' | reverse %}
 {% if related_essays.size > 0 %}
   <div class="page__related">
     <h4 class="page__related-title">You May Also Enjoy</h4>
