@@ -20,7 +20,7 @@ In a country where computational resources are scarce and local talents even rar
 
 They say that <i>"it takes a village to raise a scientist.”</i><br>
 And I am proud to call this my village. It may be small, but a village nonetheless.<br>
-Luv u, TOX! You were the complete opposite of the word<br><br>
+Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <img src="/images/tox2024.jpeg"><br>
 
