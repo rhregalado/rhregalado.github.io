@@ -94,13 +94,11 @@ layout: default
   </article>
 
  {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
-  {% if page.id and page.related and site.essays.size > 0 %}
+  {% assign related_essays = site.essays | where_exp:"item", "item.url != page.url" | sort: 'date' | reverse %}
+{% if related_essays.size > 0 %}
   <div class="page__related">
-    {% if site.data.ui-text[site.locale].related_label %}
-      <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
-    {% endif %}
+    <h4 class="page__related-title">You May Also Enjoy</h4>
     <div class="grid__wrapper">
-      {% assign related_essays = related_essays | where_exp:"item", "item.tags | join: ',' | downcase contains page.tags[0] | downcase" %}
       {% for post in related_essays limit:3 %}
         {% include archive-single.html type="grid" %}
       {% endfor %}
