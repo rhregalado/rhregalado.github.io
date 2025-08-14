@@ -38,15 +38,21 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date and hide_date != true %}
+<style>
+.page__date strong {
+  font-size: 0.85em; /* adjust as needed */
+}
+</style>
+
+{% if post.collection == 'teaching' %}
+  <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.collection == 'publications' %}
+  <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+{% elsif post.date and hide_date != true %}
   <p class="page__date">
     <strong>
       <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-      {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+      {{ site.data.ui-text[site.locale].date_label | default: "Posted:" }}
     </strong>
     <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
       {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
