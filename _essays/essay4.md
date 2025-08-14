@@ -56,3 +56,5 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
 </ol>
 </div>
 </div>
+
+><h6><i>NOTE:</i> This essay was submitted in partial fulfillment of the requirements for MBB 225 (Advanced Molecular Physiology), on the topic <i>Energy Regulation and Weight Control: The Paradox between Obesity and Poverty</i>, during the second semester of AY 2021–2022.</h6>
