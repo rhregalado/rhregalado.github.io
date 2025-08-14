@@ -17,8 +17,8 @@ But to talk to them, it requires a bit of work. You need to do this stuff [point
 
 In a country where computational resources are scarce and local talents even rarer, such a task is equivalent to diving into an uncharted territory. The Philippines has yet to know what it means to be involved in microbiome research. There's so few of us here. And to be given an opportunity to work on this obscure field, has become more than just a privilege; it's a luxury, it's a labor of love and it's duty. And though at times it feels lonely, with only a handful of us working on a rapidly evolving field that gives more questions more than answers, the truth is: no one really does this alone.<br><br>
 
-They say that <i>"it takes a village to raise a scientist.”</i><br><br>
-And I am proud to call this my village. It may be small, but a village nonetheless.<br><br>
+They say that <i>"it takes a village to raise a scientist.”</i><br>
+And I am proud to call this my village. It may be small, but a village nonetheless.<br>
 Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <img src="/images/tox2024.jpeg"><br><br>
