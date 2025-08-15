@@ -5,14 +5,60 @@ excerpt: "Essays"
 permalink: /essays/
 author_profile: true
 ---
+<style>
+blockquote {
+  color: #A9A9A9;
+  font-size: 1.4em;
+  font-style: italic;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Tooltip container */
+blockquote .tooltip-text {
+  visibility: hidden;
+  width: 250px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* position above the quote */
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+blockquote .tooltip-text::after {
+  content: "";
+  position: absolute;
+  top: 100%; /* bottom of the tooltip */
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #333 transparent transparent transparent;
+}
+
+/* Show tooltip on hover */
+blockquote:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
 
-<blockquote style="color:var(--global-text-color-light); font-size: 1.4em; font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;" title="Writing is also a repetitive practice of failures.">
+<blockquote style="color:var(--global-text-color-light); font-size: 1.4em; font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   “Ang Pagsusulat ay paulit-ulit na pagsasanay rin sa mga kabiguan.”
   <br>
 <cite style="font-size: 0.7em; font-style: normal; display: inline-block;">
   Edgar Calabia Samar, <em>Pitumpung Patnubay sa Paglikha ng Palagiang Panahon</em>
 </cite>
+<span class="tooltip-text">Writing is also a repetitive practice of failures.</span>
 </blockquote>
 
 {% include base_path %}
