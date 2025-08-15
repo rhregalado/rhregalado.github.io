@@ -23,7 +23,7 @@ A lady in simple white dress, a vision so divine.<br>
 <h2>Part 2: To the Tenth Muse in White</h2>
 She smelled like delicate sampaguitas in summer,<br>
 Her smile as sweet as nectar.<br>
-She has a doe's soft eyes anda refined carriage,<br>
+She has a doe's soft eyes and a refined carriage,<br>
 With a polished air of delicacy and resilient nobility.<br>
 I asked her if she was lost and alone,<br>
 She smiled, nodding gently with her floral crown.<br>
