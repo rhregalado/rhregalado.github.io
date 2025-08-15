@@ -1,5 +1,5 @@
 ---
-title: "How come we are both?: The paradox between obesity and poverty"
+title: "The paradox between obesity and poverty"
 date: 2022-05-17
 permalink: /essays/the-paradox-between-obesity-and-poverty
 
