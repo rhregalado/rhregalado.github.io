@@ -50,10 +50,50 @@ For now, know that I'm here; patient, caring and true.<br><br>
 (Los Baños, 11/2018)
 
 <br>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
-<div id="like-container">
-  <a id="like-button" href="https://github.com/rhregalado/rhregalado.github.i" target="_blank">
-    <i class="fa-solid fa-heart"></i> 
-    <span id="like-count">0</span>
-  </a>
-</div>
+<!-- Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Like Button -->
+<button id="like-btn" style="
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5rem;
+  color: #888;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+">
+  <i class="fa-solid fa-heart"></i>
+  <span id="like-count">0</span>
+</button>
+
+<script>
+// Use page URL as unique key
+const pageKey = encodeURIComponent(window.location.pathname);
+const namespace = "your-namespace"; // change this to your project/site ID
+const apiBase = "https://api.countapi.xyz";
+
+// Update count display
+function updateCount() {
+  fetch(`${apiBase}/get/${namespace}/${pageKey}`)
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById("like-count").innerText = data.value || 0;
+    });
+}
+
+// Increment on click
+document.getElementById("like-btn").addEventListener("click", () => {
+  fetch(`${apiBase}/hit/${namespace}/${pageKey}`)
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById("like-count").innerText = data.value;
+      document.querySelector("#like-btn i").style.color = "red"; // turn heart red on like
+    });
+});
+
+// Initialize
+updateCount();
+</script>
+
