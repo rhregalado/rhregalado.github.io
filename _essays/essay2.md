@@ -71,7 +71,7 @@ For now, know that I'm here; patient, caring and true.<br><br>
 <script>
 // Use page URL as unique key
 const pageKey = encodeURIComponent(window.location.pathname);
-const namespace = "your-namespace"; // change this to your project/site ID
+const namespace = "https://rhregalado.github.io/essays/maria"; // change this to your project/site ID
 const apiBase = "https://api.countapi.xyz";
 
 // Update count display
