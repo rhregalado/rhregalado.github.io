@@ -41,7 +41,7 @@ And with a farewell as mysterious as her guise,<br>
 She departed, leaving me to surmise.<br>
 
 <h2>Part 4: <i>Was beßer ist reden oder sterben?</i></h2>
-<h4>(German; is it better to speak or to die?)</h4>
+<h5>(German; is it better to speak or to die?)</h5>
 A thousand words I wish to share with you,<br>
 But none of these are what you need right now.<br>
 I confided them to her, in fervent hopes she'll find you,<br>
