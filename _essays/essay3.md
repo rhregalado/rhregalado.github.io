@@ -1,3 +1,10 @@
+--- 
+title: "A Pantheon of Muses" 
+date: 2022-07-05 
+permalink: /essays/muses 
+excerpt: '<b>[ESSAY]</b> ' 
+---
+
 <div style="text-align: justify;">
   <p>Do you believe in the mythical figures buried in the rich Hellenic pages of old? If yes, have you heard or read about the Muses? The Muses were the sister-goddesses who presided over the arts and sciences in Ancient Greece and later came to be regarded as the ultimate source of human creativity and inspiration. Classical Greek literature identifies nine Muses: <strong>Calliope, Clio, Polyhymnia, Euterpe, Terpsichore, Erato, Melpomene, Thalia, and Urania</strong>. According to <em>Hesiod’s Theogony</em> (c. 700 BC), which served as a foundational text for later authors, the Muses were the daughters of Zeus, king of the gods, and Mnemosyne (“Memory” personified). They came to embody knowledge, creativity, and the arts, particularly through poetry, literature, dance, and music.</p>
 
