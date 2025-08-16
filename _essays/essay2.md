@@ -87,5 +87,5 @@ For now, know that I'm here; patient, caring and true.<br><br>
       document.getElementById("likeBtn").addEventListener("click", () => {
         likeRef.transaction(n => (n || 0) + 1);
       });
-    });
-  </script>
+  });
+</script>
