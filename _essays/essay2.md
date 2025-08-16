@@ -69,22 +69,22 @@ For now, know that I'm here; patient, caring and true.<br><br>
     appId: "1:520104760512:web:7c8513409ce4f080bb0925"
   };
 
-  // Initialize Firebase
-  const app = firebase.initializeApp(firebaseConfig);
-  const db = firebase.database();
+     // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    const db = firebase.database();
 
-  // Use page path as unique key
-  const slug = window.location.pathname.replace(/\//g, "_");
-  const likeRef = db.ref("likes/" + slug);
+    // Use page path as unique key
+    const slug = window.location.pathname.replace(/\//g, "_");
+    const likeRef = db.ref("likes/" + slug);
 
-  // Show current likes
-  likeRef.on("value", snap => {
-    document.getElementById("likeCount").innerText = snap.val() || 0;
-  });
+    // Show current likes
+    likeRef.on("value", snap => {
+      document.getElementById("likeCount").innerText = snap.val() || 0;
+    });
 
-  // Increment likes
-  document.getElementById("likeBtn").onclick = () => {
-    likeRef.transaction(n => (n || 0) + 1);
-  };
-</script>
+    // Increment likes when button clicked
+    document.getElementById("likeBtn").addEventListener("click", () => {
+      likeRef.transaction(n => (n || 0) + 1);
+    });
+  </script>
 
