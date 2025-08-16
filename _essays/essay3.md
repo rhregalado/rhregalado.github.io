@@ -24,3 +24,9 @@ Luv u, TOX! You were the complete opposite of the word.<br><br>
 <img src="/images/tox2024.jpeg"><br><br>
 
 (Q.C., 06/2025)
+
+<br>
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="custom" data-btn_size="21" data-f_size="11" data-icon_size="12" data-icon_l="hrt2" data-icon_l_c_v="#fb0548" data-icon_d_c_v="#ffaf00" data-i18n_like="Like" data-ef_voting="grow" data-white_label="true" data-identifier="item_1" data-counter_frmt="km" data-share_enabled="false"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
