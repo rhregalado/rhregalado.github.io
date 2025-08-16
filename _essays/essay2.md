@@ -57,7 +57,6 @@ For now, know that I'm here; patient, caring and true.<br><br>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
 
 <script>
-(function () {
   // Firebase config
   const firebaseConfig = {
     apiKey: "AIzaSyCQ5b33qljIv9bUQZVrOEGDs42S3LSx1PU",
@@ -69,29 +68,25 @@ For now, know that I'm here; patient, caring and true.<br><br>
     appId: "1:520104760512:web:7c8513409ce4f080bb0925"
   };
 
-  // Init
-  firebase.initializeApp(firebaseConfig);
-  const db = firebase.database();
+    // Initialize Firebase
+    const app = firebase.initializeApp(firebaseConfig);
+    const db = firebase.database(app);
 
-  // Elements
-  const countEl = document.getElementById("likeCount");
-  const btn = document.getElementById("likeBtn");
-  if (!countEl || !btn) { console.error("likeBtn/likeCount not found"); return; }
+    // References
+    const likeButton = document.getElementById("likeButton");
+    const likeCount = document.getElementById("likeCount");
+    const likeRef = db.ref("likes");
 
-  // Unique key per page
-  let slug = location.pathname.replace(/\/$/, "");
-  slug = (slug || "/").replace(/\//g, "_"); // e.g., "/" -> "_"
+    // Update count in real-time
+    likeRef.on("value", (snapshot) => {
+      const count = snapshot.val() || 0;
+      likeCount.textContent = count;
+    });
 
-  const likeRef = db.ref("likes/" + slug);
-
-  // Show current likes
-  likeRef.on("value", function (snap) {
-    countEl.textContent = snap.val() || 0;
-  });
-
-  // Increment on click
-  btn.addEventListener("click", function () {
-    likeRef.transaction(function (n) { return (n || 0) + 1; });
-  });
-})();
-</script>
+    // Increment count when button is clicked
+    likeButton.addEventListener("click", () => {
+      likeRef.transaction((current) => {
+        return (current || 0) + 1;
+      });
+    });
+  </script>
