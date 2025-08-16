@@ -48,3 +48,5 @@ I confided them to her, in fervent hopes she'll find you,<br>
 For now, know that I'm here; patient, caring and true.<br><br>
 
 (Los Baños, 11/2018)
+
+{% include comments-providers/disqus.html %}
