@@ -57,37 +57,38 @@ For now, know that I'm here; patient, caring and true.<br><br>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
 
 <script>
-  // Firebase config
-  const firebaseConfig = {
-    apiKey: "AIzaSyCQ5b33qljIv9bUQZVrOEGDs42S3LSx1PU",
-    authDomain: "likes-demo-1a7ce.firebaseapp.com",
-    databaseURL: "https://likes-demo-1a7ce-default-rtdb.firebaseio.com",
-    projectId: "likes-demo-1a7ce",
-    storageBucket: "likes-demo-1a7ce.firebasestorage.app",
-    messagingSenderId: "520104760512",
-    appId: "1:520104760512:web:7c8513409ce4f080bb0925"
-  };
+  document.addEventListener("DOMContentLoaded", function () {
+    // Firebase config
+    const firebaseConfig = {
+      apiKey: "AIzaSyCQ5b33qljIv9bUQZVrOEGDs42S3LSx1PU",
+      authDomain: "likes-demo-1a7ce.firebaseapp.com",
+      databaseURL: "https://likes-demo-1a7ce-default-rtdb.firebaseio.com",
+      projectId: "likes-demo-1a7ce",
+      storageBucket: "likes-demo-1a7ce.firebasestorage.app",
+      messagingSenderId: "520104760512",
+      appId: "1:520104760512:web:7c8513409ce4f080bb0925"
+    };
 
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
-  const db = firebase.database();
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    const db = firebase.database();
 
-  // References
-  const likeButton = document.getElementById("likeButton");
-  const likeCount = document.getElementById("likeCount");
-  const likeRef = db.ref("likes");
+    // References
+    const likeButton = document.getElementById("likeButton");
+    const likeCount = document.getElementById("likeCount");
+    const likeRef = db.ref("likes/maria"); // make it unique per page
 
-  // Update count in real-time
-  likeRef.on("value", (snapshot) => {
-    const count = snapshot.val() || 0;
-    likeCount.textContent = count;
-  });
+    // Update count in real-time
+    likeRef.on("value", (snapshot) => {
+      const count = snapshot.val() || 0;
+      likeCount.textContent = count;
+    });
 
-  // Increment count when button is clicked
-  likeButton.addEventListener("click", () => {
-    likeRef.transaction((current) => {
-      return (current || 0) + 1;
+    // Increment count when button is clicked
+    likeButton.addEventListener("click", () => {
+      likeRef.transaction((current) => {
+        return (current || 0) + 1;
+      });
     });
   });
 </script>
-
