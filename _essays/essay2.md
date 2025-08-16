@@ -54,8 +54,8 @@ For now, know that I'm here; patient, caring and true.<br><br>
 <span id="likeCount">0</span>
 
 <!-- Firebase SDK (compat versions for v8-style code) -->
-<script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-database-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
 
 <script>
   // Firebase config
