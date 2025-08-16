@@ -50,7 +50,7 @@ For now, know that I'm here; patient, caring and true.<br><br>
 (Los Baños, 11/2018)
 <br>
 
-<button id="likeBtn">👍 Like</button>
+<button id="likeButton">👍 Like</button>
 <span id="likeCount">0</span>
 
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
@@ -68,25 +68,26 @@ For now, know that I'm here; patient, caring and true.<br><br>
     appId: "1:520104760512:web:7c8513409ce4f080bb0925"
   };
 
-    // Initialize Firebase
-    const app = firebase.initializeApp(firebaseConfig);
-    const db = firebase.database(app);
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  const db = firebase.database();
 
-    // References
-    const likeButton = document.getElementById("likeButton");
-    const likeCount = document.getElementById("likeCount");
-    const likeRef = db.ref("likes");
+  // References
+  const likeButton = document.getElementById("likeButton");
+  const likeCount = document.getElementById("likeCount");
+  const likeRef = db.ref("likes");
 
-    // Update count in real-time
-    likeRef.on("value", (snapshot) => {
-      const count = snapshot.val() || 0;
-      likeCount.textContent = count;
+  // Update count in real-time
+  likeRef.on("value", (snapshot) => {
+    const count = snapshot.val() || 0;
+    likeCount.textContent = count;
+  });
+
+  // Increment count when button is clicked
+  likeButton.addEventListener("click", () => {
+    likeRef.transaction((current) => {
+      return (current || 0) + 1;
     });
+  });
+</script>
 
-    // Increment count when button is clicked
-    likeButton.addEventListener("click", () => {
-      likeRef.transaction((current) => {
-        return (current || 0) + 1;
-      });
-    });
-  </script>
