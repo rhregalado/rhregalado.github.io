@@ -48,3 +48,43 @@ I confided them to her, in fervent hopes she'll find you,<br>
 For now, know that I'm here; patient, caring and true.<br><br>
 
 (Los Baños, 11/2018)
+<br>
+
+<button id="likeBtn">👍 Like</button>
+<span id="likeCount">0</span>
+
+<!-- Firebase SDK (compat versions for v8-style code) -->
+<script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-database-compat.js"></script>
+
+<script>
+  // Firebase config
+  const firebaseConfig = {
+    apiKey: "AIzaSyCQ5b33qljIv9bUQZVrOEGDs42S3LSx1PU",
+    authDomain: "likes-demo-1a7ce.firebaseapp.com",
+    databaseURL: "https://likes-demo-1a7ce-default-rtdb.firebaseio.com",
+    projectId: "likes-demo-1a7ce",
+    storageBucket: "likes-demo-1a7ce.firebasestorage.app",
+    messagingSenderId: "520104760512",
+    appId: "1:520104760512:web:7c8513409ce4f080bb0925"
+  };
+
+  // Initialize Firebase
+  const app = firebase.initializeApp(firebaseConfig);
+  const db = firebase.database();
+
+  // Use page path as unique key
+  const slug = window.location.pathname.replace(/\//g, "_");
+  const likeRef = db.ref("likes/" + slug);
+
+  // Show current likes
+  likeRef.on("value", snap => {
+    document.getElementById("likeCount").innerText = snap.val() || 0;
+  });
+
+  // Increment likes
+  document.getElementById("likeBtn").onclick = () => {
+    likeRef.transaction(n => (n || 0) + 1);
+  };
+</script>
+
