@@ -12,7 +12,7 @@ excerpt: '<b>[ESSAY]</b> '
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Baldassarre_Peruzzi_-_Apollo_and_the_Muses_-_WGA17365.jpg" alt="Apollo and the Muses">
     <figcaption>
       <em>Apollo and the Muses</em><br>
-      Baldassare Peruzzi (c. 1481–1536). Oil on Panel. Wikimedia Commons.
+      Baldassare Peruzzi (c. 1481–1536). Oil on Panel. © Wikimedia Commons.
     </figcaption>
   </figure>
 
@@ -38,8 +38,7 @@ excerpt: '<b>[ESSAY]</b> '
   <p>Oni is perhaps the one I miss the most. Not because I never see him anymore, nor because we speak so rarely these days, but because he’s the most elusive of them all. His digital footprint is so faint (almost deliberately so) that you’d think he doesn’t want to be found. Or maybe he simply wants to exist quietly, in peace. Which is exactly like him.</p>
   <p>Oni isn’t one to talk much. He just listens: deeply, intently. But when he does speak, it’s as though every word is measured and alive, leaving you with a strange and beautiful clarity. That’s his magic: he speaks to you with intent, with kindness, with warmth. I don’t think I could ever win an argument against him; I’d fold every time.</p>
   <p>Speaking of folding, I remember those days when we’d show up in the lab in the same shirt color again and again. Whether it’s black or navy or ash or green. After a while, I stopped believing it was coincidence and started entertaining the delusion of a psychic connection between us. One day, I finally said it out loud (that “we’re twinning again!!”) and he just smiled. One of those smiles that could burn the world. My world.</p>
-  <p>Those were happy days. I don’t have any idea what’s keeping him busy now, but if by some rare chance he’s reading this (unlikely, given all you know about him by now), I would want him to know something I never said out loud: you were the only person who made me feel there was a place for me at the table. You made me feel seen. You made me feel I mattered. Because of you, I was braver in my thoughts, kinder in my work, simpler in my ways, more certain in my steps.</p>
-  <p>And I am a better person for it. I hope, with a quiet and persistent hope, we meet again someday at some unexpected crossroads; twinning or not.</p>
+  <p>Those were happy days. I don’t have any idea what’s keeping him busy now, but if by some rare chance he’s reading this (unlikely, given all you know about him by now), I would want him to know something I never said out loud: you were the only person who made me feel there was a place for me at the table. You made me feel seen. You made me feel I mattered. Because of you, I was braver in my thoughts, kinder in my work, simpler in my ways, more certain in my steps. And I am a better person for it. I hope, with a quiet and persistent hope, we meet again someday at some unexpected crossroads; twinning or not.</p>
 
   <h2 id="ryu">Ryu</h2>
   <p>In the fast-paced blur of young adulthood, it felt like both a privilege and a quiet joy to reconnect with Ryu again, after nearly a decade of life quietly unfolding in our own separate corners.</p>
@@ -51,4 +50,8 @@ excerpt: '<b>[ESSAY]</b> '
   <p>Uki was my coming-of-age awakening. I met him a little before I turned eighteen. Back then, he always had his ukulele, as if it were an extension of himself. His fingers could dance on the strings with grace in a way that seemed both practiced and instinctive. But his voice was something else entirely, perhaps a voice that could rival Orpheus himself. It carried a certain <em>je ne sais quoi</em> that seemed to gather the air closer. A voice that could bravely descend and journey into the deepest unknown corners of my heart. And unlike Orpheus’ tragic fate, his voice met me gently at the surface. It wasn’t music anymore; it was a tether.</p>
   <p>He was perhaps the catalyst for the many seasons of love I would come to know over the next decade of my life. He was the spark that kindled the embers I had kept hidden deep within, the quiet steady pressure that coaxed me until I could erupt into someone capable of truly loving. I felt like a young island suddenly born out of a seismic event he never knew he caused, naïve and jagged at the edges, but already dreaming of the forest that would one day root itself from all the feelings I had yet to name.</p>
   <p>It was him that I began to understand what holding on to bonds really does to a person. Bonds don’t just keep you from drifting; they root you, tenderly but firmly, in the soil of the people who matter. And I think that is why, even now, he remains a living thread in my story. His inspiration was perhaps what binds everyone here, in this piece, together. And might be the reason why I’m writing this piece in the first place. His music continues to weave everyone in memory, so it can hum quietly in the background of all the seasons still to come.</p>
+
+  (Nabua, 07/2022)
 </div>
+
+{% include comments-providers/disqus.html %}
