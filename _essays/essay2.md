@@ -50,5 +50,10 @@ For now, know that I'm here; patient, caring and true.<br><br>
 (Los Baños, 11/2018)
 
 <br>
-<iframe src="https://ghbtns.com/github-btn.html?user=YOURUSERNAME&repo=YOURREPO&type=star&count=true&size=large"
-  frameborder="0" scrolling="0" width="160" height="30" title="GitHub"></iframe>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+<div id="like-container">
+  <a id="like-button" href="https://github.com/rhregalado/rhregalado.github.i" target="_blank">
+    <i class="fa-solid fa-heart"></i> 
+    <span id="like-count">0</span>
+  </a>
+</div>
