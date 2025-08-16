@@ -2,7 +2,7 @@
 title: "A Pantheon of Muses" 
 date: 2022-07-05 
 permalink: /essays/muses 
-excerpt: '<b>[ESSAY]</b> In this essay, though, I speak of the Muses not as distant, abstract figures summoned by the sheer labor of imagination; but as living, breathing presences. Where tradition counts nine, I have met six. I will enumerate them in the order they appeared: Uki, Pan, Sun, Ryu, Oni, and Red. To others, they might’ve seemed like ordinary human presences, unremarkable in the flow of daily rhythm, but to myself, each carries a quiet, transcendental power, in ways I am still learning to understand. This essay is, in many ways, an extended reflection on a thought I first shared in a tweet on X (formerly Twitter). Allow me to extend that narrative here and recollect my encounters with them, and how through their presence, I was transformed.' 
+excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abstract figures summoned by the sheer labor of imagination; but as living, breathing presences. Where tradition counts nine, I have met six. I will enumerate them in the order they appeared: Uki, Pan, Sun, Ryu, Oni, and Red. To others, they might’ve seemed like ordinary human presences, unremarkable in the flow of daily rhythm, but to myself, each carries a quiet, transcendental power, in ways I am still learning to understand. This essay is, in many ways, an extended reflection on a thought I first shared in a tweet on X (formerly Twitter). Allow me to extend that narrative here and recollect my encounters with them, and how through their presence, I was transformed.' 
 ---
 
 <div style="text-align: justify;">
