@@ -41,6 +41,7 @@ img {
 
 .hover-caption img {
   display: block;
+  height: auto;
   max-width: 100%;
 }
 
@@ -53,6 +54,7 @@ img {
   color: #fff;
   padding: 10px;
   font-size: 14px;
+  line-height: 1.4;
   transition: bottom 0.4s ease;
   box-sizing: border-box;
 }
@@ -64,7 +66,7 @@ img {
 figcaption {
   margin-top: 8px;
   font-size: 14px;
-  color: #333;
+  color: var(--global-text-color);
 }
 </style>
   <figcaption>
