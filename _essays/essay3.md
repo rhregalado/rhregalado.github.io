@@ -63,11 +63,6 @@ img {
   bottom: 0; /* slides up over the image only */
 }
 
-figcaption {
-  margin-top: 8px;
-  font-size: 14px;
-  color: var(--globaltext-color-light);
-}
 </style>
   <figcaption>
     <em>Dance of Apollo and the Muses</em><br>
