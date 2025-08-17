@@ -61,7 +61,6 @@ img {
   color: #fff;
   padding: 10px;
   font-size: 14px;
-  line-height: 1.4;
   transition: bottom 0.4s ease;
   box-sizing: border-box;
 }
