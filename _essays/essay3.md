@@ -48,7 +48,6 @@ img {
 
 .hover-caption img {
   display: block;
-  height: auto;
   max-width: 100%;
 }
 
