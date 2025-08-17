@@ -9,7 +9,7 @@ excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abs
   <p>Do you believe in the mythical figures buried in the rich Hellenic pages of old? If yes, have you heard or read about the Muses? The Muses were the sister-goddesses who presided over the arts and sciences in Ancient Greece and later came to be regarded as the ultimate source of human creativity and inspiration. Classical Greek literature identifies nine Muses: <strong>Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Terpsichore, Thalia,</strong> and <strong>Urania</strong>. According to <em>Hesiod’s Theogony</em> (c. 700 BC), which served as a foundational text for later authors, the Muses were the daughters of Zeus, king of the gods, and Mnemosyne (“Memory” personified). They came to embody knowledge, creativity, and the arts, particularly through poetry, literature, dance, and music.</p>
 
 <figure class="hover-caption">
-  <img src="https://en.wikipedia.org/wiki/File:Baldassare_Peruzzi_-_Dance_of_Apollo_and_the_Muses.jpg#/media/File:Baldassare_Peruzzi_-_Dance_of_Apollo_and_the_Muses.jpg/2" alt="Apollo and the Muses">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Baldassarre_Peruzzi_-_Apollo_and_the_Muses_-_WGA17365.jpg" alt="Apollo and the Muses">
 
   <!-- hover caption -->
   <div class="hover-box">
