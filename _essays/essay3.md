@@ -44,11 +44,12 @@ img {
 
 .hover-box {
   position: absolute;
-  bottom: -100%;
+  bottom: -90%;
   left: 0;
   width: 100%;
   background: rgba(0,0,0,0.6);
   color: #fff;
+  padding: 10px;
   font-size: 14px;
   line-height: 1.4;
   transition: bottom 0.4s ease;
