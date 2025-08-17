@@ -66,7 +66,7 @@ img {
 figcaption {
   margin-top: 8px;
   font-size: 14px;
-  color: var(--global-text-color);
+  color: var(--globaltext-color-light);
 }
 </style>
   <figcaption>
