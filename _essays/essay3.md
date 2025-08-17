@@ -66,7 +66,7 @@ img {
 </style>
   <figcaption>
     <em>Dance of Apollo and the Muses</em><br>
-    Baldassare Peruzzi (c. 1481–1536). Oil on Canvas.
+    Baldassare Peruzzi (c. 1481–1536). Oil on canvas.
   </figcaption>
 <br>
 
