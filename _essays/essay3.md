@@ -10,7 +10,7 @@ excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abs
 
 <figure>
   <a href="https://artuk.org/discover/artworks/dance-of-apollo-and-the-muses-123349" target="_blank" class="hover-caption">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Baldassare_Peruzzi_-_Dance_of_Apollo_and_the_Muses.jpg" alt="Apollo and the Muses">
+    <img src="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/CDN/CLS/CDN_CLS_086541-001.jpg" alt="Dance of Apollo and the Muses">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
