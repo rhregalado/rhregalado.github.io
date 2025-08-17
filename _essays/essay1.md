@@ -19,7 +19,7 @@ Additionally, depression symptomatology has also been associated with the parado
 
 <figure>
   <a href="https://www.thelancet.com/cms/10.1016/j.lansea.2024.100453/asset/883d08e5-512d-4306-a11d-eee8e094a53b/main.assets/gr1_lrg.jpg" target="_blank" class="hover-caption">
-    <img src="https://doi.org/10.1016/j.lansea.2024.100453" alt=" The double burden of malnutrition">
+    <img src="https://doi.org/10.1016/j.lansea.2024.100453" alt="The double burden of malnutrition">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
@@ -74,7 +74,7 @@ img {
 
 </style>
   <figcaption>
-In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024)</i><sup>19</sup>.
+In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024)<sup>19</sup>.
   </figcaption>
 <br>
 
