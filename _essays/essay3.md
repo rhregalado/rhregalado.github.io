@@ -18,6 +18,18 @@ excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abs
 </figure>
 
 <style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;   /* removes inline spacing */
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+  
 .hover-caption {
   position: relative;
   display: inline-block;
