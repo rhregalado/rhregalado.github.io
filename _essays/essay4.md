@@ -9,12 +9,7 @@ excerpt: "<b>[ESSAY]</b> I celebrate with microbiome scientists, workers, and en
 
 Microbes receive far little appreciation; less than plants, less than animals, less than fungi. And perhaps I understand why: we don't see them. It's difficult to love what we don't encounter with our eyes. Microbes require a kind of faith, a conscious effort to reach out and understand. It takes patience and curiosity to connect with them, to commune, to truly appreciate their quiet presence. After working with them for years, I've come to admire their beauty, and I wish more people could, too. To appreciate the smallest things. The micro things.<br><br>
 
-I really love this a quote from astrobiologist <div id="kacar" style="cursor:pointer;">Betül Kaçar</div>
-<script>
-document.getElementById('kacar').onclick = function() {
-    window.open = 'https://www.kacarlab.org/people';
-};
-</script>;<br>
+I really love this a quote from astrobiologist <a href="https://www.kacarlab.org/people" target="_blank">Betül Kaçar</a>;<br>
 <i>"I like to think that if you don't like microbes, this planet is not for you."</i><br>
 It makes sense. The whole show is run by microbes here. Their entire existence is to govern Earth itself. They're literally the ones who shake the Earth, more than plants, more than animals... more than us. To understand them is to understand how Earth works and to learn, perhaps, how better to care for it.<br><br>
 
