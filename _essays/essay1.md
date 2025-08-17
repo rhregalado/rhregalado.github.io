@@ -18,7 +18,7 @@ Our genes and the environment have also profound influence in determining obesit
 Additionally, depression symptomatology has also been associated with the paradox<sup>10,11,12,13</sup>, and may be more pronounced in women than men<sup>14,15</sup>, and in mothers specifically<sup>16</sup>. The ‘sacrifice theory’ is a proposed mechanism suggesting that mothers adopt undesirable coping methods for the benefit of their children to protect them from hunger, such as sacrificing their own caloric intake and nutritional health<sup>17</sup>. Furthermore, women may also skip meals and then consume low-variety diets that are calorically dense but nutritionally deficient, mostly those high in fat and sugars, just to feed their families on a limited budget<sup>18</sup>. This somewhat ‘selfless’ act consequently increases their risk of gaining considerable weight, and if we can only offer band-aid solutions in reducing the vulnerability of mothers to the adverse consequences of poverty, we will continue to find malnourished children in the arms of overweight mothers.<br><br>
 
 <figure>
-  <a href="/images/dbm.jpg" target="_blank" class="hover-caption">
+  <a href="https://www.thelancet.com/cms/10.1016/j.lansea.2024.100453/asset/883d08e5-512d-4306-a11d-eee8e094a53b/main.assets/gr1_lrg.jpg" target="_blank" class="hover-caption">
     <img src="https://doi.org/10.1016/j.lansea.2024.100453" alt=" The double burden of malnutrition">
 
     <!-- hover caption (inside image area) -->
