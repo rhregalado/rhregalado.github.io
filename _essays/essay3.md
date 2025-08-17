@@ -24,7 +24,7 @@ figure {
 }
 
 img {
-  display: block;   /* removes inline spacing */
+  display: block; 
   margin: 0;
   padding: 0;
   border: none;
@@ -39,12 +39,12 @@ img {
 .hover-caption img {
   display: block;
   height: auto;
-  max-width: 100%; /* stays responsive, but won’t shrink unnaturally */
+  max-width: 100%; 
 }
 
 .hover-box {
   position: absolute;
-  bottom: -100%; /* hidden initially */
+  bottom: -100%;
   left: 0;
   width: 100%;
   background: rgba(0,0,0,0.6);
@@ -62,7 +62,7 @@ img {
   <figcaption>
     <em>Apollo and the Muses</em><br>
     Baldassare Peruzzi (c. 1481–1536). Oil on Panel. © Wikimedia Commons.
-  </figcaption>
+  </figcaption><br>
 
   <p>Throughout antiquity, authors and artists frequently invoked the Muses at the beginning of their works, seeking divine aid in crafting poetry, hymns, or epic narratives. Such invocations were often appeals for inspiration or for the Muse to speak directly through the author. This convention appears in some of the most influential texts of Western literature, including Homer’s <em>Odyssey</em> (Book I), Dante’s <em>Inferno</em> (Canto II), and Shakespeare’s <em>Henry V</em> (Act I, Prologue). The legacy of the Muses extends beyond classical antiquity. Their enduring presence is also evident in modern language and culture: the term “muse” remains synonymous with an individual who serves as a source of artistic inspiration, while the term “museum” derives from the Greek <em>mouseion</em>, a sacred space dedicated to the Muses.</p>
 
