@@ -105,27 +105,6 @@ img {
   <p>He was perhaps the catalyst for the many seasons of love I would come to know over the next decade of my life. He was the spark that kindled the embers I had kept hidden deep within, the quiet steady pressure that coaxed me until I could erupt into someone capable of truly loving. I felt like a young island suddenly born out of a seismic event he never knew he caused, naïve and jagged at the edges, but already dreaming of the forest that would one day root itself from all the feelings I had yet to name.</p>
   <p>It was him that I began to understand what holding on to bonds really does to a person. Bonds don’t just keep you from drifting; they root you, tenderly but firmly, in the soil of the people who matter. And I think that is why, even now, he remains a living thread in my story. His inspiration was perhaps what binds everyone here, in this piece, together. And might be the reason why I’m writing this piece in the first place. His music continues to weave everyone in memory, so it can hum quietly in the background of all the seasons still to come.</p>
 
-  (Nabua, 07/2022)
-<div id="disqus-container"></div>
+(Nabua, 07/2022)
 
-<script>
-window.addEventListener('load', function() {
-  setTimeout(function() {
-    var disqus_shortname = '{{ site.comments.disqus.shortname }}';
-
-    // Embed script
-    var embed = document.createElement('script');
-    embed.src = 'https://' + rhregalado-github + '.disqus.com/embed.js';
-    embed.async = true;
-    document.getElementById('disqus-container').appendChild(embed);
-
-    // Count script (optional, only if you show comment counts)
-    var count = document.createElement('script');
-    count.src = 'https://' + rhregalado-github + '.disqus.com/count.js';
-    count.async = true;
-    document.getElementsByTagName('body')[0].appendChild(count);
-  }, 2000); // 1 second delay
-});
-</script>
-
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% include comments-providers/disqus.html %}
