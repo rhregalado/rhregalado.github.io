@@ -44,7 +44,7 @@ img {
 
 .hover-box {
   position: absolute;
-  bottom: -90%;
+  bottom: -50%;
   left: 0;
   width: 100%;
   background: rgba(0,0,0,0.6);
@@ -60,7 +60,7 @@ img {
 }
 </style>
   <figcaption>
-    <em>Apollo and the Muses</em><br>
+    <em>Dance of Apollo and the Muses</em><br>
     Baldassare Peruzzi (c. 1481–1536). Oil on Panel.
   </figcaption><br>
 
