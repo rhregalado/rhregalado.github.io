@@ -15,14 +15,68 @@ Simultaneously, aside from the result of changes in the global food system that 
 <h2>Other factors related to the poverty–obesity paradox</h2>
 Our genes and the environment have also profound influence in determining obesity risk. Factors other than diet and lifestyle also link early undernutrition with overweight in adulthood. Supported by a number of observational epidemiologic studies, the hypothesis of “fetal origins of disease,” postulates that early (<i>in-utero</i> or early postnatal) undernutrition causes an irreversible differentiation of metabolic systems, which may, in turn, increase the predisposition to risks of certain chronic diseases in adulthood<sup>8,9</sup>. For example, a fetus of an undernourished mother will adapt to a decrease in energy supply by activating genes that optimize energy conservation. This survival strategy imprints a permanent differentiation of the metabolic regulatory systems, and later in life when the adult is exposed to an unrestricted dietary energy supply, this results in an excess accumulation of energy (and consequently of body fat). Because <i>in-utero</i> growth retardation and low birth weight are common in developing countries<sup>4</sup>, this mechanism may result in the propagation of a population in which many adults are particularly susceptible to becoming obese.<br><br>
 
-Additionally, depression symptomatology has also been associated with the paradox<sup>10,11,12,13</sup>, and may be more pronounced in women than men<sup>14,15</sup>, and in mothers specifically<sup>16</sup>. The ‘sacrifice theory’ is a proposed mechanism suggesting that mothers adopt undesirable coping methods for the benefit of their children to protect them from hunger, such as sacrificing their own caloric intake and nutritional health<sup>17</sup>. Furthermore, women may also skip meals and then consume low-variety diets that are calorically dense but nutritionally deficient, mostly those high in fat and sugars, just to feed their families on a limited budget<sup>18</sup>. This somewhat ‘selfless’ act consequently increases their risk of gaining considerable weight, and if we can only offer band-aid solutions in reducing the vulnerability of mothers to the adverse consequences of poverty, we will continue to find malnourished children in the arms of overweight mothers. <br><br>
+Additionally, depression symptomatology has also been associated with the paradox<sup>10,11,12,13</sup>, and may be more pronounced in women than men<sup>14,15</sup>, and in mothers specifically<sup>16</sup>. The ‘sacrifice theory’ is a proposed mechanism suggesting that mothers adopt undesirable coping methods for the benefit of their children to protect them from hunger, such as sacrificing their own caloric intake and nutritional health<sup>17</sup>. Furthermore, women may also skip meals and then consume low-variety diets that are calorically dense but nutritionally deficient, mostly those high in fat and sugars, just to feed their families on a limited budget<sup>18</sup>. This somewhat ‘selfless’ act consequently increases their risk of gaining considerable weight, and if we can only offer band-aid solutions in reducing the vulnerability of mothers to the adverse consequences of poverty, we will continue to find malnourished children in the arms of overweight mothers.<br><br>
 
-  <figure>
-    <img src="/images/dbm.jpg">
-    <figcaption>
-In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024) in <i>The Lancet Regional Health - Southeast Asia</i><sup>19</sup>.
-    </figcaption>
-  </figure>
+<figure>
+  <a href="/images/dbm.jpg" target="_blank" class="hover-caption">
+    <img src="https://doi.org/10.1016/j.lansea.2024.100453" alt=" The double burden of malnutrition">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: The Lancet Regional Health - Southeast Asia
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+In the modern world, the two cycles of undernutrition and overnutrition in early life are rapidly merging into one another and contributing to the Double Burden of Malnutrition (DBM) across the life course. Deprivation refers to the lack of nutritional, social, and economic availability. Development encompasses social, structural, and economic improvement. The biological unit that transmits the DBM across generations is the mother-baby dyad. Improving health of mothers and babies will improve the health of the society. Retrieved from Yajnik (2024)</i><sup>19</sup>.
+  </figcaption>
+<br>
 
 <h2>The new nutrition reality and future perspectives</h2>
 The global health community has been slow to acknowledge the challenge of the large proportion of low- and middle-income countries facing the burden of simultaneous, exponential poverty and obesity incidences<sup>7</sup>. This new nutrition reality is particularly important to acknowledge, because poverty, food insecurity, and hunger cannot be entirely divorced from obesity. Obesity is not only a medical issue but a socio-anthropological one, too. We often think of it as the polar opposite of malnutrition, but this is actually a common misconception. Malnutrition in all of its forms: undernutrition, micronutrient deficiencies and overweight/obesity, are closely interrelated. And economics perhaps pull much of the strings in influencing not only what food a family can afford to buy, but also where they can afford to live, greatly affecting their access to food stores, social services, public health services, and nutrition assistance programs.<br><br>
