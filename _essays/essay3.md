@@ -8,13 +8,58 @@ excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abs
 <div style="text-align: justify;">
   <p>Do you believe in the mythical figures buried in the rich Hellenic pages of old? If yes, have you heard or read about the Muses? The Muses were the sister-goddesses who presided over the arts and sciences in Ancient Greece and later came to be regarded as the ultimate source of human creativity and inspiration. Classical Greek literature identifies nine Muses: <strong>Calliope, Clio, Erato, Euterpe, Melpomene, Polyhymnia, Terpsichore, Thalia,</strong> and <strong>Urania</strong>. According to <em>Hesiod’s Theogony</em> (c. 700 BC), which served as a foundational text for later authors, the Muses were the daughters of Zeus, king of the gods, and Mnemosyne (“Memory” personified). They came to embody knowledge, creativity, and the arts, particularly through poetry, literature, dance, and music.</p>
 
-  <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Baldassarre_Peruzzi_-_Apollo_and_the_Muses_-_WGA17365.jpg" alt="Apollo and the Muses">
-    <figcaption>
-      <em>Apollo and the Muses</em><br>
-      Baldassare Peruzzi (c. 1481–1536). Oil on Panel. © Wikimedia Commons.
-    </figcaption>
-  </figure>
+<figure class="hover-caption">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Baldassarre_Peruzzi_-_Apollo_and_the_Muses_-_WGA17365.jpg" alt="Apollo and the Muses">
+  
+  <!-- always visible caption -->
+  <figcaption class="static-caption">
+    <em>Apollo and the Muses</em><br>
+    Baldassare Peruzzi (c. 1481–1536). Oil on Panel. © Wikimedia Commons.
+  </figcaption>
+
+  <!-- hover caption -->
+  <div class="hover-box">
+    Image credit: Galleria Palatina
+  </div>
+</figure>
+
+<style>
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  max-width: 500px; /* adjust as needed */
+}
+
+.hover-caption img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.static-caption {
+  margin-top: 8px;
+  font-size: 14px;
+  color: #333;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* hidden initially */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up */
+}
+</style>
 
   <p>Throughout antiquity, authors and artists frequently invoked the Muses at the beginning of their works, seeking divine aid in crafting poetry, hymns, or epic narratives. Such invocations were often appeals for inspiration or for the Muse to speak directly through the author. This convention appears in some of the most influential texts of Western literature, including Homer’s <em>Odyssey</em> (Book I), Dante’s <em>Inferno</em> (Canto II), and Shakespeare’s <em>Henry V</em> (Act I, Prologue). The legacy of the Muses extends beyond classical antiquity. Their enduring presence is also evident in modern language and culture: the term “muse” remains synonymous with an individual who serves as a source of artistic inspiration, while the term “museum” derives from the Greek <em>mouseion</em>, a sacred space dedicated to the Muses.</p>
 
