@@ -115,6 +115,6 @@ img {
   <p>He was perhaps the catalyst for the many seasons of love I would come to know over the next decade of my life. He was the spark that kindled the embers I had kept hidden deep within, the quiet steady pressure that coaxed me until I could erupt into someone capable of truly loving. I felt like a young island suddenly born out of a seismic event he never knew he caused, naïve and jagged at the edges, but already dreaming of the forest that would one day root itself from all the feelings I had yet to name. I’m not everything I want to be yet, but I’m a lot of things I wanted to be ten years ago, and what a wonderful thing it is to realize that.</p>
   <p>It was him that I began to understand what holding on to bonds really does to a person. Bonds don’t just keep you from drifting; they root you, tenderly but firmly, in the soil of the people who matter. And I think that is why, even now, he remains a living thread in my story. His inspiration was perhaps what binds everyone here, in this piece, together. And might be the reason why I’m writing this piece in the first place. His music continues to weave everyone in memory, so it can hum quietly in the background of all the seasons still to come.</p>
 
-(Nabua, 07/2022)
+(Nabua, 07/2025)
 
 {% include comments-providers/disqus.html %}
