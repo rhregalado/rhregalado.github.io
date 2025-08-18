@@ -1,6 +1,6 @@
 --- 
 title: "Muse and Musings" 
-date: 2022-07-05 
+date: 2025-07-16 
 permalink: /essays/muse-and-musings
 excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abstract figures summoned by the sheer labor of imagination; but as living, breathing presences. Where tradition counts nine, I have met six. I will enumerate them in the order they appeared: Uki, Pan, Sun, Ryu, Oni, and Red. To others, they might’ve seemed like ordinary human presences, unremarkable in the flow of daily rhythm, but to myself, each carries a quiet, transcendental power, in ways I am still learning to understand. This essay is, in many ways, an extended reflection on a thought I first shared in a tweet on X (formerly Twitter). Allow me to extend that narrative here and recollect my encounters with them, and how through their presence, I was transformed.' 
 ---
@@ -112,7 +112,7 @@ img {
 
   <h2 id="uki">Canto VI: Psalms Erect a Living Pantheon</h2>
   <p>Uki was my coming-of-age awakening. I met him a little before I turned eighteen. Back then, he always had his ukulele, as if it were an extension of himself. His fingers could dance on the strings with grace in a way that seemed both practiced and instinctive. But his voice was something else entirely, perhaps a voice that could rival Orpheus himself. It carried a certain <em>je ne sais quoi</em> that seemed to gather the air closer. A voice that could bravely descend and journey into the deepest unknown corners of my heart. And unlike Orpheus’ tragic fate, his voice met me gently at the surface. It wasn’t music anymore; it was a tether.</p>
-  <p>He was perhaps the catalyst for the many seasons of love I would come to know over the next decade of my life. He was the spark that kindled the embers I had kept hidden deep within, the quiet steady pressure that coaxed me until I could erupt into someone capable of truly loving. I felt like a young island suddenly born out of a seismic event he never knew he caused, naïve and jagged at the edges, but already dreaming of the forest that would one day root itself from all the feelings I had yet to name.</p>
+  <p>He was perhaps the catalyst for the many seasons of love I would come to know over the next decade of my life. He was the spark that kindled the embers I had kept hidden deep within, the quiet steady pressure that coaxed me until I could erupt into someone capable of truly loving. I felt like a young island suddenly born out of a seismic event he never knew he caused, naïve and jagged at the edges, but already dreaming of the forest that would one day root itself from all the feelings I had yet to name. I’m not everything I want to be yet, but I’m a lot of things I wanted to be ten years ago, and what a wonderful thing it is to realize that.</p>
   <p>It was him that I began to understand what holding on to bonds really does to a person. Bonds don’t just keep you from drifting; they root you, tenderly but firmly, in the soil of the people who matter. And I think that is why, even now, he remains a living thread in my story. His inspiration was perhaps what binds everyone here, in this piece, together. And might be the reason why I’m writing this piece in the first place. His music continues to weave everyone in memory, so it can hum quietly in the background of all the seasons still to come.</p>
 
 (Nabua, 07/2022)
