@@ -14,6 +14,9 @@ main:
     
   - title: "Publications"
     url: /publications/
+
+  - title: "Essays"
+    url: /essays/
     
   - title: "Working Papers"
     url: /active/    
