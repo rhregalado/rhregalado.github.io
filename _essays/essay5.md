@@ -85,7 +85,7 @@ img {
 
 <p>The UP Chapel stands today as a permanent tribute to the talents and artistic legacy of several National Artists, some of whom were familiar names from my childhood; encountered in conversations at school, in old art textbooks that somehow stirred a sense of nostalgia. And so, imagine my shock and amazement when I finally learned about it. Here, their individual works converge to form its very framework, where each line, form, and curve a reflection of their collective artistry and shared mastery. Faith here is not confined to adoration alone, but also embedded in the very geometry of the space—an oblation.</p>
 
-<p>To allow you to share in my fondness for the place, let me take you inside and discover for yourself the masterpieces within and the creative geniuses behind them. But for my readers who haven’t had the chance to visit the church yet, I’ll try to inject my writing with as much description and details as I can—and photos (some I’ve taken myself!)—so you yourself can paint a more vivid mental picture of the place itself. And for those who have already been here, perhaps this is also for you; I hope to take you back and remind you of how truly special the place is. My hope is that, by the end, you come to see why the UP Chapel is not only a landmark but a living piece of remembrance that continues to inspire.</p>
+<p>To allow you to share in my fondness for the place, let me take you inside and discover for yourself the masterpieces within and the creative geniuses behind them. But for my readers who haven’t had the chance to visit the church yet, I’ll try to inject my writing with as much description and details as I can—and photos (some I’ve taken myself!)—so you yourself can paint a more vivid mental picture of the place itself. And for those who have already been there, perhaps this is also for you; I hope to take you back and remind you of how truly special the place is. My hope is that, by the end, you come to see why the UP Chapel is not only a landmark but a living piece of remembrance that continues to inspire.</p>
 
 <h2>
   <strong>A Church-In-The-Round</strong>
@@ -188,6 +188,68 @@ img {
 
 <p>Perhaps the very first artwork to greet every pilgrim visiting the UP Chapel (aside from its dome structure) is an intricate terrazzo floor made with exquisite restraint and quasi-mathematical precision, guiding the ingress from the gates of the Church and into the altar dais. Composed of inlaid mosaics of black, white, and gray marble chips, it forms an abstract mural that evokes a flowing river both in form and meaning. National Artist Luz’ design portrays the stream of Christian spirit: the river as a symbol of life flowing from God (at the altar), the source of all creation.</p>
 
+<figure>
+  <a href="https://www.dmcihomes.com/whats-new/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://www.dmcihomes.com/uploads/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards-1619775842091.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: DMCI Homes
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>The River of Life floor terrazzo mural</em><br>
+    Arturo Luz (1955). Marbe Chips.
+  </figcaption>
+<br>
+
 <p>Angular, dynamic zigzag patterns of the <em>River of Life</em> radiate from the altar at the chapel’s center, coursing down to the sacristy and branching outwards to the three Church entrances: one along G. Apacible Street and two along F. Agoncillo Street, that open into the main university roads. I cannot help but follow it with my eyes every time I visit the place, and now being more mindful in tracing its movement, as though I am being drawn into the same current that unites faith, culture, and a sense of oneness.</p>
 
 <h2>
@@ -196,6 +258,78 @@ img {
 </h2>
 
 <p>Between the pillars sustaining the church dome, are fourteen walls each bearing a mural from the <em>Via Crucis</em> or Stations of the Cross, rendered in raw and expressive Cubist elements by Vicente Manansala, assisted by a then-younger Ang Kiukok. The two artists undertook the monumental task of painting several mural-sized Stations of the Cross, with each panel spanning the full height and width of the rectangular walls beneath the lower roof. To complete this vast project, Manansala enlisted his student Ang Kiukok, who would later follow his mentor’s modernist vision, and join him among the Order of National Artists.</p>
+
+<figure>
+    <img src="https://live.staticflickr.com/3125/2744518824_b8912e1fb8_b.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: Flickr by Jejomar
+    </div>
+  </a>
+</figure>
+<figure>
+    <img src="https://live.staticflickr.com/3146/2744517974_6b4d9bce54_b.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: Flickr by Jejomar
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>Stations of the Cross X and XIII</em><br>
+    Vicente Manansala and Ang Kiukok (1955-56). Oil on Masonite.
+
+  </figcaption>
+<br>
+
 
 <p>In total, they produced fifteen murals encircling the church: fourteen depicting the traditional Stations and one added by Manansala to portray the Resurrection, painted on the sacristy stone. Each panel, measuring fourteen by nine feet, was executed in oil on masonite boards, a choice that allowed for vivid color saturation and durability over time. Their bright tones, from ochres and reds to deep blues and dark browns, remain remarkably vibrant up to this day. As I moved past each station, I could only adore in quiet reflection, as I retrace my own personal Stations that I have taken and those that I will continue to take.</p><br>
 
@@ -208,7 +342,131 @@ img {
 
 <p>Who has such a crazy imagination these days? At the time, perhaps only a mind like that of National Artist Maceda could, whose ambitious musical composition in 1968, <em>Pagsamba</em> (Worship), merged faith and avant-garde experimentation. Conceived as a site-specific ritual, it was at once a Christian Mass and a theatrical performance. From what I’ve read, it involved over 200 singers and instrumentalists consisting of: 100 mixed voices, 25 male voices, 8 each of suspended <em>agung</em> and <em>gandingan</em>, and 100 players performing on <em>ungiyong</em> (whistle flutes), <em>balingbing</em> (bamboo buzzers), <em>palakpak</em> (bamboo clappers), <em>tagutok</em> (bamboo scraper), and <em>bangibang</em> (yoke-shaped wooden bars struck with beaters).</p>
 
+<figure>
+  <a href="https://www.aaa-a.org/programs/on-jose-maceda-a-talk-by-aki-onda" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://www.aaa-a.org/wp-content/uploads/2021/10/maceda_10_pagsamba-score-540x709-1.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: UP Center for Ethnomusicology
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>Pagsamba, concert and musical score (excerpt)</em><br>
+    José Maceda (1968)
+  </figcaption>
+<br>
+
 <p>The performers were scattered among the audience, all facing the altar where the conductor led the ceremony. This spatial arrangement, combined with the sheer number of instruments, produced vast tonal layers that would sound different to each listener depending on their position in the church. This arrangement perhaps made the experience more communal as if it were a ritual held in a rural village, demanding a rare kind of social participation to performers and audience alike; being both a concert and a Christian Mass. One can only imagine the sensory intensity: music reverberating from every direction, the dome above trapping and amplifying the sound. We can only wish we were there; but until then, your imagination is as good as mine.</p>
+
+<figure>
+  <a href="https://www.aaa-a.org/programs/on-jose-maceda-a-talk-by-aki-onda" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://www.aaa-a.org/wp-content/uploads/2021/10/maceda_12_pagasamba-image-1024x414.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: UP Center for Ethnomusicology
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>José Maceda at the UP Chapel of the Holy Sacrifice, 1968</em>
+  </figcaption>
+<br>
+
 
 <p>To this day, the UP Chapel is declared as both a <strong>National Historical Landmark</strong> by the National Historical Commission of the Philippines, and a <strong>National Cultural Treasure</strong> by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. All of these makes the UP Chapel a singular artistic achievement. The Order of National Artists (<em>Orden ng Pambansang Alagad ng Sining</em>) was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
 
