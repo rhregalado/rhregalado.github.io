@@ -179,7 +179,25 @@ img {
 
 <p>At the very heart of the church are several works by National Artist Abueva, a first in church art executed in neorealist style. Floating above is a crucifix unlike any other. Entitled <em>Christ Crucified and Christ Resurrected</em>, it reveals Abueva’s mastery in giving Christ a form to show both His humanity and divinity. The massive wooden centerpiece presents two frontal figures joined back-to-back on a single cross: on one side, the stripped Christ with His head bowed in death (Christ the Victim), His sinews and muscles carved in stark realism and clothed only with a simple loincloth; on the other, a robed Christ in full tunic erected in symmetrical verticality (Christ the Priest), His head lifted high in triumph, embodying His purity and priesthood. With arms outstretched in eternal embrace, the risen Christ seems to hover weightlessly, as if caught between ascent and descent.</p>
 
+<figure>
+    <img src="/images/crucifix.jpg">
+</figure>
+  <figcaption>
+    <em>Crucifix: Christ Crucified and Christ Resurrected</em><br>
+    Napoleon Abueva (1957). Hardwood.
+  </figcaption>
+<br>
+
 <p>Directly beneath stands the <em>Prestól</em>, the marble altar table Abueva completed twenty-two years later after he created the crucifix, in 1957. Its reliefs depict <em>The Sermon on the Mount</em> on one side, and scenes of Christian community on the other. Illuminated by the soft light filtering through the oculus above, Abueva’s installments evoke a profound imagery between suffering and glory, pain and redemption; transforming my every visit into an enriching meditation on the mystery of faith.</p>
+
+<figure>
+    <img src="/images/altar.jpg">
+</figure>
+  <figcaption>
+    <em>Altar Dais showing "The Sermon on the Mount"</em><br>
+    Napoleon Abueva (1979). Marble.
+  </figcaption>
+<br>
 
 <h2>
   <strong>The River of Life Floor Terrazzo</strong>
@@ -275,52 +293,6 @@ img {
       Image credit: Flickr by Jejomar
     </div>
 </figure>
-<style>
-figure {
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  display: block;
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-
-.hover-caption {
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  text-decoration: none; /* remove underline */
-  color: inherit;        /* keep text color */
-}
-
-.hover-caption img {
-  display: block;
-  height: auto;
-  max-width: 100%;
-}
-
-.hover-box {
-  position: absolute;
-  bottom: -100%; /* start hidden */
-  left: 0;
-  width: 100%;
-  background: rgba(0,0,0,0.6);
-  color: #fff;
-  padding: 10px;
-  font-size: 14px;
-  line-height: 1.4;
-  transition: bottom 0.4s ease;
-  box-sizing: border-box;
-}
-
-.hover-caption:hover .hover-box {
-  bottom: 0; /* slides up over the image only */
-}
-
-</style>
   <figcaption>
     <em>Stations of the Cross X and XIII</em><br>
     Vicente Manansala and Ang Kiukok (1955-56). Oil on Masonite.
@@ -338,7 +310,7 @@ img {
   <em style="font-weight: normal;"> by National Artist for Music <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/jose-maceda/" target="_blank">José Maceda</a></em>
 </h2>
 
-<p>Who has such a crazy imagination these days? At the time, perhaps only a mind like that of National Artist Maceda could, whose ambitious musical composition in 1968, <em>Pagsamba</em> (Worship), merged faith and avant-garde experimentation. Conceived as a site-specific ritual, it was at once a Christian Mass and a theatrical performance. From what I’ve read, it involved over 200 singers and instrumentalists consisting of: 100 mixed voices, 25 male voices, 8 each of suspended <em>agung</em> and <em>gandingan</em>, and 100 players performing on <em>ungiyong</em> (whistle flutes), <em>balingbing</em> (bamboo buzzers), <em>palakpak</em> (bamboo clappers), <em>tagutok</em> (bamboo scraper), and <em>bangibang</em> (yoke-shaped wooden bars struck with beaters).</p>
+<p>Who has such a crazy imagination these days? At the time, perhaps only a mind like that of National Artist Maceda could, whose ambitious musical composition in 1968, <em>Pagsamba</em> (Worship), merged faith and avant-garde experimentation. Conceived as a site-specific ritual, it was at once a Christian Mass and a theatrical performance. From what I’ve read, it involved over 200 singers and instrumentalists consisting of: 100 mixed voices, 25 male voices, 8 each of suspended <em>agung</em> and <em>gandingan</em>, and 100 players performing on <em>ungiyong</em> (whistle flutes), <em>balingbing</em> (bamboo buzzers), <em>palakpak</em> (bamboo clappers), <em>tagutok</em> (bamboo scrapers), and <em>bangibang</em> (yoke-shaped wooden bars struck with beaters).</p>
 
 <figure>
   <a href="https://www.aaa-a.org/programs/on-jose-maceda-a-talk-by-aki-onda" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -468,9 +440,9 @@ img {
 
 <p>To this day, the UP Chapel is declared as both a <strong>National Historical Landmark</strong> by the National Historical Commission of the Philippines, and a <strong>National Cultural Treasure</strong> by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. All of these makes the UP Chapel a singular artistic achievement. The Order of National Artists (<em>Orden ng Pambansang Alagad ng Sining</em>) was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
 
-<p>Perhaps that’s why this place has stayed with me; it holds an indescribable sense of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The art deepens the experience, for sure, which reminds me that art’s purpose was once not to shock or disturb, but to elevate the soul. I wish you the same feeling when you visit.</p>
+<p>Perhaps that’s why this place has stayed with me; it holds an indescribable sense of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The arts deepen the experience, for sure, which reminds me that the purpose of art was once not to shock or disturb, but to elevate the soul. I wish you the same feeling when you visit.</p>
 
-<p>Rarely do people give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the place. Maybe you might consider including it in your next Visita Iglesia. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
+<p>People rarely give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
 
 <h3>For more information about the UP Chapel, here are some FAQs:</h3>
 <ul>
