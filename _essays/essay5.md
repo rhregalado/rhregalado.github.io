@@ -1,4 +1,4 @@
-<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/3ef80989-bd0e-4f07-b98d-5d481a19cb57" />---
+---
 title: "Of Art and Faith Intertwined"
 date: 2025-10-15
 permalink: /essays/of-art-and-faith-intertwined
