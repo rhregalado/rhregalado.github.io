@@ -368,7 +368,7 @@ img {
 
 </style>
   <figcaption>
-    <em>Pagsamba, concert and musical score (excerpt)</em><br>
+    <em>Pagsamba, floor plan and musical score (excerpt)</em><br>
     José Maceda (1968)
   </figcaption>
 <br>
