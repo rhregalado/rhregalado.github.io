@@ -38,25 +38,37 @@ excerpt: '<b>[ESSAY]</b> </i>'
 
 <p>The unique architecture was, at the time, a first of its kind in the Philippines, and in Asia: a structure without precedent in regional architecture. It was a revolution in ecclesiastical design; intentional, radical, and visionary. While many Filipino architects of the time followed the aesthetics of contemporary American designs, Locsin’s “flying saucer” remains a singular triumph of Filipino Modernism.</p>
 
-<h2>The Double Figure Crucifix of Christ by National Artist for Sculpture Napoleon Abueva</h2>
+<h2>
+  <strong>The Double Figure Crucifix of Christ</strong>
+  <em style="font-weight: normal;"> by National Artist for Sculpture Napoleon Abueva</em>
+</h2>
 
 <p>At the very heart of the church are several works by National Artist Abueva, a first in church art executed in neorealist style. Floating above is a crucifix unlike any other. Entitled <em>Christ Crucified and Christ Resurrected</em>, it reveals Abueva’s mastery in giving Christ a form to show both His humanity and divinity. The massive wooden centerpiece presents two frontal figures joined back-to-back on a single cross: on one side, the stripped Christ with His head bowed in death (Christ the Victim), His sinews and muscles carved in stark realism and clothed only with a simple loincloth; on the other, a robed Christ in full tunic erected in symmetrical verticality (Christ the Priest), His head lifted high in triumph, embodying His purity and priesthood. With arms outstretched in eternal embrace, the risen Christ seems to hover weightlessly, as if caught between ascent and descent.</p>
 
 <p>Directly beneath stands the <em>Prestól</em>, the marble altar table Abueva completed twenty-two years later after he created the crucifix, in 1957. Its reliefs depict <em>The Sermon on the Mount</em> on one side, and scenes of Christian community on the other. Illuminated by the soft light filtering through the oculus above, Abueva’s installments evoke a profound imagery between suffering and glory, pain and redemption; transforming my every visit into an enriching meditation on the mystery of faith.</p>
 
-<h2>The River of Life Floor Terrazzo by National Artist for Visual Arts Arturo Luz (1955)</h2>
+<h2>
+  <strong>The River of Life Floor Terrazzo</strong>
+  <em style="font-weight: normal;"> by National Artist for Visual Arts Arturo Luz</em>
+</h2>
 
 <p>Perhaps the very first artwork to greet every pilgrim visiting the UP Chapel (aside from its dome structure) is an intricate terrazzo floor made with exquisite restraint and quasi-mathematical precision, guiding the ingress from the gates of the Church and into the altar dais. Composed of inlaid mosaics of black, white, and gray marble chips, it forms an abstract mural that evokes a flowing river both in form and meaning. National Artist Luz’ design portrays the stream of Christian spirit: the river as a symbol of life flowing from God (at the altar), the source of all creation.</p>
 
 <p>Angular, dynamic zigzag patterns of the <em>River of Life</em> radiate from the altar at the chapel’s center, coursing down to the sacristy and branching outwards to the three Church entrances: one along G. Apacible Street and two along F. Agoncillo Street, that open into the main university roads. I cannot help but follow it with my eyes every time I visit the place, and now being more mindful in tracing its movement, as though I am being drawn into the same current that unites faith, culture, and a sense of oneness.</p>
 
-<h2>Murals of the Stations of the Cross by National Artist for Painting Vicente Manansala in collaboration with National Artist for Visual Arts Ang Kiukok (1955–56)</h2>
+<h2>
+  <strong>Murals of the Stations of the Cross</strong>
+  <em style="font-weight: normal;"> by National Artist for Painting Vicente Manansala in collaboration with National Artist for Visual Arts Ang Kiukok</em>
+</h2>
 
 <p>Between the pillars sustaining the church dome, are fourteen walls each bearing a mural from the <em>Via Crucis</em> or Stations of the Cross, rendered in raw and expressive Cubist elements by Vicente Manansala, assisted by a then-younger Ang Kiukok. The two artists undertook the monumental task of painting several mural-sized Stations of the Cross, with each panel spanning the full height and width of the rectangular walls beneath the lower roof. To complete this vast project, Manansala enlisted his student Ang Kiukok, who would later follow his mentor’s modernist vision, and join him among the Order of National Artists.</p>
 
 <p>In total, they produced fifteen murals encircling the church: fourteen depicting the traditional Stations and one added by Manansala to portray the Resurrection, painted on the sacristy stone. Each panel, measuring fourteen by nine feet, was executed in oil on masonite boards, a choice that allowed for vivid color saturation and durability over time. Their bright tones, from ochres and reds to deep blues and dark browns, remain remarkably vibrant up to this day. As I moved past each station, I could only adore in quiet reflection, as I retrace my own personal Stations that I have taken and those that I will continue to take.</p>
 
-<h2>A Concert Premier by National Artist for Music José Maceda (1968)</h2>
+<h2>
+  <strong>A Concert Premier</strong>
+  <em style="font-weight: normal;"> by National Artist for Music José Maceda</em>
+</h2>
 
 <p>Who has such a crazy imagination these days? At the time, perhaps only a mind like that of National Artist Maceda could, whose ambitious musical composition in 1968, <em>Pagsamba</em> (Worship), merged faith and avant-garde experimentation. Conceived as a site-specific ritual, it was at once a Christian Mass and a theatrical performance. From what I’ve read, it involved over 200 singers and instrumentalists consisting of: 100 mixed voices, 25 male voices, 8 each of suspended <em>agung</em> and <em>gandingan</em>, and 100 players performing on <em>ungiyong</em> (whistle flutes), <em>balingbing</em> (bamboo buzzers), <em>palakpak</em> (bamboo clappers), <em>tagutok</em> (bamboo scraper), and <em>bangibang</em> (yoke-shaped wooden bars struck with beaters).</p>
 
@@ -68,11 +80,11 @@ excerpt: '<b>[ESSAY]</b> </i>'
 
 <p>Rarely do people give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the place. Maybe you might consider including it in your next Visita Iglesia. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p>
 
-<h3>For more information about the UP Chapel, here are some FAQs:</h3>
+<h4>For more information about the UP Chapel, here are some FAQs:</h4>
 <ul>
   <li><strong>Address:</strong> Laurel Ave, University of the Philippines, Diliman, Quezon City</li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph">parishoftheholysacrifice.ph</a></li>
-  <li><strong><a href="https://www.facebook.com/photo/?fbid=870811981874736&set=a.492200146402590" target="_blank">Mass schedules</a>:</strong></li>
+  <li><a href="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762" target="_blank">Mass schedules</a></li>
 </ul>
 
 <p>(Nabua, 10/2025)</p>
