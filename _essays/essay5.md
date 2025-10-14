@@ -27,7 +27,7 @@ excerpt: '<b>[ESSAY]</b>'
 
 <h2>
   <strong>A Church-In-The-Round</strong>
-  <em style="font-weight: normal;"> by National Artist for Architecture Leandro Locsin</em>
+  <em style="font-weight: normal;"> by National Artist for Architecture <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/leandro-v-locsin/" target="_blank">Leandro Locsin</a></em>
 </h2>
 
 <p>Remember the flying saucer? That is what you’ll only see on the outside.</p>
@@ -40,7 +40,7 @@ excerpt: '<b>[ESSAY]</b>'
 
 <h2>
   <strong>The Double Figure Crucifix of Christ</strong>
-  <em style="font-weight: normal;"> by National Artist for Sculpture Napoleon Abueva</em>
+  <em style="font-weight: normal;"> by National Artist for Sculpture <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/napoleon-abueva/" target="_blank">Napoleon Abueva</a></em>
 </h2>
 
 <p>At the very heart of the church are several works by National Artist Abueva, a first in church art executed in neorealist style. Floating above is a crucifix unlike any other. Entitled <em>Christ Crucified and Christ Resurrected</em>, it reveals Abueva’s mastery in giving Christ a form to show both His humanity and divinity. The massive wooden centerpiece presents two frontal figures joined back-to-back on a single cross: on one side, the stripped Christ with His head bowed in death (Christ the Victim), His sinews and muscles carved in stark realism and clothed only with a simple loincloth; on the other, a robed Christ in full tunic erected in symmetrical verticality (Christ the Priest), His head lifted high in triumph, embodying His purity and priesthood. With arms outstretched in eternal embrace, the risen Christ seems to hover weightlessly, as if caught between ascent and descent.</p>
@@ -49,7 +49,7 @@ excerpt: '<b>[ESSAY]</b>'
 
 <h2>
   <strong>The River of Life Floor Terrazzo</strong>
-  <em style="font-weight: normal;"> by National Artist for Visual Arts Arturo Luz</em>
+  <em style="font-weight: normal;"> by National Artist for Visual Arts <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/arturo-luz/" target="_blank">Arturo Luz</a></em>
 </h2>
 
 <p>Perhaps the very first artwork to greet every pilgrim visiting the UP Chapel (aside from its dome structure) is an intricate terrazzo floor made with exquisite restraint and quasi-mathematical precision, guiding the ingress from the gates of the Church and into the altar dais. Composed of inlaid mosaics of black, white, and gray marble chips, it forms an abstract mural that evokes a flowing river both in form and meaning. National Artist Luz’ design portrays the stream of Christian spirit: the river as a symbol of life flowing from God (at the altar), the source of all creation.</p>
@@ -58,7 +58,7 @@ excerpt: '<b>[ESSAY]</b>'
 
 <h2>
   <strong>Murals of the Stations of the Cross</strong>
-  <em style="font-weight: normal;"> by National Artist for Painting Vicente Manansala in collaboration with National Artist for Visual Arts Ang Kiukok</em>
+  <em style="font-weight: normal;"> by National Artist for Painting <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/vicente-manansala/" target="_blank">Vicente Manansala</a> in collaboration with National Artist for Visual Arts <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/ang-kiukok/" target="_blank">Ang Kiukok</a></em>
 </h2>
 
 <p>Between the pillars sustaining the church dome, are fourteen walls each bearing a mural from the <em>Via Crucis</em> or Stations of the Cross, rendered in raw and expressive Cubist elements by Vicente Manansala, assisted by a then-younger Ang Kiukok. The two artists undertook the monumental task of painting several mural-sized Stations of the Cross, with each panel spanning the full height and width of the rectangular walls beneath the lower roof. To complete this vast project, Manansala enlisted his student Ang Kiukok, who would later follow his mentor’s modernist vision, and join him among the Order of National Artists.</p>
@@ -69,14 +69,14 @@ excerpt: '<b>[ESSAY]</b>'
 
 <h2>
   <strong>A Concert Premier</strong>
-  <em style="font-weight: normal;"> by National Artist for Music José Maceda</em>
+  <em style="font-weight: normal;"> by National Artist for Music <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/jose-maceda/" target="_blank">José Maceda</a></em>
 </h2>
 
 <p>Who has such a crazy imagination these days? At the time, perhaps only a mind like that of National Artist Maceda could, whose ambitious musical composition in 1968, <em>Pagsamba</em> (Worship), merged faith and avant-garde experimentation. Conceived as a site-specific ritual, it was at once a Christian Mass and a theatrical performance. From what I’ve read, it involved over 200 singers and instrumentalists consisting of: 100 mixed voices, 25 male voices, 8 each of suspended <em>agung</em> and <em>gandingan</em>, and 100 players performing on <em>ungiyong</em> (whistle flutes), <em>balingbing</em> (bamboo buzzers), <em>palakpak</em> (bamboo clappers), <em>tagutok</em> (bamboo scraper), and <em>bangibang</em> (yoke-shaped wooden bars struck with beaters).</p>
 
 <p>The performers were scattered among the audience, all facing the altar where the conductor led the ceremony. This spatial arrangement, combined with the sheer number of instruments, produced vast tonal layers that would sound different to each listener depending on their position in the church. This arrangement perhaps made the experience more communal as if it were a ritual held in a rural village, demanding a rare kind of social participation to performers and audience alike; being both a concert and a Christian Mass. One can only imagine the sensory intensity: music reverberating from every direction, the dome above trapping and amplifying the sound. We can only wish we were there; but until then, your imagination is as good as mine.</p>
 
-<p>To this day, the UP Chapel is declared as both a <strong>National Historical Landmark</strong> by the National Historical Commission of the Philippines, and a <strong>National Cultural Treasure</strong> by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. This makes the UP Chapel a singular artistic achievement. The Order of National Artists was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
+<p>To this day, the UP Chapel is declared as both a <strong>National Historical Landmark</strong> by the National Historical Commission of the Philippines, and a <strong>National Cultural Treasure</strong> by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. All of these makes the UP Chapel a singular artistic achievement. The Order of National Artists (<em>Orden ng Pambansang Alagad ng Sining</em>) was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
 
 <p>Perhaps that’s why this place has stayed with me; it holds an indescribable sense of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The art deepens the experience, for sure, which reminds me that art’s purpose was once not to shock or disturb, but to elevate the soul. I wish you the same feeling when you visit.</p>
 
