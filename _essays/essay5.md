@@ -9,7 +9,7 @@ excerpt: '<b>[ESSAY]</b> Some places stay with you long after you leave. For me,
 
 <p>Some places stay with you long after you leave.</p>
   
-<p>For me, that place is the campus chapel at my alma mater; the one that quietly kept me company through roughly four years of my post-grad life.</p>
+<p>For me, that place is the campus chapel at my university; the one that quietly kept me company through roughly four years of my post-grad life.</p>
 
 <p>At the heart of the University of the Philippines Diliman (UP Diliman) campus, where pockets of green still resist the slow crawl of gray concrete across the last lungs of Metro Manila, stands a modernist sanctuary unlike any other nearby. Many parishioners fondly call the UP Chapel or the Parish of the Holy Sacrifice <em>“the flying saucer,”</em> for its distinctive dome-shaped roof that seems to hover above the ground. I, however, have always thought of it as a circle among rectangles: a gentle rebellion against the rigid lines of conventional architecture.</p>
 
