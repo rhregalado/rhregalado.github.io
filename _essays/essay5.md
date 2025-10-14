@@ -96,6 +96,78 @@ img {
 
 <p>Inside, however, a breathtaking spatial experience. Picture a circular church with the altar at its center, not at the front. The pews radiate concentrically around it, with 14 equidistant open entrances encircling the perimeter; no doors. A thin-shell concrete dome (only 10 centimeters thick at the center) shelters the space, supported by a ring beam and thirty-two reinforced columns. Light pours in through the clerestory windows at the dome’s base, illuminating the interior sufficiently without the need for artificial brightness during the day. The clerestory and the open entrances further allows fresh air to flow through unchallenged, creating a sense of openness. At the dome’s apex, a circular skylight, called an oculus, opens directly to the sky, supporting both the triangular bell tower above and the suspended Crucifix below. The oculus perhaps suggests a rich symbolism of the firmament, as if it is a boundary through which the heavens can peer through into you and the sacred celebration that unfolds below.</p>
 
+<figure>
+  <a href="https://iskomunidad.upd.edu.ph/index.php/Parish_of_the_Holy_Sacrifice" rel="noreferrer noopener" class="hover-caption">
+    <img src="/images/structure1.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: Interactive Learning Center Diliman
+    </div>
+  </a>
+</figure>
+<figure>
+  <a href="https://www.dmcihomes.com/whats-new/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://www.dmcihomes.com/uploads/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards-1619775946407.jpg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: DMCI Homes
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>Thin-Shell Dome and Circular Chapel</em><br>
+    Leandro Locsin (1955)
+  </figcaption>
+<br>
+
 <p>National Artist Locsin’s 1955 design was inspired by traditional Filipino sensibilities reinterpreted through post-war aesthetics. Its radical circular plan defied the traditional Baroque and Gothic influenced designs familiar to many Catholics, as well as the linear orientation of the Catholic rites. But that defiance was deliberate. Locsin envisioned a church without corners, without hierarchy, so that the laity, us, encircling the altar, shared equal intimacy to the mystery of the Eucharist. And no doors, so that anyone seeking refuge feels welcomed and invited.</p>
 
 <p>The unique architecture was, at the time, a first of its kind in the Philippines, and in Asia: a structure without precedent in regional architecture. It was a revolution in ecclesiastical design; intentional, radical, and visionary. While many Filipino architects of the time followed the aesthetics of contemporary American designs, Locsin’s “flying saucer” remains a singular triumph of Filipino Modernism.</p>
