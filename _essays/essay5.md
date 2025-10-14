@@ -263,7 +263,7 @@ img {
 </style>
   <figcaption>
     <em>The River of Life terrazzo floor mural</em><br>
-    Arturo Luz (1955). Marbe Chips.
+    Arturo Luz (1955). Mosaic Marble Chips.
   </figcaption>
 <br>
 
