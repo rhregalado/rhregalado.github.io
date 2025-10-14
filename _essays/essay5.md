@@ -2,7 +2,7 @@
 title: "Of Art and Faith Intertwined"
 date: 2025-10-15
 permalink: /essays/of-art-and-faith-intertwined
-excerpt: '<b>[ESSAY]</b> Some places stay with you long after you leave. For me, that place is the campus chapel at my university; the one that quietly kept me company through roughly four years of my post-grad life. At the heart of the University of the Philippines Diliman (UP Diliman) campus, stands a modernist sanctuary unlike any other nearby. Many parishioners fondly call the UP Chapel or the Parish of the Holy Sacrifice <em>“the flying saucer.”</em> Learn more about its design, history, and why it's one of my favorite place to visit.'
+excerpt: '<b>[ESSAY]</b> Some places stay with you long after you leave. For me, that place is the campus chapel at my university; the one that quietly kept me company through roughly four years of my post-grad life. At the heart of the University of the Philippines Diliman (UP Diliman) campus, stands a modernist sanctuary unlike any other nearby. Many parishioners fondly call the UP Chapel or the Parish of the Holy Sacrifice <em>“the flying saucer.”</em> Learn more about its design, history, and why it''s one of my favorite place to visit.'
 ---
 
 <div style="text-align: justify;">
