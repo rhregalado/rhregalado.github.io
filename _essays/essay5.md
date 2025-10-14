@@ -435,7 +435,22 @@ img {
 <ul>
   <li><strong>Address:</strong> <a href="https://maps.app.goo.gl/2jjCmpCMMHW93nhv7" target="_blank">Laurel Ave, University of the Philippines, Diliman, Quezon City</a></li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
-  <li><a href="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762" target="_blank">Mass schedules</a></li>
+ <li><a href="#" onclick="openLightbox('https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762'); return false;">Mass schedules</a></li>
+ 
+ <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
+  <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
+  <img id="lightbox-img" src="" style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:0; left:0; right:0; bottom:0;">
+</div>
+
+<script>
+function openLightbox(src) {
+  document.getElementById("lightbox-img").src = src;
+  document.getElementById("lightbox").style.display = "block";
+}
+function closeLightbox() {
+  document.getElementById("lightbox").style.display = "none";
+}
+</script>
 </ul>
 <br>
 
