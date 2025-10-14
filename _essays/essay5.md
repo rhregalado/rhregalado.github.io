@@ -443,7 +443,7 @@ img {
 
 <p>These days, people rarely give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
 
-<h3>For more information about the UP Chapel, here are some FAQs:</h3>
+<h3>If you’d like to know more about the UP Chapel, the following FAQs may help:</h3>
 <ul>
   <li><strong>Address:</strong> Laurel Ave, University of the Philippines, Diliman, Quezon City</li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
