@@ -266,7 +266,6 @@ img {
     <div class="hover-box">
       Image credit: Flickr by Jejomar
     </div>
-  </a>
 </figure>
 <figure>
     <img src="https://live.staticflickr.com/3146/2744517974_6b4d9bce54_b.jpg">
@@ -275,7 +274,6 @@ img {
     <div class="hover-box">
       Image credit: Flickr by Jejomar
     </div>
-  </a>
 </figure>
 <style>
 figure {
