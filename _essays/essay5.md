@@ -445,7 +445,7 @@ img {
 
 <h3>If you’d like to know more about the UP Chapel, the following FAQs may help:</h3>
 <ul>
-  <li><strong>Address:</strong> Laurel Ave, University of the Philippines, Diliman, Quezon City</li>
+  <li><strong>Address:</strong> <a href="https://maps.app.goo.gl/6mPXKnEssqp4HMWb8" target="_blank">Laurel Ave, University of the Philippines, Diliman, Quezon City</a></li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
   <li><a href="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762" target="_blank">Mass schedules</a></li>
 </ul>
