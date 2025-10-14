@@ -25,7 +25,10 @@ excerpt: '<b>[ESSAY]</b> </i>'
 
 <p>To allow you to share in my fondness for the place, let me take you inside and discover for yourself the masterpieces within and the creative geniuses behind them. But for my readers who haven’t had the chance to visit the church yet, I’ll try to inject my writing with as much description and details as I can—and photos (some I’ve taken myself!)—so you yourself can paint a more vivid mental picture of the place itself. And for those who have already been here, perhaps this is also for you; I hope to take you back and remind you of how truly special the place is. My hope is that, by the end, you come to see why the UP Chapel is not only a landmark but a living piece of remembrance that continues to inspire.</p>
 
-<h2><strong>A Church-In-The-Round</strong> <em>by National Artist for Architecture Leandro Locsin</em></h2>
+<h2>
+  <strong>A Church-In-The-Round</strong>
+  <em style="font-weight: normal;"> by National Artist for Architecture Leandro Locsin</em>
+</h2>
 
 <p>Remember the flying saucer? That is what you’ll only see on the outside.</p>
 
@@ -69,9 +72,7 @@ excerpt: '<b>[ESSAY]</b> </i>'
 <ul>
   <li><strong>Address:</strong> Laurel Ave, University of the Philippines, Diliman, Quezon City</li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph">parishoftheholysacrifice.ph</a></li>
-  <li><strong>Mass schedules</strong><br>
-  <img src="https://www.facebook.com/photo/?fbid=870811981874736&set=a.492200146402590" alt="Mass Schedule" style="max-width:100%; height:auto;">
-</li>
+  <li><strong><a href="https://www.facebook.com/photo/?fbid=870811981874736&set=a.492200146402590" target="_blank">Mass schedules</a>:</strong></li>
 </ul>
 
 <p>(Nabua, 10/2025)</p>
