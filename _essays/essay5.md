@@ -163,7 +163,7 @@ img {
 
 </style>
   <figcaption>
-    <em>Thin-Shell Dome and Circular Chapel</em><br>
+    <em>Circular and Thin-Shell Dome Architecture of the Parish of the Holy Sacrifice</em><br>
     Leandro Locsin (1955)
   </figcaption>
 <br>
