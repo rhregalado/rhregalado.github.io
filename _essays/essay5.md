@@ -441,7 +441,7 @@ img {
 
 <p>Perhaps that’s why this place has stayed with me; it holds an indescribable sense of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The arts deepen the experience, for sure, which reminds me that the purpose of art was once not to shock or disturb, but to elevate the soul. I wish you the same feeling when you visit.</p>
 
-<p>People rarely give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
+<p>People rarely give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
 
 <h3>For more information about the UP Chapel, here are some FAQs:</h3>
 <ul>
