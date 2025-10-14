@@ -177,7 +177,7 @@ img {
   <em style="font-weight: normal;"> by National Artist for Sculpture <a href="https://ncca.gov.ph/about-culture-and-arts/culture-profile/national-artists-of-the-philippines/napoleon-abueva/" target="_blank">Napoleon Abueva</a></em>
 </h2>
 
-<p>At the very heart of the church are several works by National Artist Abueva, a first in church art executed in neorealist style. Floating above is a crucifix unlike any other. Entitled <em>Christ Crucified and Christ Resurrected</em>, it reveals Abueva’s mastery in giving Christ a form to show both His humanity and divinity. The massive wooden centerpiece presents two frontal figures joined back-to-back on a single cross: on one side, the stripped Christ with His head bowed in death (Christ the Victim), His sinews and muscles carved in stark realism and clothed only with a simple loincloth; on the other, a robed Christ in full tunic erected in symmetrical verticality (Christ the Priest), His head lifted high in triumph, embodying His purity and priesthood. With arms outstretched in eternal embrace, the risen Christ seems to hover weightlessly, as if caught between ascent and descent.</p>
+<p>At the very heart of the church are several works by National Artist Abueva, a first in church art executed in neorealist style. Floating above is a crucifix unlike any other. Entitled <em>Christ Crucified and Christ Resurrected</em>, it reveals Abueva’s mastery in giving Christ a form to show both His humanity and divinity. The massive wooden centerpiece presents two frontal figures joined back-to-back on a single cross: on one side, the stripped Christ with His head bowed in death (Christ the Victim), His sinews and muscles carved in stark realism and clothed only with a simple loincloth; on the other, a robed Christ in full tunic (Christ the Priest) erected in symmetrical verticality, His head lifted high in triumph, embodying His purity and priesthood. With arms outstretched in eternal embrace, the risen Christ seems to hover weightlessly, as if caught between ascent and descent.</p>
 
 <figure>
     <img src="/images/crucifix.jpg">
@@ -197,7 +197,6 @@ img {
     <em>Altar Dais showing "The Sermon on the Mount"</em><br>
     Napoleon Abueva (1979). Marble.
   </figcaption>
-<br>
 
 <h2>
   <strong>The River of Life Floor Terrazzo</strong>
