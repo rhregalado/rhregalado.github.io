@@ -356,7 +356,7 @@ img {
 
 </style>
   <figcaption>
-    <em>Pagsamba, floor plan and musical score (excerpt)</em><br>
+    <em>Floor plan for Pagsamba, performed by 241 musicians</em><br>
     José Maceda (1968)
   </figcaption>
 <br>
