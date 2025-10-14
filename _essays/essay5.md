@@ -1,4 +1,4 @@
----
+<img width="468" height="26" alt="image" src="https://github.com/user-attachments/assets/3ef80989-bd0e-4f07-b98d-5d481a19cb57" />---
 title: "Of Art and Faith Intertwined"
 date: 2025-10-15
 permalink: /essays/of-art-and-faith-intertwined
@@ -12,6 +12,68 @@ excerpt: '<b>[ESSAY]</b>'
 <p>For me, that place is the campus chapel at my alma mater; the one that quietly kept me company through roughly four years of my post-grad life.</p>
 
 <p>At the heart of the University of the Philippines Diliman (UP Diliman) campus, where pockets of green still resist the slow crawl of gray concrete across the last lungs of Metro Manila, stands a modernist sanctuary unlike any other nearby. Many parishioners fondly call the UP Chapel or the Parish of the Holy Sacrifice <em>“the flying saucer,”</em> for its distinctive dome-shaped roof that seems to hover above the ground. I, however, have always thought of it as a circle among rectangles: a gentle rebellion against the rigid lines of conventional architecture.</p>
+
+<figure>
+  <a href="https://www.dmcihomes.com/whats-new/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://www.dmcihomes.com/uploads/news/dmci-homes-up-chapel-restoration-project-wins-big-in-1st-philippines-excellence-in-concrete-construction-awards-1619775757124.jpeg">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: DMCI Homes
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <em>UP's 'Flying Saucer' Chapel, for obvious reasons</em><br>
+    Leandro Locsin (1955)
+  </figcaption>
+<br>
 
 <p>For starters, what makes this place special is that the chapel is nestled strategically in a cradle of green, where the air smells cleaner, the silence softer. The decades-old acacias offer both shade and solace, their calm colors and foliage easing weary eyes and mind. Now and then, a cool breeze drifts through, light as breath, touching the skin just enough to remind you that you are still, and that these unique sensory experiences combine to allow you to be more inward with yourself and absorb the stillness of the moment.</p>
 
