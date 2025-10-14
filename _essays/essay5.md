@@ -2,7 +2,7 @@
 title: "Of Art and Faith Intertwined"
 date: 2025-10-15
 permalink: /essays/of-art-and-faith-intertwined
-excerpt: '<b>[ESSAY]</b> </i>'
+excerpt: '<b>[ESSAY]</b>'
 ---
 
 <div style="text-align: justify;">
@@ -63,7 +63,9 @@ excerpt: '<b>[ESSAY]</b> </i>'
 
 <p>Between the pillars sustaining the church dome, are fourteen walls each bearing a mural from the <em>Via Crucis</em> or Stations of the Cross, rendered in raw and expressive Cubist elements by Vicente Manansala, assisted by a then-younger Ang Kiukok. The two artists undertook the monumental task of painting several mural-sized Stations of the Cross, with each panel spanning the full height and width of the rectangular walls beneath the lower roof. To complete this vast project, Manansala enlisted his student Ang Kiukok, who would later follow his mentor’s modernist vision, and join him among the Order of National Artists.</p>
 
-<p>In total, they produced fifteen murals encircling the church: fourteen depicting the traditional Stations and one added by Manansala to portray the Resurrection, painted on the sacristy stone. Each panel, measuring fourteen by nine feet, was executed in oil on masonite boards, a choice that allowed for vivid color saturation and durability over time. Their bright tones, from ochres and reds to deep blues and dark browns, remain remarkably vibrant up to this day. As I moved past each station, I could only adore in quiet reflection, as I retrace my own personal Stations that I have taken and those that I will continue to take.</p>
+<p>In total, they produced fifteen murals encircling the church: fourteen depicting the traditional Stations and one added by Manansala to portray the Resurrection, painted on the sacristy stone. Each panel, measuring fourteen by nine feet, was executed in oil on masonite boards, a choice that allowed for vivid color saturation and durability over time. Their bright tones, from ochres and reds to deep blues and dark browns, remain remarkably vibrant up to this day. As I moved past each station, I could only adore in quiet reflection, as I retrace my own personal Stations that I have taken and those that I will continue to take.</p><br>
+
+<p>Just when I thought the Easter eggs had ended there, I learned that the Church once again welcomed another kind of talent; this time filling its space not with art to behold, but with art to be heard.</p>
 
 <h2>
   <strong>A Concert Premier</strong>
@@ -74,17 +76,18 @@ excerpt: '<b>[ESSAY]</b> </i>'
 
 <p>The performers were scattered among the audience, all facing the altar where the conductor led the ceremony. This spatial arrangement, combined with the sheer number of instruments, produced vast tonal layers that would sound different to each listener depending on their position in the church. This arrangement perhaps made the experience more communal as if it were a ritual held in a rural village, demanding a rare kind of social participation to performers and audience alike; being both a concert and a Christian Mass. One can only imagine the sensory intensity: music reverberating from every direction, the dome above trapping and amplifying the sound. We can only wish we were there; but until then, your imagination is as good as mine.</p>
 
-<p>To this day, the UP Chapel is declared as both a National Historical Landmark by the National Historical Commission of the Philippines, and a National Cultural Treasure by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. This makes the UP Chapel a singular artistic achievement. The Order of National Artists was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
+<p>To this day, the UP Chapel is declared as both a <strong>National Historical Landmark</strong> by the National Historical Commission of the Philippines, and a <strong>National Cultural Treasure</strong> by the National Museum of the Philippines. It also remains as the only structure in the country to feature the works of five National Artists (six, if we include Maceda) none of whom, at the time, had been inducted into the Order. This makes the UP Chapel a singular artistic achievement. The Order of National Artists was established only in 1972, with these artists receiving the recognition well into the late 20th century and beyond. Perhaps it was by grand design that, decades before their recognition, these artists’ paths had already crossed to create a shared legacy of faith and art intertwined. And that is powerful.</p>
 
 <p>Perhaps that’s why this place has stayed with me; it holds an indescribable sense of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The art deepens the experience, for sure, which reminds me that art’s purpose was once not to shock or disturb, but to elevate the soul. I wish you the same feeling when you visit.</p>
 
-<p>Rarely do people give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the place. Maybe you might consider including it in your next Visita Iglesia. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p>
+<p>Rarely do people give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the place. Maybe you might consider including it in your next Visita Iglesia. I can promise that the experience in the place is enriching, with each visit you discover and learn something new about art, about faith, and about yourself.</p><br>
 
-<h4>For more information about the UP Chapel, here are some FAQs:</h4>
+<h3>For more information about the UP Chapel, here are some FAQs:</h3>
 <ul>
   <li><strong>Address:</strong> Laurel Ave, University of the Philippines, Diliman, Quezon City</li>
-  <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph">parishoftheholysacrifice.ph</a></li>
+  <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
   <li><a href="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762" target="_blank">Mass schedules</a></li>
 </ul>
+<br>
 
 <p>(Nabua, 10/2025)</p>
