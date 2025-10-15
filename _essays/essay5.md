@@ -168,7 +168,7 @@ img {
   </figcaption>
 <br>
 
-<p>National Artist Locsin’s 1955 design was inspired by traditional Filipino sensibilities reinterpreted through post-war aesthetics. Its radical circular plan defied the traditional Baroque and Gothic influenced designs familiar to many Catholics, as well as the linear orientation of the Catholic rites. But that defiance was deliberate. Locsin envisioned a church without corners, without hierarchy, so that the laity, us, encircling the altar, shared equal intimacy to the mystery of the Eucharist. And no doors, so that anyone seeking refuge feels welcomed and invited.</p>
+<p>National Artist Locsin’s 1955 design was inspired by traditional Filipino sensibilities reinterpreted through post-war aesthetics. Its radical circular plan defied the traditional Baroque and Gothic influenced designs familiar to many Catholics, as well as the linear orientation of the Catholic rites. But that defiance was deliberate. Locsin envisioned a church without corners, without hierarchy, so that the laity, us, encircling the altar, shared equal intimacy to the mystery of the Eucharist. And no doors, so that anyone seeking refuge feels welcomed and invited, anytime.</p>
 
 <p>The unique architecture was, at the time, a first of its kind in the Philippines, and in Asia: a structure without precedent in regional architecture. It was a revolution in ecclesiastical design; intentional, radical, and visionary. While many Filipino architects of the time followed the aesthetics of contemporary American designs, Locsin’s “flying saucer” remains a singular triumph of Filipino Modernism.</p>
 
@@ -429,7 +429,7 @@ img {
 
 <p>Perhaps that’s why this place has stayed with me; it holds an indescribable feeling of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The arts deepen the experience, for sure, which reminds me that the purpose of art was once not to shock or disturb, but to elevate the soul. I do wish you the same feeling when you visit.</p>
 
-<p>These days, people rarely give it a second glance. So, the next time you hear Mass, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, faith, and yourself.</p><br>
+<p>These days, people rarely give it a second glance. So, the next time you hear Mass, meditate, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, faith, and yourself.</p><br>
 
 <h3>If you’d like to know more about the UP Chapel, the following FAQs may help:</h3>
 <ul>
