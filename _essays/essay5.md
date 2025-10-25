@@ -429,13 +429,15 @@ img {
 
 <p>Perhaps that’s why this place has stayed with me; it holds an indescribable feeling of peace and familiarity that I rarely find elsewhere. Here, one can really close their eyes and just simply take in the slowness and stillness of life, unhurried. The arts deepen the experience, for sure, which reminds me that the purpose of art was once not to shock or disturb, but to elevate the soul. I do wish you the same feeling when you visit.</p>
 
-<p>These days, people rarely give it a second glance. So, the next time you hear Mass, stop for a prayer, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, faith, and yourself.</p><br>
+<p>These days, people rarely give it a second glance. So, the next time you hear Mass, stop for a prayer, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, faith, and yourself.</p>
+
+<p><em>Pax!</em></p><br>
 
 <h3>If you’d like to know more about the UP Chapel, the following FAQs may help:</h3>
 <ul>
   <li><strong>Address:</strong> <a href="https://maps.app.goo.gl/2jjCmpCMMHW93nhv7" target="_blank">Laurel Ave, University of the Philippines, Diliman, Quezon City</a></li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
- <li><a href="#" onclick="openLightbox('https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dsnNFWLRjTgQ7kNvwGpZkMR&_nc_oc=AdkUi7OAUOwaAPx-OA6zFla12Oc2orBULJUW_l7r9fztCEvzImFbmhFppWIp8tZCwPU&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=X6a9AVp4u7N8SFPOD01goQ&oh=00_AfcLBEa4enGFS5aPlRrbmrImWE_0KB-2IC1C9jFl3zYNrw&oe=68F3C762'); return false;">Mass schedules</a></li>
+ <li><a href="#" onclick="openLightbox('https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=8HSlnvrj8JgQ7kNvwH6Y6ez&_nc_oc=AdkXSXDlc8bNn4kaffe43bIpZS1GzQPd8PV1x8wB_PKYtJ60_rvljhq4Bp9Kz4Y1vIM&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=iCWWErM5zVH4DDka58wdcA&oh=00_AfdcKOVV6PY_A-oomUVK0f-M0wOfYNlllUx-XCVQaujvvQ&oe=69020FA2'); return false;">Mass schedules</a></li>
  
  <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
   <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
