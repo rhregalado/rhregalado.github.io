@@ -431,7 +431,7 @@ img {
 
 <p>These days, people rarely give it a second glance. So, the next time you hear Mass, stop for a prayer, or simply drop by, you may want to pause and take a moment to appreciate the space. Maybe you might consider including it in your next <em>Visita Iglesia</em>. I can promise that the experience in the place will be enriching, with each visit you discover and learn something new about art, faith, and yourself.</p>
 
-<p><em>Pax!</em></p><br>
+<p><em>Pax vobis!</em></p><br>
 
 <h3>If you’d like to know more about the UP Chapel, the following FAQs may help:</h3>
 <ul>
