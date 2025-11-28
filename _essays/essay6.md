@@ -115,8 +115,9 @@ img {
 
 </style>
   <figcaption>
-Examples of female-female huddling positions during a homosexual consort observed in female Japanese Macaques <em>(Macaca fuscata).</em>
+Examples of female-female huddling positions during a homosexual consort observed in Japanese Macaques <em>(Macaca fuscata)</em><sup>17</sup>.
   </figcaption>
+  <br>
 
 <p>It is entirely theoretically possible, though, that all 1,500 of those animal species are profoundly homophobic, we just don’t have the means to interpret them as homophobia. Or, more likely, they simply don’t care. We humans just love our labels. Sometimes a lioness is just a lioness… no other identities required, no affirmations needed. And, yes, we do have many ways now to observe animal social interaction <em>in natura</em>, and it’s clear that homosexuality is not seen as unusual by animals.</p>
 
@@ -145,5 +146,6 @@ Examples of female-female huddling positions during a homosexual consort observe
   <li>Mann, J. (2006). Establishing trust: Socio-sexual behaviour and the development of male-male bonds among Indian Ocean bottlenose dolphins. In Sommer, V. & Vasey, P. L. (eds). <em>Homosexual Behaviour in Animals: An Evolutionary Perspective</em> (pp. 107-130). Cambridge University Press, Cambridge.</li>
   <li>Young, L. C., Zaun, B. J., & VanderWerf, E. A. (2008). Successful same-sex pairing in Laysan albatross. <em>Biology Letters, 4</em>(4), 323-325.</li>
   <li>Vervaecke, H., & Roden, C. (2006). Going with the herd: same-sex interaction and competition in American bison. In Sommer, V. & Vasey, P. L. (eds). <em>Homosexual Behaviour in Animals: An Evolutionary Perspective</em> (pp. 131-153). Cambridge University Press, Cambridge.</li>
+  <li>Böhm, P. M., Pflüger, L. S., Pink, K. E., Huffman, M. A., & Wallner, B. (2024). Intense body contact increases homosexual pair bond stability in female japanese Macaques <em>(Macaca fuscata). Archives of Sexual Behavior, 53</em>(5), 1653-1665.</li>
 </ol>
 </div>
