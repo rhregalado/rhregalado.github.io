@@ -32,7 +32,7 @@ excerpt: '<b>[SCHOLARLY ESSAY]</b> “Presumed straight until proven otherwise.�
 
 <p>As you see, many scientists felt compelled to attach or embellish all sorts of value-laden labels to same-sex behavior, as if their contempt weren’t derogatory enough. My main point is this, same-sex behavior has been observed in over a thousand species. <strong>Homophobia has only been observed in one:</strong> humans.</p>
 
-<p>If it’s not yet obvious from the examples above, homosexuality irrevocably co-exists with heterosexuality in nature. By that logic, homosexuality is natural. In fact, one study postulated that species expressing both homosexual and heterosexual behaviors will turn out to be more common than species with exclusive heterosexual behaviors, which may be a rarity in nature<sup>1</sup>. In other words, an all-heterosexual population—whether it be in humans or lower-order animals—will be difficult to encounter in nature. That is the reality. Numerous studies support it. Others might categorically deny it, but denying reality is called being delusional.</p>
+<p>If it’s not yet obvious from the examples above, homosexuality irrevocably co-exists with heterosexuality in nature. By that logic, homosexuality is natural. In fact, a recent parsimonious model postulated that species expressing both homosexual and heterosexual behaviors will turn out to be more common than species with exclusive heterosexual behaviors, which may be a rarity in nature<sup>1</sup>. In other words, an all-heterosexual population—whether it be in humans or lower-order animals—will be difficult to encounter in nature. That is the reality. Numerous studies support it. Others might categorically deny it, but denying reality is called being delusional.</p>
 
 <p>Many conservatives will now have to argue:</p>
 <em><p>So, we’re now comparing humans to wild animals?;</p>
@@ -58,7 +58,67 @@ excerpt: '<b>[SCHOLARLY ESSAY]</b> “Presumed straight until proven otherwise.�
   <li>Nonhuman primates provide perhaps the clearest link between same-sex behavior and social survival. In species where the killing of conspecific adults, or adulticide, is a risk, same-sex sexual behavior has evolved to divert and mitigate aggression, facilitate bonding, form alliances, stabilize groups, and aid post-conflict reconciliation, ultimately supporting group cohesion<sup>2</sup>.</li>
 </ul>
 
-<p>It is entirely theoretically possible, though, that all 1,500 of those animal species are profoundly homophobic, we just don’t have the means to interpret them as homophobia. Or, more likely, they simply don’t care. We humans just love our labels. Sometimes a lioness is just a lioness… no other identities required, no affirmations needed. And, yes, we do have many ways now to observe animal social interaction in their natural elements, and it’s clear that homosexuality is not seen as unusual by animals.</p>
+<figure>
+  <a href="https://doi.org/10.1007/s10508-023-02781-6" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs10508-023-02781-6/MediaObjects/10508_2023_2781_Fig1_HTML.jpg?as=webp" alt="">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: Springer - Archives of Sexual Behavior 
+    </div>
+  </a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+Examples of female-female huddling positions during a homosexual consort observed in female Japanese Macaques <em>(Macaca fuscata).</em>
+  </figcaption>
+
+<p>It is entirely theoretically possible, though, that all 1,500 of those animal species are profoundly homophobic, we just don’t have the means to interpret them as homophobia. Or, more likely, they simply don’t care. We humans just love our labels. Sometimes a lioness is just a lioness… no other identities required, no affirmations needed. And, yes, we do have many ways now to observe animal social interaction <em>in natura</em>, and it’s clear that homosexuality is not seen as unusual by animals.</p>
 
 <p>As you can see, love is found in every species. Hate is not. Homosexuality has always been here forever as part of life, whereas homophobia is a very much recent concept, with absolutely no biological basis nor evolutionary advantage. And this applies equally to racism, misogyny, mass violence, or genocide. And until humans recognize this, we will continue to see Homo sapiens with a stone age psychology operating on paleolithic emotions and medieval mindsets.</p>
 
