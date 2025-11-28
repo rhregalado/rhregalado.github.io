@@ -7,7 +7,7 @@ author_profile: true
 
 <h1 style="color:#49A0BF; font-size: 1.4em;">Under Review</h1>
 
-No content to show at this time. <br>
+<i>No content to show at this time.</i><br>
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
