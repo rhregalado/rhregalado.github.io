@@ -437,7 +437,7 @@ img {
 <ul>
   <li><strong>Address:</strong> <a href="https://maps.app.goo.gl/2jjCmpCMMHW93nhv7" target="_blank">Laurel Ave, University of the Philippines, Diliman, Quezon City</a></li>
   <li><strong>Website:</strong> <a href="https://parishoftheholysacrifice.ph" target="_blank">parishoftheholysacrifice.ph</a></li>
- <li><a href="#" onclick="openLightbox('https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/464075851_870811985208069_89487537450765539_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=8HSlnvrj8JgQ7kNvwH6Y6ez&_nc_oc=AdkXSXDlc8bNn4kaffe43bIpZS1GzQPd8PV1x8wB_PKYtJ60_rvljhq4Bp9Kz4Y1vIM&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=iCWWErM5zVH4DDka58wdcA&oh=00_AfdcKOVV6PY_A-oomUVK0f-M0wOfYNlllUx-XCVQaujvvQ&oe=69020FA2'); return false;">Mass schedules</a></li>
+ <li><a href="#" onclick="openLightbox('/images/7.png'); return false;">Mass schedules</a></li>
  
  <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
   <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
