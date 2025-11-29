@@ -1,5 +1,5 @@
 ---
-title: "An Exuberant Biology"
+title: "An Exuberant Biology: Commentaries on the Natural History of Love and the Unnaturalness of Hate"
 date: 2025-11-28
 permalink: /essays/an-exuberant-biology
 excerpt: '<b>[SCHOLARLY ESSAY]</b> <i>“Presumed straight until proven otherwise.”</i> Or, <i>“Heterosexual until proven guilty.”</i> Has to be the most unkind, unnecessary, unsolicited remark I’ve ever heard to be thrown in casual conversations; as if sexuality in itself is inherently incriminating. I think there is something intrinsically perverse on how others conveniently perceive heterosexuality as the only “natural” expression of being, as if it were the unquestioned baseline in the life history of any individual. The reason it’s taken as the default is probably simple: most of the population happens to be “straight,” that’s why straight is the default sexuality. It’s a statistically accurate assumption. However, this thinking doesn’t really clarify anything; if anything, it only creates distance—reducing the human experience to a mere numerical imagination. It is polarizing as it is dismissive, and shrinks the full range of human (or even biological) experience.'
@@ -120,7 +120,7 @@ Examples of female-female huddling positions during a homosexual consort observe
 
 <p>It is entirely theoretically possible, though, that all 1,500 of those animal species are profoundly homophobic, we just don’t have the means to interpret them as homophobia. Or, more likely, they simply don’t care. We humans just love our labels. Sometimes a lioness is just a lioness… no other identities required, no affirmations needed. And, yes, we do have many ways now to observe animal social interaction <em>in natura</em>, and it’s clear that homosexuality is not seen as unusual by animals.</p>
 
-<p>As you can see, love is found in every species. Hate is not. Homosexuality has always been here forever as part of life, whereas homophobia is a very much recent concept, with absolutely no biological basis nor evolutionary advantage. And this applies equally to racism, misogyny, mass violence, or genocide. And until humans recognize, reflect, and rise above this, we will continue to see modern <em>Homo sapiens</em> with a stone age psychology operating on paleolithic emotions and medieval mindsets.</p>
+<p>As you can see, love is found in every species. Hate is not. Homosexuality has always been here forever as part of life, whereas homophobia is a very much recent concept, with absolutely no biological basis nor evolutionary advantage. And this applies equally to bigotry, misogyny, mass violence, or genocide. And until humans recognize, reflect, and rise above this, we will continue to see modern <em>Homo sapiens</em> with a stone age psychology operating on paleolithic emotions and medieval mindsets.</p>
 
 <p>So, the next time you hear the old chestnut, “straight until proven otherwise,” a perfectly good comeback might be: “gay until proven straight.” And remember the exuberance in this anthem: <em>“I’m beautiful in my way, ’cause God makes no mistakes. I’m on the right track, baby I was born this way.”</em></p>
 
