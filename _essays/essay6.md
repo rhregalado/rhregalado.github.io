@@ -141,7 +141,7 @@ Examples of female-female huddling positions during a homosexual consort observe
 <p>(Nabua, 11/2025)</p>
 <br><br><br>
 
-<div style="font-size: 0.8em; style="text-align: justify;">
+<div style="font-size: 0.8em;" style="text-align: justify;">
 <b>Literatures cited:</b>
 <ol>
   <li>Monk, J. D., Giglio, E., Kamath, A., Lambert, M. R., & McDonough, C. E. (2019). An alternative hypothesis for the evolution of same-sex sexual behaviour in animals. <em>Nature Ecology & Evolution, 3</em>(12), 1622-1631.</li>
