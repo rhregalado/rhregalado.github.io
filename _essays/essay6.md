@@ -125,13 +125,16 @@ Examples of female-female huddling positions during a homosexual consort observe
 <p>So, the next time you hear the old chestnut, “straight until proven otherwise,” a perfectly good comeback might be: “gay until proven straight.” And remember the exuberance in this anthem: <em>“I’m beautiful in my way, ’cause God makes no mistakes. I’m on the right track, baby I was born this way.”</em></p>
 
 <p>  
-<u>#LoveWins</u><br>
-<u>#PrideInSTEM</u><br>
-<u>#OrangeTheWorld</u><br>
-<u>#BlackLivesMatter</u><br>
-<u>#FreePalestine</u><br>
-<u>#StandWithUkraine</u><br>
-<u>#StopTheGenocide</u><br>
+<u>#LoveWins</u>
+<u>#IUCNRedlist</u>
+<u>#BarometerOfLife</u>
+<u>#EndSpeciesism</u>
+<u>#PrideInSTEM</u>
+<u>#OrangeTheWorld</u>
+<u>#BlackLivesMatter</u>
+<u>#FreePalestine</u>
+<u>#StandWithUkraine</u>
+<u>#StopTheGenocide</u>
 <u>#ArmsEmbargoNow</u>
 </p>
 
