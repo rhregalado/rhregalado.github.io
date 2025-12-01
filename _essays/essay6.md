@@ -122,7 +122,7 @@ Examples of female-female huddling positions during a homosexual consort observe
 
 <p>As you can see, love is found in every species. Hate is not. Homosexuality has always been here forever as part of life, whereas homophobia is a very much recent concept, with absolutely no biological basis nor evolutionary advantage. And this applies equally to racism, misogyny, mass violence, or genocide. And until humans recognize, reflect, and rise above this, we will continue to see modern <em>Homo sapiens</em> with a stone age psychology operating on paleolithic emotions and medieval mindsets.</p>
 
-<p>So, the next time you hear the old chestnut, “straight until proven otherwise,” a perfectly good comeback might be: “gay until proven straight.” And remember the exuberance in this anthem: <em>“I’m beautiful in my way, ’cause God makes no mistakes. I’m on the right track, baby I was born this way.”</em></p>
+<p>So, the next time you hear the old chestnut, “straight until proven otherwise,” a perfectly good comeback might be: “gay until proven straight.” And remember the exuberance in this anthem: <em>“I’m beautiful in my way, ’cause God makes no mistakes. I’m on the right track, baby I was born this way.”</em></p></div>
 
 <p>  
 <u>#LoveWins</u>
@@ -140,7 +140,8 @@ Examples of female-female huddling positions during a homosexual consort observe
 
 <p>(Nabua, 11/2025)</p>
 <br><br><br>
-<div style="font-size: 0.8em;">
+
+<div style="font-size: 0.8em; style="text-align: justify;">
 <b>Literatures cited:</b>
 <ol>
   <li>Monk, J. D., Giglio, E., Kamath, A., Lambert, M. R., & McDonough, C. E. (2019). An alternative hypothesis for the evolution of same-sex sexual behaviour in animals. <em>Nature Ecology & Evolution, 3</em>(12), 1622-1631.</li>
