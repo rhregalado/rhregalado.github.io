@@ -1,6 +1,6 @@
 ---
 title: "An Exuberant Biology: Commentaries on the Natural History of Love and the Unnaturalness of Hate"
-date: 2025-11-28
+date: 2025-11-30
 permalink: /essays/an-exuberant-biology
 excerpt: '<b>[SCHOLARLY ESSAY]</b> <i>“Presumed straight until proven otherwise.”</i> Or, <i>“Heterosexual until proven guilty.”</i> Has to be the most unkind, unnecessary, unsolicited remark I’ve ever heard to be thrown in casual conversations; as if sexuality in itself is inherently incriminating. I think there is something intrinsically flawed in the way heterosexuality is percieved as the only “natural” expression of being, as if it is the only authentic form of existence. This view seems to stem on the simple observation that most of the population happens to be “straight,” that’s why straight is the default sexuality. And because, it’s a statistically accurate assumption. Anything more than that is a defect. However, this thinking doesn’t really validate anything; if anything, it only creates distance. It is polarizing as it is dismissive, and shrinks the full range of human (or even biological) experience into an artificially narrow binary.'
 ---
@@ -123,6 +123,17 @@ Examples of female-female huddling positions during a homosexual consort observe
 <p>As you can see, love is found in every species. Hate is not. Homosexuality has always been here forever as part of life, whereas homophobia is a very much recent concept, with absolutely no biological basis nor evolutionary advantage. And this applies equally to racism, misogyny, mass violence, or genocide. And until humans recognize, reflect, and rise above this, we will continue to see modern <em>Homo sapiens</em> with a stone age psychology operating on paleolithic emotions and medieval mindsets.</p>
 
 <p>So, the next time you hear the old chestnut, “straight until proven otherwise,” a perfectly good comeback might be: “gay until proven straight.” And remember the exuberance in this anthem: <em>“I’m beautiful in my way, ’cause God makes no mistakes. I’m on the right track, baby I was born this way.”</em></p>
+
+<p>  
+<u>#LoveWins</u><br>
+<u>#PrideInSTEM</u><br>
+<u>#OrangeTheWorld</u><br>
+<u>#BlackLivesMatter</u><br>
+<u>#FreePalestine</u><br>
+<u>#StandWithUkraine</u><br>
+<u>#StopTheGenocide</u><br>
+<u>#ArmsEmbargoNow</u>
+</p>
 
 <p>(Nabua, 11/2025)</p>
 <br><br><br>
