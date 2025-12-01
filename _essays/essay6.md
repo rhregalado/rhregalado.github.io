@@ -114,7 +114,7 @@ img {
 
 </style>
   <figcaption>
-Examples of female-female huddling positions during a homosexual consort observed in Japanese Macaques <em>(Macaca fuscata)</em><sup>17</sup>.
+Examples of female-female huddling positions during a homosexual consort observed in japanese macaques <em>(Macaca fuscata)</em><sup>17</sup>.
   </figcaption>
   <br>
 
@@ -126,7 +126,7 @@ Examples of female-female huddling positions during a homosexual consort observe
 
 <p>  
 <u>#LoveWins</u>
-<u>#IUCNRedlist</u>
+<u>#IUCNRedList</u>
 <u>#BarometerOfLife</u>
 <u>#EndSpeciesism</u>
 <u>#PrideInSTEM</u>
