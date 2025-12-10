@@ -16,7 +16,7 @@ main:
     url: /publications/
 
   - title: "Blog"
-    url: /blog/
+    url: /essays/
     
   - title: "Working Papers"
     url: /active/    
