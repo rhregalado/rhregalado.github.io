@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Blog"
-excerpt: "Blog"
-permalink: /blog/
+excerpt: "essays"
+permalink: /essays/
 author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
@@ -16,14 +16,14 @@ author_profile: true
 </blockquote>
 
 <p style="color:var(--global-text-color-light); font-size: 1em; font-family: 'Playfair Display', serif; margin-top: 0;">
-  <em>Introduction:</em> This blog is where I write things that don’t fit my lab notebook; containing equal parts reflection, rebellion, and random introspections.
+  <em>Introduction:</em> This essays is where I write things that don’t fit my lab notebook; containing equal parts reflection, rebellion, and random introspections.
 </p>
 
 
 
 {% include base_path %}
-{% assign blog_sorted = site.blog | sort: 'date' | reverse %}
+{% assign essays_sorted = site.essays | sort: 'date' | reverse %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in blog_sorted %}
+{% for post in essays_sorted %}
   {% include archive-nodate.html %}
 {% endfor %}
