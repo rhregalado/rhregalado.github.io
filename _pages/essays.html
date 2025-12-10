@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Essays"
-excerpt: "Essays"
-permalink: /essays/
+title: "Blog"
+excerpt: "Blog"
+permalink: /blog/
 author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
@@ -22,8 +22,8 @@ author_profile: true
 
 
 {% include base_path %}
-{% assign essays_sorted = site.essays | sort: 'date' | reverse %}
+{% assign blog_sorted = site.blog | sort: 'date' | reverse %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in essays_sorted %}
+{% for post in blog_sorted %}
   {% include archive-nodate.html %}
 {% endfor %}
