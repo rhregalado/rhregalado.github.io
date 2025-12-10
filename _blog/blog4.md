@@ -1,7 +1,7 @@
 ---
 title: "On World Microbiome Day 2025"
 date: 2025-06-27
-permalink: /essays/world-microbiome-day
+permalink: /blog/world-microbiome-day
 excerpt: "<b>[ESSAY]</b> I celebrate with microbiome scientists, workers, and enthusiasts across the world, and the breathtaking work they do every day. At this day and age, microbiome science continues to push the boundaries of what it means to do science. In health, food, environment, and climate. But to work in this field is to live with complexity every day. Studying it requires humility before nature's complexity. As I worked through my own thesis, I finally understood where the shortage in interest often comes from: the scale of it all can be overwhelming. We've come a long way but it's still a looooong way to go."
 ---
 
