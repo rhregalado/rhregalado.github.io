@@ -1,7 +1,7 @@
 --- 
 title: "Muse and Musings" 
 date: 2025-07-16 
-permalink: /essays/muse-and-musings
+permalink: /blog/muse-and-musings
 excerpt: '<b>[ESSAY]</b> In this essay, I speak of the Muses not as distant, abstract figures summoned by the sheer labor of imagination; but as living, breathing presences. While literature named nine, I have met six. I will recount in the order I''ve met them: Uki, Pan, Sun, Ryu, Oni, and Red. To others, they might’ve seemed like ordinary human presences, unremarkable in the flow of daily rhythm, but to myself, each carries a quiet, transcendental power, in ways I am still learning to understand. This essay is, in some ways, an extended reflection on a thought I first shared in a <a href="https://x.com/ricryanxd/status/1544129581963411456" target="_blank" rel="noreferrer noopener">tweet</a> on X (formerly Twitter). Allow me to extend that narrative here and recollect my encounters with them, and how through their presence, I was transformed.'
 ---
   
