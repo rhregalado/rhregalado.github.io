@@ -3,7 +3,7 @@ title: "Mycological nanotechnology and applications in medicine and agriculture"
 category: Book Chapter
 permalink: /publication/mycological-nanotechnology-and-applications-in-medicine-and-agriculture
 excerpt: "This is the second of two chapters from a book I co-authored. Here, we synthesize current research on myconanotechnology in Southeast Asia, highlighting fungi as sustainable biofactories for nanomaterial synthesis, their biomedical and agricultural applications, and the key technical, regulatory, and infrastructural challenges limiting broader adoption and commercialization. Grateful for the opportunity to collaborate with experts from 11 countries on this comprehensive resource developed over two years."
-venue: "Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia. Springer, Singapore, 2026"
+venue: "Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia. Springer, Singapore"
 date: 2025-11-21
 citation: 'Guerrero JJG, Regalado RRH, Cuenca JP, Paet MJQ, Malonzo CA, Fulleros MCA, Sabdao-Lunas MY. (2026). Mycological Nanotechnology and Applications in Medicine and Agriculture. In: Guerrero JJG, De Leon MP, Cena-Navarro RB, Notarte KIR, Balendres MAO, dela Cruz TEE. (Eds) <i>Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia</i> (pp. 489–512). Springer, Singapore. <a href="https://doi.org/10.1007/978-981-95-2640-6_18">doi: 10.1007/978-981-95-2640-6_18</a>'
 
