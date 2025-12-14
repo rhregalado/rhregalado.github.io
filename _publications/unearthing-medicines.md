@@ -3,7 +3,7 @@ title: "Unearthing medicines: Soil fungi and the potential pharmacopeia of South
 category: Book Chapter
 permalink: /publication/unearthing-medicines
 excerpt: "This is the first of two chapters from a book I co-authored. In this chapter, we examine the critical roles of fungi in a changing planet, focusing on Southeast Asian soil fungi as an underexplored source of bioactive metabolites. We highlight key genera, recent compound discoveries, persistent research and methodological gaps, and the mounting environmental pressures threatening fungal biodiversity. Grateful for the opportunity to collaborate with experts from 11 countries on this comprehensive resource developed over two years."
-venue: "Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia. Springer, Singapore, 2026"
+venue: "Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia. Springer, Singapore"
 date: 2025-11-21
 citation: 'Guerrero JJG, Regalado RRH, Madayag-Villanueva RE. (2026). Unearthing Medicines: Soil Fungi and the Potential Pharmacopeia of Southeast Asia. In: Guerrero JJG, De Leon MP, Cena-Navarro RB, Notarte KIR, Balendres MAO, dela Cruz TEE. (Eds) <i>Mycology in a Changing Planet: Applications and Perspectives from Southeast Asia</i> (pp. 59–73). Springer, Singapore. <a href="https://doi.org/10.1007/978-981-95-2640-6_4">doi: 10.1007/978-981-95-2640-6_4</a>'
 
