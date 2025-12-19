@@ -24,9 +24,9 @@ excerpt: '<b>[PERSPECTIVE]</b> <i>“Presumed straight until proven otherwise.�
 <p>In one of its book chapters<sup>7</sup>, Bagemihl richly recounted how pervasive these biases were, even in respected scholarly publications and scientific discourse. He provided carefully curated examples of animal homosexuality from across the literature, some of them narrated as:</p>
 
 <ul>
-  <li>Courtship and mounting between male lions were labeled an “atypical sexual fixation.”<sup>8</sup></li>
+  <li>Courtship and mounting between male lions were labeled an “atypical sexual fixation<sup>8</sup>.”</li>
   <li>Rhesus macaques (a species of monkey) were said to react with “homosexual panic” to same-sex advances, reflecting misconceptions about human homosexuality<sup>9</sup>.</li>
-  <li>In Greenshanks (a species of bird), heterosexual copulations were described in florid, sympathetic language, one episode was called a “lovely act of mating” and “a poem of ecstasy and delight;” while homosexual copulations were given cursory descriptions or even labeled “bizarre affairs.”<sup>10,11</sup></li>
+  <li>In Greenshanks (a species of bird), heterosexual copulations were described in florid, sympathetic language, one episode was called a “lovely act of mating” and “a poem of ecstasy and delight;” while homosexual copulations were given cursory descriptions or even labeled “bizarre affairs<sup>10,11</sup>.”</li>
   <li>Sexual activity between female gorillas, which generally lasts longer than heterosexual copulations, was speculatively attributed to “mechanical difficulties,” ignoring the possibility that females might experience closer bonding or greater enjoyment with each other; as reflected by their face-to-face position and other features also seen in heterosexual activities<sup>12</sup>.</li>
   <li>In studies of black-headed gulls (a species of bird), the term “monogamous” (implying stability) was reserved for heterosexual pairs, even though homosexual pairs can also be stable and monogamous, albeit heterosexual pairs being nonmonogamous sometimes<sup>13</sup>.</li>
 </ul>
