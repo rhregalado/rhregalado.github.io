@@ -74,7 +74,7 @@ img {
 
 </style>
   <figcaption>
-    <i>The beginnings of Whiteflower</i><br>
+    <i>The beginnings of Whiteflower</i> (with the signature fierce look)<br>
     College of Science Recognition Program, March 2017.
   </figcaption>
   <br>
