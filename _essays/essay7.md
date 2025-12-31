@@ -218,7 +218,7 @@ img {
   </figcaption>
   <br>
 
-<p>But isn’t it a little demanding to keep friendships afloat these days? Let alone twenty of them at once?!</p> 
+<p>But isn’t it demanding to keep friendships afloat these days? Let alone twenty of them at once?!</p> 
 
 <p>In some ways, yes. Some friendships do need constant tending, the kind that asks for regular care, attention, and time, like plants that need frequent watering to grow. Distance, of course, makes this even harder. But our friendship has always been different. We were never strangers to distance; in fact, it was where we began. Remember? Maybe that’s why our roots grew deeper than most: deep enough to find their own water, even when we’re far apart. Our friendship is self-sustaining, I might argue, held together by bonds you can’t see but can always feel, no matter the distance. And it shows. After a decade of friendship, it still feels just the same, carrying the same warmth and ease it always has.</p>
 
