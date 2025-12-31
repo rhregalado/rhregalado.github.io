@@ -24,7 +24,6 @@ excerpt: '<b>[PERSPECTIVE]</b> It was the second semester of my junior-year in 2
     <div class="hover-box">
       Image credit: Mecyel Endrano
     </div>
-  </a>
 </figure>
 <style>
 figure {
@@ -73,7 +72,7 @@ img {
 
 </style>
   <figcaption>
-    <i>The beginnings of Whiteflower</i><br>
+    <b><i>The beginnings of Whiteflower</i></b><br>
     College of Science Recognition Program, March 2017.
   </figcaption>
   <br>
@@ -145,11 +144,11 @@ img {
 
 </style>
   <figcaption>
-The bloom of <i>Begonia francisabuidii</i>, showing both its staminate (male) and pistillate (female) flowers. It has four white petal-like parts (tepals): the outer two are broad, while the inner two are smaller, rounded, and smooth. The male parts include numerous yellow stamens with tiny pollen sacs, while the female part has a small, three-sided ovary.
+<b>The bloom of <i>Begonia francisabuidii</i>, showing both its staminate (male) and pistillate (female) flowers.</b> It has four white petal-like parts (tepals): the outer two are broad, while the inner two are smaller, rounded, and smooth. The male parts include numerous yellow stamens with tiny pollen sacs, while the female part has a small, three-sided ovary.
   </figcaption>
   <br>
 
-<p>And so, Whiteflower, is more than just a silly wordplay now to call our group. It carries meaning now, and memory, and pride. I’m certain Abs would be so proud of us if he could see us now, slowly unfolding into who we are each becoming.</p><br>
+<p>And so, <i>“Whiteflower,”</i> is more than just a silly wordplay now to call our group. It carries meaning now, and memory, and pride. I’m certain Abs would be so proud of us if he could see us now, slowly unfolding into who we are each becoming.</p><br>
 
 <p>Fast forward today, having the opportunity to sit down together, listen to my friends talk, laugh, ramble, and reflect, I found myself thoroughly in awe. We all stepped into young adulthood carrying different fears, hopes, and timelines, yet each of us found our own footing and the way forward. Some paths were loud and bold, others gentle and winding, but all of them took courage. There were detours, pauses, wrong turns, and moments when we doubted ourselves, but there was also growth: real, hard-earned growth. I’ve actually went my way and took some notes of their wins this year to flex them to all of you reading this. This would be quite a long read, so please bear with me:</p>
 
@@ -162,7 +161,6 @@ The bloom of <i>Begonia francisabuidii</i>, showing both its staminate (male) an
     <div class="hover-box">
       Image credit: Mecyel Endrano
     </div>
-  </a>
 </figure>
 <style>
 figure {
@@ -211,7 +209,7 @@ img {
 
 </style>
   <figcaption>
-    <i>Plant a wildflower, get a whole garden of us.</i><br>
+    <b><i>Plant a wildflower, get a whole garden of us.</i></b><br>
     A more recent group photo from Jacky’s bridal shower. December 2025.
   </figcaption>
   <br>
