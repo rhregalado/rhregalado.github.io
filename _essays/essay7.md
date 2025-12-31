@@ -2,7 +2,7 @@
 title: "Plant a Wildflower, Expect a Garden"
 date: 2025-12-31
 permalink: /essays/plant-a-wildflower-expect-a-garden
-excerpt: '<b>[PERSPECTIVE]</b> It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, we had moved as one unit. Being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.'
+excerpt: '<b>[ESSAY]</b> It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, we had moved as one unit. Being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.'
 ---
 
 <div style="text-align: justify;">
@@ -18,12 +18,14 @@ excerpt: '<b>[PERSPECTIVE]</b> It was the second semester of my junior-year in 2
 <p>By the time we wrapped up the project and returned back to our original circles, an unexpected feeling settled in each of us—yearning? Yearning for the bonds we had, and the ones still waiting to grow. Those small, individual seeds of yearning eventually pulled us all in the same direction. So, we did the most sensible thing: come together to form a (much) bigger circle. Imagine scattered sprigs of flowers arranging themselves into one massive joyful bouquet. And on a fateful day in March 2017, as we capped our junior-year journey in a Recognition Program, that friendship found its name: <strong>Whiteflower</strong>.</p>
 
 <figure>
+    <a href="" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/93060089_3484344294925559_8882181784775688192_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=jPldVki1B1EQ7kNvwHQbeqa&_nc_oc=AdmxCCAfAyigic0CAYcioV60tK_YCLATRqs0cylcuN4lEydiXtpciP5SoajMUGzmq7E&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=WOi7QY6dNNAVzTe0-4S0nQ&oh=00_AfkC4EgUyBenc3pyBqIBd7MW1s1EIHGVcqtz5kjHaRFFyw&oe=697C286C" alt="">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
       Image credit: Mecyel Endrano
     </div>
+</a>
 </figure>
 <style>
 figure {
@@ -77,7 +79,7 @@ img {
   </figcaption>
   <br>
 
-<p>The name “Whiteflower” was likely a playful nod to <i><a href=” https://www.imdb.com/title/tt7284466/” target="_blank">Wildflower,</a></i> a primetime TV hit of the time, known for its dramatic twists, exaggerated over-the-top storylines, and occasional side plots so ridiculous they became instant memes. True enough, it was a name that captured just the right mix of flair, chaos, and charm, much like our newly bloomed friendship itself.</p>
+<p>The name “Whiteflower” was likely a playful nod to <i><a href="https://www.imdb.com/title/tt7284466/" target="_blank">Wildflower</a></i>, a primetime TV hit of the time known for its dramatic twists, exaggerated over-the-top storylines, and occasional side plots so ridiculous they became instant memes. True enough, it was a name that captured just the right mix of flair, chaos, and charm—much like our newly bloomed friendship itself.</p>
 
 <p>And so, from that one wild twist of fate, worlds gently collided. From three separate circles, here we are—nearly a decade on—an inseparable, wildly insufferable bunch! And what began as fewer than fifteen back in March 2017 quietly grew into more than twenty now, like a garden left joyfully untamed, budding year after year as new faces settled in: some grafted in by love, others wandered close and were welcomed as honorary blooms. The once small garden became something fuller, wilder, and unmistakably alive. Somewhere along the way, we found ourselves present for nearly every proper adult milestone in each other’s lives; most if not all had attended four weddings, a christening, and even… a funeral.</p><br>
 
@@ -155,12 +157,14 @@ img {
 <p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and gentle celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
 
 <figure>
+    <a href="" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="/images/8.jpg" alt="">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
       Image credit: Mecyel Endrano
     </div>
+</a>
 </figure>
 <style>
 figure {
