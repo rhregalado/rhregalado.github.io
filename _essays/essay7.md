@@ -79,7 +79,7 @@ img {
   </figcaption>
   <br>
 
-<p>The name “Whiteflower” was likely a playful nod to <i><a href="https://www.imdb.com/title/tt7284466/" target="_blank">Wildflower</a></i>, a primetime TV hit of the time known for its dramatic twists, exaggerated over-the-top storylines, and occasional side plots so ridiculous they became instant memes. True enough, it was a name that captured just the right mix of flair, chaos, and charm—much like our newly bloomed friendship itself.</p>
+<p>The name “Whiteflower” was likely a playful nod to <i><a href="https://www.imdb.com/title/tt7284466/" target="_blank">Wildflower</a></i>, a primetime TV hit of the time known for its dramatic twists, exaggerated over-the-top storylines, and occasional side plots so ridiculous they became instant memes. True enough, it was a name that captured just the right mix of flair, chaos, and charm; much like our newly bloomed friendship itself.</p>
 
 <p>And so, from that one wild twist of fate, worlds gently collided. From three separate circles, here we are—nearly a decade on—an inseparable, wildly insufferable bunch! And what began as fewer than fifteen back in March 2017 quietly grew into more than twenty now, like a garden left joyfully untamed, budding year after year as new faces settled in: some grafted in by love, others wandered close and were welcomed as honorary blooms. The once small garden became something fuller, wilder, and unmistakably alive. Somewhere along the way, we found ourselves present for nearly every proper adult milestone in each other’s lives; most if not all had attended four weddings, a christening, and even… a funeral.</p><br>
 
