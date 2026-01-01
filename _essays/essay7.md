@@ -187,9 +187,9 @@ img {
 
   <li><b>Rositte</b> celebrates motherhood this year with her most adorable firstborn, Hannah. Whiteflower’s own pretty little flower bud. Motherhood has brought her the ultimate healing she long waited, mending deep, old wounds from childhood. This year for her is one of gratefulness, faith, and grace: for God, who has walked beside her through every trial, whispering reassurance that she was never truly alone; for her husband Ian, whose steadfast love quietly rebuilt her hope; and for Hannah, whose very presence transformed the past into a hopeful future. The past years for her had been a season of trials and sacrifice, but together as a family, in Hannah’s laughter, in Ian’s unwavering partnership, and in the gentle unfolding of each new day, Rositte finds the grace of healing, hope, and the soft, enduring joy of love made whole again;</li>
 
-  <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me.</li>
-
   <li>And here’s also to <b>Randolph</b> and <b>Veyari</b> and the new flowers coming into the growing family: <b>Kuya Dy, Bien, Mico Rey, Ian,</b> and our cute flower buds, <b>baby Cael</b> and <b>baby Hannah</b>.</li>
+
+  <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me.</li>
 </ul>
 
 <p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
