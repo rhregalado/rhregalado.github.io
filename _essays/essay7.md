@@ -252,7 +252,7 @@ img {
 </style>
   <figcaption>
     <i>Plant a wildflower, get a whole garden of us.</i><br>
-    A more recent group photo from Jacky’s bridal shower, December 2025.
+    A more recent group photo (though incomplete) from Jacky’s bridal shower, December 2025.
   </figcaption>
   <br>
 
