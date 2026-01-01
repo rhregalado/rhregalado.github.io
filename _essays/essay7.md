@@ -167,7 +167,7 @@ img {
 
   <li><b>Gerard’s</b> year has been one of gentle alignment and quiet release. A season where what belonged found its place and what no longer served him softly drifted away: he stepped back from two hospitals that no longer aligned with his heart, released himself from a toxic situationship, and experienced a deep, steady joy in giving back to his family and church, one that left him deeply fulfilled. Each change felt less like a loss and more like tender invitations from God, guiding him toward what truly nurtures him. The year was also marked by a milestone he cherishes: his very first international trip. An experience that sparked him excitement and a promise to make travel a yearly celebration;</li>
 
-  <li><b>Jacquelyn</b> just recently celebrated her dream wedding yesterday, finally stepping into married life with her husband Mico after six wonderful years together. Their journey, filled with shared laughter and countless memories, reached a new milestone as they joined their lives in a heartfelt ceremony surrounded by loved ones. Mico has been a wonderful addition to the Whiteflower family, bringing with him a warmth and energy that blends seamlessly with Jacky’s fearless spirit. The celebration of their love was more than just a personal milestone; it was a moment that reminded everyone at Whiteflower of the gentle promise that this group will continue to grow;</li>
+  <li><b>Jacquelyn</b> just recently celebrated her dream wedding yesterday, finally stepping into married life with her husband Mico after six wonderful years together. Their journey, filled with shared laughter and countless memories, reached a new milestone as they joined their lives in a heartfelt ceremony surrounded by loved ones. Mico has been a wonderful addition to the Whiteflower family, bringing with him a warmth and energy that blends seamlessly with Jacky’s fearless spirit. The celebration of their love was more than just a personal milestone; it was a moment that reminded everyone at Whiteflower of the promise that this group will continue to grow;</li>
 
   <li><b>Je</b> earned his well-deserved promotion this year and secured a permanent assignment as a high school teacher in Daraga, not just any teacher though, but one of the four pioneering educators shaping the heart of this new school. This assignment fulfills everything he had hoped for: it’s close to home, surrounded by a supportive work environment, and offers a smooth, welcoming transition into this exciting chapter. As if that weren’t enough, Je also received his acceptance into a PhD program, opening doors to even greater opportunities. On a more personal front, he delights in the ease and joy of being deeply in love with his girlfriend, with hopes of planning a wedding soon and eventually welcoming little versions of themselves;</li>
 
@@ -181,7 +181,7 @@ img {
 
   <li><b>Moneth</b> this year finally reached her savings goals! And despite the silent battles, the exhausting days, and the struggles no one sees, she’s still moving forward, still breathing, and still feeling grateful. Somehow, even amidst these challenges, life still feels a little brighter, and that quiet sense of blessing is something she carries with her;</li>
 
-  <li><b>Raena’s</b> year was a journey of gentle healing and reclaiming her sense of self. In the previous years, her bipolar disorder had felt like an unrelenting shadow, quietly pulling her focus away from her studies and stealing the simple joys of being present in the moment. This year, however, she began reclaiming her sense of self, step by step, with patience and care. Much of this renewal was partly because of the support of her boyfriend (her unexpected blessing) who offered unwavering warmth and gentle encouragement during the darker moments. While the path ahead for her may still hold challenges, but together, they make a pretty good team;</li>
+  <li><b>Raena’s</b> year was a journey of healing and reclaiming her sense of self. In the previous years, her bipolar disorder had felt like an unrelenting shadow, quietly pulling her focus away from her studies and stealing the simple joys of being present in the moment. This year, however, she began reclaiming her sense of self, step by step, with patience and care. Much of this renewal was partly because of the support of her boyfriend (her unexpected blessing) who offered unwavering warmth and encouragement during the darker moments. While the path ahead for her may still hold challenges, but together, they make a pretty good team;</li>
 
   <li><b>Rosh</b> finally graduated from her degree in International Diploma in Childhood Education last July, and this month she received the most exciting news that her post-graduate visa was granted; giving her the chance to further continue her journey and stay in Australia a little longer;</li>
 
@@ -190,7 +190,7 @@ img {
   <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me.</li>
 </ul>
 
-<p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and gentle celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
+<p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
 
 <figure>
     <a href="" rel="noreferrer noopener" class="hover-caption">
@@ -265,8 +265,9 @@ img {
 <p>Happy New Year, everyone!</p>
 
 <p>(Camalig, 12/2025)</p>
-<br><br><br>
+<br><br>
 
+<hr class="solid" style="border-top: 1px solid gainsboro">
 <div style="font-size: 0.8em; text-align: justify;">
 <strong>Footnotes:</strong>
 
