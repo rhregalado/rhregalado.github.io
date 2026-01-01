@@ -189,7 +189,7 @@ img {
 
   <li>And here’s also to <b>Randolph</b> and <b>Veyari</b>, and to the new flowers joining our growing circle over the years: <b>Kuya Dy, Bien, Mico Rey, Ian, Shai,</b> and our sweetest flower buds, <b>baby Cael</b> and <b>baby Haki</b>. May there be many more flowers, and mini flowers, yet to come in the years ahead;</li>
 
-  <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me another—<a href="https://rhregalado.github.io/essays/muses-and-musings" target="_blank">Muse</a>?</li>
+  <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me—another <a href="https://rhregalado.github.io/essays/muses-and-musings" target="_blank">Muse</a>?</li>
 </ul>
 
 <p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
