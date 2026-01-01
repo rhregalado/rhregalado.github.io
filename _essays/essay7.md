@@ -18,7 +18,7 @@ excerpt: '<b>[ESSAY]</b> It was the second semester of my junior-year in 2016 wh
 <p>By the time we wrapped up the project and returned back to our original circles, an unexpected feeling settled in each of us—yearning? Yearning for the bonds we had, and the ones still waiting to grow. Those small, individual seeds of yearning eventually pulled us all in the same direction. So, we did the most sensible thing: come together to form a (much) bigger circle. Imagine scattered sprigs of flowers arranging themselves into one massive joyful bouquet. And on a fateful day in March 2017, as we capped our junior-year journey during a Recognition Program, that friendship found its name: <strong>Whiteflower</strong>.</p>
 
 <figure>
-    <a href="" rel="noreferrer noopener" class="hover-caption">
+    <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/93060089_3484344294925559_8882181784775688192_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=jPldVki1B1EQ7kNvwHQbeqa&_nc_oc=AdmxCCAfAyigic0CAYcioV60tK_YCLATRqs0cylcuN4lEydiXtpciP5SoajMUGzmq7E&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=WOi7QY6dNNAVzTe0-4S0nQ&oh=00_AfkC4EgUyBenc3pyBqIBd7MW1s1EIHGVcqtz5kjHaRFFyw&oe=697C286C" alt="">
 
     <!-- hover caption (inside image area) -->
@@ -193,7 +193,7 @@ img {
 <p>I realized, softly and all at once, how deeply rewarding this year has been for each of us. 2025 felt like a year of quiet wins and celebrations, of growing into ourselves without too much force. It reminded us to be thankful, to pause and reflect, to be brave when we could and, most of all, to simply be who we are. If these reunions had any purpose, it was to show us that the people we were about ten years ago are here to stay: just as chaotic, just as unabashed, only now a little more candid, happier, braver, and far freer. Being together again made it clear that we are each other’s refuge. In one another’s company, we build quiet safe spaces where everyone is allowed to exist as they are, to feel at home in their own skin, and to live their truth.</p>
 
 <figure>
-    <a href="" rel="noreferrer noopener" class="hover-caption">
+    <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="/images/8.jpg" alt="">
 
     <!-- hover caption (inside image area) -->
@@ -250,7 +250,7 @@ img {
 </style>
   <figcaption>
     <i>Plant a wildflower, get a whole garden of us.</i><br>
-    A more recent group photo from Jacky’s bridal shower. December 2025.
+    A more recent group photo from Jacky’s bridal shower, December 2025.
   </figcaption>
   <br>
 
