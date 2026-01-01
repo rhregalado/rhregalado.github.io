@@ -1,4 +1,4 @@
-<img width="468" height="88" alt="image" src="https://github.com/user-attachments/assets/4974027c-e4e4-4aa3-bdca-0f62f26963fc" />---
+---
 title: "Plant a Wildflower, Expect a Garden"
 date: 2025-12-31
 permalink: /essays/plant-a-wildflower-expect-a-garden
