@@ -187,7 +187,7 @@ img {
 
   <li><b>Rositte</b> celebrates motherhood this year with her most adorable firstborn, Hannah. Whiteflower’s own pretty little flower bud. Motherhood has brought her the ultimate healing she long waited, mending deep, old wounds from childhood. This year for her is one of gratefulness, faith, and grace: for God, who has walked beside her through every trial, whispering reassurance that she was never truly alone; for her husband Ian, whose steadfast love quietly rebuilt her hope; and for Hannah, whose very presence transformed the past into a hopeful future. The past years for her had been a season of trials and sacrifice, but together as a family, in Hannah’s laughter, in Ian’s unwavering partnership, and in the gentle unfolding of each new day, Rositte finds the grace of healing, hope, and the soft, enduring joy of love made whole again;</li>
 
-  <li>And here’s also to <b>Randolph</b> and <b>Veyari</b>, and to the new flowers joining our growing family over the years: <b>Kuya Dy, Bien, Mico Rey, Ian, Shai,</b> and our sweetest little buds, <b>baby Cael</b> and <b>baby Haki</b>. May there be many more flowers, and mini flowers, yet to come in the years ahead;</li>
+  <li>And here’s also to <b>Randolph</b> and <b>Veyari</b>, and to the new flowers joining our growing circle over the years: <b>Kuya Dy, Bien, Mico Rey, Ian, Shai,</b> and our sweetest little buds, <b>baby Cael</b> and <b>baby Haki</b>. May there be many more flowers, and mini flowers, yet to come in the years ahead;</li>
 
   <li>As for myself, I don’t want to make this blog go longer as it is, I’m just really grateful that I finally earned my Master’s degree this year, and met someone who inspires me.</li>
 </ul>
