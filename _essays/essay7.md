@@ -262,7 +262,7 @@ img {
 
 <p>There is a quiet strength in platonic love. It has made me realize that this kind of love is not secondary to romantic love, but essential in its own right. Romantic partnerships are often placed on a pedestal, yet love flows through many other channels, just as meaningful and just as sustaining. So much is lost when we fail to recognize and lean into these other forms of love. Perhaps this is why it feels so astonishing how, despite our full and demanding lives, as doctors, teachers, wives, mothers, and young professionals finding our way, we still continue to show up for one another’s most important chapters. That consistency and effort says everything about how deeply this friendship is valued… No, no longer just friendship. Family. This is family now. We are a family.</p>
 
-<p>And so, as we close another year together, as a family, we look ahead with hopeful hearts praying for abundance, for strength, and for a garden that remains full, alive, and always in bloom, season after season.</p>
+<p>And so, as we close another year together, as a family, we look ahead and toast for abundance, for strength, and for a garden that remains full, alive, and always in bloom, season after season. Cheers!</p>
 
 <p>Happy New Year, everyone!</p>
 
