@@ -23,6 +23,7 @@ Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <img src="/images/tox2024.jpeg">
   <figcaption>
+<i>My labmates with our amazing PI, Doc Jay.</i>
 TOX’ end-of-semester dinner, December 2024.
   </figcaption>
   <br>
