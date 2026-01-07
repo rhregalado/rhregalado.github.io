@@ -28,52 +28,6 @@ Luv u, TOX! You were the complete opposite of the word.<br><br>
       Image credit: Zoe Ureta
     </div>
 </figure>
-<style>
-figure {
-  margin: 0;
-  padding: 0;
-}
-
-img {
-  display: block;
-  margin: 0;
-  padding: 0;
-  border: none;
-}
-
-.hover-caption {
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-  text-decoration: none; /* remove underline */
-  color: inherit;        /* keep text color */
-}
-
-.hover-caption img {
-  display: block;
-  height: auto;
-  max-width: 100%;
-}
-
-.hover-box {
-  position: absolute;
-  bottom: -100%; /* start hidden */
-  left: 0;
-  width: 100%;
-  background: rgba(0,0,0,0.6);
-  color: #fff;
-  padding: 10px;
-  font-size: 14px;
-  line-height: 1.4;
-  transition: bottom 0.4s ease;
-  box-sizing: border-box;
-}
-
-.hover-caption:hover .hover-box {
-  bottom: 0; /* slides up over the image only */
-}
-
-</style>
   <figcaption>
 <i>My labmates with our amazing PI, Doc Jay.</i><br>
 TOX’ end-of-semester dinner, December 2024.
