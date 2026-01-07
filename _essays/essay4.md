@@ -23,10 +23,6 @@ Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <figure>
 <img src="/images/tox2024.jpeg">
- <!-- hover caption (inside image area) -->
-    <div class="hover-box">
-      Image credit: Zoe Ureta
-    </div>
 </figure>
   <figcaption>
 <i>My labmates with our amazing PI, Doc Jay.</i><br>
