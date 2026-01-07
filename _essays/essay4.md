@@ -22,6 +22,10 @@ And I am proud to call this my village. It may be small, but a village nonethele
 Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <img src="/images/tox2024.jpeg"><br><br>
+  <figcaption>
+TOX’ end-of-semester dinner, December 2024.
+  </figcaption>
+  <br>
 
 (Q.C., 06/2025)
 
