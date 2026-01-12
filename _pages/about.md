@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html/
 ---
-<div style="text-align: justify;">
 Welcome to my personal academic space!
 
 Kumusta! My name is Ric. I'm a microbial ecologist and molecular biologist. I recently earned my Masters degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group and worked on mining, metals, and microbes under <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
@@ -40,5 +39,5 @@ To that end, I’ve curated this page to put together all the things that I wrot
 
 More info
 ----
-It’s great that you made it this far. Now, take a moment to check out all the other cool stuff in other tabs on the navigation bar. If you're interested to catch up on my recent activities and engagements, click <a href="https://rhregalado.github.io/activity/">here</a>. And if you found my content helpful and you want to support a sissy, feel free to buy me a coffee—I’d appreciate it. Thanks for stopping by!</div>
+It’s great that you made it this far. Now, take a moment to check out all the other cool stuff in other tabs on the navigation bar. If you're interested to catch up on my recent activities and engagements, click <a href="https://rhregalado.github.io/activity/">here</a>. And if you found my content helpful and you want to support a sissy, feel free to buy me a coffee—I’d appreciate it. Thanks for stopping by!
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ricryanxd" data-color="#F6F8FA" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#964B00" ></script>
