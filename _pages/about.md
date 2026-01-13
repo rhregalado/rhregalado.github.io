@@ -39,5 +39,5 @@ To that end, I’ve curated this page to put together all the things that I wrot
 
 More info
 ----
-It’s great that you made it this far. Now, take a moment to check out all the other cool stuff in other tabs on the navigation bar. If you're interested to catch up on my recent activities and engagements, click <a href="https://rhregalado.github.io/activity/">here</a>. And if you found my content helpful and you want to support a sissy, feel free to buy me a coffee—I’d appreciate it. Thanks for stopping by!
+Glad you made it this far! Take a moment to explore the other tabs in the navigation bar; there’s plenty more to check out. If you want to see what I’ve been up to lately, you can catch my recent activities and engagements in the Activity Tab. I also maintain a blog where I share some of my more personal written works, you can check it <a href="https://rhregalado.github.io/essays/">here</a>. And if you found my content helpful and feel like supporting a sissy, feel free to buy me a coffee—I’d appreciate it. Thanks for stopping by!
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ricryanxd" data-color="#F6F8FA" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#964B00" ></script>
