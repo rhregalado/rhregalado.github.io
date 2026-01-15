@@ -271,9 +271,6 @@ img {
 <p>(Camalig, 12/2025)</p>
 <br><br>
 
-<p>P.S. In true Whiteflower fashion, we made a little tradition out of our group photos by turning them into poster-style images inspired by the Wildflower promos (like the first photo). With each shoot marking a “new season” of our college journey, all leading up to graduation as our "finale season." There were also the “special episode” posters to mark the milestones that bring us together again long after our finale. Now, featuring new cast members, like the spouses and babies, officially joining our extended family. You can check out all these posters in this <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank">album</a>.</p>
-<br>
-
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <div style="font-size: 0.8em; text-align: justify;">
 <strong>Footnotes:</strong>
@@ -283,3 +280,7 @@ img {
 <li>Mier-Manjares, M. A. (2022). <i>New plant species in Albay named after late biologist.</i> Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a></li>
 </ol>
 </div>
+<br>
+
+<p>P.S. In true Whiteflower fashion, we made a quirky tradition out of our group photos by turning them into poster-style portraits inspired by the Wildflower promos (like the first photo). With each poster marking a “new season” of our college journey, all leading up to graduation as our "finale season." There were also the “special episode” posters to mark the milestones that bring us together again long after our finale. Now, featuring new cast members, like the spouses and babies, officially joining our extended family. You can check out all these posters in this <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank">album</a>.</p>
+
