@@ -279,8 +279,7 @@ img {
 <li>Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a></li>
 <li>Mier-Manjares, M. A. (2022). <i>New plant species in Albay named after late biologist.</i> Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a></li>
 </ol>
-</div>
 <br>
 
 <p>P.S. In true Whiteflower fashion, we made a quirky tradition out of our group photos by turning them into poster-style portraits inspired by the Wildflower promos (like the first photo). With each poster marking a “new season” of our college journey, all leading up to graduation as our "finale season." There were also the “special episode” posters to mark the milestones that bring us together again long after our finale. Now, featuring new cast members, like the spouses and babies, officially joining our extended family. You can check out all these posters in this <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank">album</a>.</p>
-
+</div>
