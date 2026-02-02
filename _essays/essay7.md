@@ -19,7 +19,7 @@ excerpt: '<b>[ESSAY]</b> It was the second semester of my junior-year in 2016 wh
 
 <figure>
     <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank" rel="noreferrer noopener" class="hover-caption">
-    <img src="https://drive.google.com/file/d/1PRW-rvYomlEimhkPkRMKYgXuNLOPFQwZ/view?usp=sharing" alt="">
+    <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/93060089_3484344294925559_8882181784775688192_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=f727a1&_nc_ohc=IbN8zztZayYQ7kNvwFkVgg-&_nc_oc=AdnhMAeBC62XWty0a6YENw15q1icKrf4fLR-knjf_nGwlTettSbLFrkIQ0Mk2g9lRS8&_nc_zt=23&_nc_ht=scontent.fwnp1-1.fna&_nc_gid=j05lEUpU-iyXS3C-B8fUeQ&oh=00_AfsZHSeFZTxCude92zqdbpbeVV32O0_w1HUCMNawrhGNqA&oe=69A771AC" alt="">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
