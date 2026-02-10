@@ -16,7 +16,7 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 <p>In one of my Master’s classes, during journal club sessions, we were tasked with evaluating the day’s reporter. On our rating sheets, we also had to write down two (2) “thought-provoking questions” from the report we had just discussed. On the surface, asking a question should have been easy. A walk in the park. Yet more often than not, I found myself among the last to leave the room, struggling to write even a single question! Don’t get me wrong: I could confidently say that I understood the discussion and grasped its main points. But when pressed to distill that understanding into a thoughtful question, I realized how little I had truly reflected on the material. At the time, I hadn’t even recognized that asking thoughtful, intentional questions was a skill I also needed to hone. It was humbling and I’m still working on it. A stark reminder that comprehension and curiosity are not the same, and that true learning often begins with the questions we dare to ask.</p><br>
 
 <p>Perhaps the same is true of love.</p>
-<p>Do you ask your partner questions? Do you ask the right ones? More importantly, are you genuinely curious?</p><br>
+<p>Do you ask your love ones questions? Do you ask the right ones? More importantly, are you genuinely curious?</p><br>
 
 <p>I want to offer a simple thesis: <strong>curiosity is the smallest unit of meaning from which all expressions of love are formed.</strong></p>
 
