@@ -27,7 +27,7 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 <p>Trying to know someone is absolutely a deep type of helping someone be seen. I didn’t realize how much I needed someone to ask why I felt, thought, or liked something—until someone finally did. Now, that is exactly what I want to do with others (and even in my work). I want to understand their perspectives, learn from them, but, more importantly, make space for them to be the versions of themselves they love and let it be received.</p>
 
 <p>That’s why <i>knowing</i> is a form of loving, and to be <i>known</i> is to be truly loved.</p>
-<p>As budding scientists, we are being trained to be unrelentingly curious. But that same insight carries into love. Knowing facts about someone is easy, but intimacy begins with the willingness to ask, to truly listen, and to be shaped by what is revealed. Just as science deepens through inquiry, love grows through the questions we dare to ask and the care with which we receive the answers.</p>
+<p>As budding scientists, we are being trained to be unrelentingly curious. But that same insight carries over into love. Knowing facts about someone is easy, but intimacy begins with the willingness to ask, to truly listen, and to be shaped by what is revealed. Just as science deepens through inquiry, love grows through the questions we dare to ask and the care with which we receive the answers.</p>
 
 <p>As a parting thought, here’s a small piece of trivia: the root word for <i>curiosity</i> comes from the Latin <i>cura,</i> meaning <i>care.</i></p>
 
