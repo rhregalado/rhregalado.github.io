@@ -24,9 +24,10 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 
 <p>To be curious, from this perspective, is to desire to truly see someone and understand their inner world. It is like assembling a mosaic of who they are from the fragments they offer. At its core, curiosity is not merely an impulse to know, but a hallmark of attentiveness; an active pull toward the unknown, a conscious desire to notice and engage, to treat something with enough care to seek understanding and ask thoughtful questions. That’s where true intimacy thrives. Curiosity <i>is</i> intimacy. Without it, surface questions are just collected facts, like reading a wiki page on your favorite pop star.</p>
 
+<p>That is why <i>knowing</i> is a form of loving, and to be <i>known</i> is to be truly loved.</p>
+
 <p>Trying to know someone is absolutely a deep type of helping someone be seen. It is like an active, generous attention to another person’s own microcosm. I didn’t realize how much I needed someone to ask why I felt, thought, or liked something—until someone finally did. That experience reshaped how I relate to others. Now, that is exactly what I strive to do in my relationships (even in my work). I want to understand their perspectives, learn from them, but, more importantly, make space for them to be the versions of themselves they love and let it be received.</p>
 
-<p>That is why <i>knowing</i> is a form of loving, and to be <i>known</i> is to be truly loved.</p>
 <p>As budding scientists, we are being trained to be unrelentingly curious. But that same insight carries over into love. Knowing facts about someone is easy, but intimacy begins with the willingness to ask, to truly listen, and to be shaped by what is revealed. Just as science deepens through inquiry, love grows through the questions we dare to ask and the care with which we receive the answers.</p>
 
 <p>As a final note, here’s a thoughtful linguistic trivia to leave you with: the root word for <i>curiosity</i> comes from the Latin <i>cura,</i> meaning <i>care.</i> And how amazing it is to realize that?</p>
