@@ -32,7 +32,7 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 
 <p>As a final note, here’s a thoughtful linguistic trivia to leave you with: the root word for <i>curiosity</i> comes from the Latin <i>cura,</i> meaning <i>care.</i> And how amazing it is to realize that?</p>
 
-<p>So, stay curious.</p>
+<p>Stay curious.</p>
 
 <p>(Q.C., 02/2026)</p>
 </div>
