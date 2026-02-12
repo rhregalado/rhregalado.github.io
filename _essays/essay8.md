@@ -18,7 +18,7 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 <p>Perhaps the same is true of love.</p>
 <p>Do you ask your love ones questions? Do you ask the right ones? More importantly, are you genuinely curious?</p><br>
 
-<div style="border-left: 4px solid --global-base-color; padding: 0.5em 1em; background-color: --global-bg-color;">
+<div style="border-left: 4px solid --global-text-color; padding: 0.5em 1em; background-color: --global-thead-color;">
 <p>I want to offer a simple thesis: <strong>curiosity is the basic unit of love from which all expressions of love are formed.</strong></p>
 </div>
 
