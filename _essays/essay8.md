@@ -18,8 +18,8 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 <p>Perhaps the same is true of love.</p>
 <p>Do you ask your love ones questions? Do you ask the right ones? More importantly, are you genuinely curious?</p><br>
 
-<div style="border-left: 4px solid #4A90E2; padding: 0.5em 1em; background-color: #F0F4FF;">
-I want to offer a simple thesis: <strong>curiosity is the basic unit of love from which all expressions of love are formed.</strong>
+<div style="border-left: 4px solid #333333; padding: 0.5em 1em; background-color: #f5f5f5; color: #222222; border-radius: 4px;">
+<p>I want to offer a simple thesis: <strong>curiosity is the basic unit of love from which all expressions of love are formed.</strong></p>
 </div>
 
 <p>Let's try to dissect it. At its most fundamental level, love is structured around a single core: curiosity, from which all the love languages emanate. Curiosity is seen in noticing the needs and responding with care (acts of service); in discovering what brings meaning or value to something (gifts); in attuning to and responding to another’s physical or emotional state (physical touch); in exploring shared experiences (quality time); and in carefully choosing words that convey care and warmth (words of affirmation). And so, seen this way, talking, dates, and gifts are not the substance of love itself, but the rituals through which curiosity is expressed and made tangible.</p>
