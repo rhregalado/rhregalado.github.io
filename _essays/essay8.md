@@ -1,6 +1,6 @@
 ---
 title: "Talking, Dates, and Gifts Are All But Rituals of Love"
-date: 2026-02-14
+date: 2026-02-13
 permalink: /essays/talking-dates-and-gifts-are-all-but-rituals-of-love
 excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions considered a skill? And if so, does true skill lie in asking the right ones? It wasn’t until I reach my post-grad studies that I realized that the true test of learning is not in what you can remember or memorize, but in the questions you are able to ask about it.'
 ---
