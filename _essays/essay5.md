@@ -267,7 +267,7 @@ img {
   </figcaption>
 <br>
 
-<p>Angular, dynamic zigzag patterns of the <em>River of Life</em> radiate from the altar at the chapel’s center, coursing down to the sacristy and branching outwards to the three Church entrances: one along G. Apacible Street and two along F. Agoncillo Street, that open into the main university roads. I cannot help but follow it with my eyes every time I visit the place, and now being more mindful in tracing its movement, as though I am being drawn into the same current that unites faith, culture, and a sense of oneness.</p>
+<p>Angular, dynamic zigzag patterns of the <em>River of Life</em> radiate from the altar at the chapel’s center, coursing down to the sacristy and branching outwards to the three Church entrances: one along G. Apacible Street and two along F. Agoncillo Street, that open into the main university roads. I cannot help but follow it with my eyes every time I visit the place, but now being more mindful in tracing its movement, as though I am being drawn into the same current that unites faith, culture, and a sense of oneness. If there's one art in the world I could own, it would definitely be this one. But could I?</p>
 
 <h2>
   <strong>Murals of the Stations of the Cross</strong>
