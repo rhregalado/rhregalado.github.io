@@ -14,12 +14,11 @@ excerpt: '<b>[ESSAY]</b> '
 
 <p>The beauty of a poetry is that it can be short. It can take only a second and still land with the same impact, if not more. Let’s begin with this poem. I’ve chosen it because it’s very short and you can learn it easily. It’s called <i>“Two Cures for Love”</i> by Wendy Cope:</p>
 
-<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  1. Don’t see him. Don’t phone or write a letter.<br>
-  2. The easy way: get to know him better.<br>
-<cite style="font-size: 0.5em; font-style: normal; display: block; text-align: right;">
-  <em>Two Cures for Love</em>, Wendy Cope
-</cite>
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;"> 
+  1. Don’t see him. Don’t phone or write a letter.<br> 
+  2. The easy way: get to know him better.<br> 
+  <cite style="font-size: 0.7em; font-style: normal; display: inline-block;"> 
+    <em>Two Cures for Love</em>, Wendy Cope </cite> 
 </blockquote>
 
 <p>Wasn’t that nice? Such an antidote. Here’s another one:</p>
@@ -29,7 +28,7 @@ excerpt: '<b>[ESSAY]</b> '
   When I think all hope has gone<br>
   When I walk along High Holborn<br>
   I think of you with nothing on<br>
-<cite style="font-size: 0.5em; font-style: normal; display: block; text-align: right;">
+<cite style="font-size: 0.7em; font-style: normal; display: block; text-align: right;">
   <em>Celia, Celia</em>, Adrian Mitchell
 </cite>
 </blockquote>
