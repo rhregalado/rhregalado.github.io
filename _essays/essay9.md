@@ -40,7 +40,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
 
 <p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, <strong>Helena Bonham Carter</strong>, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
 
-<blockquote style="color:var(--global-text-color-light); font-size: 1.1em; font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+<blockquote style="color:var(--global-text-color-light); font-size: 1em; font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   I’ve been thinking about the way, when you walk down<br>
   a crowded aisle, people pull in their legs<br>
   to let you by. Or how strangers still say “bless you”<br>
