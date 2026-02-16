@@ -17,20 +17,20 @@ excerpt: '<b>[ESSAY]</b> '
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;"> 
   1. Don’t see him. Don’t phone or write a letter.<br> 
   2. The easy way: get to know him better.<br> 
-  <cite style="font-style: normal; display: inline-block;"> 
+  <cite style="font-style: normal; display: block; text-align: right;">
     <em>Two Cures for Love</em>, Wendy Cope </cite> 
 </blockquote>
 
 <p>Wasn’t that nice? Such an antidote. Here’s another one:</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  When I am sad and weary<br>
-  When I think all hope has gone<br>
+  When I am sad and weary,<br>
+  When I think all hope has gone,<br>
   When I walk along High Holborn<br>
   I think of you with nothing on<br>
-<cite style="font-size: 1em; font-style: normal; display: block; text-align: right;">
-  <em>Celia, Celia</em>, Adrian Mitchell
-</cite>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Celia, Celia</em></strong>, Adrian Mitchell
+  </cite>
 </blockquote>
 
 </div>
