@@ -80,7 +80,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
   And why should I not speak to you?<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>To You</em></strong>, Walt Whitman<br>
-    From "Inscriptions" from <em>Leaves of Grass,</em> 1891
+    From “Inscriptions” from <em>Leaves of Grass,</em> 1891
   </cite>
 </blockquote>
 
