@@ -101,7 +101,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
 
 <p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a gentle act of an author carving out a piece of their soul onto the page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it.</p><br>
 
-<p>Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and warm you inside like a bowl of chicken soup.</p><br>
+<p>Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and warm you inside like a bowl of chicken soup. Do you have a favorite poem you'd like to share? Hit them up in my <a href="mailto:rhregalado@up.edu.ph" target="_blank">email</a>! Maybe I could feature them in the next blog.</p><br>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
 I know a place where the sun is like gold,<br>
