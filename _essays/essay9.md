@@ -2,7 +2,7 @@
 title: "A Chicken Soup for the Soul"
 date: 2026-02
 permalink: /essays/a-chicken-soup-for-the-soul
-excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions considered a skill? And if so, does true skill lie in asking the right ones? It wasn’t until I reach my post-grad studies that I realized that the true test of learning is not in what you can remember or memorize, but in the questions you are able to ask about it. In this essay, I reflect on how curiousity sustains everything there is in love and why asking questions is more than just a trivial habit but a skill and a discipline in itself.'
+excerpt: '<b>[ESSAY]</b> '
 ---
 
 <div style="text-align: justify;">
@@ -17,7 +17,7 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   1. Don’t see him. Don’t phone or write a letter.<br>
   2. The easy way: get to know him better.<br>
-<cite style="font-size: 0.5em; font-style: normal; display: inline-block;">
+<cite style="font-size: 0.5em; font-style: normal; display: block; text-align: right;">
   <em>Two Cures for Love</em>, Wendy Cope
 </cite>
 </blockquote>
@@ -29,7 +29,9 @@ excerpt: '<b>[ESSAY]</b> Let me pose a question: is the ability to ask questions
   When I think all hope has gone<br>
   When I walk along High Holborn<br>
   I think of you with nothing on<br>
-<cite style="font-size: 0.5em; font-style: normal; display: inline-block;">
+<cite style="font-size: 0.5em; font-style: normal; display: block; text-align: right;">
   <em>Celia, Celia</em>, Adrian Mitchell
 </cite>
 </blockquote>
+
+</div>
