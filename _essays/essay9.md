@@ -17,7 +17,7 @@ excerpt: '<b>[ESSAY]</b> '
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;"> 
   1. Don’t see him. Don’t phone or write a letter.<br> 
   2. The easy way: get to know him better.<br> 
-  <cite style="font-size: 0.7em; font-style: normal; display: inline-block;"> 
+  <cite style="font-style: normal; display: inline-block;"> 
     <em>Two Cures for Love</em>, Wendy Cope </cite> 
 </blockquote>
 
@@ -28,7 +28,7 @@ excerpt: '<b>[ESSAY]</b> '
   When I think all hope has gone<br>
   When I walk along High Holborn<br>
   I think of you with nothing on<br>
-<cite style="font-size: 0.7em; font-style: normal; display: block; text-align: right;">
+<cite style="font-size: 1em; font-style: normal; display: block; text-align: right;">
   <em>Celia, Celia</em>, Adrian Mitchell
 </cite>
 </blockquote>
