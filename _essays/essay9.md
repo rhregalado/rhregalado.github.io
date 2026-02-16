@@ -2,7 +2,7 @@
 title: "A Chicken Soup for the Soul"
 date: 2026-02-28
 permalink: /essays/a-chicken-soup-for-the-soul
-excerpt: '<b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value to it, whether reading it or writing one, it feels like a warm bowl of chicken soup for the soul. For this essay, I want the space to breathe with fewer of my words and more of someone else''’s. I want this time to also to empower the reader. I want to make it as if they are hearing their own voice in the lines, not mine.'
+excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value to it, whether reading it or writing one, it feels like a warm bowl of chicken soup for the soul. For this essay, I want the space to breathe with fewer of my words and more of someone else’s. I want this time to also to empower the reader. I want to make it as if they are hearing their own voice in the lines, not mine.
 ---
 
 <div style="text-align: justify;">
@@ -99,7 +99,7 @@ excerpt: '<b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic valu
   </cite>
 </blockquote>
 
-<p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a gentle act of an author carving out a piece of their soul onto the page, leaving it there to live forever. That’s why a poem written 700 years ago can still to reach us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it.</p><br>
+<p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a gentle act of an author carving out a piece of their soul onto the page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it.</p><br>
 
 <p>Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and warm you inside like a bowl of chicken soup.</p><br>
 
