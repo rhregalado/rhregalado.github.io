@@ -1,8 +1,8 @@
 ---
 title: "A Chicken Soup for the Soul"
-date: 2026-02-16
+date: 2026-02-28
 permalink: /essays/a-chicken-soup-for-the-soul
-excerpt: '<b>[ESSAY]</b> '
+excerpt: '<b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value to it, whether reading it or writing one, it feels like a warm bowl of chicken soup for the soul. For this essay, I want the space to breathe with fewer of my words and more of someone else''’s. I want this time to also to empower the reader. I want to make it as if they are hearing their own voice in the lines, not mine.'
 ---
 
 <div style="text-align: justify;">
@@ -36,7 +36,7 @@ excerpt: '<b>[ESSAY]</b> '
   </cite>
 </blockquote>
 
-<p>This is Adrian Mitchell’s most famous love poem written for his second wife, actress Celia Hewitt. And he did well to say l love you this way!</p>
+<p>This is Adrian Mitchell’s most famous love poem written for his second wife, actress Celia Hewitt. And he did well to say <i>l love you</i> this way!</p>
 
 <p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, <strong>Helena Bonham Carter</strong>, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
 
