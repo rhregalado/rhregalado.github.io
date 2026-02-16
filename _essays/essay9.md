@@ -60,8 +60,8 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
   We have so little of each other, now. So far<br>
   from tribe and fire. Only these brief moments of exchange.<br>
   What if they are the true dwelling of the holy, these<br>
-  fleeting temples we make together when we say, “Here,<br>
-  have my seat,” “Go ahead — you first,” “I like your hat.”<br>
+  fleeting temples we make together when we say,<br>
+  “Here, have my seat,” “Go ahead — you first,” “I like your hat.”<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>Small Kindnesses</em></strong>, Danusha Laméris<br>
     From <em>Bonfire Opera,</em> 2020
