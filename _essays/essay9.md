@@ -63,4 +63,21 @@ excerpt: '<b>[ESSAY]</b> '
   </cite>
 </blockquote>
 
+<p>If you’ve noticed, poetry just puts a sort of order in the mind. There’s something to it like calming the brain, like Mozart does it with his music. It calms the mind particularly, the violence. As you read, the strong, sane voice of the poem is often enough to silence the destructive, obsessive voices in your head.</p>
+
+<p>It’s between the sound and saying it. You have to say it out loud for it have full benefit. So, whether you’re in bed or in front of your bathroom mirror, I hope you have a safe space to say it out loud. Try it this time with this one:</p>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  STRANGER! if you, passing, meet me, and desire to speak to me,<br>
+  <span style="margin-left: 2em; display: inline-block;">
+    why should you not speak to me?
+  </span><br>
+  And why should I not speak to you?<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>To You</em></strong>, Walt Whitman<br>
+    From "Inscriptions" from <em>Leaves of Grass,</em> 1891
+  </cite>
+</blockquote>
+
+
 </div>
