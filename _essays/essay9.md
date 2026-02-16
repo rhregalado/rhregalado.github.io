@@ -14,11 +14,12 @@ excerpt: '<b>[ESSAY]</b> '
 
 <p>The beauty of a poetry is that it can be short. It can take only a second and still land with the same impact, if not more. Let’s begin with this poem. I’ve chosen it because it’s very short and you can learn it easily. It’s called <i>“Two Cures for Love”</i> by Wendy Cope:</p>
 
-<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;"> 
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   1. Don’t see him. Don’t phone or write a letter.<br> 
   2. The easy way: get to know him better.<br> 
-  <cite style="font-style: normal; display: block; text-align: right;">
-    <em>Two Cures for Love</em>, Wendy Cope </cite> 
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Two Cures for Love</em></strong>, Wendy Cope 
+  </cite> 
 </blockquote>
 
 <p>Wasn’t that nice? Such an antidote. Here’s another one:</p>
@@ -30,6 +31,35 @@ excerpt: '<b>[ESSAY]</b> '
   I think of you with nothing on<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>Celia, Celia</em></strong>, Adrian Mitchell
+  </cite>
+</blockquote>
+
+<p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, Helena Bonham Carter, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  I’ve been thinking about the way, when you walk<br>
+  down a crowded aisle, people pull in their legs<br>
+  to let you by. Or how strangers still say “bless you”<br>
+  when someone sneezes, a leftover<br>
+  from the Bubonic plague. “Don’t die,” we are saying.<br><br>
+
+  And sometimes, when you spill lemons<br>
+  from your grocery bag, someone else will help you<br>
+  pick them up. Mostly, we don’t want to harm each other.<br><br>
+
+  We want to be handed our cup of coffee hot,<br>
+  and to say thank you to the person handing it. To smile<br>
+  at them and for them to smile back. For the waitress<br>
+  to call us honey when she sets down the bowl of clam chowder,<br>
+  and for the driver in the red pick-up truck to let us pass.<br><br>
+
+  We have so little of each other, now. So far<br>
+  from tribe and fire. Only these brief moments of exchange.<br>
+  What if they are the true dwelling of the holy, these<br>
+  fleeting temples we make together when we say, “Here,<br>
+  have my seat,” “Go ahead — you first,” “I like your hat.”<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Small Kindnesses</em></strong>, Danusha Laméris
   </cite>
 </blockquote>
 
