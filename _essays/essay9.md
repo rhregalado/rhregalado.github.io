@@ -18,7 +18,8 @@ excerpt: '<b>[ESSAY]</b> '
   1. Don’t see him. Don’t phone or write a letter.<br> 
   2. The easy way: get to know him better.<br> 
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>Two Cures for Love</em></strong>, Wendy Cope 
+    <strong><em>Two Cures for Love</em></strong>, Wendy Cope<br>
+    From <em>Serious Concerns</em>, 1992
   </cite> 
 </blockquote>
 
@@ -30,11 +31,14 @@ excerpt: '<b>[ESSAY]</b> '
   When I walk along High Holborn<br>
   I think of you with nothing on<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>Celia, Celia</em></strong>, Adrian Mitchell
+    <strong><em>Celia, Celia</em></strong>, Adrian Mitchell<br>
+    From <em>Heart on the Left: Poems 1933-1984</em>, 1997
   </cite>
 </blockquote>
 
-<p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, Helena Bonham Carter, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
+<p>This is Adrian Mitchell’s most famous love poem written for his second wife, actress Celia Hewitt. And he did well to say l love you this way!</p>
+
+<p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, <strong>Helena Bonham Carter</strong>, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   I’ve been thinking about the way, when you walk<br>
@@ -59,7 +63,8 @@ excerpt: '<b>[ESSAY]</b> '
   fleeting temples we make together when we say, “Here,<br>
   have my seat,” “Go ahead — you first,” “I like your hat.”<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>Small Kindnesses</em></strong>, Danusha Laméris
+    <strong><em>Small Kindnesses</em></strong>, Danusha Laméris<br>
+    From <em>Bonfire Opera,</em> 2020
   </cite>
 </blockquote>
 
@@ -79,7 +84,7 @@ excerpt: '<b>[ESSAY]</b> '
   </cite>
 </blockquote>
 
-<p>For many readers, the expectation to “understand” poetry gets in the way of having the chance to enjoy it. But it in truth, poetry poetry doesn’t demand comprehension on the first read. I love how Sir William Sieghart (https://forwardartsfoundation.org/team/william-sieghart-cbe/) suggests we “Read a poem like a prayer. Don’t read it like fiction or journalism. And read it five nights running, you’ll get something completely different from it every time.” In other words, it’s the repetition that brings the clarity. Read it in different moods, play with its different energies, go outside the box. And along its cadences, its lyricism, and musicality, you’ll see that it will always offer something new that will enrich your understanding. Now, take a moment. Try it with this one:</p>
+<p>For many readers, the expectation to “understand” poetry gets in the way of having the chance to enjoy it. But it in truth, poetry poetry doesn’t demand comprehension on the first read. I love how <strong><a href="https://forwardartsfoundation.org/team/william-sieghart-cbe/" target="_blank">Sir William Sieghart</a></strong> suggests we “Read a poem like a prayer. Don’t read it like fiction or journalism. And read it five nights running, you’ll get something completely different from it every time.” In other words, it’s the repetition that brings the clarity. Read it in different moods, play with its different energies, go outside the box. And along its cadences, its lyricism, and musicality, you’ll see that it will always offer something new that will enrich your understanding. Now, take a moment. Try it with this one:</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   Folks, I’m telling you,<br>
@@ -90,6 +95,7 @@ excerpt: '<b>[ESSAY]</b> '
   in between.<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>Advice</em></strong>, Langston Hughes
+    From <em>Selected Poems of Langston Hughes</em>, 1959
   </cite>
 </blockquote>
 
