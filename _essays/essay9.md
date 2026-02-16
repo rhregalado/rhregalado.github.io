@@ -41,27 +41,27 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
 <p>I can’t quite remember the very first poem I ever learned, so I thought I’d share one that I love instead. What I like about it is that it’s sweet, charming, and wonderfully grounding. There’s also a lovely reading of it by one of my favorite actors, <strong>Helena Bonham Carter</strong>, which I would warmly recommend reading it alongside her. Here’s a <a href="https://www.youtube.com/watch?v=bcrm3JgOgD4" target="_blank">link</a> to the recording.</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  I’ve been thinking about the way, when you walk<br>
-  down a crowded aisle, people pull in their legs<br>
-  to let you by. Or how strangers still say “bless you”<br>
-  when someone sneezes, a leftover<br>
-  from the Bubonic plague. “Don’t die,” we are saying.<br><br>
+  <p>I’ve been thinking about the way, when you walk down
+  a crowded aisle, people pull in their legs
+  to let you by. Or how strangers still say “bless you”
+  when someone sneezes, a leftover
+  from the Bubonic plague. “Don’t die,” we are saying.<br>
 
-  And sometimes, when you spill lemons<br>
-  from your grocery bag, someone else will help you<br>
-  pick them up. Mostly, we don’t want to harm each other.<br><br>
+  And sometimes, when you spill lemons
+  from your grocery bag, someone else will help you
+  pick them up. Mostly, we don’t want to harm each other.<br>
 
-  We want to be handed our cup of coffee hot,<br>
-  and to say thank you to the person handing it. To smile<br>
-  at them and for them to smile back. For the waitress<br>
-  to call us honey when she sets down the bowl of clam chowder,<br>
-  and for the driver in the red pick-up truck to let us pass.<br><br>
+  We want to be handed our cup of coffee hot,
+  and to say thank you to the person handing it. To smile
+  at them and for them to smile back. For the waitress
+  to call us honey when she sets down the bowl of clam chowder,
+  and for the driver in the red pick-up truck to let us pass.<br>
 
-  We have so little of each other, now. So far<br>
-  from tribe and fire. Only these brief moments of exchange.<br>
-  What if they are the true dwelling of the holy, these<br>
-  fleeting temples we make together when we say,<br>
-  “Here, have my seat,” “Go ahead — you first,” “I like your hat.”<br>
+  We have so little of each other, now. So far
+  from tribe and fire. Only these brief moments of exchange.
+  What if they are the true dwelling of the holy, these
+  fleeting temples we make together when we say,
+  “Here, have my seat,” “Go ahead — you first,” “I like your hat.”</p><br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>Small Kindnesses</em></strong>, Danusha Laméris<br>
     From <em>Bonfire Opera,</em> 2020
@@ -70,7 +70,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
 
 <p>If you’ve noticed, poetry just puts a sort of order in the mind. There’s something to it like calming the brain, like Mozart does it with his music. It calms the mind particularly, the violence. As you read, the strong, sane voice of the poem is often enough to silence the destructive, obsessive voices in your head.</p>
 
-<p>It’s between the sound and saying it. You have to say it out loud for it have full benefit. So, whether you’re in bed or in front of your bathroom mirror, I hope you have a safe space to say it out loud. Try it this time with this one:</p>
+<p>It’s between the sound and saying it. You have to say it out loud for it have full benefit. So, whether it’s in your bed or in front of your bathroom mirror, I hope you have a safe space to say it out loud. Try it this time with this one:</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   STRANGER! if you, passing, meet me, and desire to speak to me,<br>
