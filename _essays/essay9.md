@@ -1,6 +1,6 @@
 ---
 title: "A Chicken Soup for the Soul"
-date: 2026-02
+date: 2026-02-16
 permalink: /essays/a-chicken-soup-for-the-soul
 excerpt: '<b>[ESSAY]</b> '
 ---
