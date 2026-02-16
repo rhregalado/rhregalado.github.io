@@ -154,4 +154,73 @@ If you work, if you wait, you will find the place<br>
   </cite>
 </blockquote>
 
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  There is a kind of love called maintenance,<br>
+  Which stores the WD40 and knows when to use it;<br><br>
+
+  Which checks the insurance, and doesn’t forget<br>
+  The milkman; which remembers to plant bulbs;<br><br>
+
+  Which answers letters; which knows the way<br>
+  The money goes, which deals with dentists<br><br>
+
+  And Road Fund Tax and meeting trains,<br>
+  And postcards to the lonely; which upholds<br><br>
+
+  The permanently rickety elaborate<br>
+  Structures of living; which is Atlas.<br><br>
+
+  And maintenance is the sensible side of love,<br>
+  Which knows what time and weather are doing<br>
+  To my brickwork; insulates my faulty wiring;<br>
+  Laughs at my dryrotten jokes; remembers<br>
+  My need for gloss and grouting; which keeps<br>
+  My suspect edifice upright in the air,<br>
+  As Atlas did the sky.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Atlas</em></strong>, U.A. Fanthorpe<br>
+    From <em>Me to You: Love Poems</em>, 2007
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  All that is gold does not glitter,<br>
+  Not all those who wander are lost;<br>
+  The old that is strong does not wither,<br>
+  Deep roots are not reached by the frost.<br>
+  From the ashes a fire shall be woken,<br>
+  A light from the shadows shall spring;<br>
+  Renewed shall be blade that was broken,<br>
+  The crownless again shall be king.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>All That Is Gold Does Not Glitter</em></strong>, J.R.R. Tolkien<br>
+    From <em>The Fellowship of the Ring</em>, 1954
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  “Tayo na?”<br>
+  “Sige.”<br>
+  At ang “sige”<br>
+  ay biglang naging<br>
+  buong mundo<br>
+  na puwedeng mali,<br>
+  puwedeng tama,<br>
+  pero hawak natin.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Isang Simula</em></strong>, Edgar Calabia Samar<br>
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  You are enough.<br> 
+  Your existence is enough.<br> 
+  This is enough. Enough to turn my world or<br> 
+  Burn it in the most beautiful way.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>How Much Yearning</em></strong>, Ric Ryan Regalado<br>
+  </cite>
+</blockquote>
+
+<p>(Nabua, 02/2026)</p>
 </div>
