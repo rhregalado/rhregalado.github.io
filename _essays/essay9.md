@@ -79,5 +79,21 @@ excerpt: '<b>[ESSAY]</b> '
   </cite>
 </blockquote>
 
+<p>For many readers, the expectation to “understand” poetry gets in the way of having the chance to enjoy it. But it in truth, poetry poetry doesn’t demand comprehension on the first read. I love how Sir William Sieghart (https://forwardartsfoundation.org/team/william-sieghart-cbe/) suggests we “Read a poem like a prayer. Don’t read it like fiction or journalism. And read it five nights running, you’ll get something completely different from it every time.” In other words, it’s the repetition that brings the clarity. Read it in different moods, play with its different energies, go outside the box. And along its cadences, its lyricism, and musicality, you’ll see that it will always offer something new that will enrich your understanding. Now, take a moment. Try it with this one:</p>
 
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  Folks, I’m telling you,<br>
+  birthing is hard<br> 
+  and dying is mean—<br> 
+  so get yourself<br> 
+  a little loving<br> 
+  in between.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Advice</em></strong>, Langston Hughes
+  </cite>
+</blockquote>
+
+<p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a gentle act of an author carving out a piece of their soul onto the page, leaving it there to live forever. That’s why a poem written 700 years ago can still to reach us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it.</p><br>
+
+<p>Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and warm you inside like a bowl of chicken soup.</p>
 </div>
