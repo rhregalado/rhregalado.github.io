@@ -29,7 +29,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
   When I am sad and weary,<br>
   When I think all hope has gone,<br>
   When I walk along High Holborn<br>
-  I think of you with nothing on<br>
+  I think of you with nothing on.<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>Celia, Celia</em></strong>, Adrian Mitchell<br>
     From <em>Heart on the Left: Poems 1933-1984</em>, 1997
