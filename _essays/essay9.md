@@ -213,12 +213,12 @@ If you work, if you wait, you will find the place<br>
 </blockquote>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  And there was something about you that now I can't remember<br>
-  It's the same damn thing that made my heart surrender<br>
-  And I'll miss you on a train, I'll miss you in the mornin'<br>
+  And there was something about you that now I can’t remember<br>
+  It’s the same damn thing that made my heart surrender<br>
+  And I’ll miss you on a train, I’ll miss you in the mornin’<br>
   I never know what to think about<br>
-  I think about you (Don't let go)<br>
-  About you (Don't let go)<br>
+  I think about you (Don’t let go)<br>
+  About you (Don’t let go)<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>About You</em></strong>, Matty Healy<br>
     From <em>Being Funny in a Foreign Language</em>, 2020
