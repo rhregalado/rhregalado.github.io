@@ -220,7 +220,7 @@ If you work, if you wait, you will find the place<br>
   I think about you (Don't let go)<br>
   About you (Don't let go)<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>About you</em></strong>, Matty Healy<br>
+    <strong><em>About You</em></strong>, Matty Healy<br>
     From <em>Being Funny in a Foreign Language</em>, 2020
   </cite>
 </blockquote>
