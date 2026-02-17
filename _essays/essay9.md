@@ -155,6 +155,33 @@ If you work, if you wait, you will find the place<br>
 </blockquote>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  “Tayo na?”<br>
+  “Sige.”<br>
+  At ang “sige”<br>
+  ay biglang naging<br>
+  buong mundo<br>
+  na puwedeng mali,<br>
+  puwedeng tama,<br>
+  pero hawak natin.<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>Isang Simula</em></strong>, Edgar Calabia Samar<br>
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  And there was something about you that now I can’t remember<br>
+  It’s the same damn thing that made my heart surrender<br>
+  And I’ll miss you on a train, I’ll miss you in the mornin’<br>
+  I never know what to think about<br>
+  I think about you (Don’t let go)<br>
+  About you (Don’t let go)<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    An excerpt from <strong><em>About You</em></strong>, Matty Healy<br>
+    From <em>Being Funny in a Foreign Language</em>, 2020
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   There is a kind of love called maintenance,<br>
   Which stores the WD40 and knows when to use it;<br><br>
 
@@ -195,33 +222,6 @@ If you work, if you wait, you will find the place<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
     <strong><em>All That Is Gold Does Not Glitter</em></strong>, J.R.R. Tolkien<br>
     From <em>The Fellowship of the Ring</em>, 1954
-  </cite>
-</blockquote>
-
-<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  “Tayo na?”<br>
-  “Sige.”<br>
-  At ang “sige”<br>
-  ay biglang naging<br>
-  buong mundo<br>
-  na puwedeng mali,<br>
-  puwedeng tama,<br>
-  pero hawak natin.<br>
-  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>Isang Simula</em></strong>, Edgar Calabia Samar<br>
-  </cite>
-</blockquote>
-
-<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
-  And there was something about you that now I can’t remember<br>
-  It’s the same damn thing that made my heart surrender<br>
-  And I’ll miss you on a train, I’ll miss you in the mornin’<br>
-  I never know what to think about<br>
-  I think about you (Don’t let go)<br>
-  About you (Don’t let go)<br>
-  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    An excerpt from <strong><em>About You</em></strong>, Matty Healy<br>
-    From <em>Being Funny in a Foreign Language</em>, 2020
   </cite>
 </blockquote>
 
