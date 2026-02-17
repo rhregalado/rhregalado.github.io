@@ -229,9 +229,9 @@ If you work, if you wait, you will find the place<br>
   You are enough.<br> 
   Your existence is enough.<br> 
   This is enough. Enough to turn my world or<br> 
-  Burn it in the most beautiful way.<br>
+  Set it aflame in the most beautiful way.<br>
   <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
-    <strong><em>How Much Yearning</em></strong>, Ric Ryan Regalado<br>
+    <strong><em>How Much Yearning</em></strong>, R.R.H. Regalado<br>
   </cite>
 </blockquote>
 
