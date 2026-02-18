@@ -99,7 +99,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
   </cite>
 </blockquote>
 
-<p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a selfless act of a poet carving out a piece of their soul onto a page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it. And again, it's totally okay if you don't get it! Art is art. There's no right way to experience it.</p><br>
+<p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a selfless act of a poet carving out a piece of their soul onto a page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it. And again, it’s totally okay if you don’t get it right away! Art is art. There's no right way to experience it.</p><br>
 
 <p>Do you have a favorite poetry you'd like to share? I’d love to hear about it. Send it my way through <a href="mailto:rhregalado@up.edu.ph" target="_blank">email</a>, and it just might find a home in the next blog! Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and nourish you inside like a bowl of hot chicken soup.</p><br>
 
