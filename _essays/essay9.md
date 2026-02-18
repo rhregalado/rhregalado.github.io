@@ -155,6 +155,35 @@ If you work, if you wait, you will find the place<br>
 </blockquote>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
+  It is madness<br>
+  says reason<br>
+  It is what it is<br>
+  says love<br><br>
+
+  It is unhappiness<br>
+  says calculation<br>
+  It is nothing but pain<br>
+  says fear<br>
+  It has no future<br>
+  says insight<br>
+  It is what it is<br>
+  says love<br><br>
+
+  It is ridiculous<br>
+  says pride<br>
+  It is foolish<br>
+  says caution<br>
+  It is impossible<br>
+  says experience<br>
+  It is what it is<br>
+  says love<br>
+  <cite style="font-style: normal; font-weight: normal; display: block; text-align: right;">
+    <strong><em>What It Is</em></strong>, Erich Fried<br>
+    <em>translated from the German ‘Was es ist’</em>
+  </cite>
+</blockquote>
+
+<blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   “Tayo na?”<br>
   “Sige.”<br>
   At ang “sige”<br>
