@@ -37,7 +37,7 @@ function closeLightbox() {
 <a href="#" onclick="openLightbox('http://rhregalado.github.io/images/IMG_2904.jpeg'); return false;">
   <img src="http://rhregalado.github.io/images/IMG_2904.jpeg" style="max-width:100%; height:auto; cursor:pointer;">
 </a>
-<h6 style="text-align: justify;">The NIMBB building's façade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an RNA hairpin loop, presenting a seamless fusion of form and function.</h6>
+<h6 style="text-align: justify;">The NIMBB building’s façade captivates on a typical summer day. From above, its architectural contours resemble the elegant structure of an RNA hairpin loop, presenting a seamless fusion of form and function.</h6>
 
 <h2>More info</h2>
 
