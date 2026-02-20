@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: justify;">
 <p>Welcome to my personal academic space!</p>
 
-<p>Kumusta! My name is Ric. I'm a microbial ecologist and molecular biologist. I recently earned my Masters degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group and worked on mining, metals, and microbes under <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
+<p>Kumusta! My name is Ric. I'm a first-gen, Filipino microbial ecologist and molecular biologist. I recently earned my Masters degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). While at the NIMBB, I joined the molecular toxicology group and worked on mining, metals, and microbes under <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
 
 <div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
   <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
