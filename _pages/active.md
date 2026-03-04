@@ -16,5 +16,5 @@ author_profile: true
 
 <h1 style="color:#49A0BF; font-size: 1.4em;">Works in Progress</h1>
 <br>
-<i>No works to display at this time.</i><br>
+<i>No works to display at this time.</i>
 </div>
