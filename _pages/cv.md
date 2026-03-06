@@ -10,8 +10,8 @@ redirect_from:
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
 <h1 style="font-size: 1.3em;">Education</h1>
-* 2021-2025: MSc Molecular Biology and Biotechnology at <a href="https://upd.edu.ph" target="_blank">University of the Philippines Diliman</a>
-* 2014-2018: BSc Biology (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
+* 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank">University of the Philippines Diliman</a>
+* 2014-2018: <b>BSc Biology</b> (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
 <br><br>
 
 <h1 style="font-size: 1.3em;">Disciplines</h1>
