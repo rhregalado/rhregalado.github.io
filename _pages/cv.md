@@ -23,7 +23,7 @@ Microbiology • Molecular Biology
 * <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Edaphology, Toxicology, Bioremediation, Metallome<br>
 * <b><i>Emerging:</i></b> Molecular Paleobiology, Ancient DNA (aDNA), Astrobiology/Exobiology, Origins of life<br>
 
-<hr class="solid" style="border-top: 1px solid gainsboro">
-<div style="font-size: 0.8em;">
+<hr class="solid" style="border-top: 0.5px solid gainsboro">
+<div style="font-size: 0.6em;">
 Full-page CV available upon <a href="mailto:rhregalado@up.edu.ph" target="_blank">request</a>
 </div>
