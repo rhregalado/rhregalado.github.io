@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<h6><i>Last updated July 2025</i></h6>
+<h6><i>Last updated January 2026</i></h6>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
 <h1 style="font-size: 1.3em;">Education</h1>
