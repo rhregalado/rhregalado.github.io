@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <h6><i>Note: Full-text versions were included where applicable. For paywall bypass requests, feel free to message me.</i><br></h6>
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
 {% include base_path %}
 
