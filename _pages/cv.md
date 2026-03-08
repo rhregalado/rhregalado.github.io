@@ -19,7 +19,7 @@ Microbiology • Molecular Biology
 <br><br>
 
 <h1 style="font-size: 1.3em;">Research Interests</h1>
-* <b><i>Core:</i></b> Microbiome Science, Microbial Ecology, Metagenomics, Environmental DNA (eDNA), Computational Biology, Metabolomics, Host-Microbe Interactions, Microbial Systematics, Extreme Environments<br>
+* <b><i>Core:</i></b> Microbiome Science, Microbial Ecology, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extreme Environments<br>
 * <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Edaphology, Toxicology, Bioremediation, Metallome<br>
 * <b><i>Emerging:</i></b> Molecular Paleobiology, Ancient DNA (aDNA), Astrobiology/Exobiology, Origins of life<br>
 
