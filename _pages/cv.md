@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <div style="font-size: 0.75em;"><i>Last updated January 2026</i></div>
-<hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 50px;">
+<hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 30px;">
 
 <h1 style="font-size: 1.3em;">
   <i class="fa-solid fa-graduation-cap"></i> Education</h1>
