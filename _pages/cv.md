@@ -9,18 +9,19 @@ redirect_from:
 <h6><i>Last updated January 2026</i></h6>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
-<h1 style="font-size: 1.3em;">Education</h1>
+<h1 style="font-size: 1.3em;">
+  <i class="fa-solid fa-graduation-cap"></i> Education</h1>
 * 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank">University of the Philippines Diliman</a>
 * 2014-2018: <b>BSc Biology</b> (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
 <br><br>
 
 <h1 style="font-size: 1.3em;">
-  <i class="fa-solid fa-microscope"></i>Disciplines</h1>
+  <i class="fa-solid fa-microscope"></i> Disciplines</h1>
 Microbiology • Molecular Biology
 <br><br>
 
 <h1 style="font-size: 1.3em;">
-  <i class="fa-solid fa-vial-virus"></i>Research Interests
+  <i class="fa-solid fa-vial-virus"></i> Research Interests
 </h1>
 * <b><i>Core:</i></b> Microbiome Science, Microbial Eco-Evo, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extremophiles<br>
 * <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Edaphology, Ecotoxicology, Microbial Dark Matter<br>
