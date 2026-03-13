@@ -9,8 +9,8 @@ redirect_from:
 <div style="font-size: 0.75em;"><i>Last updated January 2026</i></div>
 <hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 50px;">
 
-<h1>
-  <i class="fa-solid fa-graduation-cap"></i> Education</h1>
+<h2>
+  <i class="fa-solid fa-graduation-cap"></i> Education</h2>
 * 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank">University of the Philippines Diliman</a>
 * 2014-2018: <b>BSc Biology</b> (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
 <br><br>
