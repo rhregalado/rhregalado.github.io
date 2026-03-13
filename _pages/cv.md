@@ -23,9 +23,9 @@ Microbiology • Molecular Biology
 <h1 style="font-size: 1.3em;">
   <i class="fa-solid fa-vial-virus"></i> Research Interests
 </h1>
-* <b><i>Core:</i></b> Microbiome Science, Microbial Eco-Evo, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extremophiles<br>
-* <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Edaphology, Ecotoxicology, Microbial Dark Matter<br>
-* <b><i>Emerging:</i></b> Molecular Paleobiology, Ancient DNA (aDNA), Astrobiology/Exobiology, Origins of life<br>
+* <b>Core:</b> Microbiome Science, Microbial Eco-Evo, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extremophiles<br>
+* <b>Secondary:</b> Biogeochemistry, Geomicrobiology, Edaphology, Ecotoxicology, Microbial Dark Matter<br>
+* <b>Emerging:</b> Molecular Paleobiology, Ancient DNA (aDNA), Astrobiology/Exobiology, Origins of life<br>
 
 <div style="font-size: 0.8em;">
 Full-page CV available upon <a href="mailto:rhregalado@up.edu.ph" target="_blank">request</a>
