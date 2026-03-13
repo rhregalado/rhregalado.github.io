@@ -11,14 +11,15 @@ redirect_from:
 
 <h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
 * 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank"
-   style="color: inherit; text-decoration: none; transition: color 0.3s;"
-   onmouseover="this.style.color='var(--global-link-color)'" this.style.textDecoration='underline';"
-   onmouseout="this.style.color='inherit'">
+   style="color: inherit; text-decoration: none; transition: color 0.3s, text-decoration 0.3s;"
+   onmouseover="this.style.color='var(--global-link-color)'; this.style.textDecoration='underline';"
+   onmouseout="this.style.color='inherit'; this.style.textDecoration='none';">
    University of the Philippines Diliman</a>
 * 2014-2018: <b>BSc Biology</b> <i>(cum laude)</i> at <a href="https://bicol-u.edu.ph" target="_blank" 
-   style="color: inherit; text-decoration: none; transition: color 0.3s;"
-   onmouseover="this.style.color='var(--global-link-color)'" this.style.textDecoration='underline';"
-   onmouseout="this.style.color='inherit'">Bicol University</a>
+   style="color: inherit; text-decoration: none; transition: color 0.3s, text-decoration 0.3s;"
+   onmouseover="this.style.color='var(--global-link-color)'; this.style.textDecoration='underline';"
+   onmouseout="this.style.color='inherit'; this.style.textDecoration='none';">
+   Bicol University</a>
 <br>
 
 <h2><i class="fa-solid fa-microscope"></i> Disciplines</h2>
