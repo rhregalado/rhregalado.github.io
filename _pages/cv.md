@@ -14,11 +14,14 @@ redirect_from:
 * 2014-2018: <b>BSc Biology</b> (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
 <br><br>
 
-<h1 style="font-size: 1.3em;">Disciplines</h1>
+<h1 style="font-size: 1.3em;">
+  <i class="fa-solid fa-microscope"></i>Disciplines</h1>
 Microbiology • Molecular Biology
 <br><br>
 
-<h1 style="font-size: 1.3em;">Research Interests</h1>
+<h1 style="font-size: 1.3em;">
+  <i class="fa-solid fa-vial-virus"></i>Research Interests
+</h1>
 * <b><i>Core:</i></b> Microbiome Science, Microbial Eco-Evo, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extremophiles<br>
 * <b><i>Secondary:</i></b> Biogeochemistry, Geomicrobiology, Edaphology, Ecotoxicology, Microbial Dark Matter<br>
 * <b><i>Emerging:</i></b> Molecular Paleobiology, Ancient DNA (aDNA), Astrobiology/Exobiology, Origins of life<br>
