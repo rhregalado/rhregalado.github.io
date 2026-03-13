@@ -12,7 +12,7 @@ redirect_from:
 <h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
 * 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank">University of the Philippines Diliman</a>
 * 2014-2018: <b>BSc Biology</b> (<i>cum laude</i>) at <a href="https://bicol-u.edu.ph" target="_blank">Bicol University</a>
-<br><
+<br>
 
 <h2><i class="fa-solid fa-microscope"></i> Disciplines</h2>
 Microbiology • Molecular Biology
