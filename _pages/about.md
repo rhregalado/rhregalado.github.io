@@ -32,7 +32,7 @@ function closeLightbox() {
 
 <p>Outside the lab, you might find me loitering around bookstores or museums and art galleries, or enjoying low-stimulation walks, running laps, or in some niche spot enjoying a meal, reading a book, or writing a column for my blog. Lately, I’ve also been seeking out public spaces where groups exercise tai chi together.</p>
 
-<p>I’ve curated this page to put together all the things that I wrote over the years as a <a style="color: steelblue" style="text-decoration:none">#ProudPinoy</a> scholar-researcher. I hope that by sharing this platform, it will encourage interest among readers from diverse backgrounds and serve as a valuable open-access resource to stimulate thought and discussion.</p>
+<p>I’ve curated this page to put together all the things that I wrote over the years as a <a style="color: var(--global-link-color)" style="text-decoration:none">#ProudPinoy</a> scholar-researcher. I hope that by sharing this platform, it will encourage interest among readers from diverse backgrounds and serve as a valuable open-access resource to stimulate thought and discussion.</p>
 
 <a href="#" onclick="openLightbox('http://rhregalado.github.io/images/IMG_2904.jpeg'); return false;">
   <img src="http://rhregalado.github.io/images/IMG_2904.jpeg" style="max-width:100%; height:auto; cursor:pointer;">
