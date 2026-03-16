@@ -14,11 +14,12 @@ redirect_from:
 
 <div id="lightbox"
      style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
-            background:rgba(0,0,0,0.8); z-index:1000;"
+            background:rgba(0,0,0,0.8); z-index:1000;
+            display:flex; justify-content:center; align-items:center;"
      onclick="closeLightbox()">
 
   <span onclick="closeLightbox()"
-        style="position:absolute; top:10px; right:20px; font-size:30px;
+        style="position:absolute; top:15px; right:25px; font-size:32px;
                color:white; cursor:pointer;">
         &times;
   </span>
@@ -26,14 +27,14 @@ redirect_from:
   <img id="lightbox-img"
        src=""
        onclick="event.stopPropagation()"
-       style="max-width:90%; max-height:90%; margin:auto; display:block;
-              position:absolute; top:0; left:0; right:0; bottom:0;">
+       style="max-width:90%; max-height:90%; object-fit:contain;">
 </div>
 
 <script>
 function openLightbox(src) {
+  const lightbox = document.getElementById("lightbox");
   document.getElementById("lightbox-img").src = src;
-  document.getElementById("lightbox").style.display = "block";
+  lightbox.style.display = "flex";
 }
 
 function closeLightbox() {
