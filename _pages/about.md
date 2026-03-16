@@ -10,11 +10,24 @@ redirect_from:
 <div style="text-align: justify;">
 <p>Welcome to my personal academic space!</p>
 
-<p>Kumusta! My name is Ric (he/him). I’m a Filipino, first-gen microbial ecologist and molecular biologist. I recently earned my Master’s degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). During my time at NIMBB, I trained in the molecular toxicology group, where my work focused on the interplay of mining, metals, and microbes under the mentorship of <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <a href="/files/TOX.png" onclick="openLightbox('/files/TOX.png'); return false;">here</a>.
+<p>Kumusta! My name is Ric (he/him). I’m a Filipino, first-gen microbial ecologist and molecular biologist. I recently earned my Master’s degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). During my time at NIMBB, I trained in the molecular toxicology group, where my work focused on the interplay of mining, metals, and microbes under the mentorship of <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <button onclick="openLightbox('/files/TOX.png')">here</button>
 
-<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
-  <span style="position:absolute;top:10px;right:20px;font-size:30px;color:white;cursor:pointer;">&times;</span>
-  <img id="lightbox-img" src="" style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:0; left:0; right:0; bottom:0;">
+<div id="lightbox"
+     style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
+            background:rgba(0,0,0,0.8); z-index:1000;"
+     onclick="closeLightbox()">
+
+  <span onclick="closeLightbox()"
+        style="position:absolute; top:10px; right:20px; font-size:30px;
+               color:white; cursor:pointer;">
+        &times;
+  </span>
+
+  <img id="lightbox-img"
+       src=""
+       onclick="event.stopPropagation()"
+       style="max-width:90%; max-height:90%; margin:auto; display:block;
+              position:absolute; top:0; left:0; right:0; bottom:0;">
 </div>
 
 <script>
@@ -22,11 +35,11 @@ function openLightbox(src) {
   document.getElementById("lightbox-img").src = src;
   document.getElementById("lightbox").style.display = "block";
 }
+
 function closeLightbox() {
   document.getElementById("lightbox").style.display = "none";
 }
 </script>
-</p>
 
 <p>My research interests lie at the intersection of molecular biology and microbiology. I am particularly fascinated by life at its limits, especially microbial communities that persist even in the most extreme environments. I am deeply curious about understanding the fundamental principles that govern how microbes interact, adapt, and evolve in this specific niche. Using an integrated approach that combines computational analyses with laboratory experiments, I have investigated these processes in systems such as heavy metal-contaminated soils and hypersaline environments. During my recent <a href="https://rhregalado.github.io/active/" target="_blank">Master’s work</a>, I investigated the potential use of citric acid—a biodegradable and widely accessible food additive—as a leaching agent (i.e., lixiviant) to extract copper directly from mine tailings, and assessed how its amendment influence the activities of key microbial populations and their adaptive evolution over time. Through this work, I aim to contribute to sustainable metal extraction strategies and to support efficient land reuse solutions for legacy mining sites. More recently, I developed a special interest on the early evolution of life, with a focus on microorganisms adapted to the conditions of early Earth and what they reveal about the origins of life.</p>
 
