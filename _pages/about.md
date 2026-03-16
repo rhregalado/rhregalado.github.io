@@ -12,29 +12,23 @@ redirect_from:
 
 <p>Kumusta! My name is Ric (he/him). I’m a Filipino, first-gen microbial ecologist and molecular biologist. I recently earned my Master’s degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). During my time at NIMBB, I trained in the molecular toxicology group, where my work focused on the interplay of mining, metals, and microbes under the mentorship of <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a>
 
-<div id="lightbox"
-     style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
-            background:rgba(0,0,0,0.8); z-index:1000;
-            display:flex; justify-content:center; align-items:center;"
-     onclick="closeLightbox()">
-
-  <span onclick="closeLightbox()"
-        style="position:absolute; top:15px; right:25px; font-size:32px;
-               color:white; cursor:pointer;">
+<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
+  
+  <span onclick="closeLightbox()" 
+        style="position:absolute; top:10px; right:20px; font-size:30px; color:white; cursor:pointer;">
         &times;
   </span>
 
   <img id="lightbox-img"
        src=""
        onclick="event.stopPropagation()"
-       style="max-width:90%; max-height:90%; object-fit:contain;">
+       style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:0; left:0; right:0; bottom:0;">
 </div>
 
 <script>
 function openLightbox(src) {
-  const lightbox = document.getElementById("lightbox");
   document.getElementById("lightbox-img").src = src;
-  lightbox.style.display = "flex";
+  document.getElementById("lightbox").style.display = "block";
 }
 
 function closeLightbox() {
