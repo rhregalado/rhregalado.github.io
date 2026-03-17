@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: false
 redirect_from:
-  - /resume-json
+  - /findme
 ---
 
 To make it easy for people to find me, I’ve listed all my contact information below, including my current mailing address, phone, institutional email, and various web services. If you’d like to reach out for general inquiries, collaborations, or questions related to my research, here are some places on the Internet where I reside:
