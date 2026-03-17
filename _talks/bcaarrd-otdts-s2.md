@@ -10,7 +10,7 @@ location: "via Zoom"
 
 Our work in the <b>Bicol River Basin Project</b> was featured at the Bicol Consortium for Agriculture, Aquatic, and Natural Resources Research and Development (BCAARRD)'s <i>Online Technology Dissemination and Training Series Season 2</i>, originally premiered last May 4, 2021 on Facebook Live. During this event, I discussed the climate vulnerability hotspots affecting agri-fishery communities in the Bicol Region, drawing insights from our downscaled region-specific climate model. The online format proved invaluable in allowing us to engage with a wider audience and extending the reach of our work beyond Bicol Region.<br>
 
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="60" src="https://www.youtube.com/watch?v=qGedRzzckwQ" title="YouTube video player" width="100%"></iframe></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="60" src="https://www.youtube.com/embed/qGedRzzckwQ" title="YouTube video player" width="100%"></iframe></p>
 
 The link to the recorded session can be accessed <a href= "https://www.youtube.com/watch?v=qGedRzzckwQ">here</a><br>
 
