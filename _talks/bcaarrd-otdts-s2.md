@@ -12,6 +12,4 @@ Our work in the <b>Bicol River Basin Project</b> was featured at the Bicol Conso
 
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="60" src="https://www.youtube.com/embed/qGedRzzckwQ" title="YouTube video player" width="100%"></iframe></p>
 
-The link to the recorded session can be accessed <a href= "https://www.youtube.com/watch?v=qGedRzzckwQ">here</a><br>
-
-<h6>This work won <a href= "https://bicol-u.edu.ph/bcaarrd-announces-winners-for-first-virtual-rsrdh/">3rd Best Paper</a> during BCAARRD's Regional Symposium in 2021, and was eventually published in the journal <i>Climatic Change</i> of the Springer Nature journals in the same year. Link to the journal article can be found <a href= "https://rhregalado.github.io/publication/climate-vulnerability-scenario-of-the-agricultural-sector-in-the-bicol-river-basin-philippines">here</a>.</h6>
+<div style="font-size: 0.75em;">This work won <a href= "https://bicol-u.edu.ph/bcaarrd-announces-winners-for-first-virtual-rsrdh/"><b>3rd Best Paper</b></a> during BCAARRD's Regional Symposium in 2021, and was eventually published in the journal <i>Climatic Change</i> of the Springer Nature journals in the same year. Link to the journal article can be found <a href= "https://rhregalado.github.io/publication/climate-vulnerability-scenario-of-the-agricultural-sector-in-the-bicol-river-basin-philippines">here</a>.</div>
