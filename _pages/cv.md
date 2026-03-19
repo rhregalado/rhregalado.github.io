@@ -22,11 +22,11 @@ redirect_from:
    Bicol University</a>
 <br>
 
-<h2><i class="fa-solid fa-microscope"></i> Disciplines</h2>
+<h2><i class="fa-solid fa-microscope fa-fw icon-pad-right"></i>Disciplines</h2>
 Microbiology • Molecular Biology
 <br>
 
-<h2><i class="fa-solid fa-vial-virus"></i> Research Interests</h2>
+<h2><i class="fa-solid fa-vial-virus fa-fw icon-pad-right"></i>Research Interests</h2>
 * <b>Core:</b> Microbiome Science, Microbial Eco-Evo, Metagenomics, Environmental DNA (eDNA), Bioinformatics, Systems Biology, Computational Biology, Host-Microbe Interactions, Microbial Systematics, Extremophiles<br>
 * <b>Secondary:</b> Biogeochemistry, Geomicrobiology, Edaphology, Ecotoxicology, Microbial Dark Matter<br>
 * <b>Emerging:</b> Astrobiology/Exobiology, Ancient DNA (aDNA), Molecular Paleobiology, Origins of life<br>
