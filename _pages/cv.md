@@ -9,7 +9,7 @@ redirect_from:
 <div style="font-size: 0.75em;"><i>Last updated January 2026</i></div>
 <hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 40px;">
 
-<h2><i class="fa-solid fa-graduation-cap"></i> Education</h2>
+<h2><i class="fa-solid fa-graduation-cap fa-fw icon-pad-right"></i>Education</h2>
 * 2021-2025: <b>MSc Molecular Biology and Biotechnology</b> at <a href="https://upd.edu.ph" target="_blank"
    style="color: inherit; text-decoration: none; transition: color 0.3s, text-decoration 0.3s;"
    onmouseover="this.style.color='var(--global-link-color)'; this.style.textDecoration='underline';"
