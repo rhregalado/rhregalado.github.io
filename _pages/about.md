@@ -10,9 +10,9 @@ redirect_from:
 <div style="text-align: justify;">
 <p>Welcome to my personal academic space!</p>
 
-<p>Kumusta! My name is Ric (he/him). I’m a Filipino, first-gen microbial ecologist and molecular biologist. I recently earned my Master’s degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). During my time at the NIMBB, I trained in the molecular toxicology group under the mentorship of <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>, where my work focused on the interplay of mining, metals, and microbes under a perturbed microcosm system. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return true;">here</a></p>
+<p>Kumusta! My name is Ric (he/him). I’m a Filipino, first-gen microbial ecologist and molecular biologist. I recently earned my Master’s degree in Molecular Biology and Biotechnology at the <a href="https://nimbb.upd.edu.ph/" target="_blank">National Institute of Molecular Biology and Biotechnology (NIMBB)</a> at the University of the Philippines Diliman (UP Diliman). During my time at the NIMBB, I trained in the molecular toxicology group under the mentorship of <a href="https://nimbb.upd.edu.ph/?page_id=6327" target="_blank">Dr. Jay Lazaro</a>, where my work focused on the interplay of mining, metals, and microbes under a perturbed microcosm system. You can learn more about our Lab <a href="#" onclick="openLightbox('/files/TOX.png'); return false;">here</a></p>
 
-<div id="lightbox" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
+<div id="lightbox" style="display:none; position:fixed; top:10; left:0; width:100%; height:100%; background:rgba(0,0,0,0.8); z-index:1000;" onclick="closeLightbox()">
   
   <span onclick="closeLightbox()" 
         style="position:absolute; top:10px; right:20px; font-size:30px; color:white; cursor:pointer;">
@@ -22,7 +22,7 @@ redirect_from:
   <img id="lightbox-img"
        src=""
        onclick="event.stopPropagation()"
-       style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:0; left:0; right:0; bottom:0;">
+       style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:10; left:0; right:0; bottom:0;">
 </div>
 
 <script>
