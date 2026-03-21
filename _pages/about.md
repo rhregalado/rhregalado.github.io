@@ -22,7 +22,7 @@ redirect_from:
   <img id="lightbox-img"
        src=""
        onclick="event.stopPropagation()"
-       style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:10; left:0; right:0; bottom:0;">
+       style="max-width:90%; max-height:90%; margin:auto; display:block; position:absolute; top:5; left:0; right:0; bottom:0;">
 </div>
 
 <script>
