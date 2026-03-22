@@ -10,7 +10,7 @@
     
     <div class="cv-contact">
       {% if cv.basics.email %}
-      <a href="mailto:rhregalado@up.edu.ph"
+      <a href="mailto:{{ author.email }}"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
         onmouseover="this.style.color='var(--global-link-color)'" onmouseout="this.style.color='inherit'">
       <i class="fas fa-envelope"></i> rhregalado@up.edu.ph
