@@ -32,5 +32,5 @@ Microbiology • Molecular Biology
 * <b>Emerging:</b> Astrobiology/Exobiology, Ancient DNA (aDNA), Molecular Paleobiology, Origins of life<br>
 
 <div style="font-size: 0.8em;">
-Full-page CV available upon <a href="mailto:{{ author.email }}" target="_blank">request</a>
+Full-page CV available upon <a href="mailto:{{ site.email }}" target="_blank">request</a>
 </div>
