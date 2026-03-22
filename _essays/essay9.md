@@ -4,6 +4,11 @@ date: 2026-02-20
 permalink: /essays/a-chicken-soup-for-the-soul
 excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value to it, whether reading it or writing one, it feels like a warm bowl of chicken soup for the soul. For this essay, I want the space to breathe with fewer of my words and more of someone else’s. I want this time to also to empower the reader. I want to make it as if they are hearing their own voice in the lines, not mine.
 ---
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
 
 <div style="text-align: justify;">
 <p>I figured I’d do something different for today’s essay.</p>
@@ -101,9 +106,7 @@ excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value
 
 <p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a selfless act of a poet carving out a piece of their soul onto a page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it. And again, it’s totally okay if you don’t get it right away! Art is art. There’s no right or wrong way to experience it.</p><br>
 
-<p>Do you have a favorite poetry you'd like to share? I’d love to hear about it. Send it my way through {% if author.email %}
-  <a href="mailto:{{ author.email }}">email</a>
-{% endif %}, and it just might find a home in the next blog! Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and nourish you inside like a bowl of hot chicken soup.</p><br>
+<p>Do you have a favorite poetry you'd like to share? I’d love to hear about it. Send it my way through <a href="mailto:{{ author.email }}">email</a>, and it just might find a home in the next blog! Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and nourish you inside like a bowl of hot chicken soup.</p><br>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
 I know a place where the sun is like gold,<br>
