@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
 <div style="font-size: 0.75em;"><i>Last updated January 2026</i></div>
 <hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 40px;">
 
@@ -34,7 +38,3 @@ Microbiology • Molecular Biology
 <div style="font-size: 0.8em;">
 Full-page CV available upon <a href="mailto:{{ author.email }}">request</a>
 </div>
-
-{% if page.author and site.data.authors[page.author] %}
-  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
-{% endif %}
