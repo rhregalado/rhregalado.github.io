@@ -17,14 +17,14 @@
       <a href="mailto:{{ author.email }}"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
         onmouseover="this.style.color='var(--global-link-color)'" onmouseout="this.style.color='inherit'">
-      <i class="fas fa-envelope"></i> {{ author.email }}
+      <i class="fas fa-envelope fa-fw"></i>{{ author.email }}
       </a>
       </div>
       {% endif %}
       
       {% if cv.basics.phone %}
       <div class="cv-contact-item">
-        <i class="fa-solid fa-phone-volume"></i> {{ cv.basics.phone }}
+        <i class="fa-solid fa-phone-volume fa-fw"></i>{{ cv.basics.phone }}
       </div>
       {% endif %}
       
@@ -33,14 +33,14 @@
       <a href="{{ cv.basics.website }}" target="_blank"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
         onmouseover="this.style.color='var(--global-link-color)'" onmouseout="this.style.color='inherit'">
-        <i class="fa-regular fa-globe"></i> {{ cv.basics.website }}
+        <i class="fa-regular fa-globe fa-fw"></i>{{ cv.basics.website }}
       </a>
       </div>
       {% endif %}
       
       {% if cv.basics.location.city %}
       <div class="cv-contact-item">
-        <i class="fas fa-map-marker-alt"></i> {{ cv.basics.location.city }}{% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}{% if cv.basics.location.countryCode %}, {{ cv.basics.location.countryCode }}{% endif %}
+        <i class="fas fa-map-marker-alt fa-fw"></i>{{ cv.basics.location.city }}{% if cv.basics.location.region %}, {{ cv.basics.location.region }}{% endif %}{% if cv.basics.location.countryCode %}, {{ cv.basics.location.countryCode }}{% endif %}
       </div>
       {% endif %}
     
