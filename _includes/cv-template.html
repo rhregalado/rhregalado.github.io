@@ -17,7 +17,7 @@
       <a href="mailto:{{ author.email }}"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
         onmouseover="this.style.color='var(--global-link-color)'" onmouseout="this.style.color='inherit'">
-      <i class="fas fa-envelope fa-fw"></i>{{ author.email }}
+      <i class="fas fa-fw fa-envelope icon-pad-right"></i>{{ author.email }}
       </a>
       </div>
       {% endif %}
@@ -33,7 +33,7 @@
       <a href="{{ cv.basics.website }}" target="_blank"
         style="color: inherit; text-decoration: none; transition: color 0.3s;" 
         onmouseover="this.style.color='var(--global-link-color)'" onmouseout="this.style.color='inherit'">
-        <i class="fa-regular fa-globe fa-fw"></i>{{ cv.basics.website }}
+        <i class="fa-regular fa-fw fa-globe icon-pad-right"></i>{{ cv.basics.website }}
       </a>
       </div>
       {% endif %}
@@ -55,31 +55,31 @@
          style="display:inline-block; transition:opacity 0.3s;">
          
         {% if profile.network == "Google Scholar" %}
-          <i class="fa-brands fa-google-scholar"
+          <i class="fa-brands fa-google-scholar fa-fw"
              style="color:#4285F4; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "X (formerly Twitter)" %}
-          <i class="fa-brands fa-x-twitter"
+          <i class="fa-brands fa-x-twitter fa-fw"
              style="color:var(--global-text-color); transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "ORCID" %}
-          <i class="fab fa-orcid"
+          <i class="fab fa-orcid fa-fw"
              style="color:#A6CE39; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Scopus" %}
-          <i class="ai ai-scopus"
+          <i class="ai ai-scopus fa-fw"
              style="color:#EF8A33; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Web of Science" %}
-          <i class="ai ai-clarivate"
+          <i class="ai ai-clarivate fa-fw"
              style="color:#5835B8; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "PubMed" %}
-          <i class="ai ai-pubmed"
+          <i class="ai ai-pubmed fa-fw"
              style="color:#2F538E; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "GitHub" %}
-          <i class="fab fa-github"
+          <i class="fab fa-github fa-fw"
              style="color:#171516; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "ResearchGate" %}
-          <i class="ai ai-researchgate-square"
+          <i class="ai ai-researchgate-square fa-fw"
              style="color:#00CCBB; transition: opacity 0.3s, transform 0.3s;"></i>
         {% elsif profile.network == "Bluesky" %}
-          <i class="fab fa-bluesky"
+          <i class="fab fa-bluesky fa-fw"
              style="color:#1184fe; transition: opacity 0.3s, transform 0.3s;"></i>
         {% else %}
           <i class="fab fa-{{ profile.network | downcase | replace: ' ', '-' }}"
