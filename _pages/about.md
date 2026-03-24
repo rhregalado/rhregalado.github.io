@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 redirect_from: 
   - /about
-  - /about.me
+  - /about.me/
 ---
 <div style="text-align: justify;">
 <p>Welcome to my personal academic space!</p>
