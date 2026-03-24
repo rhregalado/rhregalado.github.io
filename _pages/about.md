@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html/
+  - /about
+  - /about.me
 ---
 <div style="text-align: justify;">
 <p>Welcome to my personal academic space!</p>
