@@ -277,11 +277,11 @@ img {
 <strong>Footnotes:</strong>
 
 <ol>
-<li id="ref1">Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a> <a href="#cite-ref1">↩️</a>
+<li id="ref1">Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a> <a href="#cite-ref1">↩</a>
 </li>
 
 <li id="ref2">Mier-Manjares, M. A. (2022). <i>New plant species in Albay named after late biologist.</i> 
-Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a> <a href="#cite-ref2">↩️</a>
+Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a> <a href="#cite-ref2">↩</a>
 </li>
 </ol>
 
