@@ -87,7 +87,7 @@ img {
 
 <p>I know I speak for all of us when I say how immeasurably lucky we are to have been touched by Abs, to have had him plant seeds of love that we still carry and share. He was our whitest Whiteflower; both figuratively and, quite literally, so.</p>
 
-<p>Just a year after his passing, a new plant species was named after him: <i>Begonia francisabuidii</i>. The lead author of the publication[^ref1][^ref2] said that the white flowers that bloomed from the <i>B. francisabuidii</i> species were as pure as the heart and dedication of Abs to inspire young learners to guard and conserve the biodiversity of the region. <i>Begonia francisabuidii</i> is endemic to Albay, and proposed as Critically Endangered; a fragile beauty, held so close to home.</p>
+Just a year after his passing, a new plant species was named after him: *Begonia francisabuidii*. The lead author of the publication[^ref1][^ref2] said that the white flowers that bloomed from the *B. francisabuidii* species were as pure as the heart and dedication of Abs to inspire young learners to guard and conserve the biodiversity of the region. *Begonia francisabuidii* is endemic to Albay, and proposed as Critically Endangered; a fragile beauty, held so close to home.<br>
 
 <figure>
   <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -273,11 +273,11 @@ img {
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <div style="font-size: 0.8em; text-align: justify;">
-<strong>Footnotes:</strong>
+<strong>Footnotes:</strong><br>
 
 [^ref1]: Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a>
 [^ref2]: Mier-Manjares, M. A. (2022). <i>New plant species in Albay named after late biologist.</i> Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a>
-<br>
+<br><br>
 
 <p>P.S. In true Whiteflower fashion, we made a quirky tradition out of our group photos by turning them into promo-style layouts (like the first photo) inspired by the Wildflower TV ad campaigns. With each poster marking a “new season” of our college journey, all leading up to graduation as our "finale season." There were also the “special episode” posters to mark the milestones that bring us together again long after our finale. Now, featuring new cast members, like the spouses and babies, officially joining our extended family. You can check out all these posters in this <a href="https://www.facebook.com/media/set?set=a.3484342011592454&type=3" target="_blank">album</a>.</p>
 </div>
