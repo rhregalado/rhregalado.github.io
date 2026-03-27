@@ -88,7 +88,7 @@ img {
 <p>I know I speak for all of us when I say how immeasurably lucky we are to have been touched by Abs, to have had him plant seeds of love that we still carry and share. He was our whitest Whiteflower; both figuratively and, quite literally, so.</p>
 
 <p>
-Just a year after his passing, a new plant species was named after him: <i>Begonia francisabuidii</i>. The lead author of the publication<sup id="cite-ref1"><a href="#ref1">1</a>,</sup><sup id="cite-ref2"><a href="#ref2">2</a></sup> said that the white flowers that bloomed from the <i>B. francisabuidii</i> species were as pure as the heart and dedication of Abs to inspire young learners to guard and conserve the biodiversity of the region. <i>Begonia francisabuidii</i> is endemic to Albay, and proposed as Critically Endangered; a fragile beauty, held so close to home.</p>
+Just a year after his passing, a new plant species was named after him: <i>Begonia francisabuidii</i>. The lead author of the publication<sup id="cite-ref1" style="color: var(--global-text-color-light);"><a href="#ref1">1</a>,</sup><sup id="cite-ref2" style="color: var(--global-text-color-light);"><a href="#ref2">2</a></sup> said that the white flowers that bloomed from the <i>B. francisabuidii</i> species were as pure as the heart and dedication of Abs to inspire young learners to guard and conserve the biodiversity of the region. <i>Begonia francisabuidii</i> is endemic to Albay, and proposed as Critically Endangered; a fragile beauty, held so close to home.</p>
 
 <figure>
   <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -277,11 +277,11 @@ img {
 <strong>Footnotes:</strong>
 
 <ol>
-<li id="ref1">Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a> <a href="#cite-ref1">↩</a>
+<li id="ref1">Dela Cruz, C. J. P., Concepcion, S. R., &amp; Ang, Y. P. (2022). <i>Begonia francisabuidii</i> (section Baryandra, Begoniaceae), a new species endemic to Albay, Luzon Island, Philippines. <i>Taiwania</i>, 67(2), 223–228. DOI: <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank">10.6165/tai.2022.67.223</a> <a href="#cite-ref1" style="color: var(--global-text-color-light);">&#8617;</a>
 </li>
 
 <li id="ref2">Mier-Manjares, M. A. (2022). <i>New plant species in Albay named after late biologist.</i> 
-Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a> <a href="#cite-ref2">↩</a>
+Inquirer.net. <a href="https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist" target="_blank">https://newsinfo.inquirer.net/1577727/new-plant-species-in-albay-named-after-late-biologist</a> <a href="#cite-ref2" style="color: var(--global-text-color-light);">&#8617;</a>
 </li>
 </ol>
 
