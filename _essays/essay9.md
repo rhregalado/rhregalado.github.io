@@ -3,6 +3,9 @@ title: "A Chicken Soup for the Soul"
 date: 2026-02-20
 permalink: /essays/a-chicken-soup-for-the-soul
 excerpt: <b>[ESSAY]</b> I love poetry. I always find a kind of therapeutic value to it, whether reading it or writing one, it feels like a warm bowl of chicken soup for the soul. For this essay, I want the space to breathe with fewer of my words and more of someone else’s. I want this time to also to empower the reader. I want to make it as if they are hearing their own voice in the lines, not mine.
+redirect_from: 
+  - /new
+
 ---
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}
