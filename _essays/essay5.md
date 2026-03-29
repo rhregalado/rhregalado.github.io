@@ -457,3 +457,5 @@ function closeLightbox() {
 <br>
 
 <p>(Nabua, 10/2025)</p>
+
+{% include comments-providers/disqus.html %}
