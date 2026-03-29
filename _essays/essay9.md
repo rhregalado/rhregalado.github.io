@@ -78,7 +78,7 @@ redirect_from:
 
 <p>If you’ve noticed, poetry just puts a sort of order in the mind. There’s something to it like calming the brain, like Mozart does it with his music. It calms the mind particularly, the violence. As you read, the strong, sane voice of the poem is often enough to silence the destructive, obsessive voices in your head.</p>
 
-<p>It’s between the sound and saying it. You have to say it out loud for it have full benefit. So, whether it’s in your bed, in your car, or in front of your bathroom mirror, I hope you have a safe space to say it out loud. Try it this time with this one:</p>
+<p>It’s between the sound and saying it. You have to say it out loud for it have full benefit. So, whether it’s in your bed, in your car, with your partner or in front of your bathroom mirror, I hope you have a safe space to say it out loud. Try it this time with this one:</p>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
   STRANGER! if you, passing, meet me, and desire to speak to me,<br>
