@@ -26,7 +26,7 @@ redirect_from:
 
 <figure>
     <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank" rel="noreferrer noopener" class="hover-caption">
-    <img src=" https://www.researchgate.net/profile/Vincent-Van-Ginneken/publication/317784454/figure/fig4/AS:508088231120896@1498149082795/Human-evolution-based-on-skull-endocasts-of-fossil-archaic-primates-and-early-hominids.png" alt="">
+    <img src="https://www.researchgate.net/profile/Vincent-Van-Ginneken/publication/317784454/figure/fig4/AS:508088231120896@1498149082795/Human-evolution-based-on-skull-endocasts-of-fossil-archaic-primates-and-early-hominids.png" alt="">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
@@ -81,7 +81,7 @@ img {
 
 </style>
   <figcaption>
-    <b><i>Human evolution based on skull endocasts of fossil archaic primates and early hominids.</b></i> Note how beginning about 1.7 million years ago, the brains of our ancestors began growing steadily, tripling in size over the next 1.5 million years<sup id="cite-ref37"><a href="#ref37" style="color: var(--global-text-color-light);">37</a></sup>.
+    <b><i>Human evolution based on skull endocasts of fossil archaic primates and early hominids.</i></b> Note how beginning about 1.7 million years ago, the brains of our ancestors began growing steadily, tripling in size over the next 1.5 million years<sup id="cite-ref37"><a href="#ref37" style="color: var(--global-text-color-light);">37</a></sup>.
   </figcaption>
   <br>
 
@@ -158,6 +158,6 @@ img {
 <li id="ref34">Marks, S. (2026). <i>Historic rivalries spark fresh tensions in the Horn of Africa.</i> Bloomberg. <a href="https://www.bloomberg.com/news/newsletters/2026-02-20/tensions-rise-in-the-horn-of-africa-as-ethiopia-eritrea-spar" target="_blank">https://www.bloomberg.com/news/newsletters/2026-02-20/tensions-rise-in-the-horn-of-africa-as-ethiopia-eritrea-spar</a> <a href="#cite-ref34" style="color: var(--global-text-color-light);">&#8617;</a></li>
 <li id="ref35">Dava, B. (2026). <i>‘Intentional’: AFP says near-collision with Navy ship an escalation by China.</i> ABS-CBN News. <a href="https://www.abs-cbn.com/news/nation/2026/3/27/-intentional-afp-says-near-collision-with-navy-ship-an-escalation-by-china-1259" target="_blank">https://www.abs-cbn.com/news/nation/2026/3/27/-intentional-afp-says-near-collision-with-navy-ship-an-escalation-by-china-1259</a> <a href="#cite-ref35" style="color: var(--global-text-color-light);">&#8617;</a></li>
 <li id="ref36">United Nations. (1973). <i>Report of the United Nations Conference on the Human Environment, Stockholm, 5–16 June 1972.</i> New York: United Nations. <a href="https://digitallibrary.un.org/record/523249" target="_blank">https://digitallibrary.un.org/record/523249</a> <a href="#cite-ref36" style="color: var(--global-text-color-light);">&#8617;</a></li>
-<li id="ref37">van Ginneken, V., Van Meerveld, A., Verheij, E., & Van Der Greef, J. (2017). On the futile existence of DHA, None of EPA and the predominant role of the triacylglycerols (TGs) in the post mortem human brain: An LCMS study with evolutionary implications. <i>Journal of Bioanalysis & Biomedicine, 9.</i> <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank">https://doi.org/10.4172/1948-593X.1000170</a> <a href="#cite-ref37" style="color: var(--global-text-color-light);">&#8617;</a></li>
+<li id="ref37">van Ginneken, V., Van Meerveld, A., Verheij, E., & Van Der Greef, J. (2017). On the futile existence of DHA, none of EPA and the predominant role of the triacylglycerols (TGs) in the post mortem human brain: An LCMS study with evolutionary implications. <i>Journal of Bioanalysis & Biomedicine, 9.</i> <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank">https://doi.org/10.4172/1948-593X.1000170</a> <a href="#cite-ref37" style="color: var(--global-text-color-light);">&#8617;</a></li>
 </ol>
 </div>
