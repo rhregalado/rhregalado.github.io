@@ -7,7 +7,7 @@ redirect_from:
   - /blog/new
 ---
 
-<h2>This is an unedited galley proof. Proofreading is ongoing. Thank you for your patience.</h2><br>
+<h2><i class="fa-solid fa-person-digging fa-fw icon-pad-right"></i>This is an unedited galley proof. Proofreading is ongoing. Thank you for your patience.</h2><br>
 
 <div style="text-align: justify;">
 <p>My essay today is a critique of humanity—of our species, <i>Homo sapiens,</i> as a collective.<p>
