@@ -24,9 +24,71 @@ redirect_from:
 
 <p>To achieve such an elaborate circuitry, numerous theories have been proposed to answer one of philosophy and neuroscience’s age-old questions: what is the biological origin of human intelligence? Among the most widely acknowledged theories, and arguably the most convenient, is the Cooking Hypothesis<sup id="cite-ref3"><a href="#ref3" style="color: var(--global-text-color-light);">3</a>,</sup><sup id="cite-ref7"><a href="#ref7" style="color: var(--global-text-color-light);">7</a>,</sup><sup id="cite-ref8"><a href="#ref8" style="color: var(--global-text-color-light);">8</a>,</sup><sup id="cite-ref9"><a href="#ref9" style="color: var(--global-text-color-light);">9</a></sup>. This hypothesis suggests that a key turning point in human evolution was the simple mastery of a single, powerful tool: fire<sup id="cite-ref7"><a href="#ref7" style="color: var(--global-text-color-light);">7</a>,</sup><sup id="cite-ref9"><a href="#ref9" style="color: var(--global-text-color-light);">9</a>,</sup><sup id="cite-ref10"><a href="#ref10" style="color: var(--global-text-color-light);">10</a></sup>. Early humans relied on raw, hunter-gatherer diets which limited their daily energy intake (calories). Under these constraints, energy had to be allocated—supporting either a larger body or a larger brain, but not both<sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a></sup>. As a result, early hominins had bigger bodies but relatively smaller brains. The shift to a cooked-food diet, likely first adopted by <i>Homo erectus</i><sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a></sup>, changed this balance. Cooking increased the energy available from food, freeing up extra calories that could now support both body growth and brain expansion<sup id="cite-ref12"><a href="#ref12" style="color: var(--global-text-color-light);">12</a></sup>. This process contributed to encephalization, i.e., the increase in brain size relative to body size, which characterizes modern-day humans.</p>
 
+<figure>
+    <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src=" https://www.researchgate.net/profile/Vincent-Van-Ginneken/publication/317784454/figure/fig4/AS:508088231120896@1498149082795/Human-evolution-based-on-skull-endocasts-of-fossil-archaic-primates-and-early-hominids.png" alt="">
+
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: Journal of Bioanalysis & Biomedicine
+    </div>
+</a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+
+</style>
+  <figcaption>
+    <b><i>Human evolution based on skull endocasts of fossil archaic primates and early hominids.</b></i> Note how beginning about 1.7 million years ago, the brains of our ancestors began growing steadily, tripling in size over the next 1.5 million years<sup id="cite-ref37"><a href="#ref37" style="color: var(--global-text-color-light);">37</a></sup>.
+  </figcaption>
+  <br>
+
+
 <p>Unlike extra-oral food processing techniques (such as pounding or grinding) practiced by hunter-gatherers, cooking alters food both physically and chemically. It breaks it down into its basic macronutrient components: carbohydrates, proteins, and fats, making them easier to digest<sup id="cite-ref12"><a href="#ref12" style="color: var(--global-text-color-light);">12</a></sup>. For instance, proteins in raw meat are molecularly tightly folded. Heat denatures these structures, allowing enzymes to access and break them down more efficiently into its bioavailable forms once it reaches the gut. The result is a higher net energy gain per meal.</p>
 
-<p>This surplus energy had far-reaching consequences. With less time needed for foraging and digestion, early humans could allocate more effort to social organization, tool use, and environmental adaptation<sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a>,</sup><sup id="cite-ref12"><a href="#ref12" style="color: var(--global-text-color-light);">12</a></sup>. Over time, this shift paved the way for the evolutionary transition from <i>Homo erectus</i> to <i>Homo sapiens</i>. While <i>Homo erectus</i> showed early signs of intelligence, its cognitive development was constrained by its dietetic restraints. The subsequent adoption of cooking removed that constraint, enabling the trajectory of its descendants to sustain further increases in brain size and function<sup id="cite-ref1"><a href="#ref1" style="color: var(--global-text-color-light);">1</a>,</sup><sup id="cite-ref4"><a href="#ref4" style="color: var(--global-text-color-light);">4</a>,</sup><sup id="cite-ref8"><a href="#ref8" style="color: var(--global-text-color-light);">8</a>,</sup><sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a>,</sup><sup id="cite-ref13"><a href="#ref13" style="color: var(--global-text-color-light);">13</a></sup>. This newly acquired advantage allowed us to cascade rapidly from a hunter-gatherer lifestyle to agriculture to industry to computers to AI.</p>
+<p>This surplus energy had far-reaching consequences. With less time needed for foraging and digestion, early humans could allocate more effort to social organization, tool use, and environmental adaptation<sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a>,</sup><sup id="cite-ref12"><a href="#ref12" style="color: var(--global-text-color-light);">12</a></sup>. Over time, this shift paved the way for the evolutionary transition from <i>Homo erectus</i> to <i>Homo sapiens</i>. While <i>Homo erectus</i> showed early signs of intelligence, its cognitive development was constrained by its dietetic restraints. The subsequent adoption of cooking removed that constraint, enabling the trajectory of its descendants, us, to sustain further increases in brain size and function<sup id="cite-ref1"><a href="#ref1" style="color: var(--global-text-color-light);">1</a>,</sup><sup id="cite-ref4"><a href="#ref4" style="color: var(--global-text-color-light);">4</a>,</sup><sup id="cite-ref8"><a href="#ref8" style="color: var(--global-text-color-light);">8</a>,</sup><sup id="cite-ref11"><a href="#ref11" style="color: var(--global-text-color-light);">11</a>,</sup><sup id="cite-ref13"><a href="#ref13" style="color: var(--global-text-color-light);">13</a></sup>. This newly acquired advantage allowed us to cascade rapidly from a hunter-gatherer lifestyle to agriculture to industry to computers to AI.</p>
 
 <p>However, its popularity invites scrutiny, as several authors challenged<sup id="cite-ref14"><a href="#ref14" style="color: var(--global-text-color-light);">14</a>,</sup><sup id="cite-ref15"><a href="#ref15" style="color: var(--global-text-color-light);">15</a></sup>. Still, main proponents of the hypothesis, such as primatologist Richard Wrangham and Suzana Herculano-Houzel herself emphasize that the control of fire, particularly in the context of cooking, likely shaped the trajectory of human life-history, its social behavior, and evolutionary psychology. These ideas are explored in their books <i>Catching Fire: How Cooking Made Us Human</i> (2009)<sup id="cite-ref8"><a href="#ref8" style="color: var(--global-text-color-light);">8</a></sup> and <i>The Human Advantage: A New Understanding of How Our Brain Became Remarkable</i> (2016)<sup id="cite-ref16"><a href="#ref16" style="color: var(--global-text-color-light);">16</a></sup>, respectively. Finally, to come back to the question: <i>What, exactly, makes Homo… sapiens?</i> The answer: <b>we have more neurons in the cerebral cortex than any other animal—and we got them because we cook.</b> No other animal cooks its food. Only humans do. And that’s how we got to become human.</p>
 
@@ -96,5 +158,6 @@ redirect_from:
 <li id="ref34">Marks, S. (2026). <i>Historic rivalries spark fresh tensions in the Horn of Africa.</i> Bloomberg. <a href="https://www.bloomberg.com/news/newsletters/2026-02-20/tensions-rise-in-the-horn-of-africa-as-ethiopia-eritrea-spar" target="_blank">https://www.bloomberg.com/news/newsletters/2026-02-20/tensions-rise-in-the-horn-of-africa-as-ethiopia-eritrea-spar</a> <a href="#cite-ref34" style="color: var(--global-text-color-light);">&#8617;</a></li>
 <li id="ref35">Dava, B. (2026). <i>‘Intentional’: AFP says near-collision with Navy ship an escalation by China.</i> ABS-CBN News. <a href="https://www.abs-cbn.com/news/nation/2026/3/27/-intentional-afp-says-near-collision-with-navy-ship-an-escalation-by-china-1259" target="_blank">https://www.abs-cbn.com/news/nation/2026/3/27/-intentional-afp-says-near-collision-with-navy-ship-an-escalation-by-china-1259</a> <a href="#cite-ref35" style="color: var(--global-text-color-light);">&#8617;</a></li>
 <li id="ref36">United Nations. (1973). <i>Report of the United Nations Conference on the Human Environment, Stockholm, 5–16 June 1972.</i> New York: United Nations. <a href="https://digitallibrary.un.org/record/523249" target="_blank">https://digitallibrary.un.org/record/523249</a> <a href="#cite-ref36" style="color: var(--global-text-color-light);">&#8617;</a></li>
+<li id="ref37">van Ginneken, V., Van Meerveld, A., Verheij, E., & Van Der Greef, J. (2017). On the futile existence of DHA, None of EPA and the predominant role of the triacylglycerols (TGs) in the post mortem human brain: An LCMS study with evolutionary implications. <i>Journal of Bioanalysis & Biomedicine, 9.</i> <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank">https://doi.org/10.4172/1948-593X.1000170</a> <a href="#cite-ref37" style="color: var(--global-text-color-light);">&#8617;</a></li>
 </ol>
 </div>
