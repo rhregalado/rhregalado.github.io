@@ -114,7 +114,7 @@ img {
  
 <figure>
     <a href="https://doi.org/10.1002/ppp3.10553" target="_blank" rel="noreferrer noopener" class="hover-caption">
-    <img src="https://nph.onlinelibrary.wiley.com/cms/asset/2e030cfb-e3dd-42ae-b823-2e69b7ae0332/ppp310553-fig-0001-m.jpg" alt="">
+    <img src="https://www.researchgate.net/publication/382910366/figure/fig1/AS:11431281285394986@1729695127868/Biodiversity-decline-and-global-warming-are-displayed-through-color-variations-as.png" alt="">
  
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
