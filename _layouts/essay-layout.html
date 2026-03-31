@@ -44,7 +44,6 @@ layout: default
     <time datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
     </time>
-  </p>
 
   {% capture page_tags %}{% for tag in page.tags %}{{ tag | downcase }}#{{ tag }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
   {% assign tag_hashes = (page_tags | split: ',' | sort:0) %}
@@ -54,10 +53,10 @@ layout: default
   {% for hash in tag_hashes %}
     {% assign keyValue = hash | split: '#' %}
     {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-    <a href="{{ base_path }}/essay-by-tags/#{{ tag_word | slugify }}" class="page__taxonomy-item" rel="tag" text-decoration:none;">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+    <a href="{{ base_path }}/essay-by-tags/#{{ tag_word | slugify }}" class="page__taxonomy-item" rel="tag" style="text-decoration: none; color: inherit;">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
   {% endfor %}
   </span>
-</p>
+</p></p>
           
       {% endif %}
         </header>
