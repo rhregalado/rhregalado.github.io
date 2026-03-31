@@ -180,7 +180,13 @@ img {
 
 <p>To finally conclude this long, exasperating litany of frustrations, I leave not with further criticism, but with a measure of hope. I point to this <a href="https://www.youtube.com/watch?v=zytRonEetbQ&t=1080" target="_blank">address</a> by President Jakov Milatović of Montenegro at the 80<sup>th</sup> United Nations General Assembly last September 2025. A reminder that even within the same species capable of failure, there are still voices that call for responsibility and a different path forward.</p>
 
-<blockquote>‘Of everything that man erects and builds in his urge for living, nothing is in my eyes better and more valuable than <b>bridges</b>. They are more important than houses, more sacred than temples. For they belong to all and are equal for everyone.’ Bridges are not only structures of stone but structures of peace. It is a dialogue that builds bridges. It is only through bridges that nations can work towards peace.</blockquote>
+<blockquote>‘Of everything that man erects and builds in his urge for living, nothing is in my eyes better and more valuable than <b>bridges</b>. They are more important than houses, more sacred than temples. For they belong to all and are equal for everyone.’ Bridges are not only structures of stone but structures of peace. It is a dialogue that builds bridges. It is only through bridges that nations can work towards peace.
+  <cite>
+    <strong>Jakov Milatović</strong><br>
+    80th UN General Assembly, 2025
+  </cite> 
+</blockquote>
+
 <p><i>Pax vobiscum</i> and Happy Easter!</p>
 <br><br>
  
