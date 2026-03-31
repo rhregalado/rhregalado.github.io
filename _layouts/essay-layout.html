@@ -46,10 +46,9 @@ layout: default
     </time>
   </p>
 {% endif %}
+        {% include page__taxonomy.html %}
         </header>
       {% endunless %}
-
-      {% include page__taxonomy.html %}
       
       <section class="page__content" itemprop="text">
         {{ content }}
