@@ -46,9 +46,15 @@ layout: default
     </time>
   </p>
   <p class="page__taxonomy">
-  <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> <a href="{{ base_path }}/essay-by-tags/">
-    {{ site.data.ui-text[site.locale].tags_label | default: "Tag:" }}</a></strong>
-  </p>
+  <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} </strong>
+  <span itemprop="keywords">
+  {% for hash in tag_hashes %}
+    {% assign keyValue = hash | split: '#' %}
+    {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+    <a href="{{ base_path }}/essay-by-tags/#{{ tag_word | slugify }}" class="page__taxonomy-item" rel="tag">{{ tag_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+  {% endfor %}
+  </span>
+</p>
 {% endif %}
         </header>
       {% endunless %}
