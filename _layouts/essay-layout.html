@@ -46,6 +46,9 @@ layout: default
     </time>
   </p>
 {% endif %}
+        {% if site.data.ui-text[site.locale].meta_label %}
+        <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
         {% include page__taxonomy.html %}
         </header>
       {% endunless %}
