@@ -47,9 +47,15 @@ layout: default
   </p>
 {% endif %}
 
-        {% include page__taxonomy.html %}
         </header>
       {% endunless %}
+
+        <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        </footer>
       
       <section class="page__content" itemprop="text">
         {{ content }}
