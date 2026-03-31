@@ -182,7 +182,7 @@ img {
 
 <blockquote><p>‘Of everything that man erects and builds in his urge for living, nothing is in my eyes better and more valuable than <b>bridges</b>. They are more important than houses, more sacred than temples. For they belong to all and are equal for everyone.’ Bridges are not only structures of stone but structures of peace. It is a dialogue that builds bridges. It is only through bridges that nations can work towards peace.</p>
   <cite>
-    <strong>Jakov Milatović</strong>, 80th UN General Assembly, 2025
+    <strong>Jakov Milatović</strong><br>80th UN General Assembly, 2025
   </cite> 
 </blockquote>
 
