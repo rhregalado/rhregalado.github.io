@@ -171,7 +171,7 @@ img {
   </figcaption>
   <br>
 
-<p>And that is why I feel no pride in being human. We possess the superior cognitive tools for foresight—to reflect, to exercise restraint, to anticipate consequences. Yet we choose differently every time. There is a dissonance between what we know and how we act, and it is within this gap that much of my resentment resides. In our hubris, we’re becoming less and less of a <i>Homo sapiens</i> (wise man), and more and more a <i>Homo deus</i> (god human).</p>
+<p>And that is why I feel no pride in being human. We possess the superior cognitive tools for foresight—to reflect, to exercise restraint, to anticipate consequences. Yet we choose differently every time, and for worse. There is a dissonance between what we know and how we act, and it is within this gap that much of my resentment resides. In our hubris, we’re becoming less and less of a <i>Homo sapiens</i> (wise man), and more and more a <i>Homo deus</i> (god human).</p>
  
 <h2>Concluding remarks</h2>
 <p>To say I am not proud to be human, is not nihilism but confrontation. It is my attempt at naming the contradiction at the heart of our species: that we are capable of profound insight and compassion, yet remain equally capable of apathy and destruction. Until that contradiction is meaningfully reconciled, pride feels premature—perhaps even undeserved.</p>
