@@ -186,7 +186,7 @@ img {
   </cite> 
 </blockquote>
 
-<p>Happy Easter! <i>Pax!</i> 🐣</p>
+<p>Happy Easter! Peace be upon us. 🐣</p>
 <br><br>
  
 <hr class="solid" style="border-top: 1px solid gainsboro">
