@@ -8,17 +8,7 @@ author_profile: true
 {% include base_path %}
 {% include group-by-array collection=site.essays field="tags" %}
 
-{% if group_names and group_names.size > 0 %}
-<nav class="toc">
-  <h2>Table of Contents</h2>
-  <ul>
-    {% assign sorted_tags = group_names | sort %}
-    {% for tag in sorted_tags %}
-      <li><a href="#{{ tag | slugify }}">{{ tag }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
-{% endif %}
+{% include toc %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] | sort: "date" | reverse %}
