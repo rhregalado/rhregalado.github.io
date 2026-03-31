@@ -40,7 +40,7 @@ layout: default
   <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
 {% elsif page.date %}
 <p class="page__meta-inline" style="font-size:0.8em;">
-  <span class="page__date">
+  <span class="page__date" style="margin-right: 1rem;">
     <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Posted:</strong>
     <time datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}
