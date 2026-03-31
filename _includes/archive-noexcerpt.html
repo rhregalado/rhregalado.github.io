@@ -43,7 +43,7 @@
 {% elsif post.collection == 'publications' %}
   <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 {% elsif post.date and hide_date != true %}
-  <p class="page__date">
+  <p class="page__date" style="font-size:0.8em;">
     <strong>
       <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Posted:</strong>
     <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
