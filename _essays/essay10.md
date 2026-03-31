@@ -2,7 +2,7 @@
 title: "What Makes <i>Homo</i> Truly <i>Sapiens</i>?: Notes on Human Exceptionalism and Existentialism"
 date: 2026-03-30
 permalink: /essays/what-makes-homo-truly-sapiens
-excerpt: '<b>[PERSPECTIVE]</b> My essay today is a critique of humanity—of our species, <i>Homo sapiens</i>, as a collective. This reflection has been long in the making. For years, I dismissed these thoughts as maybe just a passing phase, born out of the eccentricity of my then adolescent mind, perhaps even a product of overthinking. I assumed that, with time, fresh perspectives would shift them into something more charitable. Yet, the resentment and frustrations I held for ourselves only deepened in ways that bypass the rational mind and lingers beneath attempts at optimism. Here’s what I think: I am not proud to be human.'
+excerpt: '<b>[PERSPECTIVE]</b> My essay today is a critique of humanity—of our species, <i>Homo sapiens</i>, as a collective. This reflection has been long in the making. For years, I dismissed these thoughts as maybe just a passing phase, born out of the eccentricity of my then adolescent mind, perhaps even a product of overthinking. I assumed that, with time, fresh perspectives would shift them into something more charitable. Yet, the resentment and frustrations I held for ourselves only deepened as time goes in ways that bypass the rational mind and lingers beneath attempts at optimism. Here’s what I think: I am not proud to be human.'
 redirect_from: 
   - /blog/new
 ---
