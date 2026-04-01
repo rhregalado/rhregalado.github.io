@@ -113,9 +113,9 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
 <li>Martin, M. A., & Lippert, A. M. (2012). Feeding her children, but risking her health: the intersection of gender, household food insecurity and obesity. <i>Social Science & Medicine</i>, 74(11), 1754-1764.</li>
 <li>Yajnik, C. S. (2024). Early life origins of the epidemic of the double burden of malnutrition: life can only be understood backwards. <i>The Lancet Regional Health-Southeast Asia</i>, 28, 100453.</li>
 </ol>
-</div>
-</div>
 
-><h6><i>NOTE:</i> This essay was submitted in partial fulfillment of the requirements for MBB 225 (Advanced Molecular Physiology), on the topic <i>Energy Regulation and Weight Control: The Paradox between Obesity and Poverty</i>, during the second semester of AY 2021–2022.</h6>
+<br><b>Disclaimer:</b> The views expressed in this essay are solely my own and do not reflect those of any institutions I am affiliated with.
+</div>
+</div>
 
 {% include comments-providers/disqus.html %}
