@@ -165,4 +165,7 @@ Examples of female-female huddling positions during a homosexual consort observe
   <li id="ref17">Böhm, P. M., Pflüger, L. S., Pink, K. E., Huffman, M. A., &amp; Wallner, B. (2024). Intense body contact increases homosexual pair bond stability in female Japanese macaques (<i>Macaca fuscata</i>). <i>Archives of Sexual Behavior</i>, 53(5), 1653–1665. <a href="https://doi.org/10.1007/s10508-023-02781-6" target="_blank">https://doi.org/10.1007/s10508-023-02781-6</a> <a href="#cite-ref17" style="color: var(--global-text-color-light);">&#8617;</a></li>
 </ol>
 
+<br><b>Disclaimer:</b> The views expressed in this essay are solely my own and do not reflect those of any institutions I am affiliated with.
+</div>
+
 {% include comments-providers/disqus.html %}
