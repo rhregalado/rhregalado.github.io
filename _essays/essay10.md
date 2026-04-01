@@ -235,6 +235,8 @@ img {
 <li id="ref37">van Ginneken, V., van Meerveld, A., Verheij, E., & van der Greef, J. (2017). On the futile existence of DHA, none of EPA and the predominant role of the triacylglycerols (TGs) in the post mortem human brain: An LCMS study with evolutionary implications. <i>Journal of Bioanalysis & Biomedicine, 9.</i> <a href="https://doi.org/10.4172/1948-593X.1000170" target="_blank">https://doi.org/10.4172/1948-593X.1000170</a> <a href="#cite-ref37" style="color: var(--global-text-color-light);">&#8617;</a></li>
 <li id="ref38">Brunn, M., Billings, S. A., Birke, J., Brockmüller, S., Nielsen, M. W., Kilian Salas, S., & Oelmann, Y. (2024). On the importance of diversity in ecological research. <i>Plants, People, Planet, 6</i>(6), 1207-1214. <a href="https://doi.org/10.1002/ppp3.10553" target="_blank">https://doi.org/10.1002/ppp3.10553</a> <a href="#cite-ref38" style="color: var(--global-text-color-light);">&#8617;</a></li>
 </ol>
+
+<br><b>Disclaimer:</b> The views expressed in this essay are solely my own and do not reflect those of any institutions I am affiliated with.
 </div>
 
 {% include comments-providers/disqus.html %}
