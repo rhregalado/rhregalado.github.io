@@ -7,6 +7,13 @@ tags:
   - Perspective
 ---
 
+<span style="font-size: 0.8em;">
+  <strong>
+    <i class="fa-solid fa-fw fa-user-group icon-pad-left" aria-hidden="true"></i>
+    A collaboration with: Lorem ipsum
+  </strong>
+</span>
+
 <div style="text-align: justify;">A seemingly contradictory phenomenon of the simultaneous prevalence of obesity and poverty in our population has taken hold across the world. Statistically, 2017 was reported to be the first year in a decade to record an alarming rise in the number of hungry people, according to the United Nations<sup>1</sup>. Along with the rise in hunger, there has also been a continued aggressive rise in obesity<sup>2</sup>. On the surface, this seems to be a highly unusual global phenomenon – an increase in global hunger with a simultaneous increase in global obesity. However, what is remarkable and counterintuitive is that the contradictory concepts between obesity and poverty can actually coexist within the same individual, family, or community; and practically a reality that is difficult to disentangle. Thus, it begs the question: <i>how come we are both?</i>
 
 <h2>Food insecurity, hunger and urbanization as essential dimensions to this paradox</h2>
