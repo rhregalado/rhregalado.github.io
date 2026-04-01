@@ -9,7 +9,7 @@ tags:
 
 <span style="font-size: 0.8em;">
   <strong>
-    <i class="fa-solid fa-fw fa-user-group icon-pad-right" aria-hidden="true"></i>
+    <i class="fa-solid fa-fw fa-user-pen" aria-hidden="true"></i> 
     Co-written with:
   </strong>
     Lorem ipsum
