@@ -13,7 +13,7 @@ tags:
     <i class="fa-solid fa-fw fa-user-pen" aria-hidden="true"></i> 
     Written with:
   </strong>
-  <a href="#author-bio" style="text-decoration: none; color: inherit;">
+  <a href="#author-bio" style="text-decoration: underline; color: inherit;">
     Lorem ipsum
   </a>
 </span>
@@ -106,10 +106,20 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <p id="author-bio">
   Lorem ipsum, 28, is lorem ipsum lorem ipsum lorem ipsum. Lorem ipsum, lorem ipsum.
-    <a href="https://instagram.com/ricryanxd" target="_blank" rel="noopener noreferrer" style="margin-left: 6px; color: inherit;">
+
+  <a href="https://instagram.com/ricryanxd"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Instagram"
+     style="margin-left: 6px; color: inherit; text-decoration: none;">
     <i class="fa-brands fa-fw fa-instagram" aria-hidden="true"></i>
   </a>
-  <a href="https://x.com/ricryanxd" target="_blank" rel="noopener noreferrer" style="margin-left: 6px; color: inherit;">
+
+  <a href="https://x.com/ricryanxd"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="X (formerly Twitter)"
+     style="margin-left: 3px; color: inherit; text-decoration: none;">
     <i class="fa-brands fa-fw fa-x-twitter" aria-hidden="true"></i>
   </a>
 </p>
