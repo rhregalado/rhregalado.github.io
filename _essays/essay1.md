@@ -104,22 +104,22 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
 
 <br><br>
 <hr class="solid" style="border-top: 1px solid gainsboro">
-<p id="author-bio">
+<p id="author-bio" style="font-size: 0.9em;">
   Lorem ipsum, 28, is lorem ipsum lorem ipsum lorem ipsum. Lorem ipsum, lorem ipsum.
 
   <a href="https://instagram.com/ricryanxd"
      target="_blank"
      rel="noopener noreferrer"
-     aria-label="Instagram"
-     style="margin-left: 6px; color: inherit; text-decoration: none;">
+     title="Instagram"
+     style="margin-left: 4px; color: inherit; text-decoration: none;">
     <i class="fa-brands fa-fw fa-instagram" aria-hidden="true"></i>
   </a>
 
   <a href="https://x.com/ricryanxd"
      target="_blank"
      rel="noopener noreferrer"
-     aria-label="X (formerly Twitter)"
-     style="margin-left: 3px; color: inherit; text-decoration: none;">
+     title="X (formerly Twitter)"
+     style="margin-left: 1px; color: inherit; text-decoration: none;">
     <i class="fa-brands fa-fw fa-x-twitter" aria-hidden="true"></i>
   </a>
 </p>
