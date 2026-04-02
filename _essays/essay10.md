@@ -191,7 +191,6 @@ img {
 <p>Happy Easter! Peace be upon us. 🕊️</p>
 <br><br>
  
-<hr class="solid" style="border-top: 1px solid gainsboro">
 <div style="font-size: 0.8em; text-align: justify;">
 <strong>Literatures cited:</strong>
  
