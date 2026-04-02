@@ -7,15 +7,17 @@ tags:
   - Perspective
 ---
 
-<!--
+
 <span style="font-size: 0.8em;">
   <strong>
     <i class="fa-solid fa-fw fa-user-pen" aria-hidden="true"></i> 
-    Co-written with:
+    Written with:
   </strong>
+  <a href="#author-bio" style="text-decoration: none; color: inherit;">
     Lorem ipsum
+  </a>
 </span>
--->
+
 
 <div style="text-align: justify;">A seemingly contradictory phenomenon of the simultaneous prevalence of obesity and poverty in our population has taken hold across the world. Statistically, 2017 was reported to be the first year in a decade to record an alarming rise in the number of hungry people, according to the United Nations<sup>1</sup>. Along with the rise in hunger, there has also been a continued aggressive rise in obesity<sup>2</sup>. On the surface, this seems to be a highly unusual global phenomenon – an increase in global hunger with a simultaneous increase in global obesity. However, what is remarkable and counterintuitive is that the contradictory concepts between obesity and poverty can actually coexist within the same individual, family, or community; and practically a reality that is difficult to disentangle. Thus, it begs the question: <i>how come we are both?</i>
 
@@ -98,10 +100,26 @@ Although it is true that there is an endogenous programming deep within our biol
 
 Finally, on a more personal note, I wish to touch more on the cultural influences of obesity such as the increasing preference to ready-to-eat foods like canned goods, instant noodles, instant 3-in-1 coffees, processed meats, microwave-ready meals, and carbonated drinks. Filipinos, in particular, are massively drawn to these so-called “ultra-processed food revolution” due to its inherent cheapness and convenience. Its increasing penetration to our family tables has completely changed on how we perceive the traditional, fresh, slow-cooked meals, especially among children and adolescents. Hence, this encourages a diet that normalizes consumption of preservative-laden, high caloric foods in place of fresh and organic ingredients, that are most often than not just within the reach of our own backyards. Thus, it goes without saying that a household that can recognize the factors that underlie obesity and make healthy eating choices is one step closer to avoiding the double burden of malnutrition and ending the vicious cycle of this paradox.<br><br>
 
-(Q.C., 05/2022)<br><br><br>
+(Q.C., 05/2022)
 
-<div style="font-size: 0.8em;">
-<b>Literatures cited:</b>
+<br><br>
+<hr class="solid" style="border-top: 1px solid gainsboro">
+<p id="author-bio">
+  Lorem ipsum, 28, is lorem ipsum lorem ipsum lorem ipsum. Lorem ipsum, lorem ipsum.
+    <a href="https://instagram.com/ricryanxd" target="_blank" rel="noopener noreferrer" style="margin-left: 6px; color: inherit;">
+    <i class="fa-brands fa-fw fa-instagram" aria-hidden="true"></i>
+  </a>
+  <a href="https://x.com/ricryanxd" target="_blank" rel="noopener noreferrer" style="margin-left: 6px; color: inherit;">
+    <i class="fa-brands fa-fw fa-x-twitter" aria-hidden="true"></i>
+  </a>
+</p>
+<hr class="solid" style="border-top: 1px solid gainsboro">
+<br><br>
+
+<hr class="solid" style="border-top: 1px solid gainsboro">
+<div style="font-size: 0.8em; text-align: justify;">
+<strong>Literatures cited:</strong>
+  
 <ol>
 <li>United Nations. (2018). Hunger reached ‘alarming’ ten-year high in 2017, according to latest UN report. Retrieved May 2022, from UN News: <a href="https://news.un.org/en/story/2018/09/1019002">https://news.un.org/en/story/2018/09/1019002</a></li>
 <li>Cadegiani, F. A., Diniz, G. C., & Alves, G. (2017). Aggressive clinical approach to obesity improves metabolic and clinical outcomes and can prevent bariatric surgery: a single center experience. <i>BMC Obesity</i>, 4(1), 1-18.</li>
