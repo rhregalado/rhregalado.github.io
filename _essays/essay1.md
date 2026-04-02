@@ -13,7 +13,7 @@ tags:
     <i class="fa-solid fa-fw fa-user-pen" aria-hidden="true"></i> 
     Written with:
   </strong>
-  <a href="#author-bio" style="text-decoration: underline; color: inherit;">
+  <a href="#author-bio" style="color: inherit;">
     Lorem ipsum
   </a>
 </span>
@@ -119,12 +119,12 @@ Finally, on a more personal note, I wish to touch more on the cultural influence
      target="_blank"
      rel="noopener noreferrer"
      title="X (formerly Twitter)"
-     style="margin-left: 1px; color: inherit; text-decoration: none;">
+     style="color: inherit; text-decoration: none;">
     <i class="fa-brands fa-fw fa-x-twitter" aria-hidden="true"></i>
   </a>
 </p>
 <hr class="solid" style="border-top: 1px solid gainsboro">
-<br><br>
+<br>
 
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <div style="font-size: 0.8em; text-align: justify;">
