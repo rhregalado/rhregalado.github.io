@@ -109,7 +109,7 @@ tags:
 
 <p>In retrospect, the world can take so much from us. But a poem, once it gets inside of you, it belongs to you completely. If I were to define poetry, I’d say it is a selfless act of a poet carving out a piece of their soul onto a page, leaving it there to live forever. That’s why a poem written 700 years ago can still reach to us and unravel our souls. So, here’s an assignment for you: learn at least one poetry by heart, so it can visit you anytime you need it. And again, it’s totally okay if you don’t get it right away! Art is art. There’s no right or wrong way to experience it.</p><br>
 
-<p>Do you have a favorite poetry you'd like to share? I’d love to hear about it. Send it my way through <a href="mailto:{{ author.email }}">email</a>, and it just might find a home in the next blog! Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and nourish you inside like a bowl of hot chicken soup.</p><br>
+<p>Do you have a favorite poetry you'd like to share? I’d love to hear about it. Send it my way through <a href="mailto:{{ author.email }}">email</a> or in the comment box below, and it just might find a home in the next blog! Here are other poems that I picked up along the way. I hope these inspire you to read more poetry and nourish you inside like a bowl of hot chicken soup.</p><br>
 
 <blockquote style="color:var(--global-text-color-light); font-style: italic; font-weight: bold; font-family: 'Playfair Display', serif;">
 I know a place where the sun is like gold,<br>
@@ -274,3 +274,5 @@ If you work, if you wait, you will find the place<br>
 
 <p>(Nabua, 02/2026)</p>
 </div>
+
+{% include comments-providers/disqus.html %}
