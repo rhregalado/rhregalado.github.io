@@ -236,7 +236,7 @@ img {
 <li id="ref38">Brunn, M., Billings, S. A., Birke, J., Brockmüller, S., Nielsen, M. W., Kilian Salas, S., & Oelmann, Y. (2024). On the importance of diversity in ecological research. <i>Plants, People, Planet, 6</i>(6), 1207-1214. <a href="https://doi.org/10.1002/ppp3.10553" target="_blank">https://doi.org/10.1002/ppp3.10553</a> <a href="#cite-ref38" style="color: var(--global-text-color-light);">&#8617;</a></li>
 </ol>
 
-<br><b>Disclaimer:</b> The views expressed in this essay are solely my own and do not reflect those of any institutions I am affiliated with.
+<p><b>Disclaimer:</b> The views expressed in this essay are solely my own and do not reflect those of any institutions I am affiliated with.</p>
 </div>
 
 {% include comments-providers/disqus.html %}
