@@ -81,7 +81,7 @@ img {
  
 </style>
   <figcaption>
-  <b><i>Human evolution based on skull endocasts of fossil archaic primates and early hominids.</i></b> Note how beginning about 1.7 million years ago, the brains of our ancestors began growing steadily, tripling in size over the next 1.5 million years<sup id="cite-ref37"><a href="#ref37" style="color: var(--global-text-color-light);">37</a></sup>. In reference, evidence for controlled fire-making is suggested by ~1.0-0.8 million years ago, overlapping with the emergence of the <i>Homo erectus</i><sup id="cite-ref38"><a href="#ref38" style="color: var(--global-text-color-light);">38</a></sup>.
+  <b><i>Human evolution based on skull endocasts of fossil archaic primates and early hominids.</i></b> Note how beginning about 1.7 million years ago, the brains of our ancestors began growing steadily, tripling in size over the next 1.5 million years<sup id="cite-ref37"><a href="#ref37" style="color: var(--global-text-color-light);">37</a></sup>. For reference, evidence for controlled fire-making is suggested by ~1.0-0.8 million years ago, overlapping with the emergence of the <i>Homo erectus</i><sup id="cite-ref38"><a href="#ref38" style="color: var(--global-text-color-light);">38</a></sup>.
   </figcaption>
   <br>
  
