@@ -9,7 +9,7 @@ tags:
 
 <div style="text-align: justify;">
 
-<p>It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, we had moved as one unit. Being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.</p>
+<p>It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.</p>
 
 <p>This time, though, the universe (disguised as our favorite professor, Ma’am Jazz) had other plans in what seemed to be a clean, fair, strategic classroom shuffle. She would be the architect of the groupings, not us. She announced it with a gentle firmness that left no room for negotiation, bargaining, nor mercy. So, when the groupings were revealed and our names landed elsewhere, the separation felt… mildly unsettling. This plot twist didn’t just rattle our own little circle, it also sent seismic events throughout every tight-knit friendships in class. All friend groups would be scattered and comfort zones shaken loose.</p>
 
