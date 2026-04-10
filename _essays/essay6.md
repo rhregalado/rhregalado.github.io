@@ -37,7 +37,7 @@ tags:
 
 <p>As you see, many scientists felt compelled to attach or embellish all sorts of value-laden labels to same-sex behavior, as if their contempt weren’t derogatory enough. My main point is this, same-sex behavior has been observed in over a thousand species. <strong>Homophobia has only been observed in one:</strong> humans.</p>
 
-<h2>The unnecessary discomfort we assign to the “unnatural” nature</h2>
+<h2>Our unnatural idea of the “unnatural”</h2>
 
 <p>If it’s not yet obvious from the examples above, both homosexual and heterosexual behaviors are documented across a broad range of species, often emerging side-by-side within the same populations. This consistent, almost widespread, pattern across taxa demonstrates that same-sex behavior is a stable and recurring component of animal biology rather than an anomaly or aberration. Current theoretical work further indicates that displaying both types of behavior are likely to be more common than those showing strictly heterosexual interactions<sup id="cite-ref1"><a href="#ref1" style="color: var(--global-text-color-light);">1</a></sup>, suggesting that strict heterosexuality is the exception rather than the rule in nature. Taken together, the evidence establishes same-sex behavior as an integral and <strong>natural part</strong> of the behavioral landscape of many animals, humans included. Assertions to the contrary stand at odds with what the biological record already makes clear.</p>
 
@@ -125,7 +125,7 @@ img {
 Examples of female-female huddling positions during a homosexual consort observed in japanese macaques <em>(Macaca fuscata)</em><sup id="cite-ref17"><a href="#ref17" style="color: var(--global-text-color-light);">17</a></sup>.
   </figcaption>
 
-<h2>Concluding remarks</h2>
+<h2>Homophobia is the anomaly, not the gays</h2>
 
 <p>It is entirely theoretically possible, though, that all 1,500 of those animal species are profoundly homophobic, we just don’t have the means to interpret them as homophobia. Or, more likely, they simply don’t care. We humans just love our labels. Sometimes a lioness is just a lioness… no other identities required, no affirmations needed. And, yes, we do have many ways now to observe animal social interaction <em>in natura</em>, and it’s clear that homosexuality is not seen as unusual by animals.</p>
 
