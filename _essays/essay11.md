@@ -83,7 +83,7 @@ img {
 
 <p>Monday, April 6, was the day the entire mission was planned for. But for all the scientific milestones that the crew accomplished during their lunar flyby, the moment that stood out the most was a deeply human one. The Artemis II crew were given the chance to name craters on the Moon. They named one “Carroll,” for mission commander Reid Wiseman’s wife, who died of cancer in 2020. If anyone has ever quite literally given the Moon to someone they love, Wiseman did it! The farthest anyone has ever gone to say “I still love you.” And I’m just starting to realize how much I badly needed to see four romantic poets circling a cold floating rock.</p>
 
-<p>How reviving it is to be in awe again. I may have been born too late for Apollo, but I am just on time for Artemis! We all are.</p>
+<p>How reviving it is to be in awe again. My inner child overflows with it. I may have been born too late for Apollo, but I am just on time for Artemis! We all are.</p>
 
 <figure>
     <a href="https://www.nasa.gov/gallery/journey-to-the-moon/" target="_blank" rel="noreferrer noopener" class="hover-caption">
