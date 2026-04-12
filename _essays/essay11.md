@@ -156,7 +156,7 @@ Koch upon regaining communication stated, <b>“We will always choose Earth, we 
 <p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: “Moon joy.” NASA defined it as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
 
 <figure>
-    <a href="https://www.nasa.gov/gallery/lunar-flyby/">
+    <a href="https://www.nasa.gov/gallery/lunar-flyby/" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg" alt="">
  
     <!-- hover caption (inside image area) -->
