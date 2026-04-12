@@ -151,7 +151,7 @@ img {
 <p>Aboard the Orion spacecraft—named <i>Integrity</i>—the Artemis crew have done an amazing job in describing their journey with remarkable honesty and vulnerability, at times sharing long, almost poetic messages with Mission Control. One particular instance was the heartwarming exchange between mission specialist Christina Koch and Jenni Gibbons from Mission Control:</p>
 
 <blockquote>
-Koch upon regaining communication stated, <b>“We will always choose Earth, we will always choose each other”</b> and Gibbons responding from Mission Control replied, <b>“Integrity, from Earth, our single system, fragile and interconnected, we copy.”</b>
+Koch upon regaining communication stated, <b>‘We will always choose Earth, we will always choose each other.’</b> and Gibbons responding from Mission Control replied, <b>‘Integrity, from Earth, our single system, fragile and interconnected, we copy.’</b>
 </blockquote>
 
 <p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as <a href="https://x.com/NASA/status/2042467865421402588?s=20" target="_blank">defining it</a> as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
