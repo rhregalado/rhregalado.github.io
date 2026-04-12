@@ -151,10 +151,75 @@ img {
 <p>Aboard the Orion spacecraft—named <i>Integrity</i>—the Artemis crew have done an amazing job in describing their journey with remarkable honesty and vulnerability, at times sharing long, almost poetic messages with Mission Control. One particular instance was the heartwarming exchange between mission specialist Christina Koch and Jenni Gibbons from Mission Control:</p>
 
 <blockquote>
-Koch upon regaining communication stated, <b>“We will always choose Earth, we will always choose each other”</b> and Jenni Gibbons responding from Mission Control replied, <b>“Integrity, from Earth, our single system, fragile and interconnected, we copy.”</b>
+Koch upon regaining communication stated, <b>“We will always choose Earth, we will always choose each other”</b> and Gibbons responding from Mission Control replied, <b>“Integrity, from Earth, our single system, fragile and interconnected, we copy.”</b>
 </blockquote>
 
 <p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as <a href="https://x.com/NASA/status/2042467865421402588?s=20" target="_blank">defining it</a> as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
+
+<figure>
+    <a href="https://www.nasa.gov/gallery/lunar-flyby/page/2/" target="_blank" rel="noreferrer noopener" class="hover-caption">
+    <img src="https://images-assets.nasa.gov/image/art002e010014/art002e010014~large.jpg">
+ 
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: NASA
+    </div>
+</a>
+</figure>
+<style>
+figure {
+  margin: 0;
+  padding: 0;
+}
+ 
+img {
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+ 
+.hover-caption {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-decoration: none; /* remove underline */
+  color: inherit;        /* keep text color */
+}
+ 
+.hover-caption img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+ 
+.hover-box {
+  position: absolute;
+  bottom: -100%; /* start hidden */
+  left: 0;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+  color: #fff;
+  padding: 10px;
+  font-size: 14px;
+  line-height: 1.4;
+  transition: bottom 0.4s ease;
+  box-sizing: border-box;
+}
+ 
+.hover-caption:hover .hover-box {
+  bottom: 0; /* slides up over the image only */
+}
+ 
+</style>
+  <figcaption>
+    <b>月が綺麗ですね / The moon is beautiful, isn’t it?</b> A bright portion of the Moon is visible in this image. If you look closely, you can see linear, pitted features known as “crater chains” radiating from the Orientale basin, an impact crater with a patch of ancient lava at its center, visible in the bottom center of the image.  <cite>—NASA</cite>
+  </figcaption>
+  <br>
+
+<p>To be reminded of the wonder of the vast, empty space. To make us humble, and perhaps, in that humility, to make us great. To achieve equality and world peace through love. To find the joy in lifting each other up. Seeing Earth from the far side of the Moon puts life and work in perspective. It becomes clear how small we are: a single speck of stardust, a pinprick of candlelight against the great forces that be. The Artemis crew were right: that realization humbles you.</p>
+
+<p>Welcome home, Artemis II. Thank you for the poetry and the glimpse at who we can be—up there and down here. Amaze, amaze, amaze.</p>
 
 <figure>
     <a href="https://www.nasa.gov/gallery/lunar-flyby/" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -215,11 +280,6 @@ img {
   <figcaption>
     <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks—formed when the surface rebounded upward during the impact that created the crater. <cite>—NASA</cite>
   </figcaption>
-  <br>
-
-<p>To be reminded of the wonder of the vast, empty space. To make us humble, and perhaps, in that humility, to make us great. To achieve equality and world peace through love. To find the joy in lifting each other up. Seeing Earth from the far side of the Moon puts life and work in perspective. It becomes clear how small we are: a single speck of stardust, a pinprick of candlelight against the great forces that be. The Artemis crew were right: that realization humbles you.</p>
-
-<p>Welcome home, Artemis II. Thank you for the poetry and the glimpse at who we can be—up there and down here. Amaze, amaze, amaze.</p>
 </div>
 
 {% include comments-providers/disqus.html %}
