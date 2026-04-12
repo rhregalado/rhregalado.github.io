@@ -18,13 +18,20 @@ redirect_from:
 <p>There is, of course, a lingering critique (debatable) that the masculine name “Apollo” was used first, instead of the more appropriate “Artemis,” which could be reflected by the male-dominated ecosystem of the 1960s space program. Nevertheless, our present moment has been promising. What stands out now is how far things have moved, especially in the growing women representation in STEM, and that, in itself, feels like a giant leap for mankind.</p>
 
 <figure>
+  <div class="hover-caption">
     <img src="https://assets.newsweek.com/wp-content/uploads/2026/04/fullimg-7.png" alt="">
  
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
       Image credit: NASA
     </div>
+  </div>
+
+  <figcaption>
+    <b>So many WOMEN.</b> Scientists from Mission Control monitoring the Artemis II and responsible for rapid data interpretation, real-time decision-making, and seamless coordination with the operations teams. This team of women is such a joy to see!
+  </figcaption>
 </figure>
+
 <style>
 figure {
   margin: 0;
@@ -42,8 +49,6 @@ img {
   position: relative;
   display: inline-block;
   overflow: hidden;
-  text-decoration: none; /* remove underline */
-  color: inherit;        /* keep text color */
 }
  
 .hover-caption img {
@@ -54,7 +59,7 @@ img {
  
 .hover-box {
   position: absolute;
-  bottom: -100%; /* start hidden */
+  bottom: -100%;
   left: 0;
   width: 100%;
   background: rgba(0,0,0,0.6);
@@ -67,22 +72,18 @@ img {
 }
  
 .hover-caption:hover .hover-box {
-  bottom: 0; /* slides up over the image only */
+  bottom: 0;
 }
- 
 </style>
-  <figcaption>
-    <b>So many WOMEN.</b> Scientists from Mission Control monitoring the Artemis II and responsible for rapid data interpretation, real-time decision-making, and seamless coordination with the operations teams. This team of women is such a joy to see!
-  </figcaption>
-  <br>
+<br>
 
 <p>Space travel can bring a profound emotional and mental shift on the very few people who are lucky enough to experience it. Seeing Earth as a mere massive, floating rock set against a vast empty backdrop puts life into perspective. And when it comes to the four Artemis II crew aboard the Orion space capsule, they only described their mission in one word: humility.</p>
 
 <p>For Christina Koch, who holds the record for the longest spaceflight by a woman, the moment did not feel “historic.” It felt like humility. Jeremy Hansen put it simply: <i>“Right away, you are humbled. The fact that four of us get to be out here just brings you to your knees.”</i> Meanwhile, Victor Glover, looking back at Earth from 252,000 miles away, said: <i>“You look like one thing. Homo sapiens is all of us.”</i></p>
 
-<p>Monday, April 6, was the day the entire mission was planned for. But for all the scientific milestones that the crew accomplished during their lunar flyby, the moment that stood out the most was a deeply human one. The Artemis II crew were given the chance to name craters on the Moon. They named one “Carroll,” for mission commander Reid Wiseman’s wife, who died of cancer in 2020. If anyone has ever quite literally given the Moon to someone they love, Wiseman did it!</p>
+<p>Monday, April 6, was the day the entire mission was planned for. But for all the scientific milestones that the crew accomplished during their lunar flyby, the moment that stood out the most was a deeply human one. The Artemis II crew were given the chance to name craters on the Moon. They named one “Carroll,” for mission commander Reid Wiseman’s wife, who died of cancer in 2020. If anyone has ever quite literally given the Moon to someone they love, Wiseman did it! I’m just starting to realize how much I badly needed to see four romantic poets circling a cold floating rock.</p>
 
-<p>I’m just starting to realize how much I badly needed to see four romantic poets circling a cold floating rock. And how reviving it is to be in awe again. I may have been born too late for Apollo, but I am just on time for Artemis! We all are.</p>
+<p>How reviving it is to be in awe again. I may have been born too late for Apollo, but I am just on time for Artemis! We all are.</p>
 
 <figure>
     <a href="https://www.nasa.gov/gallery/journey-to-the-moon/" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -157,7 +158,7 @@ Koch upon regaining communication stated, <b>“We will always choose Earth, we 
 
 <figure>
     <a href="https://www.nasa.gov/gallery/lunar-flyby/" target="_blank" rel="noreferrer noopener" class="hover-caption">
-    <img src="https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg" alt="">
+    <img src="https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg">
  
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
