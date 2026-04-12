@@ -81,7 +81,7 @@ img {
 
 <p>For Christina Koch, who holds the record for the longest spaceflight by a woman, the moment did not feel “historic.” It felt humbling. Jeremy Hansen, the first Canadian to reach lunar orbit, simply said: <i>“Right away, you are humbled. The fact that four of us get to be out here just brings you to your knees.”</i> Meanwhile, pilot Victor Glover, the first person of color to orbit the moon, looking back at Earth from 252,000 miles away, said: <i>“You look like one thing. Homo sapiens is all of us.”</i></p>
 
-<p>Monday, April 6, was the day the entire mission was planned for. But for all the scientific milestones that the crew accomplished during their lunar flyby, the moment that stood out the most was a deeply human one. The Artemis II crew were given the chance to name craters on the Moon. They named one “Carroll,” for mission commander Reid Wiseman’s wife, who died of cancer in 2020. If anyone has ever quite literally given the Moon to someone they love, Wiseman did it! And I’m just starting to realize how much I badly needed to see four romantic poets circling a cold floating rock.</p>
+<p>Monday, April 6, was the day the entire mission was planned for. But for all the scientific milestones that the crew accomplished during their lunar flyby, the moment that stood out the most was a deeply human one. The Artemis II crew were given the chance to name craters on the Moon. They named one “Carroll,” for mission commander Reid Wiseman’s wife, who died of cancer in 2020. If anyone has ever quite literally given the Moon to someone they love, Wiseman did it! The farthest anyone has ever gone to say “I still love you.” And I’m just starting to realize how much I badly needed to see four romantic poets circling a cold floating rock.</p>
 
 <p>How reviving it is to be in awe again. I may have been born too late for Apollo, but I am just on time for Artemis! We all are.</p>
 
@@ -154,7 +154,7 @@ img {
 Koch upon regaining communication stated, <b>“We will always choose Earth, we will always choose each other”</b> and Jenni Gibbons responding from Mission Control replied, <b>“Integrity, from Earth, our single system, fragile and interconnected, we copy.”</b>
 </blockquote>
 
-<p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as defining it as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
+<p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as <a href="https://x.com/NASA/status/2042467865421402588?s=20" target="_blank">defining it</a> as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
 
 <figure>
     <a href="https://www.nasa.gov/gallery/lunar-flyby/" target="_blank" rel="noreferrer noopener" class="hover-caption">
