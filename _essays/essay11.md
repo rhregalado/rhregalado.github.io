@@ -141,7 +141,7 @@ img {
  
 </style>
   <figcaption>
-    <b>Hello, World.</b> NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft’s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. <cite>NASA</cite>
+    <b>Hello, World.</b> NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft’s window after completing the translunar injection burn. There are two auroras (top right and bottom left) and zodiacal light (bottom right) is visible as the Earth eclipses the Sun. <cite>—NASA</cite>
   </figcaption>
   <br>
 
@@ -212,13 +212,13 @@ img {
  
 </style>
   <figcaption>
-    <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks—formed when the surface rebounded upward during the impact that created the crater. <cite>NASA</cite>
+    <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks—formed when the surface rebounded upward during the impact that created the crater. <cite>—NASA</cite>
   </figcaption>
   <br>
 
 <p>To be reminded of the wonder of the vast, empty space. To make us humble, and perhaps, in that humility, to make us great. To achieve equality and world peace through love. To find the joy in lifting each other up. Seeing Earth from the far side of the Moon puts life and work in perspective. It becomes clear how small we are: a single speck of stardust, a pinprick of candlelight against the great forces that be. The Artemis crew were right: that realization humbles you.</p>
 
-<p>Welcome home, Artemis II. Thank you for the poetry and the glimpse at who we can be—up there and down here.</p>
+<p>Welcome home, Artemis II. Thank you for the poetry and the glimpse at who we can be—up there and down here. Amaze, amaze, amaze.</p>
 </div>
 
 {% include comments-providers/disqus.html %}
