@@ -77,7 +77,7 @@ img {
 </style>
 <br>
 
-<p>Space travel can bring a profound emotional and mental shift on the very few people who are lucky enough to experience it. Seeing Earth as a mere massive, floating rock set against a vast empty backdrop puts life into perspective. And when it comes to the four Artemis II crew aboard the Orion space capsule, they only described their mission in one word: <b>humility</b>.</p>
+<p>Space travel can bring a profound emotional and mental shift on the very few people who are lucky enough to experience it. Seeing Earth as a mere, massive, floating rock set against a vast, empty backdrop puts life into perspective. And when it comes to the four Artemis II crew aboard the Orion space capsule, they only described their mission in one word: <b>humility</b>.</p>
 
 <p>For Christina Koch, who holds the record for the longest spaceflight by a woman, the moment did not feel “historic.” It felt humbling. Jeremy Hansen, the first Canadian to reach lunar orbit, simply said: <i>“Right away, you are humbled. The fact that four of us get to be out here just brings you to your knees.”</i> Meanwhile, pilot Victor Glover, the first person of color to orbit the moon, looking back at Earth from 252,000 miles away, said: <i>“You look like one thing. Homo sapiens is all of us.”</i></p>
 
