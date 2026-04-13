@@ -217,7 +217,7 @@ img {
   </figcaption>
   <br>
 
-<p>To be reminded of the wonder of the vast, empty space. To make us humble, and perhaps, in that humility, to make us great. To achieve equality and world peace through love. To find the joy in lifting each other up. Seeing Earth from the far side of the Moon puts life and work in perspective pretty quickly. It becomes clear how small we are: a single speck of stardust, a pinprick of candlelight against the great forces that be. The Artemis crew were right: that realization humbles you. Life is short— so live it boldly, love it deeply, leave zero room for ‘what ifs’ and be gentle with the world along the way. How will you be bold today? Claim it. The boldness was always available.</p>
+<p>To be reminded of the wonder of the vast, empty space. To make us humble, and perhaps, in that humility, to make us great. To achieve equality and world peace through love. To find the joy in lifting each other up. Seeing Earth from the far side of the Moon puts life and work in perspective pretty quickly. It becomes clear how small we are: a single speck of stardust, a pinprick of candlelight against the great forces that be. The Artemis crew were right: that realization humbles you. Life is short—so live it boldly, love it deeply, leave zero room for ‘what ifs’ and be gentle with the world along the way. How will you be bold today? Claim it. The boldness was always available.</p>
 
 <p>Welcome home, Artemis II. Thank you for the poetry and the glimpse at who we can be—up there and down here. Amaze, amaze, amaze.</p>
 
