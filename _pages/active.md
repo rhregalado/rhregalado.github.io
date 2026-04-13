@@ -12,7 +12,7 @@ author_profile: true
   <i class="fa-solid fa-fw fa-book icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Book Chapter 
   <i class="fa-solid fa-fw fa-bullhorn icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Announcement 
 </div>
-<hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 40px;">
+<hr class="solid" style="border-top: 1px solid gainsboro">
 
 <h1 style="color: var(--global-link-color); font-size: 1.4em;">Under Review</h1>
 <h2><i class="fa-solid fa-fw fa-chart-pie" aria-hidden="true"></i> Electrokinetic in situ leaching of mine tailings with citric acid extracts copper and restructures the microbiome in a microcosm</h2>
