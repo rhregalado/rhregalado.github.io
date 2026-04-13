@@ -146,7 +146,7 @@ img {
   </figcaption>
   <br>
 
-<p>If you were crying while watching the Artemis II “splashdown and return” livestream Saturday morning (PHST), that’s okay. I was crying! It turned into an unexpectedly emotional weekend, taking it all in as it unfolded. There’s something about the cooperative humanity, the breathtaking photographs of the Moon and Earth, the mind-altering reflections from the Artemis crew, and the weight of having a record breaking space travel, sinking into your soul all at once. It was so life-affirmingly wonderful, in a time where everything is so bleak. It was a beautiful moment for humanity, and they are the moment!</p>
+<p>If you were crying while watching the Artemis II “splashdown and return” <a href="https://www.youtube.com/live/nfhDuOHMp0A?si=UtFTcOs7-m9vmXtQ" target="_blank">livestream</a> Saturday morning (PHST), that’s okay. I was crying! It turned into an unexpectedly emotional weekend, taking it all in as it unfolded. There’s something about the cooperative humanity, the breathtaking photographs of the Moon and Earth, the mind-altering reflections from the Artemis crew, and the weight of having a record breaking space travel, sinking into your soul all at once. It was so life-affirmingly wonderful, in a time where everything is so bleak. It was a beautiful moment for humanity, and they are the moment!</p>
 
 <p>Aboard the Orion spacecraft—named <i>Integrity</i>—the Artemis crew have done an amazing job in describing their journey with remarkable honesty and vulnerability, at times sharing long, almost poetic messages with Mission Control. One particular instance was the heartwarming exchange between mission specialist Christina Koch and Jenni Gibbons from Mission Control:</p>
 
@@ -154,7 +154,7 @@ img {
 Koch upon regaining communication stated, <b>‘We will always choose Earth, we will always choose each other.’</b> and Gibbons responding from Mission Control replied, <b>‘Integrity, from Earth, our single system, fragile and interconnected, we copy.’</b>
 </blockquote>
 
-<p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as <a href="https://x.com/NASA/status/2042467865421402588?s=20" target="_blank">defining it</a> as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.”</i> There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
+<p>Yet for all the warmth of this exchange, a much simpler phrase from mission control had become the words by which the mission is remembered: <b>Moon joy</b>. NASA went as far as defining it in a <a href="https://x.com/NASA/status/2042467865421402588?s=20" target="_blank">tweet</a> as “(n.) <i>the feeling of intense happiness and excitement that only comes from a mission to the Moon.</i>” There is something fitting about the brevity and purity of this term that resonates well to all of us, even to those of us who know the Moon only through photographs or by looking up at it in the night sky.</p>
 
 <figure>
     <a href="https://www.nasa.gov/gallery/lunar-flyby/page/2/" target="_blank" rel="noreferrer noopener" class="hover-caption">
@@ -278,7 +278,7 @@ img {
  
 </style>
   <figcaption>
-    <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks—formed when the surface rebounded upward during the impact that created the crater. <cite>—NASA</cite>
+    <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks. <cite>—NASA</cite>
   </figcaption>
 </div>
 
