@@ -5,7 +5,13 @@ permalink: /active/
 author_profile: true
 ---
 
-<div style="font-size: 0.75em;"><b>Types:</b> <i class="fa-solid fa-fw fa-chart-pie" aria-hidden="true"></i> Primary Article  <i class="fa-solid fa-fw fa-newspaper icon-pad-left" aria-hidden="true"></i> Review Article  <i class="fa-solid fa-fw fa-book icon-pad-left" aria-hidden="true"></i> Book Chapter <i class="fa-solid fa-bullhorn icon-pad-left" aria-hidden="true"></i> Announcement</div>
+<div style="font-size: 0.75em;">
+  <strong>Types:</strong>
+  <i class="fa-solid fa-fw fa-chart-pie" aria-hidden="true"></i> Primary Article 
+  <i class="fa-solid fa-fw fa-newspaper icon-pad-left" aria-hidden="true"></i> Review Article 
+  <i class="fa-solid fa-fw fa-book icon-pad-left" aria-hidden="true"></i> Book Chapter 
+  <i class="fa-solid fa-fw fa-bullhorn icon-pad-left" aria-hidden="true"></i> Announcement 
+</div>
 <hr class="solid" style="border-top: 1px solid gainsboro; margin-bottom: 40px;">
 
 <h1 style="color: var(--global-link-color); font-size: 1.4em;">Under Review</h1>
