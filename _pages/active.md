@@ -8,7 +8,7 @@ author_profile: true
 <div style="font-size: 0.75em;">
   <strong>Types:</strong>
   <i class="fa-solid fa-fw fa-chart-pie" aria-hidden="true"></i> Primary Article 
-  <i class="fa-regular fa-fw fa-newspaper icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Review Article 
+  <i class="fa-solid fa-fw fa-newspaper icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Review Article 
   <i class="fa-solid fa-fw fa-book icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Book Chapter 
   <i class="fa-solid fa-fw fa-bullhorn icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Announcement 
 </div>
