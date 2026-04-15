@@ -39,6 +39,7 @@ tags:
 <i>My labmates with our amazing PI, Doc Jay.</i><br>
 TOX’ end-of-semester dinner, December 2024.
   </figcaption>
+</figure>
 
 <style>
 figure {
