@@ -2,12 +2,12 @@
 title: "Maria: An Ode by the Mountains"
 date: 2018-11-28
 permalink: /essays/maria
-excerpt: '<b>[POETRY]</b> Sharing this four-part poem I wrote years ago after visiting a place so vivid and pure it stole my heart in an instant. One moment I was simply gazing at a mountain peak, breathing in the stillness, and the next, my hands were furiously scribbling words I didn’t even know I had in me. I stared at them for a long while before it hit me—that I think I’d made poetry. I tucked it away and forgot about it. But now there’s this person, and as I read it again, I can’t help but wonder; maybe it was for him all along...'
+excerpt: '<span style="font-family: 'Playfair Display', serif;"><em>Poetry</em></span> Sharing this four-part poem I wrote years ago after visiting a place so vivid and pure it stole my heart in an instant. One moment I was simply gazing at a mountain peak, breathing in the stillness, and the next, my hands were furiously scribbling words I didn’t even know I had in me. I stared at them for a long while before it hit me—that I think I’d made poetry. I tucked it away and forgot about it. But now there’s this person, and as I read it again, I can’t help but wonder; maybe it was for them all along...'
 tags:
   - Poetry
 ---
 
-<div style="text-align: justify;">Sharing this four-part poem I wrote years ago after visiting a place so vivid and pure it stole my heart in an instant. One moment I was simply gazing at a mountain peak, breathing in the stillness, and the next, my hands were furiously scribbling words I didn’t even know I had in me. I stared at them for a long while before it hit me—that I think I’d made poetry. I tucked it away and forgot about it. But now there’s this person, and as I read it again, I can’t help but wonder; maybe it was for him all along...</div>
+<div style="text-align: justify;">Sharing this four-part poem I wrote years ago after visiting a place so vivid and pure it stole my heart in an instant. One moment I was simply gazing at a mountain peak, breathing in the stillness, and the next, my hands were furiously scribbling words I didn’t even know I had in me. I stared at them for a long while before it hit me—that I think I’d made poetry. I tucked it away and forgot about it. But now there’s this person, and as I read it again, I can’t help but wonder; maybe it was for them all along...</div>
 
 <h2>Part 1: Encounters and Longings</h2>
 
