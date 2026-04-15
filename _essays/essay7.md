@@ -2,7 +2,7 @@
 title: "Plant a Wildflower, Expect a Garden"
 date: 2025-12-31
 permalink: /essays/plant-a-wildflower-expect-a-garden
-excerpt: '<b>[ESSAY]</b> It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, we had moved as one unit. Being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.'
+excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> It was the second semester of my junior-year in 2016 when, for the first time, I found myself separated from my four closest college barkada for a major group project in BIO19 (Animal Physio). For three full years, we had moved as one unit. Being together was the default. We chose the same classes when we could, sat in familiar clusters during lectures, and navigate every group works side-by-side. Together, we thrived on shared chaos, inside jokes, and haphazard teamwork that somehow worked despite the odds.'
 tags:
   - Essay
 ---
