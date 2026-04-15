@@ -8,7 +8,6 @@ tags:
 ---
 
 <div style="text-align: justify;">
-
 <p>Let me pose a question: is the ability to ask questions considered a skill? And if so, does true skill lie in asking the right ones?</p>
 
 <p>It wasn’t until I reach my post-grad studies that I realized that the true test of learning is not always in what you can remember or memorize, but in the questions you are able to ask about it.</p>
