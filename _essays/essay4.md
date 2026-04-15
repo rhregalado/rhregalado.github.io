@@ -24,43 +24,48 @@ And I am proud to call this my village. It may be small, but a village nonethele
 Luv u, TOX! You were the complete opposite of the word.<br><br>
 
 <figure>
-<img src="/images/tox2024.jpeg">
-  
+  <div class="hover-caption">
+    <img src="/images/tox2024.jpeg">
+ 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
-      Image credit: Zoe Ureta
+      Image credit: Z. Ureta﻿
     </div>
-</figure>
+  </div>
+  
+  <figcaption>
+<i>My labmates with our amazing PI, Doc Jay.</i><br>
+TOX’ end-of-semester dinner, December 2024.
+  </figcaption>
+
 <style>
 figure {
   margin: 0;
   padding: 0;
 }
-
+ 
 img {
   display: block;
   margin: 0;
   padding: 0;
   border: none;
 }
-
+ 
 .hover-caption {
   position: relative;
   display: inline-block;
   overflow: hidden;
-  text-decoration: none; /* remove underline */
-  color: inherit;        /* keep text color */
 }
-
+ 
 .hover-caption img {
   display: block;
   height: auto;
   max-width: 100%;
 }
-
+ 
 .hover-box {
   position: absolute;
-  bottom: -100%; /* start hidden */
+  bottom: -100%;
   left: 0;
   width: 100%;
   background: rgba(0,0,0,0.6);
@@ -71,17 +76,12 @@ img {
   transition: bottom 0.4s ease;
   box-sizing: border-box;
 }
-
+ 
 .hover-caption:hover .hover-box {
-  bottom: 0; /* slides up over the image only */
+  bottom: 0;
 }
-
 </style>
-  <figcaption>
-<i>My labmates with our amazing PI, Doc Jay.</i><br>
-TOX’ end-of-semester dinner, December 2024.
-  </figcaption>
-  <br>
+<br>
 
 (Q.C., 06/2025)
 
