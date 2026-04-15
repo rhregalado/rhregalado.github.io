@@ -8,7 +8,6 @@ tags:
 ---
 
 <div style="text-align: justify;">
-  
 <p><em>“Presumed straight until proven otherwise.”</em> Or,</p>
 <p><em>“Heterosexual until proven guilty.”</em></p>
 <p>Has to be the most unkind, unnecessary, unsolicited remark I’ve ever heard to be thrown in casual conversations; as if sexuality in itself is inherently incriminating.</p>
