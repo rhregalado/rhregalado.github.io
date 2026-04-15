@@ -2,12 +2,13 @@
 title: "Moon capsule. Moon flyby. Moon joy."
 date: 2026-04-12
 permalink: /essays/moon-capsule-moon-flyby-moon-joy
-excerpt: '<b>[ESSAY]</b> Scientists are becoming more and more poetic these days, though I’d like to think they have been for decades. To be granted a front-row seat and become intimate with the natural world itself can bring oneself to be both simultaneously at a loss and profuse for words. In those moments of witnessing its inner workings firsthand, poetry can be a way of giving shape to what resists comprehension. It is a feeling I am becoming familiar with as I slowly find my place in science.'
+excerpt: '<span style="font-family: ''Playfair Display'', serif;"><b>Essay</b></span> Scientists are becoming more and more poetic these days, though I’d like to think they have been for decades. To be granted a front-row seat and become intimate with the natural world itself can bring oneself to be both simultaneously at a loss and profuse for words. In those moments of witnessing its inner workings firsthand, poetry can be a way of giving shape to what resists comprehension. It is a feeling I am becoming familiar with as I slowly find my place in science.'
 tags:
   - Essay
 redirect_from: 
   - /blog/new
 ---
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;1,700&display=swap" rel="stylesheet">
 <div style="text-align: justify;">
 <p>Scientists are becoming more and more poetic these days, though I’d like to think they have been for decades. To be granted a front-row seat and become intimate with the natural world itself can bring oneself to be both simultaneously at a loss and profuse for words. In those moments of witnessing its inner workings firsthand, poetry can be a way of giving shape to what resists comprehension. It is a feeling I am becoming familiar with as I slowly find my place in science.</p>
   
