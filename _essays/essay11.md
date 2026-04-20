@@ -281,5 +281,12 @@ img {
     <b>Earthset/Earthrise.</b> A muted blue Earth with bright white clouds sets behind the cratered lunar surface. The dark portion of Earth is experiencing nighttime. On Earth’s day side, swirling clouds are visible over the Australia and Oceania region. In the foreground, Ohm crater has terraced edges and a flat floor interrupted by central peaks. <cite>—NASA</cite>
   </figcaption>
 </div>
+<br><br>
+
+<hr class="solid" style="border-top: 1px solid gainsboro">
+<div style="font-size: 0.8em; text-align: justify;">
+<p>P.S. If the Artemis II astronauts had their wake-up <a href="https://open.spotify.com/playlist/0WO94bzZeuUun777vv6UJu?si=9496e04859e047ce" target="_blank">playlist</a>, I’ve been curating my own since 2018 for those slow, quiet nights when I just like to admire the moon and the stars. I thought I’d share it with you.</p>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5byH98qKwsT3eiC8vNBLcE?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
 {% include comments-providers/disqus.html %}
