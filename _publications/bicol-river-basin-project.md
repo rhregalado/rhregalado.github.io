@@ -5,7 +5,7 @@ permalink: /publication/bicol-river-basin-project
 excerpt: "During my short stint as a Science Research Assistant back in 2019, I had the privilege of co-authoring a monograph resulting from a research collaboration with the Department of Agriculture Region 5 and DOST-PAGASA. The report provides an in-depth account of our efforts to develop early warning systems aimed at bolstering local agricultural resilience in the Bicol River Basin area, with a particular focus on assisting marginalized agri-fishery communities in coping with the adverse impacts of climate change. Our report offers a shared stakeholders experience in climate and disaster-resilient development and contends that such development is essential in ameliorating extreme poverty and achieving shared climate consciousness. The report draws on selected case studies to showcase promising approaches, lessons learned, and remaining challenges, thereby providing valuable insights and recommendations to stakeholders invested in this agro-watershed area."
 venue: "Partido State University Press"
 date: 2021-05-01
-citation: 'Laureta RP, Regalado RRH, and Baldo DEB. (2021). The Bicol River Basin Project: <i>Development of comprehensive early warning system for agri-fishery communities in the Bicol River Basin</i>. Partido State University Press, Philippines. ISBN 978-971-9911-69-2'
+citation: 'Laureta, R. P., Regalado, R. R. H., & Baldo, D. E. B. (2021). <i>The Bicol River Basin Project: Development of comprehensive early warning system for agri-fishery communities in the Bicol River Basin</i>. Partido State University Press.'
 tags:
   - Climate change
   - Agriculture
