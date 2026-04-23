@@ -5,7 +5,7 @@ permalink: /publication/environmental-mycology-in-the-philippines
 excerpt: "I'm super thrilled to share my very first book chapter co-authorship in this pioneering book reference for Philippine mycology. Our chapter specifically encapsulates the many facets of fungal bioremediation documented in the country, and provides a comprehensive list of isolates that can be utilized for future mycoremediation efforts on plastics, heavy metals, hydrocarbons, and agrochemicals."
 venue: "Mycology in the Tropics: Updates on Philippine Fungi, Academic Press"
 date: 2023-01-01
-citation: 'Guerrero JJG, Malonzo CA, Regalado RRH, and Doloiras-Laraño AD. (2023). Environmental mycology in the Philippines. In: Guerrero JJG, Dalisay TU, De Leon MP, Balendres MAO, Notarte KIR, Dela Cruz TEE (Eds.). <i>Mycology in the Tropics: Updates on Philippine Fungi</i> (pp. 235-268). Academic Press. <a href= "https://doi.org/10.1016/B978-0-323-99489-7.00010-X">doi:10.1016/B978-0-323-99489-7.00010-X</a>'
+citation: 'Guerrero, J. J. G., Malonzo, C. A., Regalado, R. R. H., & Doloiras-Laraño, A. D. (2023). Environmental mycology in the Philippines. In J. J. G. Guerrero, T. U. Dalisay, M. P. De Leon, M. A. O. Balendres, K. I. R. Notarte, & T. E. E. Dela Cruz (Eds.), <i>Mycology in the tropics: Updates on Philippine fungi</i> (pp. 235-268). Academic Press. <a href="https://doi.org/10.1016/B978-0-323-99489-7.00010-X">https://doi.org/10.1016/B978-0-323-99489-7.00010-X</a>'
 tags:
   - Environmental mycology
   - Heavy metals
