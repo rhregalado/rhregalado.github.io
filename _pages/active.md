@@ -10,7 +10,7 @@ author_profile: true
   <i class="fa-solid fa-fw fa-chart-pie" aria-hidden="true"></i> Primary Article 
   <i class="fa-solid fa-fw fa-newspaper icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Review Article 
   <i class="fa-solid fa-fw fa-book icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Book Chapter 
-  <i class="fa-solid fa-fw fa-bullhorn icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Announcement 
+  <i class="fa-solid fa-fw fa-bullhorn icon-pad-left" aria-hidden="true" style="margin-left:0.5em;"></i> Short Communication 
 </div>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
