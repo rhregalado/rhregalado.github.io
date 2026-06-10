@@ -38,7 +38,7 @@ redirect_from:
 <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> You don’t have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity to restrict yourself from food in this time of prayer. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself, and allowing the physical hunger to become part of my spiritual receptivity.</div>
 
   <li>
-    Upon entering the chapel, do so barefoot. Pause at the threshold, then genuflect or perform a full prostration as these are gestures of humility and reverence. While doing this, acknowledge the presence of Jesus by silently saying the words: <em>“Dominus meus et Deus meus”</em>.
+    Upon entering the chapel, do so barefoot. Pause at the threshold, then genuflect or perform a full prostration as these are gestures of humility and reverence. While doing this, acknowledge the presence of Jesus by silently saying the words: <em>“Dominus meus et Deus meus.”</em>
   </li>
 
 <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> <em>Dominus meus et Deus meus</em> translates to “My Lord and my God.” If the Latin form is difficult to remember, the same prayer may be offered using the English form without loss of meaning.</div>
