@@ -130,7 +130,7 @@ img {
   <br>
 
 
-<p>The key takeaway here is to take your time and allow prayer to unfold naturally. Rather than rushing through your list of intentions, enter into an intimate conversation with God, laying bare your heart, your struggles, your hopes, and your deepest desires before Him. In my own practice, prayer typically lasts one to two hours, with most of that time spent in quiet reflection and just basking in the grace His presence. It is within this silence that many of the most meaningful insights emerge.</p>
+<p>The key takeaway here is to take your time and allow prayer to unfold naturally. Rather than rushing through your list of intentions, enter into an intimate conversation with God, laying bare your heart, your struggles, your hopes, and your deepest desires before Him. In my own practice, prayer typically lasts one to two hours, with most of that time spent in quiet reflection and just basking in the grace of His presence. It is within this silence that many of the most meaningful insights emerge.</p>
 
 <p>If there is one lesson I learned from this season of continuous prayer, is perhaps a disarmingly simple lesson of obedience. This is not about mere compliance with rules, but as a willfull surrender to God’s design. As I shared earlier, there are moments when guidance seems to emerge through the quiet whispers of the Holy Spirit, and at other times through deliberate physical signs that speak directly to intentions I have brought to prayer. It is precisely in these moments that obedience finds its expression. It’s important to realize that the value of prayer lies not only in listening, but also in responding.</p>
 
