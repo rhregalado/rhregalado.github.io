@@ -35,7 +35,7 @@ redirect_from:
     Prepare the body for fasting with intention, allowing the transition into prayer to begin even before entering the chapel.
   </li>
 
-<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> You don’t have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity to restrict yourself from food in this time of prayer. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself and allowing the physical hunger to become part of spiritual receptivity.</div>
+<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> You don’t have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity to restrict yourself from food in this time of prayer. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself, and allowing the physical hunger to become part of my spiritual receptivity.</div>
 
   <li>
     Upon entering the chapel, do so barefoot. Pause at the threshold, then genuflect or perform a full prostration as these are gestures of humility and reverence. While doing this, acknowledge the presence of Jesus by silently saying the words: <em>“Dominus meus et Deus meus”</em>.
@@ -147,6 +147,6 @@ img {
 <br><br>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <p style="font-size: 0.9em; font-family: 'Playfair Display', serif;"><strong>
-In tribute to the loving memory of Lolo Cezar. He loved his grandchildren so tenderly. Today is his fortieth day. <em>Requiescat in pace.</em>
+<em>In tribute to the loving memory of Lolo Cezar. He loved his grandchildren so tenderly. Today is his fortieth day. Requiescat in pace.</em>
 </strong></p>
 <hr class="solid" style="border-top: 1px solid gainsboro">
