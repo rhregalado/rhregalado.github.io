@@ -2,7 +2,7 @@
 title: "#PrayerReveal"
 date: 2026-06-15
 permalink: /essays/prayer-reveal
-excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span>'
+excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> I must apologize for not having a blog entry for the month of May. For reasons I cannot fully articulate yet, the previous month had been an intimate spiritual journey for me. It felt as though I had stepped beyond the ordinary procession of days and entered into a suspended state outside the laws of space-time.'
 tags:
   - Essay
 
@@ -34,13 +34,13 @@ tags:
     Prepare the body for fasting with intention, allowing the transition into prayer to begin even before entering the chapel.
   </li>
 
-<div style="font-size: 0.8em;"><strong>Note:</strong>You don't have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself and allowing the physical hunger to become part of spiritual receptivity.</div>
+<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong>You don't have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself and allowing the physical hunger to become part of spiritual receptivity.</div>
 
   <li>
     Upon entering the chapel, do so barefoot. Pause at the threshold, then genuflect or perform a full prostration as these are gestures of humility and reverence. While doing this, acknowledge the presence of Jesus by silently saying the words: <em>"Dominus meus et Deus meus"</em>.
   </li>
 
-<div style="font-size: 0.8em;"><strong>Note:</strong> <em>Dominus meus et Deus meus</em> translates to “My Lord and my God.” If the Latin form is difficult to remember, the same prayer may be offered in English without loss of meaning. </div>
+<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> <em>Dominus meus et Deus meus</em> translates to “My Lord and my God.” If the Latin form is difficult to remember, the same prayer may be offered in English without loss of meaning. </div>
 
   <li>
     Enter silently, mindful not to disturb others, and find a suitable seat or kneeler. Begin your prayer in gratitude by offering your personal thanksgivings, and then turn to an honest acknowledgment of your sins and a prayer for forgiveness. 
@@ -50,13 +50,13 @@ tags:
     Proceed to intercession by praying for the needs you have chosen. These may include personal intentions, the needs of others, or broader concerns of the Church and the world, naming each one intentionally and without haste. This is where you take your time in your prayer, allowing this time to become a sustained, conversational encounter with God. Throughout this time, whether seated or kneeling, keep your attention oriented toward the consecrated Host, maintaining a posture of reverent adoration.
   </li>
   
-  <div style="font-size: 0.8em;"><strong>Note:</strong> It is also helpful to invoke the Holy Spirit at this stage, asking for discernment, wisdom, clarity, courage, consolation, or understanding. A simple invocation such as “Come, Holy Spirit, fill the hearts of Your faithful” may be used. The complete form of this prayer can also be found here <a href= "https://www.ewtn.com/catholicism/devotions/come-holy-spirit-13402"> here</a>.</div> 
+  <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> It is also helpful to invoke the Holy Spirit at this stage, asking for discernment, wisdom, clarity, courage, consolation, or understanding. A simple invocation such as “Come, Holy Spirit, fill the hearts of Your faithful” may be used. The complete form of this prayer can also be found <a href= "https://www.ewtn.com/catholicism/devotions/come-holy-spirit-13402" target="_blank">here</a>.</div>
 
   <li>
     Afterward, enter into a period of rest and quiet reflection in the presence of God. Allow yourself to enter into an attentive silence.
   </li>
 
-  <div style="font-size: 0.8em;"><strong>Note:</strong> Here, one may choose to read the Bible, pray the Rosary, write in their journal, or simply seat in silence and contemplate life and interior movements, allowing prayer to take whatever form emerges naturally. Again, take your time.</div>
+  <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> Here, one may choose to read the Bible, pray the Rosary, write in their journal, or simply seat in silence and contemplate life and interior movements, allowing prayer to take whatever form emerges naturally. Again, take your time.</div>
 
   <li>
     At the conclusion, once again genuflect or prostrate in reverence, repeating <em>Dominus meus et Deus meus</em>, sealing the time of prayer in recognition of divine presence. Then, exit silently.
