@@ -34,7 +34,7 @@ tags:
     Prepare the body for fasting with intention, allowing the transition into prayer to begin even before entering the chapel.
   </li>
 
-<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong>You don't have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself and allowing the physical hunger to become part of spiritual receptivity.</div>
+<div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> You don't have to overthink what constitutes fasting: its duration, precise method, etc. What matters most is your intention and sincerity. In my case, I usually prepare for prayer in the morning, when the body is already in a natural fasted state. I then take what would normally be breakfast not in anticipation of a meal, but as preparation for prayer itself and allowing the physical hunger to become part of spiritual receptivity.</div>
 
   <li>
     Upon entering the chapel, do so barefoot. Pause at the threshold, then genuflect or perform a full prostration as these are gestures of humility and reverence. While doing this, acknowledge the presence of Jesus by silently saying the words: <em>"Dominus meus et Deus meus"</em>.
@@ -50,7 +50,7 @@ tags:
     Proceed to intercession by praying for the needs you have chosen. These may include personal intentions, the needs of others, or broader concerns of the Church and the world, naming each one intentionally and without haste. This is where you take your time in your prayer, allowing this time to become a sustained, conversational encounter with God. Throughout this time, whether seated or kneeling, keep your attention oriented toward the consecrated Host, maintaining a posture of reverent adoration.
   </li>
   
-  <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> It is also helpful to invoke the Holy Spirit at this stage, asking for discernment, wisdom, clarity, courage, consolation, or understanding. A simple invocation such as “Come, Holy Spirit, fill the hearts of Your faithful” may be used. The complete form of this prayer can also be found <a href= "https://www.ewtn.com/catholicism/devotions/come-holy-spirit-13402" target="_blank">here</a>.</div>
+  <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> It is also helpful to invoke the Holy Spirit at this stage, asking for discernment, wisdom, clarity, courage, consolation, or understanding. A simple invocation such as <em>“Come, Holy Spirit, fill the hearts of Your faithful”</em> may be used. The complete form of this prayer can also be found <a href= "https://www.ewtn.com/catholicism/devotions/come-holy-spirit-13402" target="_blank">here</a>.</div>
 
   <li>
     Afterward, enter into a period of rest and quiet reflection in the presence of God. Allow yourself to enter into an attentive silence.
