@@ -147,6 +147,6 @@ img {
 <br><br>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <p style="font-size: 0.9em; font-family: 'Playfair Display', serif;"><strong>
-<em>In tribute to the loving memory of Lolo Cezar. He loved his grandchildren so tenderly. Today is his fortieth day. Requiescat in pace.</em>
+<em>In tribute to the loving memory of Lolo Cezar. He always reminded me to eat more so I could grow my muscles bigger and to always pray to God. He loved his grandchildren so dearly. Today is his fortieth day. Requiescat in pace.</em>
 </strong></p>
 <hr class="solid" style="border-top: 1px solid gainsboro">
