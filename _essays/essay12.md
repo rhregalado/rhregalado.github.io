@@ -150,3 +150,5 @@ img {
 <em>In tribute to the loving memory of Lolo Cezar. He always reminded me to eat more so I could grow my muscles bigger and to always pray to God. He loved his grandchildren so dearly. Today is his fortieth day. Requiescat in pace.</em>
 </strong></p>
 <hr class="solid" style="border-top: 1px solid gainsboro">
+
+{% include comments-providers/disqus.html %}
