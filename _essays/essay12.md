@@ -60,7 +60,7 @@ redirect_from:
   <div style="font-size: 0.8em; padding-bottom: 12px;"><strong>Note:</strong> Here, one may choose to read the Bible, pray the Rosary, write in their journal, or simply seat in silence and contemplate life and interior movements, allowing prayer to take whatever form emerges naturally. Again, take your time.</div>
 
   <li>
-    At the conclusion, once again genuflect or prostrate in reverence, repeating <em>Dominus meus et Deus meus</em>, sealing the time of prayer in recognition of divine presence. Then, exit silently.
+    At the conclusion, once again genuflect or prostrate in reverence, repeating <em>Dominus meus et Deus meus</em>, sealing the time of prayer in recognition of divine presence. Then, exit the chapel silently.
   </li>
 
   <li>
