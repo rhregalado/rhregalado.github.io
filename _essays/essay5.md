@@ -303,7 +303,7 @@ img {
 
 <figure>
   <a href="https://www.aaa-a.org/programs/on-jose-maceda-a-talk-by-aki-onda" target="_blank" rel="noreferrer noopener" class="hover-caption">
-    <img src="https://www.aaa-a.org/wp-content/uploads/2021/10/maceda_10_pagsamba-score-540x709-1.jpg">
+    <img src="https://s3.us-east-1.amazonaws.com/bomb-images/_hiresolution/Pagsamba-title.jpg">
 
     <!-- hover caption (inside image area) -->
     <div class="hover-box">
