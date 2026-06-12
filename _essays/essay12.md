@@ -147,7 +147,7 @@ img {
 <br><br>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 <p style="font-size: 0.9em; font-family: 'Playfair Display', serif;"><strong>
-<em>In tribute to the loving memory of Lolo Cezar. He always reminded me to eat more so my muscles could grow bigger and to keep praying to God. He loved his grandchildren so dearly. Today is his fortieth day. Aeternam habeas requiem.</em>
+<em>In tribute to the loving memory of Lolo Cezar. He always reminded me to keep praying to God, and to eat more so my muscles could grow bigger. He loved his grandchildren so dearly. Today is his fortieth day. Aeternam habeas requiem.</em>
 </strong></p>
 <hr class="solid" style="border-top: 1px solid gainsboro">
 
