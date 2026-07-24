@@ -57,7 +57,7 @@ To raise a living thing.</p>
 
 <p>But enthusiasm alone is not enough. As psychologist Carl Jung reminds us, <i>“your vision will become clear only when you look into your own heart. Who looks outside, dreams; who looks inside, awakes.”</i></p>
 
-<p>Even then, no one is meant to carry life’s burdens alone. Poet Adrienne Rich tells us that <i>“there must be those among whom we can sit down and weep, and still be counted as warriors.”</i> Healing feels like a cold spring water in the presence of people who allow us to be vulnerable without making us feel diminished.</p>
+<p>Even then, no one is meant to carry life’s burdens alone. Poet Adrienne Rich tells us that <i>“there must be those among whom we can sit down and weep, and still be counted as warriors.”</i> Healing feels like a cool spring water in the presence of people who allow us to be vulnerable without making us feel diminished.</p>
 
 <p>So if you find the work that fills you with enthusiasm, awaken to the quiet truths of your own heart, and discover the rare people who never make you question your worth as a warrior, hold on to them. They are among life’s purest forms of sunshine.</p>
 
