@@ -35,12 +35,12 @@ redirect_from:
 
 <p><h2>3. Make joy as an act of defiance</h2></p>
 <p>If loss and grief create war and ruin, happiness itself becomes rebellion. Beneath the weight of emptiness, never surrender your identity and know that you are human. Capable of many things and deserving of every chance:</p>
-<p>To laugh. </p>
-<p>To love. </p>
-<p>To create. </p>
-<p>To write. </p>
-<p>To rest. </p>
-<p>To raise a living thing. </p>
+<p>To laugh.<br>
+To love.<br>
+To create.<br>
+To write.<br>
+To rest.<br>
+To raise a living thing.</p>
 <p>There’s something so powerful about raising a living thing whether it be a plant, pet, or person… you really learn so much lessons in love and care and healing. How lucky we are to be surrounded by things that grow.</p>
 
 <p><h2>4. Leave something behind</h2></p>
