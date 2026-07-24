@@ -17,7 +17,7 @@ redirect_from:
 
 <p>And the inescapable cocktail of grief, nostalgia, and isolation that follows it.</p>
 
-<p>In the great mental war and utter ruin, we wonder: Is rock bottom still farther below? Will the light at the end of the tunnel ever come closer? And if it doesn't, how do I extract my own sunshine?</p>
+<p>In the great mental war and utter ruin macerating inside our heads, we wonder: Is rock bottom still farther below? Will the light at the end of the tunnel ever come closer? And if it doesn't, how do I extract my own sunshine?</p>
 
 <p>The brevity of life allows us to contemplate that our existence is an extension of grace. A love letter from God to remind us that love is everywhere we go. And how great a gift it is to be capable of that love as well. It is that same love that allows us to alchemize loss into poetry, songs, art, and generosity.</p>
 
