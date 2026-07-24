@@ -17,7 +17,7 @@ redirect_from:
 
 <p>And the inescapable cocktail of grief, nostalgia, and isolation that follows it.</p>
 
-<p>When the mind becomes a battlefield and every thought in ruins, we cannot help but ask: Is rock bottom still farther below? Will the light at the end of the tunnel ever draw nearer? How much more do I need to wait? How do you find the courage to begin again?</p>
+<p>When the mind becomes a battlefield and every thought in ruins, we cannot help but ask: Is rock bottom still farther below? Will the light at the end of the tunnel ever draw nearer? How much more do I need to wait? How do I find the courage to begin again?</p>
 
 <p>The brevity of life allows us to contemplate that our existence is an extension of grace. A love letter from God to remind us that love is everywhere we go. And how great a gift it is to be capable of that love as well. It is that same love that allows us to alchemize loss into poetry, songs, art, and generosity.</p>
 
