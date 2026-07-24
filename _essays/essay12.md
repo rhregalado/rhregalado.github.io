@@ -5,8 +5,6 @@ permalink: /essays/prayer-reveal
 excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> I must apologize for not having a blog entry for the month of May. For reasons I cannot fully articulate yet, the previous month had been an intimate spiritual journey for me. It felt as though I had stepped beyond the ordinary procession of days and entered into a suspended state outside the laws of space-time.'
 tags:
   - Essay
-redirect_from: 
-  - /blog/new
 ---
 <div style="text-align: justify;">
 <p>I must apologize for not having a blog entry for the month of May.</p>
