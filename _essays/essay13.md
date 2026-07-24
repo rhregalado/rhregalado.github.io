@@ -9,11 +9,9 @@ redirect_from:
   - /blog/new
 ---
 <div style="text-align: justify;">
-<p>In Physics class back in college, I learned that the sunlight touching our skins is actually eight-minutes “late.” Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth.</p>
+<p>In Physics class back in college, I learned that the sunlight touching our skins is actually eight-minutes “late.”</p> 
   
-<p>Therefore, “if one day the Sun decided to explode,” our professor said, “we have exactly 8 minutes and 20 seconds to leave Earth.” (jokingly)</p>
-
-<p>Perhaps not a lot of time to save ourselves from the inevitable oblivion. But I think just enough time for life to flash before our eyes. The victories. Failures. Praises. Insults. Gains. Losses.</p>
+<p>Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth. Therefore, <i>“if one day the Sun decided to explode,”</i> our professor said, <i>“we have exactly 8 minutes and 20 seconds to leave Earth.”</i> (jokingly). Perhaps not a lot of time to save ourselves from the inevitable oblivion. But I think just enough time for life to flash before our eyes. The victories. Failures. Praises. Insults. Gains. Losses.</p>
 
 <p>Loss.</p>
 
@@ -46,10 +44,10 @@ redirect_from:
 <p>There’s something so powerful about raising a living thing whether it be a plant, pet, or person… you really learn so much lessons in love and care and healing. How lucky we are to be surrounded by things that grow.</p>
 
 <p><h2>4. Leave something behind</h2></p>
-Maybe the measure of a life is not how brightly we burn, but how far our light reaches once we're gone. Often we underestimate that our light can potentially reach the heartbroken, the sick, the dispossessed, the fearful, and the hopeless; often, it reaches people we will never meet and futures we will never see. So, perhaps that is what it means to leave the world a little brighter than we found it. Our words, kindness, discoveries, art, and love, these continue their journey long after we have disappeared. They become the light others can draw upon in their darkest hours. And so we should offer them with intention, with charity, and with gentleness.</p>
+<p>Maybe the measure of a life is not how brightly we burn, but how far our light reaches once we're gone. Often we underestimate that our light can potentially reach the heartbroken, the sick, the dispossessed, the fearful, and the hopeless; often, it reaches people we will never meet and futures we will never see. So, perhaps that is what it means to leave the world a little brighter than we found it. Our words, kindness, discoveries, art, and love, these continue their journey long after we have disappeared. They become the light others can draw upon in their darkest hours. And so we should offer them with intention, with charity, and with gentleness.</p>
 
 <p><h2>5. Step outside</h2></p>
-<p>There is no better way to extract sunshine than literally being outside—touching the grass, feeling the earth beneath your feet, welcoming the breeze against your skin, and the warm glow of the sun tingling your skin. Sunlight nourishes us in more ways than one. At adequate levels, sunlight stimulates the release of feel-good hormones, providing a powerful, natural boost to our mood. It also triggers the production of vitamin D supporting stronger immune function, and adequate vitamin D levels have been associated with healthier aging. Being outside reminds us that we are not separate from life but participants in it. That open field you see with trees to offer shade allows us to remember that we belong to something far greater than ourselves. And sometimes, this sense of belonging is enough to let the light back in.</p>
+<p>There is no better way to extract sunshine than literally being outside—touching the grass, feeling the earth beneath your feet, welcoming the breeze against your skin, and the warm glow of the sun tingling your skin. Sunlight nourishes us in more ways than one. At adequate levels, sunlight stimulates the release of feel-good hormones, providing a powerful, natural boost to our mood. It also triggers the production of vitamin D supporting stronger immune function, and adequate vitamin D levels have been associated with healthier aging. Being outside reminds us that we are not separate from life but participants in it. That open field you see with trees to offer shade allows us to remember that we belong to something far greater than ourselves. And sometimes, this sense of belonging is enough to let the light back in.</p><br>
 
 <p>Loss has a way of convincing us that we are diminished. But there is extraordinary strength in choosing to remain with pain instead of running from it. Sometimes, the most useful thing to do is not to stop the tears, but to be aware what they might be telling us. It takes a very strong person to sit with those feelings, acknowledging them, and keep going.</p> 
 
@@ -70,3 +68,5 @@ Maybe the measure of a life is not how brightly we burn, but how far our light r
 <p>Take heart.</p>
 
 <p>Your light is on its way.</p>
+
+{% include comments-providers/disqus.html %}
