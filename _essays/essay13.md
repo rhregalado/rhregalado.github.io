@@ -28,10 +28,10 @@ redirect_from:
 <p>How do we find joy?</p>
 
 <p><h2>1. Extract sunshine from ordinary moments</h2></p>
-<p>The “sunshine” isn‘t found in grand achievements but in the mundane and the ordinary: the taste of your favorite food, your cat‘s playful mischief, the smell of freshly brewed coffee, the softness of freshly made bedsheets, an old photograph, a friend‘s voice. If life is short, then ordinary moments become extraordinary precisely because they are finite. Progress is built on ordinary days, not on the perfect ones.</p>
+<p>The “sunshine” isn’t found in grand achievements but in the mundane and the ordinary: the taste of your favorite food, your cat’s playful mischief, the smell of freshly brewed coffee, the softness of freshly made bedsheets, an old photograph, a friend’s voice. If life is short, then ordinary moments become extraordinary precisely because they are finite. Progress is built on ordinary days, not on the perfect ones.</p>
 
 <p><h2>2. Become a source of light</h2></p>
-<p>There is fulfillment in helping others. The smallest act of kindness can light up someone‘s darkest moment, often as much as it transforms the one who offers it. Loss leaves behind an emptiness, but generosity gives that emptiness somewhere to go. We cannot fully realize how much light we have left until we share it. In physics, energy cannot be created nor destroyed; it can only be transformed. Perhaps the same is true of us. What grief takes from us can be transformed into compassion, kindness, and love. Love, after all, can burn as brightly as day.</p>
+<p>There is fulfillment in helping others. The smallest act of kindness can light up someone’s darkest moment, often as much as it transforms the one who offers it. Loss leaves behind an emptiness, but generosity gives that emptiness somewhere to go. We cannot fully realize how much light we have left until we share it. In physics, energy cannot be created nor destroyed; it can only be transformed. Perhaps the same is true of us. What grief takes from us can be transformed into compassion, kindness, and love. Love, after all, can burn as brightly as day.</p>
 
 <p><h2>3. Make joy as an act of defiance</h2></p>
 <p>If loss and grief create war and ruin, happiness itself becomes rebellion. Beneath the weight of emptiness, never surrender your identity and know that you are human. Capable of many things and deserving of every chance:</p>
@@ -44,7 +44,7 @@ To raise a living thing.</p>
 <p>There’s something so powerful about raising a living thing whether it be a plant, pet, or person… you really learn so much lessons in love and care and healing. How lucky we are to be surrounded by things that grow.</p>
 
 <p><h2>4. Leave something behind</h2></p>
-<p>Maybe the measure of a life is not how brightly we burn, but how far our light reaches once we‘re gone. Often we underestimate that our light can potentially reach the heartbroken, the sick, the dispossessed, the fearful, and the hopeless; often, it reaches people we will never meet and futures we will never see. So, perhaps that is what it means to leave the world a little brighter than we found it. Our words, kindness, discoveries, art, and love, these continue their journey long after we have disappeared. They become the light others can draw upon in their darkest hours. And so we should offer them with intention, with charity, and with gentleness.</p>
+<p>Maybe the measure of a life is not how brightly we burn, but how far our light reaches once we’re gone. Often we underestimate that our light can potentially reach the heartbroken, the sick, the dispossessed, the fearful, and the hopeless; often, it reaches people we will never meet and futures we will never see. So, perhaps that is what it means to leave the world a little brighter than we found it. Our words, kindness, discoveries, art, and love, these continue their journey long after we have disappeared. They become the light others can draw upon in their darkest hours. And so we should offer them with intention, with charity, and with gentleness.</p>
 
 <p><h2>5. Step outside</h2></p>
 <p>There is no better way to extract sunshine than literally being outside—touching the grass, feeling the earth beneath your feet, welcoming the breeze against your skin, and the warm glow of the sun tingling your skin. Sunlight nourishes us in more ways than one. At adequate levels, sunlight stimulates the release of feel-good hormones, providing a powerful, natural boost to our mood. It also triggers the production of vitamin D supporting stronger immune function, and adequate vitamin D levels have been associated with healthier aging. Being outside reminds us that we are not separate from life but participants in it. That open field you see with trees to offer shade allows us to remember that we belong to something far greater than ourselves. And sometimes, this sense of belonging is enough to let the light back in.</p><br>
@@ -57,13 +57,13 @@ To raise a living thing.</p>
 
 <p>But enthusiasm alone is not enough. As psychologist Carl Jung reminds us, <i>“your vision will become clear only when you look into your own heart. Who looks outside, dreams; who looks inside, awakes.”</i></p>
 
-<p>Even then, no one is meant to carry life‘s burdens alone. Poet Adrienne Rich tells us that <i>“there must be those among whom we can sit down and weep, and still be counted as warriors.”</i> Healing feels like a cold spring water in the presence of people who allow us to be vulnerable without making us feel diminished.</p>
+<p>Even then, no one is meant to carry life’s burdens alone. Poet Adrienne Rich tells us that <i>“there must be those among whom we can sit down and weep, and still be counted as warriors.”</i> Healing feels like a cold spring water in the presence of people who allow us to be vulnerable without making us feel diminished.</p>
 
-<p>So if you find the work that fills you with enthusiasm, awaken to the quiet truths of your own heart, and discover the rare people who never make you question your worth as a warrior, hold on to them. They are among life‘s purest forms of sunshine.</p>
+<p>So if you find the work that fills you with enthusiasm, awaken to the quiet truths of your own heart, and discover the rare people who never make you question your worth as a warrior, hold on to them. They are among life’s purest forms of sunshine.</p>
 
 <p>After all, we began by learning that the sunlight warming our skin is already eight minutes and twenty seconds late.</p>
 
-<p>If it takes you a day, two weeks, five months, a year, or ten for the kind of healing to find you, never worry. Even the Sun‘s warmth arrives a little late. Here‘s my assurance that time always knows when to show up. Be patient with your heart. Beautiful things in life are never meant to arrive all at once.</p>
+<p>If it takes you a day, two weeks, five months, a year, or ten for the kind of healing to find you, never worry. Even the Sun’s warmth arrives a little late. Here’s my assurance that time always knows when to show up. Be patient with your heart. Beautiful things in life are never meant to arrive all at once.</p>
 
 <p>Take heart.</p>
 
