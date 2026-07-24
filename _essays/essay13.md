@@ -2,7 +2,7 @@
 title: "How Do You Extract Sunshine?"
 date: 2026-07-24
 permalink: /essays/how-do-you-extract-sunshine
-excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> What if the most important light in your life is the one you learn to create yourself? Beginning with a simple lesson I learned from my college physics class about the Sun, this essay reflects on grief, hope, and the silent ways we reclaim joy after loss. It is an invitation to find sunshine again, even when life has convinced you that the sky will never brighten. A reminder of the beautiful quote by Ursula Le Guin that <i>“no darkness lasts forever. And even there, there are stars.”</i>'
+excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> What if the most important light in your life is the one you learn to create yourself? Beginning with a simple lesson I learned from my college physics class about the Sun, this essay reflects on grief, hope, and the silent ways we reclaim joy after loss. It is an invitation to find sunshine again, even when life has convinced you that the sky will never brighten. A reminder of the beautiful quote by Ursula Le Guin that <i>“no darkness lasts forever. And even then, there are stars.”</i>'
 tags:
   - Essay
 redirect_from: 
