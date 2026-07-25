@@ -19,7 +19,7 @@ redirect_from:
 
 <p>When the mind becomes a battlefield and every thought in ruins, we cannot help but ask: Is rock bottom still farther below? Will the light at the end of the tunnel ever draw nearer? How much more do I need to wait? How do I find the courage to begin again?</p>
 
-<p>The brevity of life allows us to contemplate that our existence is an extension of grace. A love letter from God to remind us that love is everywhere we go. And how great a gift it is to be capable of that love as well. It is that same love that allows us to alchemize loss into poetry, songs, art, and generosity.</p>
+<p>The brevity of life allows us to contemplate that our existence is an extension of grace. A love letter from God to remind us that love is everywhere we go. And how great a gift it is to be capable of that love as well. It is that same love that allows us to alchemize loss into poetry, songs, art, generosity, and healing.</p>
 
 <p>Grief confronts us with the reality that no one else can transform our emptiness for us. It is an ongoing responsibility that belongs to us alone; to gather what little light remains and turn it into something that makes us feel alive again. Like a leaf in late winter drawing strength from the faint warmth of the apricity, we, too, must learn to photosynthesize. We are creatures of the sun. We rejoice in the light, not in the shadow. To feel—even in sorrow—is to be alive.</p>
 
