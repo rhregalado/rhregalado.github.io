@@ -5,13 +5,13 @@ permalink: /essays/how-do-you-extract-sunshine
 excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> What if the most important light in your life is the one you learn to create yourself? Beginning with a simple lesson I learned from my college physics class about the Sun, this essay reflects on grief, hope, and the silent ways we reclaim joy after loss. It is an invitation to find sunshine again, even when life has convinced you that the sky will never brighten. A reminder of the beautiful quote by Ursula Le Guin that <i>“no darkness lasts forever. And even then, there are stars.”</i>'
 tags:
   - Essay
-redirect_from: 
+redirect_from:
   - /blog/new
 ---
 <div style="text-align: justify;">
 <p>In Physics class back in college, I learned that the sunlight touching our skins is actually eight-minutes “late.”</p> 
   
-<p>Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth. Therefore, <i>“if one day the Sun decided to explode,”</i> our professor said, <i>“we have exactly 8 minutes and 20 seconds to leave Earth.”</i> (jokingly). Perhaps not a lot of time to save ourselves from the inevitable oblivion. But I think just enough time for life to flash before our eyes. The victories. Failures. Praises. Insults. Gains. Losses.</p>
+<p>Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth. Therefore, <i>“if one day the Sun decided to explode,”</i> our professor said, <i>“we have exactly 8 minutes and 20 seconds to leave Earth.”</i> (jokingly). Perhaps not a lot of time to save ourselves from the inevitable oblivion. But I think just enough time for life to flash before our eyes. Our victories. Failures. Praises. Insults. Gains. Losses.</p>
 
 <p>Loss.</p>
 
@@ -53,7 +53,7 @@ To raise a living thing.</p>
 
 <p>It is an unwritten rule in life that after every prolonged period of hardship and uncertainty, there comes a period where you achieve quantum leaps. Abundance. The person who reaches the other side is rarely the same person who entered. The only requirement is that you keep showing up. Never abandon yourself before life has the chance to surprise you.</p>
 
-<p>Atomic Habits author, James Clear, proposed a simple rule for life that rarely fails: <i>“Optimize for enthusiasm. Make as many choices as you can that leave you feeling energetic and interested. Pay attention to when you have the urge to pursue or participate in something and do more of it.”</i></p>
+<p>Author James Clear, proposed a simple rule for life that rarely fails: <i>“Optimize for enthusiasm. Make as many choices as you can that leave you feeling energetic and interested. Pay attention to when you have the urge to pursue or participate in something and do more of it.”</i></p>
 
 <p>But enthusiasm alone is not enough. As psychologist Carl Jung reminds us, <i>“your vision will become clear only when you look into your own heart. Who looks outside, dreams; who looks inside, awakes.”</i></p>
 
@@ -63,10 +63,12 @@ To raise a living thing.</p>
 
 <p>After all, we began by learning that the sunlight warming our skin is already eight minutes and twenty seconds late.</p>
 
-<p>If it takes you a day, two weeks, five months, a year, or ten for the kind of healing to find you, never worry. Even the Sun’s warmth arrives a little late. Here’s my assurance that time always knows when to show up. Be patient with your heart. Beautiful things in life are never meant to arrive all at once.</p>
+<p>If it takes you a day, two weeks, five months, a year, or ten for the kind of healing to find you, don’t worry. Even the Sun’s warmth arrives a little late. Time always knows when to show up. If life feels empty right now, it’s likely making space for something that is arriving. Be patient with your heart. Beautiful things in life are never meant to arrive all at once.</p>
 
 <p>Take heart.</p>
 
 <p>Your light is on its way.</p>
+
+<p>(Nabua, 07/2026)</p>
 
 {% include comments-providers/disqus.html %}
