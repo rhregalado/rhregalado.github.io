@@ -51,7 +51,7 @@ To raise a living thing.</p>
 
 <p>Loss has a way of convincing us that we have become diminished. Yet there is extraordinary strength in choosing to remain with our pain instead of running from it. Sometimes, the bravest feedback is not to silence our tears, but to listen to what they are trying to tell us. Grief reveals what mattered most, what still needs to heal, and what we are not yet ready to release. The truth of life is that we are both blessed and cursed with the drive to keep moving forward. It takes remarkable strength to remain present with our wounds, to acknowledge them, and to choose, again and again, the hardwork of picking ourself up—that is resilience. And whether you realize it or not, you already have it.</p>
 
-<p>It is an unwritten rule in life that after every prolonged period of hardship and uncertainty, there comes a period where you achieve quantum leaps. Abundance. The person who reaches the other side is rarely the same person who entered. The only requirement is that you keep showing up. Never abandon yourself before life has the chance to surprise you.</p>
+<p>It is an unwritten rule in life that after every prolonged period of hardship and uncertainty, there comes a period where you achieve quantum leaps. Abundance. The person who reaches the other side is rarely the same person who entered. The only requirement is that you keep showing up. To never abandon yourself before life has the chance to surprise you.</p>
 
 <p>Author James Clear, proposed a simple rule for life that rarely fails: <i>“Optimize for enthusiasm. Make as many choices as you can that leave you feeling energetic and interested. Pay attention to when you have the urge to pursue or participate in something and do more of it.”</i></p>
 
