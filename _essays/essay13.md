@@ -69,6 +69,4 @@ To raise a living thing.</p>
 
 <p>Your light is on its way.</p>
 
-<p>(Nabua, 07/2026)</p>
-
 {% include comments-providers/disqus.html %}
