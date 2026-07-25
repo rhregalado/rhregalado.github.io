@@ -11,7 +11,7 @@ redirect_from:
 <div style="text-align: justify;">
 <p>In Physics class back in college, I learned that the sunlight touching our skins is actually eight-minutes “late.”</p> 
   
-<p>Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth. Therefore, <i>“if one day the Sun decided to explode,”</i> our professor said, <i>“we have exactly 8 minutes and 20 seconds to leave Earth.”</i> (jokingly). Perhaps not a lot of time to save ourselves from the inevitable oblivion. But I think just enough time for life to flash before our eyes. Our victories. Failures. Praises. Insults. Gains. Losses.</p>
+<p>Eight minutes and twenty seconds, to be precise, for the light to travel the 150 million kilometers of vacuum from the Sun to Earth. Therefore, <i>“if one day the Sun decided to explode,”</i> our professor said, <i>“we have exactly 8 minutes and 20 seconds to leave Earth.”</i> (jokingly). Perhaps not a lot of time to save ourselves from the supernova and the inevitable oblivion. But I think just enough time for life to flash before our eyes. Our victories. Failures. Praises. Insults. Gains. Losses.</p>
 
 <p>Loss.</p>
 
