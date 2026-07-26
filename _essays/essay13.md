@@ -28,7 +28,7 @@ redirect_from:
 <p>How do we find hope?</p>
 
 <p><h2>1. Extract sunshine from ordinary moments</h2></p>
-<p>The “sunshine” isn’t found in grand achievements but in the mundane and the ordinary: the taste of your favorite food, your cat’s playful mischief, the smell of freshly brewed coffee, the softness of freshly made bedsheets, an old photograph, a friend’s voice. If life is short, then ordinary moments become extraordinary precisely because they are finite. Our becoming is built on the ordinary days, not on the perfect ones.</p>
+<p>The “sunshine” isn’t found in grand achievements but in the mundane and the ordinary: the taste of your favorite food, your cat’s playful mischief, the smell of freshly brewed coffee, the softness of a freshly made bed, an old photograph, a friend’s voice. If life is short, then ordinary moments become extraordinary precisely because they are finite. Our becoming is built on the ordinary days, not on the perfect ones.</p>
 
 <p><h2>2. Become a source of light</h2></p>
 <p>There is fulfillment in helping others. The smallest act of kindness can light up someone’s darkest moment, often as much as it transforms the one who offers it. Loss leaves behind an emptiness, but generosity gives that emptiness somewhere to go. We cannot fully realize how much light we have left until we share it. In physics, energy cannot be created nor destroyed; it can only be transformed. Perhaps the same is true of us. What grief takes from us can be transformed into compassion, kindness, and love. Love, after all, can burn as brightly as day.</p>
