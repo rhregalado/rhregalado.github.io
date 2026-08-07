@@ -26,8 +26,8 @@ you.</p>
 <p>I think of you as art,<br>
 ever-real, ever-abstract,<br>
 life-creating, shade of love<br>
-you.</p>
+you.</p><br>
 
-(Somewhere in Albay, 08/2026)
+<p>(Somewhere in Albay, 08/2026)</p>
 
 {% include comments-providers/disqus.html %}
