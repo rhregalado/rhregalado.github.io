@@ -25,7 +25,7 @@ you.</p>
 
 <p>I think of you as art,<br>
 ever-real, ever-abstract,<br>
-life-creating, shade of love<br>
+life-exulting, shade of love<br>
 you.</p><br>
 
 <p>(Somewhere in Albay, 08/2026)</p>
