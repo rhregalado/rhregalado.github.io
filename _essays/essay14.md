@@ -19,7 +19,7 @@ life-affirming, ball of beauty<br>
 you.</p>
 
 <p>I think of you as the color purple,<br>
-ever-rare, ever-precious<br>
+ever-rare, ever-precious,<br>
 life-defining, shade of yearning<br>
 you.</p>
 
