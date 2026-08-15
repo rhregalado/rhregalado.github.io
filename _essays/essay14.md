@@ -20,7 +20,7 @@ ever-glowing, ever-pulling,<br>
 life-affirming, ball of beauty<br>
 you.</p>
 
-<p>I think of you as the color purple,<br>
+<p>I think of you as Tyrian purple,<br>
 ever-rare, ever-precious,<br>
 life-defining, shade of yearning<br>
 you.</p>
