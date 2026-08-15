@@ -5,8 +5,6 @@ permalink: /essays/how-do-you-extract-sunshine
 excerpt: '<span style="font-family: ''Playfair Display'', serif;"><em>Essay</em></span> What if the most important light in your life is the one you learn to create yourself? Beginning with a simple lesson I learned from my college physics class about the Sun, this essay reflects on grief, hope, and the silent ways we reclaim joy after loss. It is an invitation to find sunshine again, even when life has convinced you that the sky will never brighten. A reminder of the beautiful quote by Ursula Le Guin that <i>“no darkness lasts forever. And even then, there are stars.”</i>'
 tags:
   - Essay
-redirect_from:
-  - /blog/new
 ---
 <div style="text-align: justify;">
 <p>In Physics class back in college, I learned that the sunlight touching our skins is actually eight-minutes “late.”</p> 
