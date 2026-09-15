@@ -93,6 +93,16 @@ Just a year after his passing, a new plant species was named after him: <i>Begon
 
 <figure>
   <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank" rel="noreferrer noopener" class="hover-caption">
+ <img src="https://scontent.fmnl13-3.fna.fbcdn.net/v/t39.30808-6/484364644_9559450907427398_8463408222836846114_n.jpg?stp=dst-jpg_tt6&cstp=mx1650x1275&ctp=s1650x1275&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=c_TpGodgNkwQ7kNvwEA0cjz&_nc_oc=AdpjW7ilT3QWk4Q68F3aTHgse4_9DCwep5xq-KRog44P_RR8_QZAbPiDDK2m0eDGKJLg268-GgMuj8nPuumUhNim&_nc_zt=23&_nc_ht=scontent.fmnl13-3.fna&_nc_gid=OD08cD06b7OIe3zSqdMEIw&_nc_ss=7b289&oh=00_AQI61HoPgagQbJqDqE76t8zBP2nAyKdmFRvvnWH-FSZrhA&oe=6AAF2294" alt="">
+    <!-- hover caption (inside image area) -->
+    <div class="hover-box">
+      Image credit: C.J. Dela Cruz
+    </div>
+  </a>
+</figure>
+
+<figure>
+  <a href="https://taiwania.ntu.edu.tw/pdf/tai.2022.67.223.pdf" target="_blank" rel="noreferrer noopener" class="hover-caption">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgECe-paGNF4tr3pM2fEor6Lmh4CbrA8ay_iBykOsotLwMPmrpNUw7gIUIkxBoNSl_LoC8WWBhG_bLEyx75ocaofN1AWAEZbxyDJUB9oala5UX_oxpzmCZwhOEPXXz5wxOC-ueSMyt8KoL1VTdydmEMX0SBnq45Xf698vA5_YIYPp1ZmsunyRygbrwW1A/s1025/Begonia_francisabuidii-novataxa_2022-Dela_Cruz_Concepcion_et_Ang.jpg" alt="">
 
     <!-- hover caption (inside image area) -->
